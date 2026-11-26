@@ -2,7 +2,7 @@
 
 **Prepared:** 2026-11-25
 **Status:** DRAFTS ONLY. Nothing here has been filed, submitted, or transmitted to any agency.
-**Count:** 13 letters (Letters 1–13 below)
+**Count:** 14 letters (Letters 1–14 below). Letter 14 added 2026-11-26.
 
 ---
 
@@ -2204,9 +2204,224 @@ sponsoring agency; that is still a request to the agency, not to the operator.
 
 ---
 
+# LETTER 14 — Defense Intelligence Agency (DIA)
+### AAWSAP Comprehensive Integrated Threat Assessment — CLIN 0004 and CLIN 1004, contract HHM402-08-C-0072
+
+*Added 2026-11-26 (session 5). Source: `omega/reports/aawsap_contract_audit.md` §3 and its
+session-5 addendum. Every citation below was re-checked by grep against the release text on
+2026-11-26; the evidence table at the end of this letter gives document, page and the exact
+OCR string. **Drafted, not filed.***
+
+**To:**
+FOIA Requester Service Center
+Defense Intelligence Agency
+[verify current address, office symbol, and the correct DoD FOIA submission portal at the
+agency's FOIA page before sending — I will not guess an office symbol]
+
+**cc (for referral awareness, optional):** the office that processed the 2026 DoD UAP records
+release in which documents `DOW-UAP-D110`–`D188` appeared [verify the releasing component
+before naming it].
+
+**Date:** [Date]
+
+**Re: Integrated Threat Assessment deliverable, CLINs 0004 and 1004, contract
+HHM402-08-C-0072 (solicitation HHM402-08-R-0211), Advanced Aerospace Weapon System
+Applications Program**
+
+Dear FOIA Officer:
+
+This is a request under the Freedom of Information Act, 5 U.S.C. § 552. It concerns one
+deliverable under one contract, identified by contract number and contract line item number
+(CLIN), so that it can be located by a contracting-file search without further description.
+
+### 1. Background (to locate the records, not to argue)
+
+- DIA's Statement of Objectives for the Advanced Aerospace Weapon System Applications Program,
+  dated **18 July 2008**, § 11(d), requires an **"Integrated Threat Assessment — A final report
+  and briefing that assesses the foreign threat from advanced aerospace platforms incorporating
+  the technologies discussed in the individual research reports … provided to the GPL at the
+  end of the period of performance. An executive version of the report should also be
+  submitted."** The same § 11(d) text appears in the combined synopsis/solicitation
+  HHM402-08-R-0211 (posted August 2008), page 3 of 7.
+- Contract **HHM402-08-C-0072**, awarded 22 September 2008 to Bigelow Aerospace Advanced Space
+  Studies (BAASS), prices this deliverable as its own line item in both years performed:
+  - **CLIN 0004, "Comprehensive Integrated Threat Assessment", $240,000.00**, period of
+    performance 09/22/2008 to 09/21/2009 (base year; extended to 30 September 2009 by
+    modification P00001);
+  - **CLIN 1004, "Comprehensive Integrated Threat Assessment", $220,200.00**, option year 1,
+    period of performance 09/22/2009 to 09/21/2010 under modification P00002, extended to
+    **12/21/2010** by modification **P00005** (28 September 2010) under FAR 52.217-8.
+- The 2026 public release contains the contract, its modifications P00001–P00005, all 37 Defense
+  Intelligence Reference Documents produced under the research-report CLINs, four monthly
+  status reports, a project management plan, and DIA's 30 October 2009 review of contract
+  deliverables (INFO MEMO U-429-09/DWO). **It contains no Integrated Threat Assessment under
+  either CLIN, no briefing, and no executive version, and the 30 October 2009 review does not
+  mention the deliverable.**
+
+I do not assert that the assessment was produced. It may have been produced and not released,
+produced at a classification level above the release, waived, descoped, or never delivered. The
+records in items 3 and 4 below would show which, even if the assessment itself is withheld.
+
+### 2. Records requested
+
+1. **The Integrated Threat Assessment** (also titled "Comprehensive Integrated Threat
+   Assessment") delivered under **CLIN 0004** and/or **CLIN 1004** of contract
+   HHM402-08-C-0072: the final report, the briefing (slides and any speaker notes), and the
+   executive version required by SOO § 11(d), **in every version submitted**, including drafts
+   transmitted to the government.
+2. **Transmittal records** for item 1: cover letters, e-mails, or memoranda by which BAASS
+   submitted any such report or briefing to the Government Program Lead (GPL), the Contracting
+   Officer's Representative, or the Defense Warning Office, and any record of a briefing having
+   been given (date, attendees by office, location).
+3. **Acceptance and payment records for CLINs 0004 and 1004**: receiving or acceptance reports
+   (DD Form 250 or the Wide Area Workflow equivalent), contractor invoices or vouchers that bill
+   either CLIN, payment records from the designated payment office (the contract names the NSA
+   Finance and Accounting Office as payment office), and any COR or GPL memorandum accepting,
+   rejecting, or conditionally accepting the deliverable.
+4. **Records of any change to these CLINs**, including:
+   (a) the **attachment to modification P00002** (effective 2 February 2010) that, according to
+   the modification's own text, "Identify[ies] impacts to deliverables as a result of reduced
+   funding for Option Year 1" and identifies "technical risks of reduced funding" — the
+   released copy of P00002 does not contain this attachment;
+   (b) any modification after P00005, and any correspondence, waiver, deferral, descoping, or
+   substitution affecting CLIN 0004 or CLIN 1004;
+   (c) the **contract closeout file**: the contract completion statement, final invoice,
+   contractor's release, and any de-obligation of unexpended CLIN 0004/1004 funds.
+5. **Records identifying which document, if any, was accepted in satisfaction of CLIN 0004 or
+   CLIN 1004** — specifically including whether the BAASS *Summary Report on BAASS UAP Analysis
+   Capabilities* dated 23 November 2010 (released as `DOW-UAP-D175`) was submitted or accepted
+   under either CLIN, or under any other CLIN.
+
+Date range for all items: **18 July 2008 through 31 December 2011** (SOO date through one year
+after the end of the extended period of performance, to capture closeout).
+
+For each item I request the record **if any exists**. If the agency locates no record for an
+item, I ask that the response say so **for that item separately** and describe the files
+searched, so that a "no records" answer on item 1 can be read against the answer on items 3
+and 4.
+
+### 3. Search guidance
+
+- **Contracting file first.** Contract HHM402-08-C-0072 and its modifications P00001–P00005
+  were issued through the contracting activity named on P00004's distribution list (Virginia
+  Contracting Activity, Bolling AFB) [verify the current custodian of that activity's 2008–2011
+  contract files]. Items 3–5 are contract-file records and should be found there.
+- **Program office second.** The Defense Warning Office (DWO, including DWO-3, Acquisition
+  Support Division) was the program office; INFO MEMO U-429-09/DWO (30 Oct 2009) and the
+  December 2010 Director's INFO MEMO U-10-2552/CE to USD(AT&L) are its records.
+- **Payment office.** The NSA Finance and Accounting Office is named as invoicing and payment
+  office; if payment records are held there, please refer that portion and tell me the referral.
+- **Terms:** "Integrated Threat Assessment", "Comprehensive Integrated Threat Assessment",
+  "CLIN 0004", "CLIN 1004", "HHM402-08-C-0072", "HHM402-08-R-0211", "AAWSAP", "Advanced
+  Aerospace Weapon System Applications", "Advanced Aerospace Threat Identification Program",
+  "AATIP", "AAITP", "BAASS", "Bigelow Aerospace Advanced Space Studies", "threat assessment",
+  and "technology integration" (DIA's December 2010 memo lists "technology integration" as the
+  twelfth of the program's twelve technical areas).
+- **Classification.** DIA's November 2009 review of the special-access-program request states
+  that in FY2010 "four to six of the original technical reports will be expanded to include
+  classified data" and "derivatively classified at the secret level". If the assessment or any
+  version of it is classified, please search classified holdings as well, conduct a
+  classification review under E.O. 13526 § 3.5 standards, and release unclassified portions,
+  including at minimum the title, date, page count, classification marking, and transmittal
+  data.
+
+### 4. Format
+
+Electronic, text-searchable PDF or native files, 5 U.S.C. § 552(a)(3)(B). Briefing slides in
+native format if available.
+
+### 5. Fee waiver
+
+I request a waiver of all fees under **5 U.S.C. § 552(a)(4)(A)(iii)**.
+
+**(a) Public interest.** The records concern an identifiable operation of the government: a
+congressionally funded DIA contract, and whether a priced deliverable — $460,200 across two
+CLINs, the only deliverable in the contract that states a threat judgement — was produced,
+delivered, accepted, and paid for. The program has been the subject of congressional and public
+attention since 2017 and of an official release in 2026; that release documents the contract,
+the subsidiary reports, and the agency's own review, and the question this request answers
+cannot be answered from it. I will disseminate the records and my analysis by [describe your
+dissemination channel specifically — edit this bracket before sending].
+
+**(b) Not primarily commercial.** I have no commercial interest in these records.
+
+If a waiver is denied, please assign the correct fee category [state your category] and notify
+me before incurring fees above **[$ amount]**.
+
+### 6. Partial release, segregability, and Exemption 4
+
+Please release all reasonably segregable non-exempt portions, 5 U.S.C. § 552(b), marking the
+exemption at each redaction. **Contract line items, prices, periods of performance, delivery
+and acceptance dates, and payment amounts under a firm-fixed-price contract are ordinarily not
+confidential commercial information**, and most of them are already public in the released
+contract and modifications. Where Exemption 4 is asserted over contractor-authored content,
+please conduct submitter notice under Executive Order 12600 promptly and limit withholding to
+information that is actually confidential. I do **not** seek personal identifying information:
+names of individuals may be withheld under Exemption 6 without dispute, and I ask only that the
+office or role be left visible. Please apply the foreseeable-harm standard,
+5 U.S.C. § 552(a)(8)(A), to each discretionary withholding.
+
+### 7. Vaughn index
+
+If records are withheld in whole or part, I request a *Vaughn* index (*Vaughn v. Rosen*, 484
+F.2d 820 (D.C. Cir. 1973)) identifying each withheld record by date, author office, recipient,
+subject, length, exemption, and justification.
+
+### 8. Processing, referrals, and determination
+
+Please process on a rolling basis, and **treat items 3 and 4 as the first production**: they are
+administrative contract records and should need little review. Please notify me of each
+referral and its recipient with tracking information, and provide a determination within 20
+working days, 5 U.S.C. § 552(a)(6)(A)(i).
+
+If any part of this request is unclear, please contact me so I can narrow it. Please identify the
+FOIA Public Liaison. If denied in whole or part, please state each exemption, identify the
+denying official, and advise me of my appeal rights, the appellate authority, and the deadline.
+I reserve all appeal rights and the right to seek OGIS assistance under 5 U.S.C. § 552(h).
+
+Sincerely,
+[Requester Name]
+[Street Address]
+[City, State ZIP]
+[Email] | [Phone]
+
+---
+
+### Evidence table for Letter 14 (for the requester; do not send)
+
+Every row was grepped on 2026-11-26 against the PURSUE server OCR (vault tarball) or the
+session-2 OCR in `data/raw/pursue_ocr/txt/`. Strings are quoted as OCR'd, errors included.
+
+| claim | document | page | OCR string |
+|---|---|---|---|
+| SOO date | D110 SOO | p.1 | `STATEMENT OF OBJECTIVES … 18 July 2008` |
+| § 11(d) deliverable | D110 SOO | §11(d) (no page markers in text) | `d. Integrated Threat Asscsmient - A final tqx>rt and briefing that assesses the foreign threat from advanced aerospace platformsincotl)Orating the tedmologies discussed in the individual research reports will be provided to the GPL a! the end ofthe period ofperformance. An executive version ofthe report should also be submitted.` |
+| same text, solicitation | D182 synopsis/solicitation HHM40208R0211 | p.3 of 7 | `d lnteg,aEC:l lrraal Assessment -A fnal report and briefirg 1hat assesses the foreig1 heat …` (heavily damaged; D110 is the readable copy) |
+| contract number | D111 | p.1 of 59 | `HHM402-08-C-0072`, `HHM402-08-R-0211` |
+| CLIN 0004 | D111 | pp.1–2 of 59 (before the `PAGE 3 OF 59` header; the p.1/p.2 break is not recoverable from the OCR) | `0004 … Comprehensive Integrated Threat Assessment 1.00 … $240,000.00 Period of Performance: 09/22/2008 to 09/21/2009` |
+| CLIN 1004 | D111 (conformed) | p.3 of 59 | `1004 … Comprehensive Integrated Threat Assessment … $220,200.00 … 09/22/2009 to 12/21/2010` |
+| base POP extended | D112 P00001, eff. 2 Sep 2009 | continuation page, adjacent to the `PAGE 2OF` marker | `Extend the current period of perfonnance to 30 September 2009` |
+| CLIN 1004 exercised | D113 P00002, eff. 2 Feb 2010 | p.2 | `1004 (Changed Line Item) Comprehensive Integrated Threat Assessment 1.00 LO 220,200.00 … 09/22/2009 to 09/21/2010` |
+| missing attachment | D113 P00002 | p.1 | `b) Identify Impacts to deliverables as a result ofreduced funding for Option Year 1, (see attachment)` — the released copy ends at p.3 with CLIN 1009 and holds no attachment |
+| extension | D116 P00005, eff. 28 Sep 2010 | p.1 | `PertUant to FAR clause 52.217-8 Option to Extend Services, this conlfi,ct ta extended from 09122/2010 TO 12/21/2010.` and `c) No funding 11 required for this extension.` |
+| CLIN 1004 after extension | D116 | p.2 | `Comprehensive ln!$graled Threat Assessment … $220,200.00`, POP `09/22/2009 to 12/21/2010` |
+| review omits it | D188 U-429-09/DWO, 30 Oct 2009 | pp.1–2 | `the 26 extensive technical reports delivered to DIA in FY 2009`; the token `threat` occurs **0 times** in D188 |
+| 12 areas incl. integration | D186 U-10-2552/CE (Dec 2010) | p.1 | `twelve technical areas to be studied: lift, propulsion; control; armament; signatures reduction; materials; configuration; power generation; temporal translation; human effects; human interface; and technology integration` |
+| classified expansion | D185 (Nov 2009) | p.1 | `four to six of the original technical reports will be expanded to included classified data … derivatively classified at the secret level` |
+| BAASS on threat assessment | D175, 23 Nov 2010 | pp.98–99 | `it is also BAASS's mission to produce a Threat Assessment of UAP and USO performance and capabilities. As a first step …` and `A greater understanding of these objects will allow for an accurate threat assessment` |
+| payment office | D111 pp.1–2; D115 distribution list | — | `NSA Finance and Accounting Office`; `VIRGU~IA CONTRACTING ACTIVITY Building 6000. Bolling AFB` |
+
+**Caveat the requester should keep in mind.** D175's wording, four weeks before the extended end
+date, describes a UAP-performance threat assessment as BAASS's *future* mission ("As a first
+step"). That fits "never produced" at least as well as "produced and withheld". It is also a
+different object from the SOO's assessment of the *foreign* threat from advanced aerospace
+platforms. The request is built so that items 3–5 answer the question either way.
+
+---
+
 ## Document control
 
-- **Letters drafted:** 13 (Letters 1–13)
+- **Letters drafted:** 14 (Letters 1–14)
 - **Letters filed or transmitted:** 0. These are drafts. Nothing here has been sent.
 - **Expedited processing asserted in:** Letter 12 only, under 5 U.S.C. § 552(a)(6)(E)(v)(II).
 - **Next step for the researcher:** fill the requester and dissemination brackets, verify every
