@@ -14,6 +14,38 @@ seed-averaged values now, but if any figure disagrees, **§1.14 wins.**
 
 ---
 
+
+## SESSION 5 UPDATE (2026-11-26) — read this first
+
+Branch **`claude/project-thread-eck2kl`** (started from `49febcf`). Session 5 ran on
+the **Default** environment, not "UFOAI Omega research" (a coordinator-spawned
+session can't switch). The owner approved adding `archive.org`,
+`earth-search.aws.element84.com` and `sentinel-cogs.s3.us-west-2.amazonaws.com` to
+Default. tesseract and scipy were installed by hand: Default has no setup script.
+
+All of §5 items 1, 2 (capstone only), 4, 5, 6 and 7 are done:
+
+| item | report | headline |
+|---|---|---|
+| capstone FOIA | `foia_request_drafts.md` Letter 14 | CLIN 0004/1004 named. Drafted, NOT filed |
+| audit corrections | `aawsap_contract_audit.md` addendum | D110 is the SOO (D182 = the Aug solicitation); CLIN 0004 due 30 Sep 2009; D186 names area 12 "technology integration" and says **12** FY2010 reports (release has 11); P00002 attachment missing; D175 pp.98–99 calls the threat assessment future work |
+| DIRD areas | `dird_area_assignment.md` | 20/37 contested; 9/12 areas robust; lift, control, configuration rest on one contested report each; "no area undelivered" WITHDRAWN as firm |
+| image-only OCR | `imgonly_ocr.md` | 17/23 are photos (no text); D60/D63/D65 added to slots, rates replicate |
+| Track 2 | `track2_nuforc_s2.md` | 34,898 includes pre-launch; true count 32,260. 18 ground-contact claims, 10 tested, self-controlled: null, P = 0.65 |
+| 434 provenance | `provenance_graph_434.md` | 13.9% rooted vs 1.2% null (+12.7 pts, CI 8.8–16.5); rooted rate rises 6.7% → 44% with catalogue count |
+| NHI report | `nhi_report.md` | nothing requires NHI, nothing excludes it; what would change the verdict |
+
+New lesson: **Earth Search COGs are already BOA-offset harmonised**
+(`earthsearch:boa_offset_applied: True`). Subtracting 1000 DN gave NDVI > 1 and a
+fake 52% vegetation loss.
+
+Still open: §5 item 2's other four FOIA targets (as-delivered BAASS versions,
+per-area PMPs, ~20 monthly reports, Sandia reviews), plus D186 enclosure 1 and
+the 12th FY2010 report. §5 item 3 (slots on the FY2010 DIRDs and 1950s scans).
+Page-image check of D186's "Twelve". arxiv.org is still blocked.
+
+---
+
 ## 0. Standing constraints (carry these forward verbatim)
 
 - FOIA / declassified / public data only. No stolen or classified material.

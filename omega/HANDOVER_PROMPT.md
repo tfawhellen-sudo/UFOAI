@@ -7,7 +7,7 @@ the full state, the standing constraints, every established result so you don't
 re-derive them, and the operational lessons in §1.13 and §1.15 that have each
 already cost this project real time.
 
-**Branch:** `claude/gallant-lamport-0tu52r` in `tfawhellen-sudo/UFOAI`.
+**Branch:** `claude/project-thread-eck2kl` in `tfawhellen-sudo/UFOAI` (session 5, on top of `claude/gallant-lamport-0tu52r`). Read HANDOFF.md's SESSION 5 UPDATE block first: §5 items 1, 4, 5, 6 and 7 are done.
 Working tree was clean; nothing was in flight.
 
 ## Restore first (3 minutes)
