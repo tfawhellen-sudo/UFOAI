@@ -1,16 +1,20 @@
 # PROJECT OMEGA — session handoff
 
-*Updated 2026-11-26 (session 4). §1.14–1.15 and the rewritten §2–§5 are from
-session 4; §1.12–1.13 from session 3; §1.9–1.11 from session 2; §1.1–1.8 from
-session 1.*
+*Updated 2026-11-26 (session 5 consolidation). §1.16–1.17 and the rewritten
+§2–§6 are from the session-5 merge; §1.14–1.15 from session 4; §1.12–1.13 from
+session 3; §1.9–1.11 from session 2; §1.1–1.8 from session 1.*
 
-Current branch: **`claude/gallant-lamport-0tu52r`** in `tfawhellen-sudo/UFOAI`
-(session 3's `claude/magical-gauss-wzgdqd` was fast-forwarded into it; see §2).
+Current branch: **`claude/nice-ritchie-j1ve90`** in `tfawhellen-sudo/UFOAI` —
+the consolidated line, and the only branch holding all of sessions 1–5. Five
+earlier branches are superseded; see §2 before you branch from anything.
 Read this file first in a new session.
 
-**Session 4 corrected numbers that earlier sections of this file state in their
-own voice.** §1.4's ladder is superseded by §1.14 — the table in §1.4 carries the
-seed-averaged values now, but if any figure disagrees, **§1.14 wins.**
+**Later sections correct earlier ones in their own voice.** Precedence, highest
+first: **§1.16 › §1.14 › §1.12 › §1.9 › §1.1–§1.8.** Specifically: §1.4's ladder
+is superseded by §1.14's seed-averaged table; §1.5's label for D182 and §1.14
+item 3's area-coverage claim are superseded by §1.16; §1.2's anti-ionising
+argument is split by §1.16 item 3 — the γ-benchmark stands, the pattern argument
+does not.
 
 ---
 
@@ -28,7 +32,7 @@ seed-averaged values now, but if any figure disagrees, **§1.14 wins.**
 
 ---
 
-## 1. What this session added
+## 1. What each session added (cumulative — read §1.16 first for what it overrides)
 
 ### 1.1 GEIPAN — the French state case file (the big acquisition)
 
@@ -56,13 +60,18 @@ Two findings in the primary document that the secondary literature omits:
 1. GEPAN's own lab table gives the spark-mass-spec reading as
    « Trace laissée sur le sol pouvant provenir d'un revêtement primaire
    (peinture) ayant été frotté » — **rubbed paint from "un corps de masse
-   importante"**. Mechanically sufficient for every soil finding.
+   importante"**. Mechanically sufficient for every soil finding — but §1.16
+   item 3 shows the lab's two plates of the same soil disagree by a median factor
+   of **23**, so this rests on the lab's prose, not on a reproducible measurement.
 2. The INRA author **tested and rejected an ionising-radiation mechanism**:
    10⁶ rads of γ needed on *Arabidopsis* for equal-or-lesser pigment damage,
    and « L'action du rayonnement nucléaire ne présente donc pas d'analogie avec
    celle de la source énergétique impliquée ». Proposes **Mg²⁺ loss under an
    electric field** instead. Bears directly on Phase 2 and on the
    fallout-fogging alternative to arXiv:2604.00056.
+   **Amended by §1.16 item 3: the γ-benchmark stands as INRA's own text, but the
+   carotenoid-over-chlorophyll *pattern* argument does not — within analytical
+   noise in series 1, and it reverses at the centre in series 2.**
 
 Pigment loss: **30–50% active forms at 40 days**, β-carotene −57%,
 violaxanthine −80%, correlated with distance from centre. GEPAN §8 explicitly
@@ -134,7 +143,9 @@ the most loaded documents in the corpus out of reach. **All 40 now OCR'd**
 
 - **`DOW-UAP-D172-BAASS_Ten_Month_Report_July-2009` — 1,086,965 chars.** The
   major AAWSAP deliverable. **Not yet analysed.**
-- `DOW-UAP-D182` AAWSAP Statement of Work Aug 2008 (20,114)
+- `DOW-UAP-D182` FedBizOpps Combined Synopsis/Solicitation HHM40208R0211,
+  18 Aug 2008 (20,114). **NOT the Statement of Work — the SOO is `D110`, and
+  D110's copy is the readable one. Corrected in §1.16 item 2.**
 - `DOW-UAP-D183` Correspondence from Senator Harry Reid, 24 June 2009
 - `DOW-UAP-D184–D188` Reid engagement papers, SAP request review, DIA
   AATIP/AAWSAP memo, contract-deliverables review (21,024)
@@ -608,7 +619,9 @@ release pseudonymised authors consistently across documents** — D188's Enclosu
 assigned by the government. **Author ID agrees 26/26, zero disagreements**, and
 resolves the three pairs titles could not (D121=64, D132=57, D119=65).
 
-**THE CAPSTONE IS MISSING.** D182 §11(d)'s Comprehensive Integrated Threat
+**THE CAPSTONE IS MISSING.** (§11(d) is cited from **D110**, the SOO, not D182 —
+see §1.16 item 2. The SOO calls it *Integrated* Threat Assessment; only the CLIN
+tables add *Comprehensive*.) The Comprehensive Integrated Threat
 Assessment has its own CLIN and money in both years — **0004 at $240,000, 1004
 at $220,200, $460,200 contracted.** A corpus-wide search returns 4 hits, *all in
 the contract documents themselves*. No report, no briefing, and D188's review of
@@ -618,7 +631,7 @@ reached**: D116/P00005 extends the contract under FAR 52.217-8 to **21 Dec
 checkable gap since D66–D73, and nameable by CLIN.
 
 Also established:
-- **The contract ran two of five anticipated years.** D182 planned base + four
+- **The contract ran two of five anticipated years.** The SOO planned base + four
   option years to 30 Sep 2013. Actual: base, option year 1, then a three-month
   FAR 52.217-8 service extension to 21 Dec 2010. Options 2–4 never exercised.
 - **What was released is DIA's published version, not the contractor's.** Each
@@ -668,22 +681,348 @@ Also established:
 
 ---
 
-## 2. In flight when session 4 ended
+### 1.16 Session 5 — three parallel threads, and what they withdraw
 
-**NOTHING.** Every background job completed and was verified complete by process
-state, not by notification. Working tree clean, all pushed. Last commit on
-`claude/gallant-lamport-0tu52r`.
+**Session 5 ran as three sessions at once, off the same tip, not knowing about
+each other.** All three pushed. Nothing was lost and nothing conflicted, but for
+about an hour the project had no single authoritative state file and this handoff
+did not know any of it. §2 records how that was resolved and what to do instead.
 
-**Branch note:** session 3's work was on `claude/magical-gauss-wzgdqd` at
-`ede32f9`. Session 4's assigned development branch was
-`claude/gallant-lamport-0tu52r`, so that branch was fast-forwarded to `ede32f9`
-and all session-4 commits sit on it. Both branches exist on the remote;
-`claude/gallant-lamport-0tu52r` is the current tip.
+Precedence: **where §1.16 disagrees with §1.1–§1.15, §1.16 wins.**
+
+#### 1. Per-area assignment of the 37 DIRDs — §5 item 1 CLOSED, and it withdraws a claim
+`omega/dird_area_assignment.py` · `omega/reports/dird_area_assignment.md` ·
+`evidence_vault/01_PURSUE_PRIMARY/dird_area_assignment.json`
+
+Area list read from the **SOO itself, D110 §3(a)** (readable), not from D188's
+restatement. Primary area read from each report's own statement of purpose, not
+its title — D124 is titled *Space Access* but its text says "The remainder of
+this report will focus on the characteristics of this class of lifting body",
+so it is a configuration report. **Every assignment carries the framing sentence
+it rests on and the script verifies that sentence is present in the vaulted
+text; 37/37 verified, a missing string exits non-zero.**
+
+- **Session 4's keyword map was inflated 1.41×** — 52 area slots for 37 reports.
+- **One area per report is not cleanly possible for 20 of the 37.** Their own
+  framing supports two. Counts are reported as a primary value plus the range
+  reachable when contested reports flip.
+- **Nine of twelve areas are covered under every reading**: propulsion, power
+  generation, spatial/temporal translation, materials, signature reduction,
+  human interface, human effects, armament, other peripheral.
+- **Lift, control and configuration/structure each rest on ONE contested
+  report.** Flip it and the area has none.
+- **In FY2009, control has no report at all** under the primary reading; the
+  only control report is D151, FY2010.
+- **Propulsion dominates at 11/37 under the primary reading** (P=0.0019 Monte
+  Carlo against the contract's uniform one-per-area design, look-elsewhere
+  included; overall χ²=32.1, P=0.0012) — **but if every contested propulsion
+  report flips away it falls to 4, indistinguishable from uniform (P=0.37).**
+  Real under one reading, not robust across readings. Do not quote without that.
+- Agreement with a mechanical keyword rater: 0.568 exact, **Cohen's κ=0.517**
+  (CI 0.343–0.687), 0.703 if the rater may hit primary *or* alternate. 7 of 11
+  hard disagreements are the rater calling a report *power generation* off
+  `power|energy` in body text about what a propulsion system needs — the same
+  failure that inflated session 4's map. **κ≈0.5 says the reading cannot be
+  reproduced by keyword counting. It does not validate the reading.**
+
+**WITHDRAWN:** §1.14 item 3's "no contracted area went undelivered" is no longer
+a firm claim. It is true under the primary reading and false under an equally
+defensible one. The per-area counts in `aawsap_contract_audit.json` remain
+unquotable; use `dird_area_assignment.md`'s table with its ranges.
+
+**Red-team caveat carried forward:** one reader chose every primary. κ against a
+keyword rule is not inter-rater reliability. A second blind reader on the 20
+contested reports is the real test, and is expected to land well below κ=1.
+
+#### 2. FOIA Letter 14, and seven corrections to the contract audit
+`omega/reports/foia_request_drafts.md` (Letter 14) ·
+`omega/reports/aawsap_contract_audit.md` (session-5 addendum)
+
+Found by re-grepping every citation before drafting. Each checked against the
+release text, not against the report.
+
+**Corrections that supersede §1.5 and §1.14 item 3:**
+
+1. **D182 is NOT the Statement of Work/Objectives.** D182 is the FedBizOpps
+   **Combined Synopsis/Solicitation HHM40208R0211**, posted 18 Aug 2008. The SOO
+   is **D110**, `STATEMENT OF OBJECTIVES … 18 July 2008`. Both carry the same §11
+   text; **D110 is the readable copy.** §1.5's label for D182 is wrong.
+   The SOO calls the deliverable *Integrated Threat Assessment*; only the CLIN
+   tables add *Comprehensive*.
+2. **"4 hits, all in the contract documents" undercounted.** Fuzzy search finds
+   it in **D110, D111, D112, D113, D116 and D175** — D110 and D116 were missed
+   because their OCR reads `Asscsmient` and `ln!$graled`. The first five are
+   contract documents, so **the finding stands**: no report, no briefing.
+3. **Two due conditions were reached, not one.** CLIN 0004 has its own base-year
+   period of performance `09/22/2008 to 09/21/2009` (D111), extended to
+   **30 Sep 2009** by P00001 (D112) — a month *before* D188 (30 Oct 2009)
+   reviewed the FY2009 deliverables without mentioning it. The option-year
+   condition (21 Dec 2010, P00005) is the second. §1.14 framed only the second.
+
+**New findings:**
+
+4. **The twelfth area is "technology integration".** D186 (Director DIA INFO
+   MEMO U-10-2552/CE to USD(AT&L), Dec 2010) p.1 names twelve areas ending in
+   `technology integration`; the SOO's own wording is `other peripheral area,:;
+   in support of(1-11)`. DIA relabelled it between 2008 and 2010, and the one
+   area D188 omits is the twelfth. *Whether the Integrated Threat Assessment was
+   meant to serve it is inference, not finding.*
+5. **DIA says twelve FY2010 reports were delivered; the release holds eleven.**
+   D186 p.1: `Twelve additional reports were produced and delivered.` The FY2010
+   DIRDs are D143–D153 = 11. D186's Enclosure 1 is not in the released copy.
+   **One FY2010 report is unaccounted for.** OCR reading — confirm on the page
+   image before quoting.
+6. **BAASS described a threat assessment as FUTURE WORK four weeks before the
+   contract end date.** D175, *Summary Report on BAASS UAP Analysis
+   Capabilities*, 23 Nov 2010, p.98: `it is also BAASS's mission to produce a
+   Threat Assessment of UAP and USO performance and capabilities. As a first
+   step…`. The only non-contract mention in the release. **This fits "never
+   produced" at least as well as "produced and withheld"** — and it names a
+   different object (UAP/USO performance) from the SOO's foreign threat from
+   advanced aerospace platforms. Reported as cutting against suppression.
+7. **P00002's attachment on deliverable impacts is missing.** D113 (eff. 2 Feb
+   2010): `b) Identify Impacts to deliverables as a result ofreduced funding for
+   Option Year 1, (see attachment)`. The released copy ends at p.3 and holds no
+   attachment. **If CLIN 1004 was descoped, that attachment is where it would be
+   recorded.** P00002's $11,948,810 reconciles exactly with CLINs 1001–1009.
+8. D185 (Nov 2009) p.1: in FY2010 `four to six of the original technical reports
+   will be expanded to included classified data … derivatively classified at the
+   secret level`. A classified assessment is live, so **Letter 14 asks for
+   classification review rather than assuming release.**
+
+Letter 14 names CLIN 0004 and CLIN 1004 under contract HHM402-08-C-0072.
+**Drafted, not filed.** §5 item 2 is therefore partly closed; four targets remain.
+
+#### 3. NT-16 replicated end to end — the biochemistry holds, the inferences don't
+`omega/tep_nt16_replication.py` · `omega/geipan_trace_null.py` ·
+`omega/reports/nt16_writeup_and_replication.md` ·
+`evidence_vault/02_GEPAN_PHYSICAL_TRACES/.../tep_dossier_pageocr_2026-11-26.tar.gz`
+
+Every number used was **read from the page image, not from OCR**. Anything not
+read directly off a page is marked `[INFERRED]` in the report.
+
+- **The biochemistry reproduces.** 9 of 11 of NT-16's correlations recovered to
+  ±0.01 from its own tables. One NT-16 table cell is a transcription error
+  (E-1 chlorophyll B printed `0,930`; INRA's handwritten original reads `0,030`)
+  — **INRA computed from the correct value.**
+- **The distance gradient survives every null the data allow.** 13 of 16 pigment
+  and cofactor variables at |r| ≥ 0.811 against distance; under joint relabelling
+  of the six distances the expected count is 1.7, **P = 0.0028** — which is the
+  smallest P this design can produce (2/720). Survives dropping the centre
+  sample and controlling for leaf size.
+- **NT-16's reported significance is overstated.** Its P-values are one-sided
+  parametric and NT-16 does not say so. **One is 50× too small**
+  (ln PhA′/ΣChlA, N=5: reported 0.28×10⁻³, true one-sided 0.0145). With six
+  plants on one transect **no honest P can be below 0.0028.**
+- **The headline magnitudes carry ±50% analytical error and no biological
+  replicate.** Of the series-1 losses, only **β-carotene (−57% young, −50% aged)
+  and violaxanthine in young leaves (−80%)** clear analytical noise (CV 0.22).
+  **The chlorophyll losses (−27 to −33%) do not.**
+- **§1.2's anti-ionising argument needs splitting.** INRA's γ-benchmark (10⁶ rads
+  on *Arabidopsis* for equal-or-lesser damage) is INRA's own text and **stands**.
+  But the *pattern* argument — carotenoid-over-chlorophyll excess — is **weaker
+  than this project previously stated**: in series 1 its 95% analytical interval
+  includes no excess, and in series 2 it holds from 1.5 m outward but
+  **reverses at the centre**. Quote the benchmark, not the pattern.
+- **The soil mass spectrometry cannot support the zinc/phosphate "rubbed paint"
+  reading.** The lab's two plates of the same soil **disagree by a median factor
+  of 23**, and 23 of 24 elements fall outside the lab's own factor-3 tolerance.
+  Phosphorus is the only element enriched on both plates, and **one such element
+  is what chance gives** (null mean 1.16, P = 0.77). Zinc cannot be tested on the
+  second plate. §1.2's mechanical-sufficiency reading of the spark-mass-spec
+  quote rests on the lab's prose, not on a reproducible measurement.
+- **Database level: finding a trace does not predict class D. LOOKING for one
+  does.** Cases where a ground search found a trace and cases where a search
+  found nothing have the same D-rate (OR 1.0–1.1, P=0.89). Searching vs not
+  mentioning a search: era-adjusted **OR 2.7, P=0.015**. That is what "adequate
+  information" means operationally. **It is not evidence that traces mark
+  unexplained events.**
+- **Eight corrections to this project's own earlier records**, the worst being
+  the telex mark width: this project wrote **14 cm**; the PV reads
+  `LARGEUER : 10 CM`. That error had manufactured a discrepancy with the
+  gendarmerie sketch (0.10 m) **that does not exist.** Also: telex time 17H00
+  not 17H08 (slashed zero misread); circular number 32.600 not 9.600; dossier
+  is 10 files / 177 pages, not 11 / 172; pheophytin −31% aged but **−40% young**.
+
+**What the data establish:** something produced a real, monotone biochemical
+gradient along one six-plant transect, starting at that spot. **What they cannot
+establish is the cause** — one transect in one direction, no comparison transect
+from elsewhere on the platform, a control series collected 14 days later on the
+opposite side, and 40 days of foot traffic before the main series.
+
+#### 4. GEIPAN Phases 1–3 re-run on the state file — an independent replication
+`omega/geipan_phase123.py` · `omega/geipan_to_ufo_data.py` ·
+`omega/reports/geipan_phase123.md` ·
+`evidence_vault/11_GEIPAN_PHASE123/geipan_phase123.json`
+
+Seeded RNG (20261126), 10,000 permutations, ~50 s. One export record has an
+impossible date (`2000-09-01556`, 31/09/2000) — treated as month precision, not
+corrected. `geipan_to_ufo_data.py` writes the catalog-schema file;
+**GEIPAN is deliberately NOT registered in `CATALOG_META`, so it is never matched
+against itself.**
+
+**Phase 1a — internal collapse ≈1.00×, and that is true by construction.**
+Same-day ≤30 km: 3,379 events, 1.007×, 0/106 D in a multi-case cluster. GEIPAN
+files multiple witnesses under one case (`T1`/`T2` témoignages), so near-zero
+collapse **says how GEIPAN counts, not that the reports are independent.**
+
+**Phase 1b — the state file and the enthusiast literature barely overlap, and the
+literature over-samples the unexplained.** Hand audit of 25 random links: 23
+correct, **precision 92%** (Wilson CI 75–98%); recall unmeasured.
+
+| | value |
+|---|---|
+| GEIPAN cases 1950–99 found in the literature | **113 / 1,053 (10.7%)** |
+| French literature records 1950–99 found in GEIPAN | **175 / 8,197 (2.1%)** |
+| GEIPAN cases after 2000 found in the literature | 0 / 2,252 |
+
+In-literature rate by class: A 1.8%, B 1.8%, C 5.5%, **D 19.2%**. Crude OR 12.9
+is **era-confounded**; **decade-stratified Mantel-Haenszel OR = 4.0 (2.1–7.6),
+p = 1.8e-5.** C+D vs A+B: MH OR 1.6 (1.06–2.43), p=0.031.
+**Within the same decade a case the state could not explain is ~4× more likely to
+appear in a catalogue, and 98% of the literature's French events have no GEIPAN
+counterpart at all.** Any "French UAP pattern" computed from the literature runs
+on a population the state file barely touches. Reverse causation is live: some
+cases are D *because* they were famous and heavily investigated.
+
+**Phase 2 — nuclear proximity NULL on an independent state dataset.** Identified
+cases (A+B) are the spatial null: same observers, same reporting system, same
+geography, so population/media/observer density are matched by construction.
+Labels permuted within region × decade; MH stratified on the same strata;
+Bonferroni α=0.005 across 10 tests. **Twelve of twelve statistics null, smallest
+one-sided p = 0.09.** Nearest-site median distance A 67.8 / B 66.5 / C 69.0 /
+**D 66.3 km**; D vs AB Mann-Whitney p=0.59, rank-biserial −0.01. Commissioning
+null: observed 567 vs expected 574.4, ratio 0.99, z=−1.26, p=0.21; no site shows
+a post-commissioning surge. Framing contamination check: 44 cases mention a
+power plant/reactor/CEA/EDF — A 17, B 16, C 11, **D 0**.
+**This replicates the decontaminated Phase 2 result on an independent source.**
+
+> **DEBT — DO NOT QUOTE PHASE 2 YET.** The 28-site layer (19 EDF plants plus
+> Brennilis, Creys-Malville, La Hague, Marcoule, Cadarache, Valduc, Saclay,
+> Île Longue, Plateau d'Albion) was **entered by hand from general knowledge**
+> because Wikidata and ASN are unreachable from this container. Expect ±1–3 km
+> and ±1 yr. Only 4 sites could be cross-checked. **Re-run against Wikidata, ASN
+> or IAEA PRIS coordinates before this result is quoted anywhere.** This is the
+> session-5 analogue of §1.4's seed debt, and it is §5 item 1 now.
+
+Power is the honest limit: at 30 km the D contrast detects only OR ≥ 1.8 (C+D:
+OR ≥ 1.27). **"Null" here means no large effect, not no effect.** And GEIPAN
+coordinates are the *witness's* commune centroid, not the phenomenon's, which
+blurs every radius below ~20 km toward the null.
+
+**Phase 3 — descriptor drift replicated, and it survives inside the unexplained
+subset.** Logistic regression of descriptor presence on decade, controlling log
+text length, BH-FDR, run on the **witness portion** of each case text (available
+on 64% of cases).
+
+| descriptor | OR/decade, all | q | OR/decade, C+D only | 1937–79 → 2010–26 |
+|---|---|---|---|---|
+| photo/video | **2.58** | 3e-93 | **1.94** | 3.3% → 44.5% |
+| triangle | 1.15 | 0.002 | **1.33** | 3.1% → 8.4% |
+| disque/soucoupe | **0.77** | 4e-6 | 0.75 | 6.4% → 2.5% |
+| landing/ground trace | **0.68** | 4e-10 | 0.70 | 6.9% → 1.1% |
+| cigare/cylindre | 0.81 | 7e-5 | 0.76 | 5.5% → 2.8% |
+
+**Discs fall, triangles rise, landings collapse ~6×, cameras surge >10× — and
+the disc-to-triangle shift holds inside the unexplained subset**, so it is not
+lanterns and satellites dominating the identified cases. **A fixed physical
+population of craft does not predict that.**
+
+**Third independent confirmation of the §1.3 D-collapse.** D share 6.4%
+(1937–79) → 6.1% (1980–99) → 1.8% (2000–09) → **1.5% (2010–26)**:
+**OR 0.69 per decade (0.62–0.77), p = 8e-12.** C share 55.6% → 17.0%. Chinese
+lanterns lead 2010–2026 at 366 cases. §1.3 (rate), §1.9 (BAASS absolute count),
+and now this (per-decade logistic) agree.
+
+**D morphology, and why it is partly circular.** D vs A+B, decade-stratified MH:
+triangle **OR 4.9 (2.7–9.0)**, stationary 2.7, silent 2.2, cigar 3.0, sphere
+0.48. **GEIPAN assigns D when a description fits no known stimulus, so "D cases
+are stationary silent triangles" is partly the definition of D speaking.** Not a
+discovery about the phenomenon.
+
+Also untested and named as such: military airbases, nuclear-weapons transport
+routes, plants under construction, overseas sites (Moruroa/Fangataufa — GEIPAN's
+Polynesia coverage is too thin).
+
+### 1.17 Operational lessons from session 5
+
+1. **Three sessions off one tip is the costliest mistake available.** Nothing
+   conflicted only because the three threads touched disjoint files, which was
+   luck, not design. Two of the three produced results that **modify** session 4's
+   conclusions, and neither updated this file — so for an hour the handoff was
+   confidently stating a withdrawn claim. **Before starting work, check
+   `git ls-remote --heads origin` for sibling `claude/*` branches newer than this
+   file's recorded tip.** §2 has the merge procedure.
+2. **A label on a document is not the document.** "D182 = Statement of Work" was
+   carried for two sessions and used to cite §11(d). D182 is the solicitation;
+   D110 is the SOO, and D110's copy is the readable one. The citation survived
+   only because both carry the same §11 text — that was luck too.
+3. **A clean regex on dirty OCR undercounts and reads as a finding.** The
+   capstone search returned "4 hits" because `Asscsmient` and `ln!$graled` are
+   what the page actually says. Session 4's lesson #4 again, from the other side:
+   an exact-match miss in garbage is not an absence.
+4. **Read the framing sentence, not the title — and store the sentence.** The
+   DIRD assignment verifies all 37 framing strings against the vaulted text and
+   exits non-zero on a miss. That turns a judgement call into something a later
+   session can audit without re-reading 37 PDFs.
+5. **κ against your own keyword rule is not inter-rater reliability.** It
+   measures whether a cheap rater reproduces you, which is worth knowing and is
+   not validation. Say which one you have.
+6. **Report bounds, not invented probabilities.** 20 of 37 reports are
+   genuinely two-area. The flip ranges are extreme bounds and are labelled as
+   such, rather than a made-up per-flip probability.
+7. **Hand-entered reference data is a debt the moment it is used.** The Phase 2
+   site layer is honest about it and the report says "not quotable until rerun" —
+   which is the right behaviour, and it is still a debt. Log it in §5, the way
+   §1.4's seed debt was logged, or it becomes a quoted number.
+8. **Reading a catalogue against itself is the default failure.** Phase 1b only
+   means anything because `geipan_to_ufo_data.py` deliberately leaves GEIPAN out
+   of `CATALOG_META`. Make that choice explicitly, in code, with a comment.
+
+---
+
+## 2. In flight when session 5 ended, and the branch fork
+
+**NOTHING in flight.** Working tree clean, everything pushed.
+
+**THE FORK, AND ITS RESOLUTION.** Session 4 ended at `49febcf` on
+`claude/gallant-lamport-0tu52r`. Three session-5 threads then branched from that
+same commit, within 13 minutes of each other, none aware of the others:
+
+| branch | tip | content |
+|---|---|---|
+| `claude/project-thread-noala8` | `75cfd74` 06:27 | GEIPAN Phases 1–3 + red team |
+| `claude/project-thread-het5pi` | `b24fb5b` 06:28 | NT-16 write-up and replication |
+| `claude/project-thread-eck2kl` | `d9a92df` 06:40 | DIRD area assignment; FOIA Letter 14 |
+
+All three were merged into **`claude/nice-ritchie-j1ve90`**, which was
+fast-forwarded to `49febcf` first (it held no work of its own). Three `--no-ff`
+merges, **zero conflicts** — the threads touched disjoint files apart from two
+small edits to this file and the vault manifest. **That was luck, not design.**
+
+**Current branch: `claude/nice-ritchie-j1ve90`** — the consolidated line, and
+the only branch with all of sessions 1–5. The five older branches
+(`gallant-lamport-0tu52r`, `magical-gauss-wzgdqd`, and the three
+`project-thread-*`) are **superseded**. Do not branch from them and do not read
+their copies of this file; they predate §1.16.
+
+**Procedure for a new session, in this order:**
+
+1. `git ls-remote --heads origin` and compare against the tip this file records.
+   **Any `claude/*` branch with commits the consolidated line lacks is session
+   work this file does not know about.** Read its reports before trusting §1.
+2. Fast-forward your assigned development branch to the consolidated tip rather
+   than branching from `main`.
+3. If you find siblings, merge them (`--no-ff`), then **rewrite §1 and §6 before
+   doing new analysis** — two of the three session-5 threads modified session 4's
+   conclusions, and for an hour this file stated a claim that had been withdrawn.
+4. If you are one of several parallel threads, say so at the top of your report
+   and name the tip you branched from.
 
 ## 3. Ephemeral data — what is DURABLE, and what is not
 
-**Everything expensive is in `evidence_vault/` (now ~145 MB + the session-4
-additions, committed).**
+**Everything expensive is in `evidence_vault/` (~145 MB, plus the session-4 and
+session-5 additions, committed).**
 
 | in the vault, no re-fetch needed | size |
 |---|---|
@@ -695,6 +1034,9 @@ additions, committed).**
 | NUFORC unified, 134,906 recs | 11.6 MB gz |
 | GEIPAN case DB, codename index, 434-list | in-tree |
 | **seed-stability sweeps (session 4)** | `09_SEED_STABILITY/` |
+| **GEIPAN Phases 1–3 (session 5)** | `11_GEIPAN_PHASE123/geipan_phase123.json` |
+| **DIRD per-area assignment (session 5)** | `01_PURSUE_PRIMARY/dird_area_assignment.json` |
+| **TEP page-by-page OCR (session 5)** | `02_GEPAN_PHYSICAL_TRACES/…/tep_dossier_pageocr_2026-11-26.tar.gz` |
 | **redaction slot analysis (session 4)** | `05_SCRUBBED_CONTENT/redaction_slots.json` |
 | **AAWSAP contract audit (session 4)** | `01_PURSUE_PRIMARY/aawsap_contract_audit.json` |
 
@@ -719,7 +1061,7 @@ the PURSUE texts from `$OMEGA_PURSUE_TXT` (falling back to
 `nominatim.openstreetmap.org`, `earth-search.aws.element84.com`,
 `en.wikipedia.org`. Package managers and MCP hosts allowed.
 
-**The setup script is VERIFIED WORKING as of session 4** — tesseract 5.3.4 with
+**The setup script is VERIFIED WORKING as of sessions 4 and 5** — tesseract 5.3.4 with
 `fra`, poppler 24.02, scipy 1.18.1, sklearn 1.9.1, installed ~2 min after boot.
 Do not re-litigate this; just use it.
 
@@ -743,90 +1085,186 @@ separately.
 
 ## 5. Next, in priority order
 
-### 1. **Per-area assignment of the 37 DIRDs** — finishes the contract audit
-§7 of `aawsap_contract_audit.md` reports area coverage as **untrustworthy and
-flagged not to quote**: a keyword map puts one report into several areas, so the
-counts are inflated. The qualitative finding (no contracted area went
-undelivered) stands. A clean one-area-per-report assignment, read from each
-document's own framing rather than its title, closes the only loose end in that
-audit. 37 documents, all on disk. Cheap and bounded.
+**Session 5 closed old items 1 and 2.** Item 1 (per-area DIRD assignment) is done
+and withdrew a claim; item 2 (CLIN-named FOIA requests) produced Letter 14 and
+four remaining targets. The list below is renumbered.
 
-### 2. **Draft the CLIN-named FOIA requests** — the audit produced five targets
-`aawsap_contract_audit.md` §8. The sharpest is the **Comprehensive Integrated
-Threat Assessment, CLIN 0004 and CLIN 1004, contract HHM402-08-C-0072** — a
-deliverable identified by line item, priced twice, whose due condition
-(21 Dec 2010, per D116/P00005) was reached, absent from a release containing all
-37 subsidiary reports. Then the per-area Project Management Plans (~24, the
-contract's largest line item at $8.36M), the ~20 missing monthly status reports,
-the as-delivered BAASS versions with their §11(c) executive summaries, and the
-Sandia reviews in D188 Enclosure 2. Add to `omega/reports/foia_request_drafts.md`.
-**Drafted, not filed.**
+### 1. **Re-run GEIPAN Phase 2 against an authoritative nuclear-site layer** — a debt, not an improvement
+`omega/geipan_phase123.py`. The 28-site layer is **hand-entered from general
+knowledge** (±1–3 km, ±1 yr; only 4 of 28 cross-checked) because Wikidata and ASN
+were unreachable. The report flags itself as not quotable, which is correct and is
+still a debt — §1.4's seed debt sat unpaid for three sessions and the fix changed
+the published number. **`query.wikidata.org` IS on the environment allowlist**, so
+the P625-with-statement-node construct from §1.11 will work; IAEA PRIS or ASN need
+a host request. Re-run, then either confirm the twelve nulls or report the change.
+Cheap, bounded, and it unlocks a result that is otherwise unusable.
 
-### 3. **Redaction slots on the FY2010 DIRD wave and the 1950s scans**
+### 2. **Confirm the two OCR-only session-5 claims on the page images**
+Both are load-bearing and both carry an explicit "confirm before quoting":
+**D186 p.1's "Twelve additional reports were produced and delivered"** against a
+release holding eleven (§1.16 item 2, finding 5), and D186's twelve-area list
+ending in `technology integration` (finding 4). The JP2 page images exist for all
+298 documents. If finding 5 holds, **one FY2010 DIRD is unaccounted for** and that
+is a second nameable gap alongside D66–D73 and the capstone.
+
+### 3. **Draft the four remaining FOIA targets**
+Letter 14 covers the capstone. Still undrafted: the **~24 per-area Project
+Management Plans** (CLIN 1002, $4.76M, the contract's largest line item), the
+**~20 missing monthly status reports**, the **as-delivered BAASS versions with
+their §11(c) executive summaries**, and the **Sandia National Laboratories
+reviews in D188 Enclosure 2**. Add a fifth if §5 item 2 confirms the twelfth
+FY2010 report. Also now nameable: **P00002's missing deliverable-impacts
+attachment** (§1.16 item 2, finding 7) — if CLIN 1004 was descoped, that is where
+it is recorded. Add to `omega/reports/foia_request_drafts.md`. **Drafted, not filed.**
+
+### 4. **A second blind reader on the 20 contested DIRDs**
+`dird_area_assignment.md`'s own red team names this as the real test. The framing
+sentences are stored in the JSON, so a second reader can work from those alone
+without re-reading 37 PDFs. Expect κ well below 1. The flip ranges are designed
+to absorb the disagreement; this measures whether they do.
+
+### 5. **Redaction slots on the FY2010 DIRD wave and the 1950s scans**
 `redaction_slots.py` covers 33 MISREP forms. 226 field instances are UNREADABLE
-and carry no claim; the 1950s FBI scans (14 hits) were excluded by the spine
-gate. Two extensions: re-OCR the worst forms at higher dpi to convert UNREADABLE
-into decidable, and build a prose-mode slot reader for the non-form documents,
-which is the original §5 item-2 grammar approach now that the structural route
-is exhausted.
+and carry no claim; the 1950s FBI scans (14 hits) were excluded by the spine gate.
+Re-OCR the worst forms at higher dpi to make UNREADABLE decidable, and build a
+prose-mode slot reader for the non-form documents.
 
-### 4. **OCR the 23 declared image-only PURSUE docs** (`_imgonly` suffix),
-including the D60/D63/D65 mission reports. `tesseract -l eng`, and
-`OMP_THREAD_LIMIT=1`. These would feed straight into the slot analysis.
+### 6. **OCR the 23 declared image-only PURSUE docs** (`_imgonly`), including the
+D60/D63/D65 mission reports flanking the D66–D73 gap. `tesseract -l eng`,
+`OMP_THREAD_LIMIT=1`. Feeds straight into item 5 and into item 2's page-image work.
 
-### 5. **Track 2, REPOINTED** — historical sites are temporally impossible
-(34–51 yr gap). Run the existing control methodology on the **34,898 geocoded
-Sentinel-2-era NUFORC records**. Control set code: `omega/track2_controls.py`.
+### 7. **Track 2, REPOINTED** — historical sites are temporally impossible (34–51 yr
+gap vs Sentinel-2's June 2015 launch). Run the existing control methodology on the
+**34,898 geocoded Sentinel-2-era NUFORC records**. Control code:
+`omega/track2_controls.py`. A landcover raster host would move this off a spectral proxy.
 
-### 6. **Remaining periodical work** — the 860 texts are vaulted. Build the full
+### 8. **Remaining periodical work** — the 860 texts are vaulted. Build the full
 provenance graph for the 434-event retained-sample list, tracing each to its
-earliest primary source.
+earliest primary source. §1.16 item 4's Phase 1b result sharpens the question:
+the enthusiast literature over-samples unexplained cases ~4× within a decade, so
+the graph should report that selection, not just the chains.
 
-### 7. **NHI Proof Report** — write it last, from the vault.
+### 9. **NHI Proof Report** — write it last, from the vault. On current evidence it
+is a null report with a short list of live threads. Writing it honestly is the
+deliverable.
 
 ### Blocked, not pending
-The retained-sample assay is blocked on *physical custody*, not chemistry —
-CUFOS/APRO/GEPAN/university archives are unreachable. Wayback snapshot
-comparison is blocked on `web.archive.org`.
+The retained-sample assay is blocked on **physical custody**, not chemistry —
+CUFOS/APRO/GEPAN/university archives are unreachable. Wayback snapshot comparison
+is blocked on `web.archive.org` (proxy 403; the CDX API exists nowhere else, and
+an `update_environment` request was rejected by the environments service — do not
+re-ask in chat).
 
 ---
+
 ## 6. Established results so far (do not re-derive)
 
-Falsified: nuclear proximity (contamination — 0.6% of records produced 100% of
-a 13× effect); ICBM proximity (self-referential — the March 1967
-Minot/Malmstrom cluster is the claim's own founding data); sacred-site
-proximity (megalith ratio 1.004, p=0.56); light-code entropy; solar-cycle
-periodicity; persistence (cross-pipeline geocoding artefact — Nominatim and
-Hatch DMS agreeing on settlement centroids); all 7 behavioural-intelligence
-tests T1–T7.
+**Falsified:** nuclear proximity (contamination — 0.6% of records produced 100%
+of a 13× effect; **independently replicated as null on the GEIPAN state file,
+12/12 statistics, §1.16 item 4 — subject to that section's site-layer debt**);
+ICBM proximity (self-referential — the March 1967 Minot/Malmstrom cluster is the
+claim's own founding data); sacred-site proximity (megalith ratio 1.004, p=0.56);
+light-code entropy; solar-cycle periodicity; persistence (cross-pipeline
+geocoding artefact — Nominatim and Hatch DMS agreeing on settlement centroids);
+all 7 behavioural-intelligence tests T1–T7.
 
 Blue Book T3: **null at adequate power**, p=0.2727, MDD 0.1169 vs 0.112 target.
 Resolved arm itself significant (+0.0354, p=0.0017). **7× gradient from compiler
 prose (+0.2504) to case record (+0.0354).**
 
+**The French unexplained residue collapsed, confirmed three independent ways:**
+rate 0.0543→0.0144, z=+6.119, **p=9.4e-10** (§1.3); BAASS's own mid-2009 count of
+**205 D cases against today's 106** — an absolute decrease, immune to the
+denominator objection (§1.9); and per-decade logistic **OR 0.69/decade
+(0.62–0.77), p=8e-12** (§1.16 item 4). Top modern identified cause is sky
+lanterns (417 / 366 depending on window), a product absent from France before
+~2005. **The toolkit changed, not the sky.**
+
+Undisclosed D cases are the re-examined ones: revisit rate 0.9821 vs 0.1600,
+**z=+8.605**, decade-stratified **Mantel-Haenszel OR 209.10** — stratification
+strengthens it. **Direction of causation undetermined and reported as such.**
+
 Provenance collapse 1.39–1.46×, 77–80% single-sourced. Echo chamber 3.628 vs
 null 5.130 (29% below chance, z≈−31); 12 events with 5–6 catalogues and zero
-upstream roots.
+upstream roots. Strict periodical test: **controls 4/4, targets 0/4.**
+**And the enthusiast literature is not a sample of French reports** — 2.1% of its
+French events appear in the state file, and within a decade a case the state
+could not explain is **~4× more likely to be catalogued** (MH OR 4.0, p=1.8e-5).
+
+Descriptor drift: **replicated on the state file and it survives inside the
+unexplained subset** — photo/video OR 2.58/decade (3.3%→44.5%), triangle 1.15
+(1.33 in C+D), disc 0.77, landing/trace 0.68 (6.9%→1.1%). A fixed physical
+population of craft does not predict that.
 
 Occupant taxonomy: no spatial (p=0.52) or temporal (p=0.53) segregation; era
 χ²=70.4 p=1.5e-07, pseudo-human 46.1%→13.6% vs Grey →63.2%.
+
+**The C-vs-D narrative effect is capped, not content.** 42% ± 9% identifiable
+leakage; residual **+0.1972 ± 0.0271 is an UPPER BOUND**, because the C/D
+criterion *is* informational adequacy. A+B-vs-D withdrawn as circular by
+construction. Adjacent tiers are not distinguishable; only the endpoints separate.
+
+**The AAWSAP programme is a literature survey, not a capability programme.**
+1 of 37 DIRDs mentions UAP at all; open:closed citations **27.5:1**. The one
+exception (D128, human tissue effects) concludes injuries are attributable to
+**"real-world … technologies"** — terrestrial RF/microwave.
+
+**All 26 FY2009 deliverables are present** (26/26 via the release's own
+author-pseudonym namespace). **The capstone is absent**: Integrated Threat
+Assessment, **CLIN 0004 $240,000 / CLIN 1004 $220,200**, two due conditions
+reached (30 Sep 2009 and 21 Dec 2010), no report and no briefing. **Nine of
+twelve contracted areas are covered under every reading; lift, control and
+configuration each rest on one contested report; control has no FY2009 report.**
+BAASS itself called a threat assessment future work on 23 Nov 2010 — **which fits
+"never produced" at least as well as "withheld".**
+
+**Redaction protects force composition, not the observation.** Callsign withheld
+0.91, personnel 0.63, time 0.09; never released: Email, Full Name, Aircraft
+Callsign, Phone, Number of Aircraft. `Gentext` — the UAP description — released
+115 vs 37 withheld. E.O. 13526: 1.4(a) military ops **224**, 1.4(c) intelligence
+sources/methods **1**. 77.0% agreement with the government's own exemption codes.
+**Reported as a negative: it cuts against a suppression reading.**
+
+**Trans-en-Provence: the biochemistry replicates, the inference does not.** 9/11
+correlations recovered to ±0.01; distance gradient survives every available null
+at **P=0.0028** (the design's floor). But NT-16's P-values are one-sided and one
+is **50× too small**; only β-carotene and young-leaf violaxanthine clear ±50%
+analytical noise; the soil mass-spec's two plates of the same soil **disagree by
+a median factor of 23**, so the "rubbed paint" reading is not a reproducible
+measurement. **Finding a trace does not predict D (OR 1.0–1.1, p=0.89); looking
+for one does (OR 2.7, p=0.015).**
+
+**Hidden-term sweep, 617 documents: clean zeros** for non-human
+personnel/biologic, crash retrieval, human-looking, breakaway civilisation,
+shadow government, pseudo-human, majestic, serpo, glimmer glass, kona blue,
+looking glass, teaball, moon dust, immaculate constellation. `MJ-12`: one hit, a
+citizen's letter *asking* about it. `AARO` appears in 44.
+
+**Track 2 on historical sites is temporally impossible** (Sentinel-2 launched
+June 2015; candidates are 1964–1981). Controllability is inversely proportional
+to local sighting density — Newark Valley yields 2 clean controls from 17.
 
 **Three nulls withdrawn as invalid:** global class-label permutation across
 disjoint footprints; density matching at the wrong scale; outcome-conditioned
 subsetting.
 
+**Two claims withdrawn in session 5:** "no contracted area went undelivered"
+(true under one reading, false under another); and the carotenoid-over-chlorophyll
+*pattern* as an anti-ionising argument (within analytical noise in series 1,
+**reverses at the centre** in series 2). INRA's 10⁶-rad γ-benchmark itself stands.
+
 **Seven failure modes documented** — contamination; underpowered artefact;
 self-referential source events; narrative convention; cross-pipeline geocoding
-convergence; marginal-to-stratified collapse; and now **criterion-definitional
-confounding** (§1.4).
+convergence; marginal-to-stratified collapse; criterion-definitional confounding.
 
 arXiv:2604.00056 (Doherty, 31 Mar 2026, POSS-I plate transients, IRR 1.80,
 permutation p=0.006, Earth-shadow deficit) **verified real**; does not conflict
 with Phase 2 (different instruments). Untested alternative: radioactive fallout
 fogging photographic emulsion — the Earth-shadow deficit is the discriminating
-measurement. **Note §1.2: the INRA γ-benchmark argues against an ionising
-mechanism at trace sites.**
+measurement. **Note §1.2 as amended by §1.16: INRA's γ-benchmark argues against
+an ionising mechanism at trace sites; the pattern argument does not.**
 
-13 FOIA letters drafted, not filed: `omega/reports/foia_request_drafts.md`.
-**New targets from this session:** DOW-UAP-D66–D73; NASA-UAP-D3 and D23–D29;
-and a French **CADA** request for the undisclosed D-case dossiers (§1.3).
+**14 FOIA letters and the French CADA request drafted, none filed:**
+`omega/reports/foia_request_drafts.md`, `omega/reports/cada_request_draft.md`.
+Targets: DOW-UAP-D66–D73; NASA-UAP-D3 and D23–D29; the 56 undisclosed French
+D-case dossiers; and **Letter 14 — the Integrated Threat Assessment by CLIN.**
