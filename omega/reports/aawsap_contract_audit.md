@@ -257,3 +257,65 @@ read from each document's own framing, which is a larger job than this audit.
    2009, `D171` June 2009, `D173` November 2009. Request the remaining ~20,
    naming the months.
 5. **The Sandia National Laboratories reviews** named in D188 Enclosure 2.
+
+---
+
+## Session 5 addendum (2026-11-26) — corrections and three new findings
+
+Found while re-grepping every citation for Letter 14 in `foia_request_drafts.md`. Each item
+below was checked against the release text, not against this report.
+
+**Corrections to the text above.**
+
+1. **D182 is not the Statement of Objectives.** D182 is the FedBizOpps *Combined
+   Synopsis/Solicitation* HHM40208R0211, originally posted 18 August 2008 (`Page I of 7`
+   header). The SOO itself is **D110**, `STATEMENT OF OBJECTIVES … 18 July 2008`. Both carry the
+   same §11 text; D110 is the readable copy (§11(d): `d. Integrated Threat Asscsmient - A final
+   tqx>rt and briefing that assesses the foreign threat from advanced aerospace
+   platformsincotl)Orating …`). The SOO calls the deliverable *Integrated Threat Assessment*; only
+   the CLIN tables add *Comprehensive*.
+2. **"4 hits, all in D111–D113" undercounted.** A fuzzy search (`threat\s+ass`, `integ\S*\s+threat`)
+   finds it in **D110, D111, D112, D113, D116 and D175**. D110 and D116 were missed because their
+   OCR reads `Asscsmient` and `ln!$graled`. The first five are contract documents, so the
+   finding (no report, no briefing) stands. D175 is new and is item 6 below.
+3. **CLIN 0004 has its own base-year period of performance**, `09/22/2008 to 09/21/2009`
+   (D111), extended to 30 Sep 2009 by P00001 (D112). So two due conditions were reached, not one:
+   the base-year assessment was due by **30 Sep 2009**, a month *before* D188 (30 Oct 2009)
+   reviewed the FY2009 deliverables without mentioning it; the option-year one was due by
+   **21 Dec 2010** under P00005. §3 framed only the second.
+
+**New findings.**
+
+4. **The twelfth area is "technology integration".** D186, the Director's INFO MEMO
+   U-10-2552/CE to USD(AT&L), December 2010, p.1: `The RFP identified twelve technical areas to
+   be studied: lift, propulsion; control; armament; signatures reduction; materials;
+   configuration; power generation; temporal translation; human effects; human interface; and
+   technology integration.` D188 lists the other eleven. This settles the twelve-area reading of
+   D182 §3(a), and it matters for §7: the one area D188 leaves out is the integration area,
+   which is the area the Integrated Threat Assessment would serve.
+5. **DIA says twelve FY2010 reports were delivered; the release holds eleven.** D186 p.1:
+   `Twelve additional reports were produced and delivered. They are also included in enclosure
+   1.` The release's FY2010 DIRDs are D143–D153, which is 11. Enclosure 1 of D186 is not in the
+   released copy (3,674 chars, 2 pp.). One FY2010 report is unaccounted for. *OCR reading,
+   clean at sentence start; confirm on the page image before quoting.*
+6. **BAASS, four weeks before the end date, described a threat assessment as future work.**
+   D175, *Summary Report on BAASS UAP Analysis Capabilities*, 23 Nov 2010, p.98: `it is also
+   BAASS's mission to produce a Threat Assessment of UAP and USO performance and capabilities.
+   As a first step in accomplishing this mission BAASS has …`; p.99: `A greater understanding of
+   these objects will allow for an accurate threat assessment`. This is the only non-contract
+   mention in the release. It fits "never produced" at least as well as "produced and withheld",
+   and it names a different object (UAP/USO performance) from the SOO's foreign threat from
+   advanced aerospace platforms.
+7. **P00002's attachment on deliverable impacts is missing.** D113 (P00002, eff. 2 Feb 2010):
+   `b) Identify Impacts to deliverables as a result ofreduced funding for Option Year 1, (see
+   attachment)`. The released copy ends at p.3 with CLIN 1009 and holds no attachment. If CLIN
+   1004 was descoped, that attachment is where it would be recorded. P00002's funding,
+   $11,948,810, reconciles exactly with CLINs 1001–1009 ($9,435,900 + ODC $2,494,610 + additional
+   travel $18,300).
+8. D185 (Nov 2009) p.1: in FY2010 `four to six of the original technical reports will be
+   expanded to included classified data … derivatively classified at the secret level`. A
+   classified assessment is therefore a live possibility, and Letter 14 asks for classification
+   review rather than assuming release.
+
+FOIA: all of the above is now **Letter 14** in `omega/reports/foia_request_drafts.md`, naming
+CLIN 0004 and CLIN 1004. Drafted, not filed.
