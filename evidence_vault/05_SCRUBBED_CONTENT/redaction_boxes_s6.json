@@ -1,0 +1,1843 @@
+{
+ "DOW-UAP-D136_AAWSAP-DIRD-Biosensors-and-BioMEMS-A-Survey-of-the-Present-Field-March-31-2010.pdf": {
+  "pages": 45,
+  "pages_with_boxes": 3,
+  "boxes": 7,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.64,
+      "y": 2.5,
+      "w_in": 1.28,
+      "h_in": 0.22,
+      "fill": 0.97
+     }
+    ]
+   },
+   {
+    "page": 25,
+    "boxes": [
+     {
+      "x": 1.06,
+      "y": 6.76,
+      "w_in": 0.48,
+      "h_in": 0.28,
+      "fill": 0.955
+     }
+    ]
+   },
+   {
+    "page": 40,
+    "boxes": [
+     {
+      "x": 5.78,
+      "y": 3.38,
+      "w_in": 0.94,
+      "h_in": 0.36,
+      "fill": 1.0
+     },
+     {
+      "x": 6.86,
+      "y": 3.38,
+      "w_in": 0.3,
+      "h_in": 0.36,
+      "fill": 0.985
+     },
+     {
+      "x": 6.1,
+      "y": 3.76,
+      "w_in": 0.3,
+      "h_in": 0.1,
+      "fill": 0.987
+     },
+     {
+      "x": 5.78,
+      "y": 3.88,
+      "w_in": 0.94,
+      "h_in": 0.38,
+      "fill": 1.0
+     },
+     {
+      "x": 6.86,
+      "y": 3.88,
+      "w_in": 0.3,
+      "h_in": 0.38,
+      "fill": 0.989
+     }
+    ]
+   }
+  ]
+ },
+ "DOW-UAP-D102_Project-Blue-Book-File-on-Tremonton-Film-Utah-1952.pdf": {
+  "pages": 156,
+  "pages_with_boxes": 5,
+  "boxes": 6,
+  "detail": [
+   {
+    "page": 7,
+    "boxes": [
+     {
+      "x": 3.64,
+      "y": 0.56,
+      "w_in": 1.4,
+      "h_in": 0.26,
+      "fill": 0.938
+     },
+     {
+      "x": 3.64,
+      "y": 9.88,
+      "w_in": 1.32,
+      "h_in": 0.28,
+      "fill": 0.925
+     }
+    ]
+   },
+   {
+    "page": 21,
+    "boxes": [
+     {
+      "x": 2.34,
+      "y": 0.32,
+      "w_in": 3.7,
+      "h_in": 0.74,
+      "fill": 0.935
+     }
+    ]
+   },
+   {
+    "page": 22,
+    "boxes": [
+     {
+      "x": 2.46,
+      "y": 0.32,
+      "w_in": 3.74,
+      "h_in": 0.74,
+      "fill": 0.929
+     }
+    ]
+   },
+   {
+    "page": 71,
+    "boxes": [
+     {
+      "x": 1.38,
+      "y": 2.58,
+      "w_in": 1.72,
+      "h_in": 0.16,
+      "fill": 0.923
+     }
+    ]
+   },
+   {
+    "page": 72,
+    "boxes": [
+     {
+      "x": 1.42,
+      "y": 1.84,
+      "w_in": 1.76,
+      "h_in": 0.12,
+      "fill": 0.941
+     }
+    ]
+   }
+  ]
+ },
+ "DOW-UAP-D163-Air_Intelligence_Information_Report_Sweden-1953.pdf": {
+  "pages": 3,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D120_AAWSAP-DIRD-Materials-for-Advanced-Aerospace-Platforms-January-12-2010.pdf": {
+  "pages": 27,
+  "pages_with_boxes": 1,
+  "boxes": 1,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.62,
+      "y": 2.44,
+      "w_in": 1.34,
+      "h_in": 0.22,
+      "fill": 0.959
+     }
+    ]
+   }
+  ]
+ },
+ "DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957.pdf": {
+  "pages": 585,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D207-Unresolved_UAP_Report_California-1956.pdf": {
+  "pages": 5,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D086_USNavy-Report-of-Flying-Discs_1948.pdf": {
+  "pages": 3,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D179_Unresolved_UAP_Report_Catalina_Island-1952.pdf": {
+  "pages": 2,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D123_AAWSAP-DIRD-Positron-Aerospace-Propulsion-March-2-2010.pdf": {
+  "pages": 35,
+  "pages_with_boxes": 3,
+  "boxes": 5,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.62,
+      "y": 2.44,
+      "w_in": 1.34,
+      "h_in": 0.22,
+      "fill": 0.959
+     }
+    ]
+   },
+   {
+    "page": 6,
+    "boxes": [
+     {
+      "x": 6.04,
+      "y": 3.52,
+      "w_in": 0.36,
+      "h_in": 2.42,
+      "fill": 1.0
+     },
+     {
+      "x": 5.12,
+      "y": 4.2,
+      "w_in": 0.38,
+      "h_in": 1.74,
+      "fill": 1.0
+     },
+     {
+      "x": 4.2,
+      "y": 4.3,
+      "w_in": 0.38,
+      "h_in": 1.64,
+      "fill": 1.0
+     }
+    ]
+   },
+   {
+    "page": 8,
+    "boxes": [
+     {
+      "x": 2.8,
+      "y": 3.2,
+      "w_in": 0.62,
+      "h_in": 0.1,
+      "fill": 0.948
+     }
+    ]
+   }
+  ]
+ },
+ "FBI-UAP-D012_Newark-Field-Office_1952-1967.pdf": {
+  "pages": 66,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "341_110448_Records_Relating_to_the_Collection_and_Dissemination_of_Intelligence_1948-1955-TS_CONT_No.2_2-5300-2-5399.pdf": {
+  "pages": 7,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D084_USArmy-Flying-Saucer-Study_1949.pdf": {
+  "pages": 25,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D162-Air_Intelligence_Information_Report_Alaska-1953.pdf": {
+  "pages": 4,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D098_Film-Analysis-of-Unidentified-Objects_1953.pdf": {
+  "pages": 23,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D203-Air_Intelligence_Information_Report_California-1957.pdf": {
+  "pages": 10,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D085_Transmission-of-CIA-Scientific-Advisory-Panel-Rept_1953.pdf": {
+  "pages": 7,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D164-Flying_Object_Report_Indiana-1954.pdf": {
+  "pages": 6,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D119_AAWSAP-DIRD-Biomaterials-January-7-2010.pdf": {
+  "pages": 32,
+  "pages_with_boxes": 1,
+  "boxes": 1,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.62,
+      "y": 2.44,
+      "w_in": 1.34,
+      "h_in": 0.22,
+      "fill": 0.959
+     }
+    ]
+   }
+  ]
+ },
+ "DOW-UAP-D151_AAWSAP-DIRD-Cognitive-Limits-on-Simultaneous-Control-of-Multiple-Unmanned-Spacecraft-December-15-2010.pdf": {
+  "pages": 31,
+  "pages_with_boxes": 1,
+  "boxes": 1,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.64,
+      "y": 2.52,
+      "w_in": 1.3,
+      "h_in": 0.22,
+      "fill": 0.976
+     }
+    ]
+   }
+  ]
+ },
+ "DOW-UAP-D130_AAWSAP-DIRD-Technological-Approaches-to-Controlling-External-Devices-March-23-2010.pdf": {
+  "pages": 36,
+  "pages_with_boxes": 1,
+  "boxes": 1,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.62,
+      "y": 2.5,
+      "w_in": 1.34,
+      "h_in": 0.22,
+      "fill": 0.962
+     }
+    ]
+   }
+  ]
+ },
+ "DOW-UAP-D191-Air_Intelligence_Information_Report_Texas-1957.pdf": {
+  "pages": 21,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D154_Transcript-of-a-Presentation-by-Captain-Edward-J-Ruppelt-1952.pdf": {
+  "pages": 19,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D181_Unresolved_UAP_Report_Catalina_Island-1949.pdf": {
+  "pages": 3,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974.pdf": {
+  "pages": 406,
+  "pages_with_boxes": 17,
+  "boxes": 21,
+  "detail": [
+   {
+    "page": 23,
+    "boxes": [
+     {
+      "x": 7.14,
+      "y": 2.08,
+      "w_in": 0.32,
+      "h_in": 0.96,
+      "fill": 0.93
+     }
+    ]
+   },
+   {
+    "page": 29,
+    "boxes": [
+     {
+      "x": 0.92,
+      "y": 2.08,
+      "w_in": 0.34,
+      "h_in": 0.62,
+      "fill": 0.941
+     }
+    ]
+   },
+   {
+    "page": 56,
+    "boxes": [
+     {
+      "x": 7.14,
+      "y": 2.0,
+      "w_in": 0.72,
+      "h_in": 3.0,
+      "fill": 0.923
+     }
+    ]
+   },
+   {
+    "page": 75,
+    "boxes": [
+     {
+      "x": 0.94,
+      "y": 2.04,
+      "w_in": 2.06,
+      "h_in": 3.0,
+      "fill": 0.975
+     }
+    ]
+   },
+   {
+    "page": 76,
+    "boxes": [
+     {
+      "x": 5.36,
+      "y": 5.8,
+      "w_in": 0.32,
+      "h_in": 0.82,
+      "fill": 0.928
+     }
+    ]
+   },
+   {
+    "page": 80,
+    "boxes": [
+     {
+      "x": 5.36,
+      "y": 2.04,
+      "w_in": 0.36,
+      "h_in": 0.56,
+      "fill": 0.935
+     }
+    ]
+   },
+   {
+    "page": 91,
+    "boxes": [
+     {
+      "x": 0.94,
+      "y": 2.04,
+      "w_in": 4.4,
+      "h_in": 2.0,
+      "fill": 0.975
+     },
+     {
+      "x": 5.36,
+      "y": 2.06,
+      "w_in": 2.12,
+      "h_in": 1.98,
+      "fill": 0.993
+     }
+    ]
+   },
+   {
+    "page": 97,
+    "boxes": [
+     {
+      "x": 5.36,
+      "y": 7.62,
+      "w_in": 2.0,
+      "h_in": 0.4,
+      "fill": 0.982
+     }
+    ]
+   },
+   {
+    "page": 144,
+    "boxes": [
+     {
+      "x": 5.36,
+      "y": 4.44,
+      "w_in": 0.38,
+      "h_in": 0.62,
+      "fill": 0.937
+     },
+     {
+      "x": 5.36,
+      "y": 5.24,
+      "w_in": 0.38,
+      "h_in": 0.98,
+      "fill": 0.981
+     }
+    ]
+   },
+   {
+    "page": 163,
+    "boxes": [
+     {
+      "x": 3.1,
+      "y": 7.2,
+      "w_in": 2.24,
+      "h_in": 2.0,
+      "fill": 0.989
+     },
+     {
+      "x": 5.36,
+      "y": 7.2,
+      "w_in": 2.04,
+      "h_in": 2.0,
+      "fill": 0.962
+     }
+    ]
+   },
+   {
+    "page": 164,
+    "boxes": [
+     {
+      "x": 5.36,
+      "y": 4.78,
+      "w_in": 1.44,
+      "h_in": 1.08,
+      "fill": 0.962
+     }
+    ]
+   },
+   {
+    "page": 173,
+    "boxes": [
+     {
+      "x": 5.36,
+      "y": 2.06,
+      "w_in": 2.1,
+      "h_in": 2.0,
+      "fill": 0.983
+     }
+    ]
+   },
+   {
+    "page": 212,
+    "boxes": [
+     {
+      "x": 5.36,
+      "y": 4.68,
+      "w_in": 0.34,
+      "h_in": 0.3,
+      "fill": 0.973
+     }
+    ]
+   },
+   {
+    "page": 258,
+    "boxes": [
+     {
+      "x": 7.14,
+      "y": 2.92,
+      "w_in": 0.74,
+      "h_in": 1.3,
+      "fill": 0.941
+     }
+    ]
+   },
+   {
+    "page": 278,
+    "boxes": [
+     {
+      "x": 3.58,
+      "y": 9.38,
+      "w_in": 3.34,
+      "h_in": 0.42,
+      "fill": 0.998
+     }
+    ]
+   },
+   {
+    "page": 301,
+    "boxes": [
+     {
+      "x": 0.86,
+      "y": 1.96,
+      "w_in": 4.48,
+      "h_in": 3.0,
+      "fill": 0.976
+     },
+     {
+      "x": 5.36,
+      "y": 1.96,
+      "w_in": 2.04,
+      "h_in": 3.0,
+      "fill": 0.978
+     }
+    ]
+   },
+   {
+    "page": 321,
+    "boxes": [
+     {
+      "x": 3.12,
+      "y": 1.96,
+      "w_in": 2.22,
+      "h_in": 3.0,
+      "fill": 0.954
+     }
+    ]
+   }
+  ]
+ },
+ "DOW-UAP-D204-Air_Intelligence_Information_Report_Virginia-1957.pdf": {
+  "pages": 10,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D177_Unresolved_UAP_Report_Catalina_Island-1955.pdf": {
+  "pages": 4,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D133_AAWSAP-DIRD-The-Space-Communication-Implications-of-Quantum-Entanglement-and-Nonlocality-March-30-2010.pdf": {
+  "pages": 32,
+  "pages_with_boxes": 1,
+  "boxes": 1,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.62,
+      "y": 2.5,
+      "w_in": 1.34,
+      "h_in": 0.22,
+      "fill": 0.962
+     }
+    ]
+   }
+  ]
+ },
+ "DOW-UAP-D210_Unresolved_UAP_Report_California-1957.pdf": {
+  "pages": 17,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "CIA-UAP-D025-Proposal_to_Consider_Psychological_Warfare_Implications_of_UFO_Related_Issues-1952.pdf": {
+  "pages": 16,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D097_Project-Sign-Progress-Report_1948.pdf": {
+  "pages": 45,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D147_AAWSAP-DIRD-Ultracapacitors-as-Energy-and-Power-Storage-Devices-November-1-2010.pdf": {
+  "pages": 34,
+  "pages_with_boxes": 1,
+  "boxes": 1,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.64,
+      "y": 2.44,
+      "w_in": 1.32,
+      "h_in": 0.22,
+      "fill": 0.959
+     }
+    ]
+   }
+  ]
+ },
+ "331_120752_Numeric_Files_1944\u20131945_37153_German_Armament_Equipment_Documents.pdf": {
+  "pages": 17,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D194-Air_Intelligence_Information_Report_New_Mexico-1957.pdf": {
+  "pages": 10,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D126_AAWSAP-DIRD-Advanced-Nuclear-Propulsion-for-Manned-Deep-Space-Missions-March-11-2010.pdf": {
+  "pages": 37,
+  "pages_with_boxes": 1,
+  "boxes": 1,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.62,
+      "y": 2.44,
+      "w_in": 1.34,
+      "h_in": 0.22,
+      "fill": 0.959
+     }
+    ]
+   }
+  ]
+ },
+ "DOW-UAP-D209_Unresolved_UAP_Report_California-1955.pdf": {
+  "pages": 4,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "FBI-UAP-D011_DFBI-Correspondence-Referral_1949.pdf": {
+  "pages": 4,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954.pdf": {
+  "pages": 298,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D161-Air_Intelligence_Information_Report_Alaska-1953.pdf": {
+  "pages": 4,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D197-Air_Intelligence_Information_Report_Michigan-1957.pdf": {
+  "pages": 7,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D137_AAWSAP-DIRD-State-of-the-Art-and-Evolution-of-High-Energy-Lasers-March-31-2010.pdf": {
+  "pages": 31,
+  "pages_with_boxes": 1,
+  "boxes": 1,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.64,
+      "y": 2.5,
+      "w_in": 1.28,
+      "h_in": 0.22,
+      "fill": 0.97
+     }
+    ]
+   }
+  ]
+ },
+ "DOW-UAP-D153_AAWSAP-DIRD-Quantum-Tomography-of-Negative-Energy-States-in-the-Vacuum-January-11-2011.pdf": {
+  "pages": 51,
+  "pages_with_boxes": 2,
+  "boxes": 3,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 1.1,
+      "y": 2.44,
+      "w_in": 1.32,
+      "h_in": 0.22,
+      "fill": 0.97
+     }
+    ]
+   },
+   {
+    "page": 44,
+    "boxes": [
+     {
+      "x": 2.58,
+      "y": 5.7,
+      "w_in": 1.1,
+      "h_in": 0.22,
+      "fill": 1.0
+     },
+     {
+      "x": 4.06,
+      "y": 5.7,
+      "w_in": 1.1,
+      "h_in": 0.22,
+      "fill": 0.998
+     }
+    ]
+   }
+  ]
+ },
+ "DOW-UAP-D201-Air_Intelligence_Information_Report_Iran-1957.pdf": {
+  "pages": 3,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D189-Air_Intelligence_Information_Report_Virginia-1957.pdf": {
+  "pages": 5,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D159-Air_Intelligence_Information_Report_Germany-1953.pdf": {
+  "pages": 2,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D148_AAWSAP-DIRD-Detection-and-High-Resolution-Tracking-of-Vehicles-at-Hypersonic-Velocities-November-20-2010.pdf": {
+  "pages": 46,
+  "pages_with_boxes": 1,
+  "boxes": 1,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.9,
+      "y": 2.42,
+      "w_in": 1.34,
+      "h_in": 0.26,
+      "fill": 0.967
+     }
+    ]
+   }
+  ]
+ },
+ "DOW-UAP-D145_AAWSAP-DIRD-Aneutronic-Fusion-Propulsion-I-November-1-2010.pdf": {
+  "pages": 50,
+  "pages_with_boxes": 1,
+  "boxes": 1,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.6,
+      "y": 2.42,
+      "w_in": 1.36,
+      "h_in": 0.26,
+      "fill": 0.957
+     }
+    ]
+   }
+  ]
+ },
+ "DOW-UAP-D142_AAWSAP-DIRD-Concepts-for-Extracting-Energy-from-the-Quantum-Vacuum-April-6-2010.pdf": {
+  "pages": 57,
+  "pages_with_boxes": 1,
+  "boxes": 1,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.64,
+      "y": 2.5,
+      "w_in": 1.28,
+      "h_in": 0.22,
+      "fill": 0.97
+     }
+    ]
+   }
+  ]
+ },
+ "DOW-UAP-D150_AAWSAP-DIRD-Quantum-Computing-and-Utilizing-Organic-Molecules-in-Automation-Technology-December-10-2010.pdf": {
+  "pages": 54,
+  "pages_with_boxes": 3,
+  "boxes": 4,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.62,
+      "y": 2.44,
+      "w_in": 1.34,
+      "h_in": 0.22,
+      "fill": 0.959
+     }
+    ]
+   },
+   {
+    "page": 29,
+    "boxes": [
+     {
+      "x": 4.24,
+      "y": 4.28,
+      "w_in": 0.52,
+      "h_in": 0.14,
+      "fill": 0.929
+     }
+    ]
+   },
+   {
+    "page": 41,
+    "boxes": [
+     {
+      "x": 1.5,
+      "y": 4.3,
+      "w_in": 0.42,
+      "h_in": 0.12,
+      "fill": 1.0
+     },
+     {
+      "x": 1.5,
+      "y": 5.76,
+      "w_in": 0.42,
+      "h_in": 0.12,
+      "fill": 1.0
+     }
+    ]
+   }
+  ]
+ },
+ "CIA-UAP-D029-Official_Diary_Entry_on_Flying_Saucers-1952.pdf": {
+  "pages": 2,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D192-Air_Intelligence_Information_Report_Nebraska-1957.pdf": {
+  "pages": 10,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D118_AAWSAP-DIRD-Aerospace-Applications-of-Programmable-Matter-December-14-2009.pdf": {
+  "pages": 20,
+  "pages_with_boxes": 1,
+  "boxes": 1,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.62,
+      "y": 2.44,
+      "w_in": 1.32,
+      "h_in": 0.22,
+      "fill": 0.972
+     }
+    ]
+   }
+  ]
+ },
+ "DOW-UAP-D157-Air-Intelligence_Information-Report-Italy-1953.pdf": {
+  "pages": 5,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D103_Project-Blue-Book-Photo-File-Relating-to-Tremonton-Film-Utah-1952.pdf": {
+  "pages": 5,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D156-Air_Intelligence_Information_Report_Guam-1956.pdf": {
+  "pages": 5,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D196-Air_Intelligence_Information_Report_Washington-1957.pdf": {
+  "pages": 6,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D160-Air_Intelligence_Information_Report_Morocco-1953.pdf": {
+  "pages": 3,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D198-Air_Intelligence_Information_Report_Japan-1957.pdf": {
+  "pages": 4,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D094_Analysis-of-Flying-Object-Incidents-in-the-US_1949.pdf": {
+  "pages": 34,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D144_AAWSAP-DIRD-Cockpits-in-the-Era-of-Breakthrough-Flight-November-1-2010.pdf": {
+  "pages": 57,
+  "pages_with_boxes": 1,
+  "boxes": 1,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.64,
+      "y": 2.44,
+      "w_in": 1.3,
+      "h_in": 0.22,
+      "fill": 0.961
+     }
+    ]
+   }
+  ]
+ },
+ "DOW-UAP-D099_Intelligence-Review-of-Ghost-Rocket-Incidents_1947.pdf": {
+  "pages": 8,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D206_Unresolved_UAP_Report_California-1953.pdf": {
+  "pages": 15,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "18_6369445_General_1948_Vol_1.pdf": {
+  "pages": 28,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D193-Air_Intelligence_Information_Report_New_Mexico-1957.pdf": {
+  "pages": 8,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "CIA-UAP-002_Scientific-Advisory-Panel-on-Unidentified-Flying-Objects_Report_1952-1953.pdf": {
+  "pages": 42,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D093_Analysis-of-Flying-Object-Incidents-in-the-US_1948.pdf": {
+  "pages": 67,
+  "pages_with_boxes": 1,
+  "boxes": 2,
+  "detail": [
+   {
+    "page": 26,
+    "boxes": [
+     {
+      "x": 8.92,
+      "y": 0.72,
+      "w_in": 0.56,
+      "h_in": 2.26,
+      "fill": 0.93
+     },
+     {
+      "x": 10.36,
+      "y": 3.74,
+      "w_in": 0.62,
+      "h_in": 0.26,
+      "fill": 0.945
+     }
+    ]
+   }
+  ]
+ },
+ "CIA-UAP-D021_Analysis-of-Unconventional-Aircraft-Sightings_1955.pdf": {
+  "pages": 4,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D131_AAWSAP-DIRD-The-Role-of-Superconductors-in-Gravity-Research-March-23-2010.pdf": {
+  "pages": 16,
+  "pages_with_boxes": 1,
+  "boxes": 1,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.62,
+      "y": 2.5,
+      "w_in": 1.34,
+      "h_in": 0.22,
+      "fill": 0.962
+     }
+    ]
+   }
+  ]
+ },
+ "DOW-UAP-D152_AAWSAP-DIRD-Negative-Mass-Propulsion-January-3-2011.pdf": {
+  "pages": 43,
+  "pages_with_boxes": 1,
+  "boxes": 1,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.66,
+      "y": 2.44,
+      "w_in": 1.28,
+      "h_in": 0.22,
+      "fill": 0.97
+     }
+    ]
+   }
+  ]
+ },
+ "DOW-UAP-D105_US-Air-Force-Flying-Discs-File-September-December-1952.pdf": {
+  "pages": 253,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D195-Air_Intelligence_Information_Report_New_Mexico-1957.pdf": {
+  "pages": 7,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "CIA-UAP-D024-Approval_in_Principle_Research_Concerned_with_UFOs-1952.pdf": {
+  "pages": 4,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D138_AAWSAP-DIRD-Warp-Drive-Dark-Energy-and-the-Manipulation-of-Extra-Dimensions-April-2-2010.pdf": {
+  "pages": 33,
+  "pages_with_boxes": 1,
+  "boxes": 1,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.62,
+      "y": 2.5,
+      "w_in": 1.34,
+      "h_in": 0.22,
+      "fill": 0.962
+     }
+    ]
+   }
+  ]
+ },
+ "DOW-UAP-D205_Air_Intelligence_Information_Report_Japan-1956.pdf": {
+  "pages": 5,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D132_AAWSAP-DIRD-Advanced-Space-Propulsion-Based-on-Vacuum-Spacetime Metric-Engineering-March-29-2010.pdf": {
+  "pages": 17,
+  "pages_with_boxes": 2,
+  "boxes": 2,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.62,
+      "y": 2.5,
+      "w_in": 1.34,
+      "h_in": 0.22,
+      "fill": 0.962
+     }
+    ]
+   },
+   {
+    "page": 16,
+    "boxes": [
+     {
+      "x": 1.04,
+      "y": 3.5,
+      "w_in": 6.12,
+      "h_in": 0.42,
+      "fill": 0.935
+     }
+    ]
+   }
+  ]
+ },
+ "DOW-UAP-D125_AAWSA-DIRD-Inertial-Electrostatic-Confinement-Fusion-March-10-2010.pdf": {
+  "pages": 72,
+  "pages_with_boxes": 1,
+  "boxes": 1,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.62,
+      "y": 2.44,
+      "w_in": 1.34,
+      "h_in": 0.22,
+      "fill": 0.962
+     }
+    ]
+   }
+  ]
+ },
+ "DOW-UAP-D199-Air_Intelligence_Information_Report_Iran-1957.pdf": {
+  "pages": 3,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D121_AAWSAP-DIRD-Pulsed-High-Power-Microwave-Source-Technology-January-28-2010.pdf": {
+  "pages": 37,
+  "pages_with_boxes": 2,
+  "boxes": 2,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.62,
+      "y": 2.44,
+      "w_in": 1.34,
+      "h_in": 0.22,
+      "fill": 0.959
+     }
+    ]
+   },
+   {
+    "page": 29,
+    "boxes": [
+     {
+      "x": 1.04,
+      "y": 6.2,
+      "w_in": 6.12,
+      "h_in": 2.9,
+      "fill": 0.938
+     }
+    ]
+   }
+  ]
+ },
+ "DOW-UAP-D143_AAWSAP-DIRD-Laser-Lightcraft-Nanosatellites-November-1-2010.pdf": {
+  "pages": 77,
+  "pages_with_boxes": 2,
+  "boxes": 2,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.66,
+      "y": 2.44,
+      "w_in": 1.28,
+      "h_in": 0.22,
+      "fill": 0.967
+     }
+    ]
+   },
+   {
+    "page": 19,
+    "boxes": [
+     {
+      "x": 5.28,
+      "y": 6.58,
+      "w_in": 0.42,
+      "h_in": 0.12,
+      "fill": 0.984
+     }
+    ]
+   }
+  ]
+ },
+ "DOW-UAP-D200-Air_Intelligence_Information_Report_Peru-1957.pdf": {
+  "pages": 3,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D141_AAWSAP-DIRD-Metamaterials-for-Aerospace-Applications-April-6-2010.pdf": {
+  "pages": 38,
+  "pages_with_boxes": 5,
+  "boxes": 8,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.64,
+      "y": 2.5,
+      "w_in": 1.28,
+      "h_in": 0.22,
+      "fill": 0.97
+     }
+    ]
+   },
+   {
+    "page": 6,
+    "boxes": [
+     {
+      "x": 1.5,
+      "y": 1.96,
+      "w_in": 2.12,
+      "h_in": 0.14,
+      "fill": 0.949
+     }
+    ]
+   },
+   {
+    "page": 13,
+    "boxes": [
+     {
+      "x": 3.9,
+      "y": 8.16,
+      "w_in": 0.5,
+      "h_in": 0.3,
+      "fill": 1.0
+     }
+    ]
+   },
+   {
+    "page": 16,
+    "boxes": [
+     {
+      "x": 3.94,
+      "y": 2.0,
+      "w_in": 0.54,
+      "h_in": 0.54,
+      "fill": 0.997
+     },
+     {
+      "x": 4.74,
+      "y": 2.0,
+      "w_in": 0.54,
+      "h_in": 0.54,
+      "fill": 1.0
+     },
+     {
+      "x": 5.66,
+      "y": 2.24,
+      "w_in": 1.34,
+      "h_in": 1.02,
+      "fill": 0.942
+     },
+     {
+      "x": 3.94,
+      "y": 2.74,
+      "w_in": 0.6,
+      "h_in": 0.52,
+      "fill": 0.96
+     }
+    ]
+   },
+   {
+    "page": 35,
+    "boxes": [
+     {
+      "x": 3.0,
+      "y": 3.26,
+      "w_in": 0.7,
+      "h_in": 0.14,
+      "fill": 1.0
+     }
+    ]
+   }
+  ]
+ },
+ "18_100754_ General 1946-7_Vol_2.pdf": {
+  "pages": 28,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D146_AAWSAP-DIRD-Aneutronic-Fusion-Propulsion-II-November-1-2010.pdf": {
+  "pages": 36,
+  "pages_with_boxes": 1,
+  "boxes": 1,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.64,
+      "y": 2.44,
+      "w_in": 1.32,
+      "h_in": 0.22,
+      "fill": 0.967
+     }
+    ]
+   }
+  ]
+ },
+ "DOW-UAP-D213-Unresolved_UAP_Report_California-1949.pdf": {
+  "pages": 17,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D135_ AAWSAP-DIRD-Antigravity-for-Aerospace-Applications-March-30-2010-V2.pdf": {
+  "pages": 44,
+  "pages_with_boxes": 1,
+  "boxes": 1,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.64,
+      "y": 2.66,
+      "w_in": 1.28,
+      "h_in": 0.22,
+      "fill": 0.977
+     }
+    ]
+   }
+  ]
+ },
+ "CIA-UAP-D027-Office_of_Scientific_Intelligence_Briefing_on_Flying_Saucers-1952.pdf": {
+  "pages": 11,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D158-Flying_Object_Report_Canada-1953.pdf": {
+  "pages": 4,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D139_AAWSAP-DIRD-Traversable-Wormholes-Stargates-and-Negative-Energy-April-6-2010.pdf": {
+  "pages": 42,
+  "pages_with_boxes": 1,
+  "boxes": 1,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.64,
+      "y": 2.5,
+      "w_in": 1.28,
+      "h_in": 0.22,
+      "fill": 0.97
+     }
+    ]
+   }
+  ]
+ },
+ "DOW-UAP-D127_AAWSAP-DIRD-An-Introduction-to-the-Statistical-Drake-Equation-March-11-2010.pdf": {
+  "pages": 55,
+  "pages_with_boxes": 1,
+  "boxes": 1,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 1.12,
+      "y": 2.5,
+      "w_in": 1.3,
+      "h_in": 0.22,
+      "fill": 0.95
+     }
+    ]
+   }
+  ]
+ },
+ "DOE-UAP-D004_Los-Alamos-Conference-on-Aerial-Phenomena_1949.pdf": {
+  "pages": 25,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D100_Air-Materiel-Command-Report-on-UFOs_1947-1948.pdf": {
+  "pages": 245,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "FBI-UAP-D013_WA-UFO-Investigation_1952-1960.pdf": {
+  "pages": 55,
+  "pages_with_boxes": 1,
+  "boxes": 1,
+  "detail": [
+   {
+    "page": 2,
+    "boxes": [
+     {
+      "x": 4.6,
+      "y": 1.0,
+      "w_in": 0.3,
+      "h_in": 1.34,
+      "fill": 0.984
+     }
+    ]
+   }
+  ]
+ },
+ "DOW-UAP-D202-Air_Intelligence_Information_Report_Peru-1957.pdf": {
+  "pages": 6,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D178_Unresolved_UAP_Report_Catalina_Island-1953.pdf": {
+  "pages": 5,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D190-Air_Intelligence_Information_Report_Massachusetts-1957.pdf": {
+  "pages": 8,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D211_Unresolved_UAP_Report_California-1956.pdf": {
+  "pages": 3,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D128_AAWSAP-DIRD-Anomalous-Acute-and-Subacute-Field-Effects-on-Human-Biological-Tissues-March-11-2010.pdf": {
+  "pages": 38,
+  "pages_with_boxes": 3,
+  "boxes": 7,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.64,
+      "y": 2.5,
+      "w_in": 1.28,
+      "h_in": 0.22,
+      "fill": 0.97
+     }
+    ]
+   },
+   {
+    "page": 37,
+    "boxes": [
+     {
+      "x": 2.62,
+      "y": 5.8,
+      "w_in": 7.34,
+      "h_in": 0.1,
+      "fill": 1.0
+     }
+    ]
+   },
+   {
+    "page": 38,
+    "boxes": [
+     {
+      "x": 2.62,
+      "y": 1.4,
+      "w_in": 7.34,
+      "h_in": 0.14,
+      "fill": 0.991
+     },
+     {
+      "x": 2.62,
+      "y": 2.84,
+      "w_in": 7.34,
+      "h_in": 0.12,
+      "fill": 1.0
+     },
+     {
+      "x": 2.62,
+      "y": 3.1,
+      "w_in": 7.34,
+      "h_in": 0.12,
+      "fill": 1.0
+     },
+     {
+      "x": 2.62,
+      "y": 4.26,
+      "w_in": 7.34,
+      "h_in": 0.12,
+      "fill": 1.0
+     },
+     {
+      "x": 2.62,
+      "y": 4.64,
+      "w_in": 7.34,
+      "h_in": 0.12,
+      "fill": 1.0
+     }
+    ]
+   }
+  ]
+ },
+ "CIA-UAP-D028-Assessment_of_National_Security_Issues_Relating_to_Flying_Saucers-1952.pdf": {
+  "pages": 4,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D122_AAWSAP-DIRD-Invisibility-Cloaking-Theory-and-Experiments-March-2-2010.pdf": {
+  "pages": 29,
+  "pages_with_boxes": 3,
+  "boxes": 3,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.62,
+      "y": 2.44,
+      "w_in": 1.34,
+      "h_in": 0.22,
+      "fill": 0.959
+     }
+    ]
+   },
+   {
+    "page": 7,
+    "boxes": [
+     {
+      "x": 3.72,
+      "y": 7.6,
+      "w_in": 0.5,
+      "h_in": 0.16,
+      "fill": 0.93
+     }
+    ]
+   },
+   {
+    "page": 9,
+    "boxes": [
+     {
+      "x": 1.58,
+      "y": 4.02,
+      "w_in": 0.68,
+      "h_in": 1.34,
+      "fill": 0.954
+     }
+    ]
+   }
+  ]
+ },
+ "DOW-UAP-D129_AAWSAP-DIRD-Metallic-Spintronics-March-23-2010.pdf": {
+  "pages": 27,
+  "pages_with_boxes": 3,
+  "boxes": 6,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.62,
+      "y": 2.44,
+      "w_in": 1.34,
+      "h_in": 0.22,
+      "fill": 0.962
+     }
+    ]
+   },
+   {
+    "page": 10,
+    "boxes": [
+     {
+      "x": 6.48,
+      "y": 5.74,
+      "w_in": 0.38,
+      "h_in": 0.16,
+      "fill": 1.0
+     },
+     {
+      "x": 2.96,
+      "y": 5.8,
+      "w_in": 0.4,
+      "h_in": 0.12,
+      "fill": 0.933
+     }
+    ]
+   },
+   {
+    "page": 20,
+    "boxes": [
+     {
+      "x": 6.28,
+      "y": 4.3,
+      "w_in": 0.4,
+      "h_in": 0.38,
+      "fill": 0.924
+     },
+     {
+      "x": 6.26,
+      "y": 4.74,
+      "w_in": 0.42,
+      "h_in": 0.38,
+      "fill": 0.98
+     },
+     {
+      "x": 6.24,
+      "y": 5.2,
+      "w_in": 0.42,
+      "h_in": 0.4,
+      "fill": 0.924
+     }
+    ]
+   }
+  ]
+ },
+ "CIA-UAP-D026-Summary_Assessment_of_Flying_Saucers-1952.pdf": {
+  "pages": 3,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D095_Joint-US-Canadian-Aviation-Projects-and-UFO-Sighting-Reports_1954-1955.pdf": {
+  "pages": 57,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D124_AAWSAP-DIRD-Space Access-Where-Weve-Been-and-Where-We-Could-Go-March-8-2010.pdf": {
+  "pages": 56,
+  "pages_with_boxes": 1,
+  "boxes": 1,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.62,
+      "y": 2.44,
+      "w_in": 1.34,
+      "h_in": 0.22,
+      "fill": 0.959
+     }
+    ]
+   }
+  ]
+ },
+ "DOW-UAP-D134_AAWSAP-DIRD-Maverick-Inventor-Versus-Corporate-Inventor-Where-Will-the-Next-Major-Innovations-Arise-March-30-2010.pdf": {
+  "pages": 19,
+  "pages_with_boxes": 1,
+  "boxes": 1,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.66,
+      "y": 2.5,
+      "w_in": 1.28,
+      "h_in": 0.22,
+      "fill": 0.98
+     }
+    ]
+   }
+  ]
+ },
+ "DOW-UAP-D140_AAWSAP-DIRD-High-Frequency-Gravitational-Wave-Communications-April-6-2010.pdf": {
+  "pages": 57,
+  "pages_with_boxes": 1,
+  "boxes": 1,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.64,
+      "y": 2.5,
+      "w_in": 1.28,
+      "h_in": 0.22,
+      "fill": 0.97
+     }
+    ]
+   }
+  ]
+ },
+ "DOW-UAP-D155-Air_Intelligence_Information_Report_Saudi_Arabia-1957.pdf": {
+  "pages": 5,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D096_Correspondence-Relating-to-Project-Blue-Book_1955.pdf": {
+  "pages": 220,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "CIA-UAP-D020_Memorandum-on-Unconventional-Aircraft-Sightings_1955.pdf": {
+  "pages": 3,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ },
+ "DOW-UAP-D149_AAWSAP-DIRD-MHD-Air-Breathing-Propulsion-and-Power-for-Aerospace-Applications-November-21-2010.pdf": {
+  "pages": 32,
+  "pages_with_boxes": 1,
+  "boxes": 1,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.64,
+      "y": 2.6,
+      "w_in": 1.32,
+      "h_in": 0.24,
+      "fill": 0.965
+     }
+    ]
+   }
+  ]
+ },
+ "DOW-UAP-D117_AAWSAP-DIRD-Metallic-Glasses-for-Aerospace-Applications-December-14-2009.pdf": {
+  "pages": 30,
+  "pages_with_boxes": 1,
+  "boxes": 1,
+  "detail": [
+   {
+    "page": 1,
+    "boxes": [
+     {
+      "x": 0.62,
+      "y": 2.44,
+      "w_in": 1.34,
+      "h_in": 0.22,
+      "fill": 0.962
+     }
+    ]
+   }
+  ]
+ },
+ "342_HS1-416511228_box186_319.1-Flying-Discs-1949.pdf": {
+  "pages": 143,
+  "pages_with_boxes": 0,
+  "boxes": 0,
+  "detail": []
+ }
+}

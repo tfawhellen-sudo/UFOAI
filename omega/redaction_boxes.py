@@ -61,6 +61,14 @@ def scan(pdf):
         res = []
         for k, p in enumerate(pages, 1):
             b = boxes_on_page(os.path.join(td, p))
+            if b and os.environ.get("BOX_CROPS"):
+                im = Image.open(os.path.join(td, p))
+                for m, x in enumerate(b):
+                    pad = 0.4
+                    box = [max(0, int((x["x"] - pad) * DPI)), max(0, int((x["y"] - pad) * DPI)),
+                           int((x["x"] + x["w_in"] + pad) * DPI), int((x["y"] + x["h_in"] + pad) * DPI)]
+                    im.crop(box).save(os.path.join(os.environ["BOX_CROPS"],
+                                      f"{os.path.basename(pdf)[:12]}_p{k}_{m}.png"))
             if b:
                 res.append({"page": k, "boxes": b})
         return len(pages), res
