@@ -1,0 +1,110 @@
+{
+ "AustralianUFOFiles": {
+  "files": 82,
+  "MB_text": 13.85,
+  "radar_hits": 1078,
+  "radar_docs": 62,
+  "trace_hits": 470,
+  "trace_docs": 51,
+  "photo_hits": 1569,
+  "photo_docs": 64,
+  "injury_hits": 236,
+  "injury_docs": 50
+ },
+ "BrazilianUFOFiles": {
+  "files": 231,
+  "MB_text": 6.34,
+  "radar_hits": 658,
+  "radar_docs": 54,
+  "trace_hits": 85,
+  "trace_docs": 47,
+  "photo_hits": 1529,
+  "photo_docs": 178,
+  "injury_hits": 48,
+  "injury_docs": 18
+ },
+ "CanadaUFO": {
+  "files": 30,
+  "MB_text": 9.9,
+  "radar_hits": 387,
+  "radar_docs": 30,
+  "trace_hits": 275,
+  "trace_docs": 28,
+  "photo_hits": 640,
+  "photo_docs": 30,
+  "injury_hits": 545,
+  "injury_docs": 30
+ },
+ "DanishUFOFiles": {
+  "files": 1,
+  "MB_text": 0.46,
+  "radar_hits": 17,
+  "radar_docs": 1,
+  "trace_hits": 200,
+  "trace_docs": 1,
+  "photo_hits": 7,
+  "photo_docs": 1,
+  "injury_hits": 0,
+  "injury_docs": 0
+ },
+ "FrenchUFOFiles": {
+  "files": 35,
+  "MB_text": 2.16,
+  "radar_hits": 46,
+  "radar_docs": 9,
+  "trace_hits": 409,
+  "trace_docs": 22,
+  "photo_hits": 272,
+  "photo_docs": 23,
+  "injury_hits": 5,
+  "injury_docs": 5
+ },
+ "IrishUFOFiles": {
+  "files": 1,
+  "MB_text": 0.04,
+  "radar_hits": 4,
+  "radar_docs": 1,
+  "trace_hits": 0,
+  "trace_docs": 0,
+  "photo_hits": 0,
+  "photo_docs": 0,
+  "injury_hits": 0,
+  "injury_docs": 0
+ },
+ "NewZealandUFO": {
+  "files": 9,
+  "MB_text": 3.24,
+  "radar_hits": 927,
+  "radar_docs": 8,
+  "trace_hits": 42,
+  "trace_docs": 8,
+  "photo_hits": 404,
+  "photo_docs": 9,
+  "injury_hits": 43,
+  "injury_docs": 8
+ },
+ "SpanishUFOFiles": {
+  "files": 80,
+  "MB_text": 1.92,
+  "radar_hits": 253,
+  "radar_docs": 40,
+  "trace_hits": 55,
+  "trace_docs": 12,
+  "photo_hits": 133,
+  "photo_docs": 24,
+  "injury_hits": 28,
+  "injury_docs": 8
+ },
+ "SwedishGhostRockets": {
+  "files": 1779,
+  "MB_text": 1.83,
+  "radar_hits": 58,
+  "radar_docs": 11,
+  "trace_hits": 200,
+  "trace_docs": 129,
+  "photo_hits": 10,
+  "photo_docs": 9,
+  "injury_hits": 2,
+  "injury_docs": 2
+ }
+}

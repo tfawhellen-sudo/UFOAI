@@ -862,3 +862,9 @@ mechanism at trace sites.**
 13 FOIA letters drafted, not filed: `omega/reports/foia_request_drafts.md`.
 **New targets from this session:** DOW-UAP-D66–D73; NASA-UAP-D3 and D23–D29;
 and a French **CADA** request for the undisclosed D-case dossiers (§1.3).
+
+## SESSION 6 UPDATE (2026-11-26, branch claude/project-thread-j9gkki)
+Foreign government archives. Read omega/reports/foreign_archives_survey.md.
+- Official hosts blocked; archive.org /stream/<ID>/<file>_djvu.txt works (download data nodes blocked, so no page-level cites).
+- Brazil 19-20 May 1986: 1/4 sorties with ground plot + airborne paint + visual (JB 17, single paint). FAB summary: plots never formed tracks; Anapolis vs Gama radars disagreed.
+- Canada NRC 1967-78: evening-Venus RR 1.22/10deg (1.07-1.40), perm p 0.053, morning placebo 1.02. Replicate on Australia next.

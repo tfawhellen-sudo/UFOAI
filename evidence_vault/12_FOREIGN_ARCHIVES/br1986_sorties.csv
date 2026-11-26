@@ -1,0 +1,6 @@
+callsign,base,source_file,ground_radar_plot,airborne_radar_contact,visual_contact,all_three_simultaneous,notes
+JB 17,Santa Cruz,src/BR_CENDOC_ENVELOPE_08_1986.txt (COpM I report + Ten Kleber Caldas Marinho report),Y,Y (once; 10-12 NM),Y (white light),Y (single paint only),No closure; DME/VOR indications out of range
+JB 07,Santa Cruz,src/BR_CENDOC_ENVELOPE_08_1986.txt (COpM I report),Y,N (not stated),Y (red light went out),N,13 plots on tail; turned 180 and saw/detected nothing. Pilot identity = Cap Jordao is INFERRED from matching narrative
+JG 116,Anapolis,src/BR_CENDOC_ENVELOPE_08_1986.txt (COpM I report),Y (TA-10 Anapolis only; COpM I had none),Y (JUDITE all 5 presentations),N,N,Min distance 2 NM; target receded at speed
+JG 98,Anapolis,src/BR_CENDOC_ENVELOPE_08_1986.txt (COpM I report),-,-,-,N,No presentation
+JG 107,Anapolis,src/BR_CENDOC_ENVELOPE_08_1986.txt (COpM I report + telex + 3rd-alert report),Y (vectored to within 1 NM),N,N,N,Telex: neither JUDITE nor visual on several crossings. Match of 3rd-alert report to JG 107 is INFERRED
