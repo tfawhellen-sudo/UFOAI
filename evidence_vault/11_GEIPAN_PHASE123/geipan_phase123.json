@@ -1,0 +1,2807 @@
+{
+ "n_cases": 3404,
+ "class_counts": {
+  "C": 1020,
+  "D": 106,
+  "A": 955,
+  "B": 1323
+ },
+ "phase1a_internal": {
+  "30km": {
+   "events": 3379,
+   "collapse": 1.007,
+   "largest": [
+    3,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2
+   ],
+   "by_class": {
+    "A": {
+     "cases": 955,
+     "events": 950,
+     "collapse": 1.005,
+     "in_multicase_cluster": 19,
+     "frac_multi": 0.02
+    },
+    "B": {
+     "cases": 1323,
+     "events": 1316,
+     "collapse": 1.005,
+     "in_multicase_cluster": 24,
+     "frac_multi": 0.018
+    },
+    "C": {
+     "cases": 1020,
+     "events": 1020,
+     "collapse": 1.0,
+     "in_multicase_cluster": 6,
+     "frac_multi": 0.006
+    },
+    "D": {
+     "cases": 106,
+     "events": 106,
+     "collapse": 1.0,
+     "in_multicase_cluster": 0,
+     "frac_multi": 0.0
+    }
+   },
+   "top_clusters": [
+    {
+     "n": 3,
+     "date": "17/03/1997",
+     "classes": {
+      "A": 1,
+      "B": 2
+     },
+     "phen": [
+      [
+       "Sirius",
+       1
+      ],
+      [
+       "Satellite",
+       1
+      ]
+     ]
+    },
+    {
+     "n": 2,
+     "date": "30/05/1993",
+     "classes": {
+      "A": 1,
+      "B": 1
+     },
+     "phen": [
+      [
+       "Vénus",
+       1
+      ],
+      [
+       "Avion de ligne",
+       1
+      ]
+     ]
+    },
+    {
+     "n": 2,
+     "date": "05/04/1980",
+     "classes": {
+      "B": 1,
+      "A": 1
+     },
+     "phen": [
+      [
+       "Météoroïde",
+       2
+      ]
+     ]
+    },
+    {
+     "n": 2,
+     "date": "05/01/1984",
+     "classes": {
+      "C": 1,
+      "A": 1
+     },
+     "phen": [
+      [
+       "Manque d'informations fiables",
+       1
+      ],
+      [
+       "Astronomique",
+       1
+      ]
+     ]
+    },
+    {
+     "n": 2,
+     "date": "31/07/1994",
+     "classes": {
+      "A": 1,
+      "B": 1
+     },
+     "phen": [
+      [
+       "Phénomène identifié non indiqué",
+       1
+      ],
+      [
+       "Ballon d enfant",
+       1
+      ]
+     ]
+    },
+    {
+     "n": 2,
+     "date": "31/12/1994",
+     "classes": {
+      "B": 1,
+      "C": 1
+     },
+     "phen": [
+      [
+       "Vénus",
+       1
+      ],
+      [
+       "Manque d'informations fiables",
+       1
+      ]
+     ]
+    },
+    {
+     "n": 2,
+     "date": "12/09/1998",
+     "classes": {
+      "A": 1,
+      "C": 1
+     },
+     "phen": [
+      [
+       "Avion",
+       1
+      ],
+      [
+       "Manque d'informations fiables",
+       1
+      ]
+     ]
+    },
+    {
+     "n": 2,
+     "date": "30/06/2007",
+     "classes": {
+      "A": 2
+     },
+     "phen": [
+      [
+       "Ballon",
+       2
+      ]
+     ]
+    }
+   ]
+  },
+  "100km": {
+   "events": 3336,
+   "collapse": 1.02,
+   "largest": [
+    4,
+    3,
+    3,
+    3,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2
+   ],
+   "by_class": {
+    "A": {
+     "cases": 955,
+     "events": 942,
+     "collapse": 1.014,
+     "in_multicase_cluster": 42,
+     "frac_multi": 0.044
+    },
+    "B": {
+     "cases": 1323,
+     "events": 1304,
+     "collapse": 1.015,
+     "in_multicase_cluster": 61,
+     "frac_multi": 0.046
+    },
+    "C": {
+     "cases": 1020,
+     "events": 1017,
+     "collapse": 1.003,
+     "in_multicase_cluster": 25,
+     "frac_multi": 0.025
+    },
+    "D": {
+     "cases": 106,
+     "events": 106,
+     "collapse": 1.0,
+     "in_multicase_cluster": 3,
+     "frac_multi": 0.028
+    }
+   },
+   "top_clusters": [
+    {
+     "n": 4,
+     "date": "17/03/1997",
+     "classes": {
+      "A": 1,
+      "B": 3
+     },
+     "phen": [
+      [
+       "Sirius",
+       1
+      ],
+      [
+       "Rentrée atmosphérique",
+       1
+      ]
+     ]
+    },
+    {
+     "n": 3,
+     "date": "19/11/2009",
+     "classes": {
+      "A": 2,
+      "C": 1
+     },
+     "phen": [
+      [
+       "ISS",
+       2
+      ],
+      [
+       "Manque d'informations fiables",
+       1
+      ]
+     ]
+    },
+    {
+     "n": 3,
+     "date": "22/08/2012",
+     "classes": {
+      "A": 3
+     },
+     "phen": [
+      [
+       "ISS",
+       3
+      ]
+     ]
+    },
+    {
+     "n": 3,
+     "date": "22/06/2025",
+     "classes": {
+      "A": 1,
+      "B": 2
+     },
+     "phen": [
+      [
+       "Ballon",
+       2
+      ],
+      [
+       "Lanterne thai",
+       1
+      ]
+     ]
+    },
+    {
+     "n": 2,
+     "date": "04/11/1977",
+     "classes": {
+      "C": 2
+     },
+     "phen": [
+      [
+       "Manque d'informations fiables",
+       2
+      ]
+     ]
+    },
+    {
+     "n": 2,
+     "date": "13/01/1979",
+     "classes": {
+      "C": 1,
+      "A": 1
+     },
+     "phen": [
+      [
+       "Manque d'informations fiables",
+       1
+      ],
+      [
+       "Phénomène identifié non indiqué",
+       1
+      ]
+     ]
+    },
+    {
+     "n": 2,
+     "date": "30/05/1993",
+     "classes": {
+      "A": 1,
+      "B": 1
+     },
+     "phen": [
+      [
+       "Vénus",
+       1
+      ],
+      [
+       "Avion de ligne",
+       1
+      ]
+     ]
+    },
+    {
+     "n": 2,
+     "date": "17/02/1980",
+     "classes": {
+      "B": 1,
+      "C": 1
+     },
+     "phen": [
+      [
+       "Avion de ligne",
+       1
+      ],
+      [
+       "Manque d'informations fiables",
+       1
+      ]
+     ]
+    }
+   ]
+  },
+  "same_day_same_explanation_ge3": [
+   {
+    "date": "25/12/2014",
+    "phen": "Lanterne thai",
+    "n": 5
+   },
+   {
+    "date": "17/03/2009",
+    "phen": "ISS et navette spatiale",
+    "n": 4
+   },
+   {
+    "date": "13/09/2015",
+    "phen": "Lanterne thai",
+    "n": 4
+   },
+   {
+    "date": "06/09/2009",
+    "phen": "Lanterne thai",
+    "n": 3
+   },
+   {
+    "date": "17/06/2012",
+    "phen": "Lanterne thai",
+    "n": 3
+   },
+   {
+    "date": "22/08/2012",
+    "phen": "ISS",
+    "n": 3
+   },
+   {
+    "date": "11/05/2013",
+    "phen": "Lanterne thai",
+    "n": 3
+   },
+   {
+    "date": "01/01/2014",
+    "phen": "Lanterne thai",
+    "n": 3
+   },
+   {
+    "date": "19/07/2014",
+    "phen": "Lanterne thai",
+    "n": 3
+   },
+   {
+    "date": "05/07/2014",
+    "phen": "Lanterne thai",
+    "n": 3
+   },
+   {
+    "date": "24/12/2015",
+    "phen": "Lanterne thai",
+    "n": 3
+   },
+   {
+    "date": "01/01/2016",
+    "phen": "Lanterne thai",
+    "n": 3
+   }
+  ]
+ },
+ "phase1b_literature": {
+  "day_precise_cases": 3305,
+  "linked": 113,
+  "by_class": {
+   "A": {
+    "n": 951,
+    "in_literature": 17,
+    "rate": 0.0179,
+    "ci95": [
+     0.0112,
+     0.0284
+    ]
+   },
+   "B": {
+    "n": 1311,
+    "in_literature": 24,
+    "rate": 0.0183,
+    "ci95": [
+     0.0123,
+     0.0271
+    ]
+   },
+   "C": {
+    "n": 939,
+    "in_literature": 52,
+    "rate": 0.0554,
+    "ci95": [
+     0.0425,
+     0.0719
+    ]
+   },
+   "D": {
+    "n": 104,
+    "in_literature": 20,
+    "rate": 0.1923,
+    "ci95": [
+     0.1281,
+     0.2785
+    ]
+   }
+  },
+  "catalogs": [
+   [
+    "Hatch_UDB",
+    98
+   ],
+   [
+    "Johnson",
+    21
+   ],
+   [
+    "Overmeire",
+    15
+   ],
+   [
+    "Magonia",
+    7
+   ],
+   [
+    "EberhartUFOI",
+    6
+   ],
+   [
+    "rr0",
+    6
+   ],
+   [
+    "NICAP",
+    4
+   ],
+   [
+    "UFOEvidenceHall",
+    2
+   ]
+  ],
+  "linked_records_citing_geipan": 7,
+  "link_method": {
+   "geo30": 78,
+   "commune": 35
+  },
+  "D_vs_AB": {
+   "crude_OR": [
+    12.898,
+    7.241,
+    22.973
+   ],
+   "fisher_p": 1.660221950701126e-13,
+   "MH_OR_decade": [
+    4.024,
+    2.132,
+    7.594
+   ],
+   "MH_p": 1.7610021980202627e-05
+  },
+  "CD_vs_AB": {
+   "crude_OR": [
+    4.017,
+    2.717,
+    5.938
+   ],
+   "fisher_p": 1.2684639267800118e-12,
+   "MH_OR_decade": [
+    1.606,
+    1.059,
+    2.434
+   ],
+   "MH_p": 0.031404148079268536
+  },
+  "C_vs_AB": {
+   "crude_OR": [
+    3.176,
+    2.094,
+    4.817
+   ],
+   "fisher_p": 8.266776758206344e-08,
+   "MH_OR_decade": [
+    1.318,
+    0.844,
+    2.057
+   ],
+   "MH_p": 0.26880591543598387
+  },
+  "by_decade": {
+   "1950": {
+    "A": "0/1",
+    "B": "2/9",
+    "C": "10/22",
+    "D": "4/5"
+   },
+   "1960": {
+    "A": "0/0",
+    "B": "1/2",
+    "C": "1/1",
+    "D": "1/2"
+   },
+   "1970": {
+    "A": "8/55",
+    "B": "8/88",
+    "C": "20/187",
+    "D": "5/20"
+   },
+   "1980": {
+    "A": "6/78",
+    "B": "3/124",
+    "C": "9/143",
+    "D": "4/19"
+   },
+   "1990": {
+    "A": "3/57",
+    "B": "10/109",
+    "C": "12/108",
+    "D": "6/23"
+   },
+   "2000": {
+    "A": "0/94",
+    "B": "0/187",
+    "C": "0/177",
+    "D": "0/8"
+   },
+   "2010": {
+    "A": "0/399",
+    "B": "0/665",
+    "C": "0/263",
+    "D": "0/21"
+   },
+   "2020": {
+    "A": "0/267",
+    "B": "0/127",
+    "C": "0/38",
+    "D": "0/6"
+   }
+  },
+  "audit_sample": [
+   {
+    "geipan": "[D2] de VENCE (06) vers COURSEGOULES (06) 05.03.1994",
+    "cls": "C",
+    "how": "geo30",
+    "catalog": "Hatch_UDB",
+    "lit_date": "3/5/1994",
+    "lit_loc": "COL. DE VENCE, FR",
+    "lit_desc": "4 / (seen thru) binoculars. Dogs bark. Black triangle / lit corners. Going up. Slow going quickly southeast. Absolute(ly) silent."
+   },
+   {
+    "geipan": "MOUSSAN (11) 12.12.1987",
+    "cls": "C",
+    "how": "geo30",
+    "catalog": "Hatch_UDB",
+    "lit_date": "12/12/1987",
+    "lit_loc": "MALVEZI, FR",
+    "lit_desc": "1 observer. 6 odd pseudo-human/entity near atomic plant. Odd conversation. Away / flying sleds."
+   },
+   {
+    "geipan": "BENAGUES (09) 26.10.1989",
+    "cls": "B",
+    "how": "geo30",
+    "catalog": "Hatch_UDB",
+    "lit_date": "10/26/1989",
+    "lit_loc": "N20 PAMIERS TO/FROM BENAGUES, FR",
+    "lit_desc": "1 observer. 25cm fast red fireball going quickly south parallel / ground at 200M altitude."
+   },
+   {
+    "geipan": "ROUSSILLON (38) 10.12.1978",
+    "cls": "A",
+    "how": "geo30",
+    "catalog": "Hatch_UDB",
+    "lit_date": "12/10/1978",
+    "lit_loc": "PEAGE / ROUSILLON, FR",
+    "lit_desc": "Several observer(s). Luminous/glowing 5M object follows man / 15M altitude. Big feet and antenna."
+   },
+   {
+    "geipan": "LOROUX-BOTTEREAU (LE) (44) 20.01.1980",
+    "cls": "D",
+    "how": "geo30",
+    "catalog": "Hatch_UDB",
+    "lit_date": "1/20/1980",
+    "lit_loc": "LA CHAPELLE-BASSE-MER, FR",
+    "lit_desc": "5M saucer hovers / water tower / 4 minute(s). Glows. Quickly going up [to] fast. / LDLN#194."
+   },
+   {
+    "geipan": "FONTENAY LE COMTE (44) 1978",
+    "cls": "C",
+    "how": "geo30",
+    "catalog": "Hatch_UDB",
+    "lit_date": "4/29/1978",
+    "lit_loc": "PISSOTTE, FR",
+    "lit_desc": "2 / car. 12M dome 2M over road. Flashes 3X / min. Black area blocks stars. Going west."
+   },
+   {
+    "geipan": "TRIMOUILLE (LA) (86) 18.01.1993",
+    "cls": "B",
+    "how": "geo30",
+    "catalog": "Hatch_UDB",
+    "lit_date": "1/18/1993",
+    "lit_loc": "LA TRIMOUILLE, FR",
+    "lit_desc": "1 observer. Blue rectangle flies southeast going quickly northwest fast / losing altitude."
+   },
+   {
+    "geipan": "VALENSOLE (04) 01.07.1965",
+    "cls": "D",
+    "how": "commune",
+    "catalog": "EberhartUFOI",
+    "lit_date": "7/1/1965",
+    "lit_loc": "['Valensole, Alps-de-Haute-Provence, France']",
+    "lit_desc": "5:45 a.m. Maurice Masse is farming just north of Valensole, Alps-de-Haute-Provence, France, when he is startled by a whistling sound and sees an elliptical obje"
+   },
+   {
+    "geipan": "NEUFCHATEL-EN-BRAY (76) 27.06.1994",
+    "cls": "D",
+    "how": "geo30",
+    "catalog": "Hatch_UDB",
+    "lit_date": "6/26/1994",
+    "lit_loc": "D316 SOUTH / ABANCOURT, FR",
+    "lit_desc": "Rays radiate / cloud. Diamond array / lights follows car going south / 15km."
+   },
+   {
+    "geipan": "L'HOPITAL (57) 1993",
+    "cls": "C",
+    "how": "geo30",
+    "catalog": "Hatch_UDB",
+    "lit_date": "8/8/1993",
+    "lit_loc": "L'HOPITAL, FR",
+    "lit_desc": "1 observer. Large bluish sphere crosses entire sky in 30 second(s)."
+   },
+   {
+    "geipan": "SAINT-HILAIRE-LEZ-CAMBRAI (59) 31.03.1975",
+    "cls": "C",
+    "how": "geo30",
+    "catalog": "Hatch_UDB",
+    "lit_date": "3/31/1975",
+    "lit_loc": "ST.-HILAIRE-LES-CAMBRAI, FR",
+    "lit_desc": "4.5M box becomes sphere. Lands / yard. Traces. / r30p548."
+   },
+   {
+    "geipan": "NICE (06) 25.04.1997",
+    "cls": "C",
+    "how": "geo30",
+    "catalog": "Hatch_UDB",
+    "lit_date": "4/25/1997",
+    "lit_loc": "ST. BARNABE, FR",
+    "lit_desc": "Man photographs mountains. Photograph shows grey blot / saucer shape. Not seen. Cover photograph."
+   },
+   {
+    "geipan": "SAINS-RICHAUMONT (02) 01.01.1976",
+    "cls": "C",
+    "how": "geo30",
+    "catalog": "Hatch_UDB",
+    "lit_date": "1/1/1976",
+    "lit_loc": "MARLE, FR",
+    "lit_desc": "3 / car. 15M football hovers / 800M altitude. Then up and away fast. / Flying Saucer Review (FSR) v12#8."
+   },
+   {
+    "geipan": "DOMPIERRE LES ORMES (71) 1995",
+    "cls": "C",
+    "how": "geo30",
+    "catalog": "Hatch_UDB",
+    "lit_date": "9/25/1995",
+    "lit_loc": "LA CHAPELLE / MONT-DE-FRANCE",
+    "lit_desc": "2 red fireballs with blue halos. 1 makes circular trajectory. Both going quickly NNW."
+   },
+   {
+    "geipan": "[D40] de SAINT-MARCEL (08) vers HAUDRECY (08) 27.10.1954",
+    "cls": "C",
+    "how": "geo30",
+    "catalog": "Hatch_UDB",
+    "lit_date": "10/27/1954",
+    "lit_loc": "CHARLEVILLE-MEZIERES, FR",
+    "lit_desc": "Dawn. Policemen. UFO takes off. Type unknown. No further details. / r8#315."
+   },
+   {
+    "geipan": "[CD47] DE HARPONVILLE (80) VERS CONTAY (80) 07.09.1954",
+    "cls": "D",
+    "how": "geo30",
+    "catalog": "Hatch_UDB",
+    "lit_date": "9/7/1954",
+    "lit_loc": "NEAR CONTAY, FR",
+    "lit_desc": "2 observer(s). Silent 12M saucer / field. Wide door / side. Plate / top. Quickly going up. / r197p01."
+   },
+   {
+    "geipan": "(DPT) PYRENNES-ATLANTIQUES (64) 29.04.1983",
+    "cls": "A",
+    "how": "geo30",
+    "catalog": "Hatch_UDB",
+    "lit_date": "4/29/1983",
+    "lit_loc": "NAY, FR",
+    "lit_desc": "1 / car. Luminous/glowing rectangle hovers. Circle / night lights. Observer(s) finds town empty. / Flying Saucer Review (FSR) v24#12."
+   },
+   {
+    "geipan": "SARTHE (72) 02.10.1977",
+    "cls": "A",
+    "how": "geo30",
+    "catalog": "Hatch_UDB",
+    "lit_date": "10/2/1977",
+    "lit_loc": "D33 / VOLNAY, FR",
+    "lit_desc": "Several separate observer(s). Red-orange sphere 2X moon-size. Going quickly northeast. Real moon = crescent."
+   },
+   {
+    "geipan": "CERGY PONTOISE (95) 1979",
+    "cls": "B",
+    "how": "commune",
+    "catalog": "Overmeire",
+    "lit_date": "11/26/1979",
+    "lit_loc": "FRANCE, Cergy-Pontoise",
+    "lit_desc": "(Translated from French) Cergy-Pontoise Incident. At 4:30 in the morning a sphere of light envelops Franck Fontaine's car and he disappears from the eyes of his"
+   },
+   {
+    "geipan": "CHIRENS (38) 30.07.1976",
+    "cls": "C",
+    "how": "geo30",
+    "catalog": "Hatch_UDB",
+    "lit_date": "7/30/1976",
+    "lit_loc": "CHIRENS, FR",
+    "lit_desc": "Private pilot / ground. 7M metallic sphere going quickly east / 6000kph. Clear sky. No wind."
+   },
+   {
+    "geipan": "CONDE-SUR-ESCAUT (59) 02.10.1977",
+    "cls": "C",
+    "how": "geo30",
+    "catalog": "Hatch_UDB",
+    "lit_date": "10/2/1977",
+    "lit_loc": "CONDE-SUR-L'ESCAUT, FR",
+    "lit_desc": "Several observer(s). Luminous sphere going quickly [to] by. Lands / field. Nobody goes closer."
+   },
+   {
+    "geipan": "SAINT-MARCEL (01) 11.03.1979 « LES POISSONS »",
+    "cls": "A",
+    "how": "commune",
+    "catalog": "Overmeire",
+    "lit_date": "3/11/1979",
+    "lit_loc": "France, Saint Marcel en Dombes",
+    "lit_desc": "(Translated from French) At 0:45, a restaurant (...) suddenly went dark. But at the same time, the inside and outside were illuminated as if it were broad dayli"
+   },
+   {
+    "geipan": "MOUZON (08) 03.10.1978",
+    "cls": "D",
+    "how": "commune",
+    "catalog": "Overmeire",
+    "lit_date": "10/3/1978",
+    "lit_loc": "France, Mouzon",
+    "lit_desc": "(Translated from French) The witness, Jean-Pierre Masson, 19 years old, a worker, reported the following facts: \"It happened around 2 o'clock in the morning. I "
+   },
+   {
+    "geipan": "SAINT-HILAIRE (91) 04.10.1981",
+    "cls": "C",
+    "how": "geo30",
+    "catalog": "Hatch_UDB",
+    "lit_date": "10/5/1981",
+    "lit_loc": "NORTHEAST / ST. HILAIRE, FR",
+    "lit_desc": "2 / N191. Domed bell-saucer flashes / woods / low altitude. Observer(s) flee."
+   },
+   {
+    "geipan": "TAVACO (2A) 08.08.1996",
+    "cls": "B",
+    "how": "geo30",
+    "catalog": "Hatch_UDB",
+    "lit_date": "8/9/1996",
+    "lit_loc": "NEAR TAVACO, CORSICA",
+    "lit_desc": "2+2 / car. Silent white disk with lights follows car 6km. Hovers / one hour and more."
+   }
+  ],
+  "reverse": {
+   "lit_french_dayprec_1950_1999": 8197,
+   "linked_to_geipan": 175,
+   "geipan_dayprec_1950_1999": 1053,
+   "geipan_linked_1950_1999": 113
+  }
+ },
+ "phase2_nuclear": {
+  "n_metro": 3192,
+  "sites": 28,
+  "site_xcheck": [
+   {
+    "site": "Golfech",
+    "commune": "golfech",
+    "n_cases": 1,
+    "km_site_to_commune_coord": 0.5
+   },
+   {
+    "site": "La Hague",
+    "commune": "beaumont hague",
+    "n_cases": 1,
+    "km_site_to_commune_coord": 10.9
+   },
+   {
+    "site": "Ile Longue",
+    "commune": "crozon",
+    "n_cases": 4,
+    "km_site_to_commune_coord": 6.5
+   },
+   {
+    "site": "Plateau d'Albion",
+    "commune": "saint christol",
+    "n_cases": 1,
+    "km_site_to_commune_coord": 117.8
+   }
+  ],
+  "median_nearest_km": {
+   "A": 67.8,
+   "B": 66.5,
+   "C": 69.0,
+   "D": 66.3
+  },
+  "case_control": [
+   {
+    "contrast": "D_vs_AB",
+    "r_km": 10,
+    "case_near": 2,
+    "case_n": 100,
+    "ctrl_near": 56,
+    "ctrl_n": 2128,
+    "case_rate": 0.02,
+    "case_rate_ci": [
+     0.0055,
+     0.07
+    ],
+    "ctrl_rate": 0.0263,
+    "crude_OR": [
+     0.755,
+     0.182,
+     3.139
+    ],
+    "MH_OR_region_decade": [
+     0.434,
+     0.062,
+     3.049
+    ],
+    "MH_p": 0.5931190315281234,
+    "perm_p_one_sided": 0.9116088391160884
+   },
+   {
+    "contrast": "D_vs_AB",
+    "r_km": 20,
+    "case_near": 9,
+    "case_n": 100,
+    "ctrl_near": 171,
+    "ctrl_n": 2128,
+    "case_rate": 0.09,
+    "case_rate_ci": [
+     0.0481,
+     0.1623
+    ],
+    "ctrl_rate": 0.0804,
+    "crude_OR": [
+     1.132,
+     0.561,
+     2.285
+    ],
+    "MH_OR_region_decade": [
+     1.477,
+     0.657,
+     3.318
+    ],
+    "MH_p": 0.46158422500046636,
+    "perm_p_one_sided": 0.22697730226977303
+   },
+   {
+    "contrast": "D_vs_AB",
+    "r_km": 30,
+    "case_near": 15,
+    "case_n": 100,
+    "ctrl_near": 377,
+    "ctrl_n": 2128,
+    "case_rate": 0.15,
+    "case_rate_ci": [
+     0.0931,
+     0.2328
+    ],
+    "ctrl_rate": 0.1772,
+    "crude_OR": [
+     0.82,
+     0.468,
+     1.435
+    ],
+    "MH_OR_region_decade": [
+     0.904,
+     0.468,
+     1.747
+    ],
+    "MH_p": 0.8864447272834663,
+    "perm_p_one_sided": 0.6827317268273173
+   },
+   {
+    "contrast": "D_vs_AB",
+    "r_km": 50,
+    "case_near": 34,
+    "case_n": 100,
+    "ctrl_near": 744,
+    "ctrl_n": 2128,
+    "case_rate": 0.34,
+    "case_rate_ci": [
+     0.2546,
+     0.4372
+    ],
+    "ctrl_rate": 0.3496,
+    "crude_OR": [
+     0.958,
+     0.628,
+     1.463
+    ],
+    "MH_OR_region_decade": [
+     1.289,
+     0.739,
+     2.251
+    ],
+    "MH_p": 0.4588475858491652,
+    "perm_p_one_sided": 0.2248775122487751
+   },
+   {
+    "contrast": "D_vs_AB",
+    "r_km": "nearest-distance",
+    "MWU_p_less": 0.5931445359716864,
+    "median_case_km": 66.3,
+    "median_ctrl_km": 67.2,
+    "perm_p_one_sided": 0.08859114088591141,
+    "rank_biserial": -0.014
+   },
+   {
+    "contrast": "CD_vs_AB",
+    "r_km": 10,
+    "case_near": 19,
+    "case_n": 1064,
+    "ctrl_near": 56,
+    "ctrl_n": 2128,
+    "case_rate": 0.0179,
+    "case_rate_ci": [
+     0.0115,
+     0.0277
+    ],
+    "ctrl_rate": 0.0263,
+    "crude_OR": [
+     0.673,
+     0.398,
+     1.138
+    ],
+    "MH_OR_region_decade": [
+     0.606,
+     0.343,
+     1.073
+    ],
+    "MH_p": 0.10242904386309037,
+    "perm_p_one_sided": 0.9708029197080292
+   },
+   {
+    "contrast": "CD_vs_AB",
+    "r_km": 20,
+    "case_near": 90,
+    "case_n": 1064,
+    "ctrl_near": 171,
+    "ctrl_n": 2128,
+    "case_rate": 0.0846,
+    "case_rate_ci": [
+     0.0693,
+     0.1028
+    ],
+    "ctrl_rate": 0.0804,
+    "crude_OR": [
+     1.057,
+     0.81,
+     1.381
+    ],
+    "MH_OR_region_decade": [
+     1.123,
+     0.83,
+     1.52
+    ],
+    "MH_p": 0.4965667709653153,
+    "perm_p_one_sided": 0.24907509249075094
+   },
+   {
+    "contrast": "CD_vs_AB",
+    "r_km": 30,
+    "case_near": 195,
+    "case_n": 1064,
+    "ctrl_near": 377,
+    "ctrl_n": 2128,
+    "case_rate": 0.1833,
+    "case_rate_ci": [
+     0.1612,
+     0.2076
+    ],
+    "ctrl_rate": 0.1772,
+    "crude_OR": [
+     1.042,
+     0.861,
+     1.262
+    ],
+    "MH_OR_region_decade": [
+     1.114,
+     0.875,
+     1.418
+    ],
+    "MH_p": 0.4123710985335184,
+    "perm_p_one_sided": 0.20957904209579042
+   },
+   {
+    "contrast": "CD_vs_AB",
+    "r_km": 50,
+    "case_near": 373,
+    "case_n": 1064,
+    "ctrl_near": 744,
+    "ctrl_n": 2128,
+    "case_rate": 0.3506,
+    "case_rate_ci": [
+     0.3225,
+     0.3797
+    ],
+    "ctrl_rate": 0.3496,
+    "crude_OR": [
+     1.004,
+     0.861,
+     1.172
+    ],
+    "MH_OR_region_decade": [
+     1.158,
+     0.946,
+     1.418
+    ],
+    "MH_p": 0.17408206212880795,
+    "perm_p_one_sided": 0.09119088091190881
+   },
+   {
+    "contrast": "CD_vs_AB",
+    "r_km": "nearest-distance",
+    "MWU_p_less": 0.5039007600623355,
+    "median_case_km": 68.9,
+    "median_ctrl_km": 67.2,
+    "perm_p_one_sided": 0.29817018298170184,
+    "rank_biserial": -0.0
+   }
+  ],
+  "bonferroni_alpha": 0.005,
+  "commissioning": {
+   "per_site": [
+    {
+     "site": "Belleville",
+     "first_service": 1987,
+     "n_within_30km": 6,
+     "obs_after": 6,
+     "exp_after": 4.75
+    },
+    {
+     "site": "Blayais",
+     "first_service": 1981,
+     "n_within_30km": 9,
+     "obs_after": 7,
+     "exp_after": 7.64
+    },
+    {
+     "site": "Bugey",
+     "first_service": 1972,
+     "n_within_30km": 30,
+     "obs_after": 30,
+     "exp_after": 29.56
+    },
+    {
+     "site": "Cattenom",
+     "first_service": 1986,
+     "n_within_30km": 26,
+     "obs_after": 22,
+     "exp_after": 20.68
+    },
+    {
+     "site": "Chinon",
+     "first_service": 1963,
+     "n_within_30km": 13,
+     "obs_after": 13,
+     "exp_after": 12.85
+    },
+    {
+     "site": "Chooz",
+     "first_service": 1967,
+     "n_within_30km": 6,
+     "obs_after": 5,
+     "exp_after": 5.92
+    },
+    {
+     "site": "Civaux",
+     "first_service": 1997,
+     "n_within_30km": 14,
+     "obs_after": 11,
+     "exp_after": 9.88
+    },
+    {
+     "site": "Cruas",
+     "first_service": 1983,
+     "n_within_30km": 21,
+     "obs_after": 16,
+     "exp_after": 17.26
+    },
+    {
+     "site": "Dampierre",
+     "first_service": 1980,
+     "n_within_30km": 7,
+     "obs_after": 6,
+     "exp_after": 6.16
+    },
+    {
+     "site": "Fessenheim",
+     "first_service": 1977,
+     "n_within_30km": 28,
+     "obs_after": 28,
+     "exp_after": 26.87
+    },
+    {
+     "site": "Flamanville",
+     "first_service": 1985,
+     "n_within_30km": 5,
+     "obs_after": 4,
+     "exp_after": 4.03
+    },
+    {
+     "site": "Golfech",
+     "first_service": 1990,
+     "n_within_30km": 13,
+     "obs_after": 8,
+     "exp_after": 10.03
+    },
+    {
+     "site": "Gravelines",
+     "first_service": 1980,
+     "n_within_30km": 16,
+     "obs_after": 13,
+     "exp_after": 14.09
+    },
+    {
+     "site": "Nogent",
+     "first_service": 1987,
+     "n_within_30km": 6,
+     "obs_after": 5,
+     "exp_after": 4.75
+    },
+    {
+     "site": "Paluel",
+     "first_service": 1984,
+     "n_within_30km": 6,
+     "obs_after": 5,
+     "exp_after": 4.87
+    },
+    {
+     "site": "Penly",
+     "first_service": 1990,
+     "n_within_30km": 7,
+     "obs_after": 4,
+     "exp_after": 5.4
+    },
+    {
+     "site": "Saint-Alban",
+     "first_service": 1985,
+     "n_within_30km": 25,
+     "obs_after": 17,
+     "exp_after": 20.16
+    },
+    {
+     "site": "Saint-Laurent",
+     "first_service": 1969,
+     "n_within_30km": 10,
+     "obs_after": 9,
+     "exp_after": 9.86
+    },
+    {
+     "site": "Tricastin",
+     "first_service": 1980,
+     "n_within_30km": 15,
+     "obs_after": 13,
+     "exp_after": 13.2
+    },
+    {
+     "site": "Brennilis",
+     "first_service": 1967,
+     "n_within_30km": 6,
+     "obs_after": 6,
+     "exp_after": 5.92
+    },
+    {
+     "site": "Creys-Malville",
+     "first_service": 1986,
+     "n_within_30km": 25,
+     "obs_after": 19,
+     "exp_after": 19.89
+    },
+    {
+     "site": "La Hague",
+     "first_service": 1966,
+     "n_within_30km": 4,
+     "obs_after": 4,
+     "exp_after": 3.95
+    },
+    {
+     "site": "Marcoule",
+     "first_service": 1956,
+     "n_within_30km": 32,
+     "obs_after": 31,
+     "exp_after": 31.72
+    },
+    {
+     "site": "Cadarache",
+     "first_service": 1963,
+     "n_within_30km": 26,
+     "obs_after": 26,
+     "exp_after": 25.7
+    },
+    {
+     "site": "Valduc",
+     "first_service": 1957,
+     "n_within_30km": 8,
+     "obs_after": 7,
+     "exp_after": 7.92
+    },
+    {
+     "site": "Saclay",
+     "first_service": 1952,
+     "n_within_30km": 218,
+     "obs_after": 218,
+     "exp_after": 217.8
+    },
+    {
+     "site": "Ile Longue",
+     "first_service": 1970,
+     "n_within_30km": 19,
+     "obs_after": 19,
+     "exp_after": 18.73
+    },
+    {
+     "site": "Plateau d'Albion",
+     "first_service": 1971,
+     "n_within_30km": 15,
+     "obs_after": 15,
+     "exp_after": 14.78
+    }
+   ],
+   "O": 567.0,
+   "E": 574.35,
+   "ratio": 0.9872,
+   "z": -1.263,
+   "p_two_sided": 0.20655362199951965,
+   "note": "Nearly all sites predate most of the GEIPAN record; the test has power only for post-1980 sites.",
+   "late_sites_O_E": [
+    117,
+    121.7
+   ]
+  },
+  "framing_mentions": {
+   "n": 44,
+   "by_class": {
+    "C": 11,
+    "A": 17,
+    "B": 16
+   },
+   "examples": [
+    "LOCMINE (56) 19.10.1976",
+    "SAUTO (66) 16.02.1978",
+    "SAINT-MARCEL (01) 11.03.1979 « LES POISSONS »",
+    "POULIGUEN (LE) (44) 16.07.1979",
+    "EVRECY (14) 1979",
+    "YZEURE (03) 24.09.1979",
+    "SAINT-PORCHAIRE (17) 1980",
+    "FLAXLANDEN (68) 05.08.1980",
+    "PLAN-D'AUPS-SAINTE-BAUME (83) 09.10.19891",
+    "GROIX (56) 14.04.1982",
+    "SOMMERECOURT (52) 17.07.1983",
+    "LE CAMBOUT (22) 23.06.1994"
+   ]
+  }
+ },
+ "phase3_drift": {
+  "witness_split_frac": 0.639,
+  "descriptors": [
+   {
+    "descriptor": "sphere/boule/globe",
+    "n": 721,
+    "OR_per_decade": 0.897,
+    "ci95": [
+     0.854,
+     0.942
+    ],
+    "p": 1.6119661679491542e-05,
+    "by_period": {
+     "1937-1979": [
+      89,
+      419,
+      0.212
+     ],
+     "1980-1999": [
+      186,
+      703,
+      0.265
+     ],
+     "2000-2009": [
+      105,
+      491,
+      0.214
+     ],
+     "2010-2026": [
+      341,
+      1791,
+      0.19
+     ]
+    },
+    "q_BH": 4.605617622711869e-05
+   },
+   {
+    "descriptor": "disque/soucoupe",
+    "n": 112,
+    "OR_per_decade": 0.771,
+    "ci95": [
+     0.695,
+     0.856
+    ],
+    "p": 9.421239217008361e-07,
+    "by_period": {
+     "1937-1979": [
+      27,
+      419,
+      0.064
+     ],
+     "1980-1999": [
+      29,
+      703,
+      0.041
+     ],
+     "2000-2009": [
+      12,
+      491,
+      0.024
+     ],
+     "2010-2026": [
+      44,
+      1791,
+      0.025
+     ]
+    },
+    "q_BH": 3.7684956868033445e-06
+   },
+   {
+    "descriptor": "triangle",
+    "n": 247,
+    "OR_per_decade": 1.154,
+    "ci95": [
+     1.056,
+     1.26
+    ],
+    "p": 0.0014666095442245693,
+    "by_period": {
+     "1937-1979": [
+      13,
+      419,
+      0.031
+     ],
+     "1980-1999": [
+      48,
+      703,
+      0.068
+     ],
+     "2000-2009": [
+      36,
+      491,
+      0.073
+     ],
+     "2010-2026": [
+      150,
+      1791,
+      0.084
+     ]
+    },
+    "q_BH": 0.002444349240374282
+   },
+   {
+    "descriptor": "cigare/cylindre",
+    "n": 120,
+    "OR_per_decade": 0.806,
+    "ci95": [
+     0.728,
+     0.891
+    ],
+    "p": 2.7269748365621777e-05,
+    "by_period": {
+     "1937-1979": [
+      23,
+      419,
+      0.055
+     ],
+     "1980-1999": [
+      39,
+      703,
+      0.055
+     ],
+     "2000-2009": [
+      7,
+      491,
+      0.014
+     ],
+     "2010-2026": [
+      51,
+      1791,
+      0.028
+     ]
+    },
+    "q_BH": 6.817437091405444e-05
+   },
+   {
+    "descriptor": "losange",
+    "n": 15,
+    "OR_per_decade": 1.211,
+    "ci95": [
+     0.842,
+     1.743
+    ],
+    "p": 0.30147497491022734,
+    "by_period": {
+     "1937-1979": [
+      1,
+      419,
+      0.002
+     ],
+     "1980-1999": [
+      3,
+      703,
+      0.004
+     ],
+     "2000-2009": [
+      2,
+      491,
+      0.004
+     ],
+     "2010-2026": [
+      9,
+      1791,
+      0.005
+     ]
+    },
+    "q_BH": 0.3173420788528709
+   },
+   {
+    "descriptor": "ovale/oeuf",
+    "n": 202,
+    "OR_per_decade": 0.842,
+    "ci95": [
+     0.777,
+     0.913
+    ],
+    "p": 3.18477650279422e-05,
+    "by_period": {
+     "1937-1979": [
+      36,
+      419,
+      0.086
+     ],
+     "1980-1999": [
+      62,
+      703,
+      0.088
+     ],
+     "2000-2009": [
+      26,
+      491,
+      0.053
+     ],
+     "2010-2026": [
+      78,
+      1791,
+      0.044
+     ]
+    },
+    "q_BH": 7.077281117320489e-05
+   },
+   {
+    "descriptor": "rectangle/carre",
+    "n": 96,
+    "OR_per_decade": 0.896,
+    "ci95": [
+     0.796,
+     1.009
+    ],
+    "p": 0.07103493211509292,
+    "by_period": {
+     "1937-1979": [
+      15,
+      419,
+      0.036
+     ],
+     "1980-1999": [
+      31,
+      703,
+      0.044
+     ],
+     "2000-2009": [
+      5,
+      491,
+      0.01
+     ],
+     "2010-2026": [
+      45,
+      1791,
+      0.025
+     ]
+    },
+    "q_BH": 0.0888041034521076
+   },
+   {
+    "descriptor": "point lumineux",
+    "n": 576,
+    "OR_per_decade": 1.208,
+    "ci95": [
+     1.136,
+     1.286
+    ],
+    "p": 2.4379312147581607e-09,
+    "by_period": {
+     "1937-1979": [
+      38,
+      419,
+      0.091
+     ],
+     "1980-1999": [
+      94,
+      703,
+      0.134
+     ],
+     "2000-2009": [
+      82,
+      491,
+      0.167
+     ],
+     "2010-2026": [
+      362,
+      1791,
+      0.202
+     ]
+    },
+    "q_BH": 1.6252874765054405e-08
+   },
+   {
+    "descriptor": "orange",
+    "n": 690,
+    "OR_per_decade": 0.971,
+    "ci95": [
+     0.922,
+     1.022
+    ],
+    "p": 0.2553516247709965,
+    "by_period": {
+     "1937-1979": [
+      103,
+      419,
+      0.246
+     ],
+     "1980-1999": [
+      112,
+      703,
+      0.159
+     ],
+     "2000-2009": [
+      68,
+      491,
+      0.138
+     ],
+     "2010-2026": [
+      407,
+      1791,
+      0.227
+     ]
+    },
+    "q_BH": 0.2837240275233294
+   },
+   {
+    "descriptor": "rouge",
+    "n": 642,
+    "OR_per_decade": 0.869,
+    "ci95": [
+     0.826,
+     0.915
+    ],
+    "p": 7.465855717973632e-08,
+    "by_period": {
+     "1937-1979": [
+      118,
+      419,
+      0.282
+     ],
+     "1980-1999": [
+      147,
+      703,
+      0.209
+     ],
+     "2000-2009": [
+      65,
+      491,
+      0.132
+     ],
+     "2010-2026": [
+      312,
+      1791,
+      0.174
+     ]
+    },
+    "q_BH": 3.732927858986816e-07
+   },
+   {
+    "descriptor": "vert",
+    "n": 229,
+    "OR_per_decade": 0.88,
+    "ci95": [
+     0.815,
+     0.951
+    ],
+    "p": 0.001262333081590755,
+    "by_period": {
+     "1937-1979": [
+      33,
+      419,
+      0.079
+     ],
+     "1980-1999": [
+      67,
+      703,
+      0.095
+     ],
+     "2000-2009": [
+      32,
+      491,
+      0.065
+     ],
+     "2010-2026": [
+      97,
+      1791,
+      0.054
+     ]
+    },
+    "q_BH": 0.0022951510574377365
+   },
+   {
+    "descriptor": "bleu",
+    "n": 213,
+    "OR_per_decade": 1.005,
+    "ci95": [
+     0.923,
+     1.095
+    ],
+    "p": 0.9108965007011274,
+    "by_period": {
+     "1937-1979": [
+      21,
+      419,
+      0.05
+     ],
+     "1980-1999": [
+      57,
+      703,
+      0.081
+     ],
+     "2000-2009": [
+      22,
+      491,
+      0.045
+     ],
+     "2010-2026": [
+      113,
+      1791,
+      0.063
+     ]
+    },
+    "q_BH": 0.9108965007011275
+   },
+   {
+    "descriptor": "metallique",
+    "n": 60,
+    "OR_per_decade": 0.842,
+    "ci95": [
+     0.729,
+     0.972
+    ],
+    "p": 0.019168674818256442,
+    "by_period": {
+     "1937-1979": [
+      14,
+      419,
+      0.033
+     ],
+     "1980-1999": [
+      13,
+      703,
+      0.018
+     ],
+     "2000-2009": [
+      10,
+      491,
+      0.02
+     ],
+     "2010-2026": [
+      23,
+      1791,
+      0.013
+     ]
+    },
+    "q_BH": 0.02949026895116376
+   },
+   {
+    "descriptor": "silencieux",
+    "n": 1293,
+    "OR_per_decade": 0.969,
+    "ci95": [
+     0.928,
+     1.012
+    ],
+    "p": 0.15194657510836346,
+    "by_period": {
+     "1937-1979": [
+      173,
+      419,
+      0.413
+     ],
+     "1980-1999": [
+      242,
+      703,
+      0.344
+     ],
+     "2000-2009": [
+      174,
+      491,
+      0.354
+     ],
+     "2010-2026": [
+      704,
+      1791,
+      0.393
+     ]
+    },
+    "q_BH": 0.17876067659807468
+   },
+   {
+    "descriptor": "stationnaire",
+    "n": 422,
+    "OR_per_decade": 0.901,
+    "ci95": [
+     0.848,
+     0.957
+    ],
+    "p": 0.0007109388185282678,
+    "by_period": {
+     "1937-1979": [
+      77,
+      419,
+      0.184
+     ],
+     "1980-1999": [
+      88,
+      703,
+      0.125
+     ],
+     "2000-2009": [
+      48,
+      491,
+      0.098
+     ],
+     "2010-2026": [
+      209,
+      1791,
+      0.117
+     ]
+    },
+    "q_BH": 0.0014218776370565356
+   },
+   {
+    "descriptor": "formation/plusieurs",
+    "n": 225,
+    "OR_per_decade": 1.278,
+    "ci95": [
+     1.158,
+     1.411
+    ],
+    "p": 1.2050739511541002e-06,
+    "by_period": {
+     "1937-1979": [
+      8,
+      419,
+      0.019
+     ],
+     "1980-1999": [
+      37,
+      703,
+      0.053
+     ],
+     "2000-2009": [
+      26,
+      491,
+      0.053
+     ],
+     "2010-2026": [
+      154,
+      1791,
+      0.086
+     ]
+    },
+    "q_BH": 4.016913170513668e-06
+   },
+   {
+    "descriptor": "zigzag/manoeuvre",
+    "n": 227,
+    "OR_per_decade": 0.92,
+    "ci95": [
+     0.849,
+     0.995
+    ],
+    "p": 0.03813575886441574,
+    "by_period": {
+     "1937-1979": [
+      30,
+      419,
+      0.072
+     ],
+     "1980-1999": [
+      63,
+      703,
+      0.09
+     ],
+     "2000-2009": [
+      22,
+      491,
+      0.045
+     ],
+     "2010-2026": [
+      112,
+      1791,
+      0.063
+     ]
+    },
+    "q_BH": 0.05447965552059391
+   },
+   {
+    "descriptor": "atterrissage/trace",
+    "n": 97,
+    "OR_per_decade": 0.677,
+    "ci95": [
+     0.603,
+     0.76
+    ],
+    "p": 4.0981062837361496e-11,
+    "by_period": {
+     "1937-1979": [
+      29,
+      419,
+      0.069
+     ],
+     "1980-1999": [
+      37,
+      703,
+      0.053
+     ],
+     "2000-2009": [
+      11,
+      491,
+      0.022
+     ],
+     "2010-2026": [
+      20,
+      1791,
+      0.011
+     ]
+    },
+    "q_BH": 4.0981062837361497e-10
+   },
+   {
+    "descriptor": "flamme/scintillement",
+    "n": 155,
+    "OR_per_decade": 1.102,
+    "ci95": [
+     0.992,
+     1.224
+    ],
+    "p": 0.07104328276168607,
+    "by_period": {
+     "1937-1979": [
+      14,
+      419,
+      0.033
+     ],
+     "1980-1999": [
+      27,
+      703,
+      0.038
+     ],
+     "2000-2009": [
+      14,
+      491,
+      0.029
+     ],
+     "2010-2026": [
+      100,
+      1791,
+      0.056
+     ]
+    },
+    "q_BH": 0.0888041034521076
+   },
+   {
+    "descriptor": "photo/video",
+    "n": 995,
+    "OR_per_decade": 2.576,
+    "ci95": [
+     2.355,
+     2.819
+    ],
+    "p": 1.2366997263976692e-94,
+    "by_period": {
+     "1937-1979": [
+      14,
+      419,
+      0.033
+     ],
+     "1980-1999": [
+      63,
+      703,
+      0.09
+     ],
+     "2000-2009": [
+      121,
+      491,
+      0.246
+     ],
+     "2010-2026": [
+      797,
+      1791,
+      0.445
+     ]
+    },
+    "q_BH": 2.4733994527953385e-93
+   }
+  ],
+  "descriptors_CD_only": [
+   {
+    "descriptor": "sphere/boule/globe",
+    "n": 215,
+    "OR_per_decade": 0.924,
+    "ci95": [
+     0.847,
+     1.008
+    ],
+    "p": 0.07354336323093134,
+    "q_BH": 0.10862046346593085
+   },
+   {
+    "descriptor": "disque/soucoupe",
+    "n": 48,
+    "OR_per_decade": 0.747,
+    "ci95": [
+     0.634,
+     0.88
+    ],
+    "p": 0.0005000865199886737,
+    "q_BH": 0.0020271624188633844
+   },
+   {
+    "descriptor": "triangle",
+    "n": 125,
+    "OR_per_decade": 1.331,
+    "ci95": [
+     1.176,
+     1.508
+    ],
+    "p": 6.532962198565228e-06,
+    "q_BH": 6.206314088636966e-05
+   },
+   {
+    "descriptor": "cigare/cylindre",
+    "n": 55,
+    "OR_per_decade": 0.761,
+    "ci95": [
+     0.653,
+     0.888
+    ],
+    "p": 0.0005334637944377327,
+    "q_BH": 0.0020271624188633844
+   },
+   {
+    "descriptor": "ovale/oeuf",
+    "n": 73,
+    "OR_per_decade": 0.889,
+    "ci95": [
+     0.776,
+     1.018
+    ],
+    "p": 0.08795967102623586,
+    "q_BH": 0.11937383924989153
+   },
+   {
+    "descriptor": "rectangle/carre",
+    "n": 40,
+    "OR_per_decade": 0.903,
+    "ci95": [
+     0.754,
+     1.082
+    ],
+    "p": 0.26839224990908117,
+    "q_BH": 0.29996780872191425
+   },
+   {
+    "descriptor": "point lumineux",
+    "n": 171,
+    "OR_per_decade": 1.19,
+    "ci95": [
+     1.074,
+     1.319
+    ],
+    "p": 0.000892697541531657,
+    "q_BH": 0.00282687554818358
+   },
+   {
+    "descriptor": "orange",
+    "n": 202,
+    "OR_per_decade": 0.921,
+    "ci95": [
+     0.843,
+     1.006
+    ],
+    "p": 0.06813375667197086,
+    "q_BH": 0.10862046346593085
+   },
+   {
+    "descriptor": "rouge",
+    "n": 226,
+    "OR_per_decade": 0.876,
+    "ci95": [
+     0.805,
+     0.954
+    ],
+    "p": 0.00230597262978765,
+    "q_BH": 0.006259068566566478
+   },
+   {
+    "descriptor": "vert",
+    "n": 79,
+    "OR_per_decade": 0.882,
+    "ci95": [
+     0.773,
+     1.006
+    ],
+    "p": 0.06042750347749159,
+    "q_BH": 0.10862046346593085
+   },
+   {
+    "descriptor": "bleu",
+    "n": 66,
+    "OR_per_decade": 0.99,
+    "ci95": [
+     0.857,
+     1.145
+    ],
+    "p": 0.8966328559422325,
+    "q_BH": 0.8966328559422326
+   },
+   {
+    "descriptor": "metallique",
+    "n": 24,
+    "OR_per_decade": 0.813,
+    "ci95": [
+     0.647,
+     1.021
+    ],
+    "p": 0.07431926447668953,
+    "q_BH": 0.10862046346593085
+   },
+   {
+    "descriptor": "silencieux",
+    "n": 455,
+    "OR_per_decade": 0.967,
+    "ci95": [
+     0.901,
+     1.039
+    ],
+    "p": 0.3601371348100977,
+    "q_BH": 0.3801447534106587
+   },
+   {
+    "descriptor": "stationnaire",
+    "n": 183,
+    "OR_per_decade": 0.936,
+    "ci95": [
+     0.853,
+     1.026
+    ],
+    "p": 0.15782494144765258,
+    "q_BH": 0.19991159250035995
+   },
+   {
+    "descriptor": "formation/plusieurs",
+    "n": 55,
+    "OR_per_decade": 1.303,
+    "ci95": [
+     1.09,
+     1.558
+    ],
+    "p": 0.0037127357206539757,
+    "q_BH": 0.008817747336553192
+   },
+   {
+    "descriptor": "zigzag/manoeuvre",
+    "n": 86,
+    "OR_per_decade": 0.865,
+    "ci95": [
+     0.763,
+     0.98
+    ],
+    "p": 0.023177590005135393,
+    "q_BH": 0.04893046778861917
+   },
+   {
+    "descriptor": "atterrissage/trace",
+    "n": 41,
+    "OR_per_decade": 0.695,
+    "ci95": [
+     0.579,
+     0.834
+    ],
+    "p": 9.205797566187386e-05,
+    "q_BH": 0.0005830338458585344
+   },
+   {
+    "descriptor": "flamme/scintillement",
+    "n": 35,
+    "OR_per_decade": 0.886,
+    "ci95": [
+     0.73,
+     1.074
+    ],
+    "p": 0.21696202401666487,
+    "q_BH": 0.2576424035197895
+   },
+   {
+    "descriptor": "photo/video",
+    "n": 164,
+    "OR_per_decade": 1.936,
+    "ci95": [
+     1.676,
+     2.237
+    ],
+    "p": 2.7066521452562454e-19,
+    "q_BH": 5.1426390759868666e-18
+   }
+  ],
+  "share_D": {
+   "OR_per_decade": 0.692,
+   "ci95": [
+    0.623,
+    0.769
+   ],
+   "p": 7.796024451271318e-12,
+   "by_period": {
+    "1937-1979": [
+     27,
+     419,
+     0.0644,
+     [
+      0.0447,
+      0.0921
+     ]
+    ],
+    "1980-1999": [
+     43,
+     703,
+     0.0612,
+     [
+      0.0457,
+      0.0814
+     ]
+    ],
+    "2000-2009": [
+     9,
+     491,
+     0.0183,
+     [
+      0.0097,
+      0.0345
+     ]
+    ],
+    "2010-2026": [
+     27,
+     1791,
+     0.0151,
+     [
+      0.0104,
+      0.0218
+     ]
+    ]
+   }
+  },
+  "share_C": {
+   "OR_per_decade": 0.668,
+   "ci95": [
+    0.637,
+    0.7
+   ],
+   "p": 7.911468466453688e-64,
+   "by_period": {
+    "1937-1979": [
+     233,
+     419,
+     0.5561,
+     [
+      0.5082,
+      0.6029
+     ]
+    ],
+    "1980-1999": [
+     287,
+     703,
+     0.4083,
+     [
+      0.3725,
+      0.445
+     ]
+    ],
+    "2000-2009": [
+     195,
+     491,
+     0.3971,
+     [
+      0.3548,
+      0.4411
+     ]
+    ],
+    "2010-2026": [
+     305,
+     1791,
+     0.1703,
+     [
+      0.1536,
+      0.1884
+     ]
+    ]
+   }
+  },
+  "explanation_mix": {
+   "1937-1979": {
+    "n": 159,
+    "top": [
+     [
+      "Phénomène identifié non indiqué",
+      114
+     ],
+     [
+      "Lune",
+      7
+     ],
+     [
+      "Rentrée atmosphérique",
+      4
+     ],
+     [
+      "Ballon scientifique ou technologique",
+      3
+     ],
+     [
+      "Foudre en boule",
+      3
+     ],
+     [
+      "Lune rousse",
+      3
+     ]
+    ]
+   },
+   "1980-1999": {
+    "n": 373,
+    "top": [
+     [
+      "Phénomène identifié non indiqué",
+      200
+     ],
+     [
+      "Vénus",
+      23
+     ],
+     [
+      "Rentrée atmosphérique",
+      22
+     ],
+     [
+      "Laser",
+      18
+     ],
+     [
+      "Météoroïde",
+      11
+     ],
+     [
+      "Avion",
+      10
+     ]
+    ]
+   },
+   "2000-2009": {
+    "n": 287,
+    "top": [
+     [
+      "Phénomène identifié non indiqué",
+      56
+     ],
+     [
+      "Lanterne thai",
+      52
+     ],
+     [
+      "Rentrée atmosphérique",
+      18
+     ],
+     [
+      "ISS",
+      16
+     ],
+     [
+      "Ballon",
+      14
+     ],
+     [
+      "Bolide",
+      10
+     ]
+    ]
+   },
+   "2010-2026": {
+    "n": 1459,
+    "top": [
+     [
+      "Lanterne thai",
+      366
+     ],
+     [
+      "Avion",
+      84
+     ],
+     [
+      "ISS",
+      64
+     ],
+     [
+      "Bolide",
+      60
+     ],
+     [
+      "Avion de ligne",
+      54
+     ],
+     [
+      "Ballon",
+      52
+     ]
+    ]
+   }
+  },
+  "D_vs_AB_profile": [
+   {
+    "descriptor": "sphere/boule/globe",
+    "D": "15/106",
+    "AB": "506/2278",
+    "OR": [
+     0.58,
+     0.33,
+     1.01
+    ],
+    "fisher_p": 0.05392525767332868,
+    "MH_OR_decade": [
+     0.48,
+     0.27,
+     0.85
+    ],
+    "MH_p": 0.01434530888756537,
+    "q_BH_MH": 0.06025029732777455
+   },
+   {
+    "descriptor": "disque/soucoupe",
+    "D": "4/106",
+    "AB": "64/2278",
+    "OR": [
+     1.36,
+     0.48,
+     3.8
+    ],
+    "fisher_p": 0.5427653419752135,
+    "MH_OR_decade": [
+     0.85,
+     0.28,
+     2.55
+    ],
+    "MH_p": 0.9798263604157772,
+    "q_BH_MH": 1.0
+   },
+   {
+    "descriptor": "triangle",
+    "D": "18/106",
+    "AB": "122/2278",
+    "OR": [
+     3.61,
+     2.11,
+     6.2
+    ],
+    "fisher_p": 2.6402391686664455e-05,
+    "MH_OR_decade": [
+     4.94,
+     2.73,
+     8.95
+    ],
+    "MH_p": 6.399412454061453e-09,
+    "q_BH_MH": 1.3438766153529053e-07
+   },
+   {
+    "descriptor": "cigare/cylindre",
+    "D": "10/106",
+    "AB": "65/2278",
+    "OR": [
+     3.55,
+     1.77,
+     7.12
+    ],
+    "fisher_p": 0.0014411190953511096,
+    "MH_OR_decade": [
+     2.99,
+     1.41,
+     6.35
+    ],
+    "MH_p": 0.008748727573613765,
+    "q_BH_MH": 0.04593081976147227
+   },
+   {
+    "descriptor": "losange",
+    "D": "2/106",
+    "AB": "10/2278",
+    "OR": [
+     4.36,
+     0.94,
+     20.16
+    ],
+    "fisher_p": 0.09668888910287399,
+    "MH_OR_decade": [
+     8.67,
+     1.37,
+     54.8
+    ],
+    "MH_p": 0.10114076809302806,
+    "q_BH_MH": 0.2654945162441987
+   },
+   {
+    "descriptor": "ovale/oeuf",
+    "D": "9/106",
+    "AB": "129/2278",
+    "OR": [
+     1.55,
+     0.76,
+     3.13
+    ],
+    "fisher_p": 0.203999443830574,
+    "MH_OR_decade": [
+     1.1,
+     0.54,
+     2.25
+    ],
+    "MH_p": 0.9472478186371001,
+    "q_BH_MH": 1.0
+   },
+   {
+    "descriptor": "rectangle/carre",
+    "D": "5/106",
+    "AB": "56/2278",
+    "OR": [
+     1.96,
+     0.77,
+     5.01
+    ],
+    "fisher_p": 0.19203611868012438,
+    "MH_OR_decade": [
+     1.66,
+     0.64,
+     4.33
+    ],
+    "MH_p": 0.4462867717965512,
+    "q_BH_MH": 0.7810018506439645
+   },
+   {
+    "descriptor": "point lumineux",
+    "D": "11/106",
+    "AB": "405/2278",
+    "OR": [
+     0.54,
+     0.28,
+     1.01
+    ],
+    "fisher_p": 0.049660212678424076,
+    "MH_OR_decade": [
+     0.76,
+     0.4,
+     1.45
+    ],
+    "MH_p": 0.4996159488384162,
+    "q_BH_MH": 0.8070719173543647
+   },
+   {
+    "descriptor": "orange",
+    "D": "24/106",
+    "AB": "488/2278",
+    "OR": [
+     1.07,
+     0.67,
+     1.71
+    ],
+    "fisher_p": 0.8087056582686596,
+    "MH_OR_decade": [
+     1.08,
+     0.66,
+     1.78
+    ],
+    "MH_p": 0.8541655207505411,
+    "q_BH_MH": 1.0
+   },
+   {
+    "descriptor": "rouge",
+    "D": "34/106",
+    "AB": "416/2278",
+    "OR": [
+     2.11,
+     1.39,
+     3.22
+    ],
+    "fisher_p": 0.0008469343577731859,
+    "MH_OR_decade": [
+     1.75,
+     1.12,
+     2.71
+    ],
+    "MH_p": 0.017545526019008793,
+    "q_BH_MH": 0.06140934106653078
+   },
+   {
+    "descriptor": "vert",
+    "D": "9/106",
+    "AB": "150/2278",
+    "OR": [
+     1.32,
+     0.65,
+     2.66
+    ],
+    "fisher_p": 0.4240006360957683,
+    "MH_OR_decade": [
+     1.02,
+     0.49,
+     2.1
+    ],
+    "MH_p": 0.8939430546963293,
+    "q_BH_MH": 1.0
+   },
+   {
+    "descriptor": "bleu",
+    "D": "11/106",
+    "AB": "147/2278",
+    "OR": [
+     1.68,
+     0.88,
+     3.2
+    ],
+    "fisher_p": 0.1113916072202489,
+    "MH_OR_decade": [
+     1.56,
+     0.8,
+     3.05
+    ],
+    "MH_p": 0.2564812022991089,
+    "q_BH_MH": 0.5386105248281288
+   },
+   {
+    "descriptor": "metallique",
+    "D": "2/106",
+    "AB": "36/2278",
+    "OR": [
+     1.2,
+     0.28,
+     5.04
+    ],
+    "fisher_p": 0.6852052207447291,
+    "MH_OR_decade": [
+     0.85,
+     0.2,
+     3.69
+    ],
+    "MH_p": 0.8888975893582333,
+    "q_BH_MH": 1.0
+   },
+   {
+    "descriptor": "silencieux",
+    "D": "57/106",
+    "AB": "838/2278",
+    "OR": [
+     2.0,
+     1.35,
+     2.96
+    ],
+    "fisher_p": 0.0006417550990480881,
+    "MH_OR_decade": [
+     2.17,
+     1.45,
+     3.24
+    ],
+    "MH_p": 0.0001766233567986015,
+    "q_BH_MH": 0.0012363634975902104
+   },
+   {
+    "descriptor": "stationnaire",
+    "D": "27/106",
+    "AB": "239/2278",
+    "OR": [
+     2.92,
+     1.85,
+     4.61
+    ],
+    "fisher_p": 2.0916243924839296e-05,
+    "MH_OR_decade": [
+     2.66,
+     1.64,
+     4.3
+    ],
+    "MH_p": 7.978675347664535e-05,
+    "q_BH_MH": 0.0008377609115047762
+   },
+   {
+    "descriptor": "formation/plusieurs",
+    "D": "4/106",
+    "AB": "170/2278",
+    "OR": [
+     0.49,
+     0.18,
+     1.34
+    ],
+    "fisher_p": 0.1824700752010781,
+    "MH_OR_decade": [
+     0.68,
+     0.24,
+     1.89
+    ],
+    "MH_p": 0.6016419040549996,
+    "q_BH_MH": 0.9024628560824995
+   },
+   {
+    "descriptor": "zigzag/manoeuvre",
+    "D": "12/106",
+    "AB": "141/2278",
+    "OR": [
+     1.93,
+     1.04,
+     3.61
+    ],
+    "fisher_p": 0.04238593130130088,
+    "MH_OR_decade": [
+     1.71,
+     0.88,
+     3.32
+    ],
+    "MH_p": 0.16636952042491632,
+    "q_BH_MH": 0.3881955476581381
+   },
+   {
+    "descriptor": "atterrissage/trace",
+    "D": "6/106",
+    "AB": "56/2278",
+    "OR": [
+     2.38,
+     1.0,
+     5.66
+    ],
+    "fisher_p": 0.05466829570995337,
+    "MH_OR_decade": [
+     1.17,
+     0.47,
+     2.88
+    ],
+    "MH_p": 0.923431244669926,
+    "q_BH_MH": 1.0
+   },
+   {
+    "descriptor": "occupant/entite",
+    "D": "0/106",
+    "AB": "4/2278",
+    "OR": [
+     2.37,
+     0.13,
+     44.36
+    ],
+    "fisher_p": 1.0,
+    "MH_OR_decade": [
+     NaN,
+     NaN,
+     NaN
+    ],
+    "MH_p": NaN,
+    "q_BH_MH": 1.0
+   },
+   {
+    "descriptor": "flamme/scintillement",
+    "D": "7/106",
+    "AB": "120/2278",
+    "OR": [
+     1.27,
+     0.58,
+     2.8
+    ],
+    "fisher_p": 0.5057733259390416,
+    "MH_OR_decade": [
+     1.6,
+     0.7,
+     3.65
+    ],
+    "MH_p": 0.39710630738927244,
+    "q_BH_MH": 0.7581120413795202
+   },
+   {
+    "descriptor": "photo/video",
+    "D": "14/106",
+    "AB": "831/2278",
+    "OR": [
+     0.26,
+     0.15,
+     0.47
+    ],
+    "fisher_p": 2.146538377322706e-07,
+    "MH_OR_decade": [
+     0.56,
+     0.3,
+     1.06
+    ],
+    "MH_p": 0.08960841785737436,
+    "q_BH_MH": 0.2654945162441987
+   }
+  ]
+ }
+}
