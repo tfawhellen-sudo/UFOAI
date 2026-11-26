@@ -83,3 +83,28 @@ statistic. This turns "underpowered" into a number.
 - Both P >= 0.025: a null. Its meaning is bounded by the MDE. Any trace smaller
   than the MDE is untested, not absent.
 - No result is reported without the MDE beside it.
+
+## Amendment 1, made after the control-set build and before any control imagery is read
+
+**What was seen.** Only controllability counts, no NDVI. Under the rules above, 2
+of 10 cases have >=10 controls: Essex MT (16) and Benton TN (30). Shelby NC has
+4, Mexico MO 3 and the other 6 have 0. The binding rule is land cover, not
+reports. The case boxes sit on settlement centroids and are 30% to 71% built-up
+(WorldCover class 50). Within 80 km, inside the same tile, almost no other 2 km
+box has that mix. The reason is the same one that caps power: the geocode is the
+town, not the field.
+
+**Tier A (confirmatory) is unchanged.** It runs on the 2 controllable cases
+exactly as written. Edmonds WA is the only no-pair case with scenes in
+`sentinel-2-c1-l2a` (82). Those are the same acquisitions as `sentinel-2-l2a`,
+reprocessed, so clouds that blocked the pair in session 5 still block it. That
+is checked with SCL at the case only.
+
+**Tier B (exploratory, labelled as such everywhere it is quoted).** It loosens
+only the land-cover rule to L1 <= 0.50 and the NUFORC exclusion to 2 km.
+Everything else stays the same. It adds **S1w**, a class-reweighted LOSS. Each
+control's LOSS is computed per WorldCover class at native 10 m, then reweighted
+to the case's class mix. A class absent from a control box takes that class's
+pooled LOSS over all of the case's controls. This corrects the leftover mismatch
+that the looser L1 lets in. Tier B gets no confirmatory P value. Its role is to
+say whether Tier A's 2-case answer looks different when 8 more sites are added.
