@@ -1,0 +1,1932 @@
+{
+ "generated": "2026-11-26T10:04:19+00:00",
+ "inputs": {
+  "geipan_cases": 3404,
+  "nuforc_us_parsed": 65114,
+  "gem_fault_traces": 13696,
+  "kp_days": 24765,
+  "kp_span": [
+   "1957-10-01",
+   "2025-07-20"
+  ]
+ },
+ "class_counts": {
+  "geipan": {
+   "orb|C": 465,
+   "other|D": 50,
+   "craft|C": 106,
+   "orb|A": 503,
+   "craft|D": 16,
+   "other|C": 449,
+   "craft|B": 73,
+   "other|B": 482,
+   "orb|B": 768,
+   "orb|D": 40,
+   "other|A": 390,
+   "craft|A": 62
+  },
+  "nuforc": {
+   "craft": 16594,
+   "other": 24490,
+   "orb": 24030
+  }
+ },
+ "T1_faults": [
+  {
+   "label": "GEIPAN metropolitan France",
+   "n_in_box": 3283,
+   "median_km": {
+    "orb_vs_craft": [
+     195.2,
+     201.5
+    ],
+    "unexplainedCD_orb_vs_identifiedAB_orb": [
+     195.8,
+     195.1
+    ]
+   },
+   "tests": {
+    "orb_vs_craft|10km": {
+     "n_case": 1716,
+     "n_ctrl": 253,
+     "p_case": 0.0326,
+     "p_ctrl": 0.0237,
+     "OR": 1.296,
+     "CI95": [
+      0.624,
+      4.245
+     ]
+    },
+    "orb_vs_craft|25km": {
+     "n_case": 1716,
+     "n_ctrl": 253,
+     "p_case": 0.0769,
+     "p_ctrl": 0.0593,
+     "OR": 1.287,
+     "CI95": [
+      0.772,
+      2.484
+     ]
+    },
+    "orb_vs_craft|50km": {
+     "n_case": 1716,
+     "n_ctrl": 253,
+     "p_case": 0.1393,
+     "p_ctrl": 0.1383,
+     "OR": 0.998,
+     "CI95": [
+      0.683,
+      1.511
+     ]
+    },
+    "orb_vs_craft|10km|MH_by_region": {
+     "MH_OR": 1.421,
+     "CI95": [
+      0.509,
+      5.586
+     ]
+    },
+    "orb_vs_craft|25km|MH_by_region": {
+     "MH_OR": 1.982,
+     "CI95": [
+      0.9,
+      4.914
+     ]
+    },
+    "orb_vs_craft|50km|MH_by_region": {
+     "MH_OR": 0.941,
+     "CI95": [
+      0.417,
+      2.326
+     ]
+    },
+    "unexplainedCD_orb_vs_identifiedAB_orb|10km": {
+     "n_case": 486,
+     "n_ctrl": 1230,
+     "p_case": 0.0453,
+     "p_ctrl": 0.0276,
+     "OR": 1.68,
+     "CI95": [
+      0.875,
+      3.217
+     ]
+    },
+    "unexplainedCD_orb_vs_identifiedAB_orb|25km": {
+     "n_case": 486,
+     "n_ctrl": 1230,
+     "p_case": 0.07,
+     "p_ctrl": 0.0797,
+     "OR": 0.877,
+     "CI95": [
+      0.55,
+      1.288
+     ]
+    },
+    "unexplainedCD_orb_vs_identifiedAB_orb|50km": {
+     "n_case": 486,
+     "n_ctrl": 1230,
+     "p_case": 0.1173,
+     "p_ctrl": 0.148,
+     "OR": 0.769,
+     "CI95": [
+      0.536,
+      1.065
+     ]
+    },
+    "unexplainedCD_orb_vs_identifiedAB_orb|10km|MH_by_region": {
+     "MH_OR": 3.171,
+     "CI95": [
+      1.54,
+      6.678
+     ]
+    },
+    "unexplainedCD_orb_vs_identifiedAB_orb|25km|MH_by_region": {
+     "MH_OR": 1.298,
+     "CI95": [
+      0.657,
+      2.49
+     ]
+    },
+    "unexplainedCD_orb_vs_identifiedAB_orb|50km|MH_by_region": {
+     "MH_OR": 1.064,
+     "CI95": [
+      0.468,
+      1.952
+     ]
+    }
+   },
+   "pop_null_share_within": {
+    "10km": 0.0211,
+    "25km": 0.06,
+    "50km": 0.1367
+   },
+   "orb_share_within_vs_pop": {
+    "10km": {
+     "orb_share": 0.0326,
+     "all_reports_share": 0.0302,
+     "pop_null_share": 0.0211
+    },
+    "25km": {
+     "orb_share": 0.0769,
+     "all_reports_share": 0.0722,
+     "pop_null_share": 0.06
+    },
+    "50km": {
+     "orb_share": 0.1393,
+     "all_reports_share": 0.1352,
+     "pop_null_share": 0.1367
+    }
+   }
+  },
+  {
+   "label": "NUFORC CONUS",
+   "n_in_box": 64508,
+   "median_km": {
+    "orb_vs_craft": [
+     889.6,
+     999.1
+    ]
+   },
+   "tests": {
+    "orb_vs_craft|10km": {
+     "n_case": 23756,
+     "n_ctrl": 16469,
+     "p_case": 0.1636,
+     "p_ctrl": 0.1557,
+     "OR": 1.061,
+     "CI95": [
+      0.8,
+      1.425
+     ]
+    },
+    "orb_vs_craft|25km": {
+     "n_case": 23756,
+     "n_ctrl": 16469,
+     "p_case": 0.2119,
+     "p_ctrl": 0.1988,
+     "OR": 1.083,
+     "CI95": [
+      0.854,
+      1.387
+     ]
+    },
+    "orb_vs_craft|50km": {
+     "n_case": 23756,
+     "n_ctrl": 16469,
+     "p_case": 0.2521,
+     "p_ctrl": 0.2318,
+     "OR": 1.117,
+     "CI95": [
+      0.893,
+      1.393
+     ]
+    },
+    "orb_vs_craft|10km|MH_by_region": {
+     "MH_OR": 0.958,
+     "CI95": [
+      0.86,
+      1.049
+     ]
+    },
+    "orb_vs_craft|25km|MH_by_region": {
+     "MH_OR": 0.935,
+     "CI95": [
+      0.853,
+      1.016
+     ]
+    },
+    "orb_vs_craft|50km|MH_by_region": {
+     "MH_OR": 0.993,
+     "CI95": [
+      0.867,
+      1.108
+     ]
+    },
+    "orb_vs_craft|10km|west_of_104W|MH_by_state": {
+     "MH_OR": 0.961,
+     "CI95": [
+      0.861,
+      1.06
+     ]
+    },
+    "orb_vs_craft|25km|west_of_104W|MH_by_state": {
+     "MH_OR": 0.939,
+     "CI95": [
+      0.844,
+      1.037
+     ]
+    },
+    "orb_vs_craft|50km|west_of_104W|MH_by_state": {
+     "MH_OR": 0.999,
+     "CI95": [
+      0.882,
+      1.119
+     ]
+    }
+   },
+   "pop_null_share_within": {
+    "10km": 0.1525,
+    "25km": 0.185,
+    "50km": 0.2073
+   },
+   "orb_share_within_vs_pop": {
+    "10km": {
+     "orb_share": 0.1636,
+     "all_reports_share": 0.1633,
+     "pop_null_share": 0.1525
+    },
+    "25km": {
+     "orb_share": 0.2119,
+     "all_reports_share": 0.2106,
+     "pop_null_share": 0.185
+    },
+    "50km": {
+     "orb_share": 0.2521,
+     "all_reports_share": 0.2482,
+     "pop_null_share": 0.2073
+    }
+   }
+  }
+ ],
+ "T2_geomagnetic": [
+  {
+   "label": "GEIPAN all France incl. overseas",
+   "n_dated": 3219,
+   "storm_def": "daily max Kp >= 5 (G1+)",
+   "calendar_null": {
+    "orb_vs_craft|case": {
+     "n": 1696,
+     "obs_storm": 180,
+     "exp_storm": 178.4,
+     "O/E": 1.009,
+     "CI95": [
+      0.86,
+      1.161
+     ]
+    },
+    "orb_vs_craft|ctrl": {
+     "n": 230,
+     "obs_storm": 26,
+     "exp_storm": 25.9,
+     "O/E": 1.004,
+     "CI95": [
+      0.69,
+      1.338
+     ]
+    },
+    "unexplainedCD_orb_vs_identifiedAB_orb|case": {
+     "n": 458,
+     "obs_storm": 49,
+     "exp_storm": 56.5,
+     "O/E": 0.867,
+     "CI95": [
+      0.652,
+      1.092
+     ]
+    },
+    "unexplainedCD_orb_vs_identifiedAB_orb|ctrl": {
+     "n": 1238,
+     "obs_storm": 131,
+     "exp_storm": 121.9,
+     "O/E": 1.074,
+     "CI95": [
+      0.899,
+      1.252
+     ]
+    }
+   },
+   "tests": {
+    "orb_vs_craft|storm_day": {
+     "n_case": 1696,
+     "n_ctrl": 230,
+     "p_case": 0.1061,
+     "p_ctrl": 0.113,
+     "OR": 0.919,
+     "CI95": [
+      0.62,
+      1.498
+     ]
+    },
+    "orb_vs_craft|storm_day|MH_by_year": {
+     "MH_OR": 1.03,
+     "CI95": [
+      0.666,
+      1.763
+     ]
+    },
+    "unexplainedCD_orb_vs_identifiedAB_orb|storm_day": {
+     "n_case": 458,
+     "n_ctrl": 1238,
+     "p_case": 0.107,
+     "p_ctrl": 0.1058,
+     "OR": 1.018,
+     "CI95": [
+      0.701,
+      1.45
+     ]
+    },
+    "unexplainedCD_orb_vs_identifiedAB_orb|storm_day|MH_by_year": {
+     "MH_OR": 0.881,
+     "CI95": [
+      0.58,
+      1.319
+     ]
+    }
+   }
+  },
+  {
+   "label": "NUFORC US",
+   "n_dated": 64772,
+   "storm_def": "daily max Kp >= 5 (G1+)",
+   "calendar_null": {
+    "orb_vs_craft|case": {
+     "n": 23965,
+     "obs_storm": 2254,
+     "exp_storm": 2323.3,
+     "O/E": 0.97,
+     "CI95": [
+      0.886,
+      1.056
+     ]
+    },
+    "orb_vs_craft|ctrl": {
+     "n": 16435,
+     "obs_storm": 1862,
+     "exp_storm": 1889.2,
+     "O/E": 0.986,
+     "CI95": [
+      0.912,
+      1.062
+     ]
+    },
+    "orb_vs_craft_lat>=45N|case": {
+     "n": 2680,
+     "obs_storm": 252,
+     "exp_storm": 283.9,
+     "O/E": 0.888,
+     "CI95": [
+      0.758,
+      1.019
+     ]
+    },
+    "orb_vs_craft_lat>=45N|ctrl": {
+     "n": 1474,
+     "obs_storm": 181,
+     "exp_storm": 180.3,
+     "O/E": 1.004,
+     "CI95": [
+      0.841,
+      1.157
+     ]
+    },
+    "orb_vs_craft_lat<40N|case": {
+     "n": 13693,
+     "obs_storm": 1282,
+     "exp_storm": 1314.5,
+     "O/E": 0.975,
+     "CI95": [
+      0.889,
+      1.065
+     ]
+    },
+    "orb_vs_craft_lat<40N|ctrl": {
+     "n": 9699,
+     "obs_storm": 1084,
+     "exp_storm": 1090.0,
+     "O/E": 0.995,
+     "CI95": [
+      0.912,
+      1.077
+     ]
+    }
+   },
+   "tests": {
+    "orb_vs_craft|storm_day": {
+     "n_case": 23965,
+     "n_ctrl": 16435,
+     "p_case": 0.0941,
+     "p_ctrl": 0.1133,
+     "OR": 0.813,
+     "CI95": [
+      0.706,
+      0.932
+     ]
+    },
+    "orb_vs_craft|storm_day|MH_by_year": {
+     "MH_OR": 0.94,
+     "CI95": [
+      0.883,
+      1.006
+     ]
+    },
+    "orb_vs_craft|slot_Kp>=5": {
+     "n_case": 23965,
+     "n_ctrl": 16435,
+     "p_case": 0.0281,
+     "p_ctrl": 0.034,
+     "OR": 0.82,
+     "CI95": [
+      0.689,
+      0.989
+     ]
+    },
+    "orb_vs_craft|slot_Kp>=7": {
+     "n_case": 23965,
+     "n_ctrl": 16435,
+     "p_case": 0.0037,
+     "p_ctrl": 0.0046,
+     "OR": 0.812,
+     "CI95": [
+      0.518,
+      1.267
+     ]
+    },
+    "orb_vs_craft_lat>=45N|storm_day": {
+     "n_case": 2680,
+     "n_ctrl": 1474,
+     "p_case": 0.094,
+     "p_ctrl": 0.1228,
+     "OR": 0.741,
+     "CI95": [
+      0.58,
+      0.975
+     ]
+    },
+    "orb_vs_craft_lat>=45N|storm_day|MH_by_year": {
+     "MH_OR": 0.876,
+     "CI95": [
+      0.72,
+      1.107
+     ]
+    },
+    "orb_vs_craft_lat>=45N|slot_Kp>=5": {
+     "n_case": 2680,
+     "n_ctrl": 1474,
+     "p_case": 0.0325,
+     "p_ctrl": 0.0407,
+     "OR": 0.789,
+     "CI95": [
+      0.546,
+      1.157
+     ]
+    },
+    "orb_vs_craft_lat>=45N|slot_Kp>=7": {
+     "n_case": 2680,
+     "n_ctrl": 1474,
+     "p_case": 0.0063,
+     "p_ctrl": 0.0054,
+     "OR": 1.134,
+     "CI95": [
+      0.424,
+      4.184
+     ]
+    },
+    "orb_vs_craft_lat<40N|storm_day": {
+     "n_case": 13693,
+     "n_ctrl": 9699,
+     "p_case": 0.0936,
+     "p_ctrl": 0.1118,
+     "OR": 0.821,
+     "CI95": [
+      0.71,
+      0.949
+     ]
+    },
+    "orb_vs_craft_lat<40N|storm_day|MH_by_year": {
+     "MH_OR": 0.928,
+     "CI95": [
+      0.837,
+      1.013
+     ]
+    },
+    "orb_vs_craft_lat<40N|slot_Kp>=5": {
+     "n_case": 13693,
+     "n_ctrl": 9699,
+     "p_case": 0.0275,
+     "p_ctrl": 0.0321,
+     "OR": 0.852,
+     "CI95": [
+      0.679,
+      1.053
+     ]
+    },
+    "orb_vs_craft_lat<40N|slot_Kp>=7": {
+     "n_case": 13693,
+     "n_ctrl": 9699,
+     "p_case": 0.0034,
+     "p_ctrl": 0.0046,
+     "OR": 0.723,
+     "CI95": [
+      0.408,
+      1.19
+     ]
+    }
+   }
+  }
+ ],
+ "T3_prequake": [
+  {
+   "label": "oklahoma_m3_plus_since_2000",
+   "M_min": 3.0,
+   "radius_km": 100,
+   "pre_days": 14,
+   "post_days": 3,
+   "quakes": 3079,
+   "quake_span": [
+    "2000-08-07",
+    "2026-09-04"
+   ],
+   "n_reports": 1937,
+   "n_orb": 695,
+   "n_craft": 486,
+   "pre": {
+    "n_case": 695,
+    "n_ctrl": 486,
+    "p_case": 0.0432,
+    "p_ctrl": 0.0638,
+    "OR": 0.663,
+    "CI95": [
+     0.381,
+     1.124
+    ]
+   },
+   "post": {
+    "n_case": 695,
+    "n_ctrl": 486,
+    "p_case": 0.0245,
+    "p_ctrl": 0.0288,
+    "OR": 0.84,
+    "CI95": [
+     0.403,
+     1.754
+    ]
+   },
+   "pre_MH_by_year": {
+    "MH_OR": 0.491,
+    "CI95": [
+     0.279,
+     0.912
+    ]
+   },
+   "post_MH_by_year": {
+    "MH_OR": 0.657,
+    "CI95": [
+     0.288,
+     1.434
+    ]
+   },
+   "orb_vs_timeshift": {
+    "obs_pre": 0.0432,
+    "null_pre_mean": 0.0631,
+    "null_pre_95": [
+     0.0532,
+     0.0749
+    ],
+    "obs_post": 0.0245,
+    "null_post_mean": 0.0338,
+    "null_post_95": [
+     0.0245,
+     0.0446
+    ]
+   }
+  },
+  {
+   "label": "cascadia_m2_5_plus_since_1970",
+   "M_min": 3.0,
+   "radius_km": 100,
+   "pre_days": 14,
+   "post_days": 3,
+   "quakes": 10288,
+   "quake_span": [
+    "1970-06-07",
+    "2026-10-29"
+   ],
+   "n_reports": 5995,
+   "n_orb": 2371,
+   "n_craft": 1244,
+   "pre": {
+    "n_case": 2371,
+    "n_ctrl": 1244,
+    "p_case": 0.1168,
+    "p_ctrl": 0.0965,
+    "OR": 1.236,
+    "CI95": [
+     0.978,
+     1.585
+    ]
+   },
+   "post": {
+    "n_case": 2371,
+    "n_ctrl": 1244,
+    "p_case": 0.0426,
+    "p_ctrl": 0.0458,
+    "OR": 0.923,
+    "CI95": [
+     0.636,
+     1.39
+    ]
+   },
+   "pre_MH_by_year": {
+    "MH_OR": 1.335,
+    "CI95": [
+     1.052,
+     1.711
+    ]
+   },
+   "post_MH_by_year": {
+    "MH_OR": 0.965,
+    "CI95": [
+     0.681,
+     1.379
+    ]
+   },
+   "orb_vs_timeshift": {
+    "obs_pre": 0.1168,
+    "null_pre_mean": 0.1081,
+    "null_pre_95": [
+     0.0962,
+     0.1223
+    ],
+    "obs_post": 0.0426,
+    "null_post_mean": 0.0361,
+    "null_post_95": [
+     0.0295,
+     0.0439
+    ]
+   }
+  },
+  {
+   "label": "new_madrid_m2_5_plus_since_1974",
+   "M_min": 2.5,
+   "radius_km": 100,
+   "pre_days": 14,
+   "post_days": 3,
+   "quakes": 1267,
+   "quake_span": [
+    "1974-01-08",
+    "2026-10-16"
+   ],
+   "n_reports": 3974,
+   "n_orb": 1430,
+   "n_craft": 1181,
+   "pre": {
+    "n_case": 1430,
+    "n_ctrl": 1181,
+    "p_case": 0.0259,
+    "p_ctrl": 0.0305,
+    "OR": 0.845,
+    "CI95": [
+     0.517,
+     1.384
+    ]
+   },
+   "post": {
+    "n_case": 1430,
+    "n_ctrl": 1181,
+    "p_case": 0.0042,
+    "p_ctrl": 0.0085,
+    "OR": 0.509,
+    "CI95": [
+     0.153,
+     1.348
+    ]
+   },
+   "pre_MH_by_year": {
+    "MH_OR": 0.82,
+    "CI95": [
+     0.487,
+     1.421
+    ]
+   },
+   "post_MH_by_year": {
+    "MH_OR": 0.507,
+    "CI95": [
+     0.12,
+     1.646
+    ]
+   },
+   "orb_vs_timeshift": {
+    "obs_pre": 0.0259,
+    "null_pre_mean": 0.0251,
+    "null_pre_95": [
+     0.0175,
+     0.0329
+    ],
+    "obs_post": 0.0042,
+    "null_post_mean": 0.0087,
+    "null_post_95": [
+     0.0049,
+     0.0133
+    ]
+   }
+  },
+  {
+   "label": "yellowstone_since_1973",
+   "M_min": 2.5,
+   "radius_km": 50,
+   "pre_days": 14,
+   "post_days": 3,
+   "quakes": 1022,
+   "quake_span": [
+    "1973-03-01",
+    "2026-09-08"
+   ],
+   "n_reports": 19,
+   "n_orb": 5,
+   "n_craft": 5,
+   "pre": {
+    "n_case": 5,
+    "n_ctrl": 5,
+    "p_case": 0.0,
+    "p_ctrl": 0.0,
+    "OR": 1.0,
+    "CI95": [
+     0.733,
+     1.222
+    ]
+   },
+   "post": {
+    "n_case": 5,
+    "n_ctrl": 5,
+    "p_case": 0.0,
+    "p_ctrl": 0.0,
+    "OR": 1.0,
+    "CI95": [
+     0.733,
+     1.222
+    ]
+   },
+   "pre_MH_by_year": {
+    "MH_OR": NaN,
+    "CI95": [
+     NaN,
+     NaN
+    ]
+   },
+   "post_MH_by_year": {
+    "MH_OR": NaN,
+    "CI95": [
+     NaN,
+     NaN
+    ]
+   },
+   "orb_vs_timeshift": {
+    "obs_pre": 0.0,
+    "null_pre_mean": 0.027,
+    "null_pre_95": [
+     0.0,
+     0.2
+    ],
+    "obs_post": 0.0,
+    "null_post_mean": 0.014,
+    "null_post_95": [
+     0.0,
+     0.2
+    ]
+   }
+  },
+  {
+   "label": "california_m5_plus_since_1900",
+   "M_min": 5.0,
+   "radius_km": 150,
+   "pre_days": 14,
+   "post_days": 3,
+   "quakes": 716,
+   "quake_span": [
+    "1901-03-03",
+    "2026-06-24"
+   ],
+   "n_reports": 11056,
+   "n_orb": 4139,
+   "n_craft": 2726,
+   "pre": {
+    "n_case": 4139,
+    "n_ctrl": 2726,
+    "p_case": 0.008,
+    "p_ctrl": 0.0136,
+    "OR": 0.585,
+    "CI95": [
+     0.362,
+     0.956
+    ]
+   },
+   "post": {
+    "n_case": 4139,
+    "n_ctrl": 2726,
+    "p_case": 0.0031,
+    "p_ctrl": 0.0051,
+    "OR": 0.612,
+    "CI95": [
+     0.271,
+     1.493
+    ]
+   },
+   "pre_MH_by_year": {
+    "MH_OR": 0.709,
+    "CI95": [
+     0.442,
+     1.124
+    ]
+   },
+   "post_MH_by_year": {
+    "MH_OR": 0.852,
+    "CI95": [
+     0.368,
+     2.219
+    ]
+   },
+   "orb_vs_timeshift": {
+    "obs_pre": 0.008,
+    "null_pre_mean": 0.0092,
+    "null_pre_95": [
+     0.0063,
+     0.0116
+    ],
+    "obs_post": 0.0031,
+    "null_post_mean": 0.0026,
+    "null_post_95": [
+     0.0014,
+     0.0041
+    ]
+   }
+  }
+ ],
+ "T3b_oklahoma_DiD": {
+  "ok_m3_quakes_per_year": {
+   "2000": 6,
+   "2001": 0,
+   "2002": 4,
+   "2003": 1,
+   "2004": 2,
+   "2005": 1,
+   "2006": 5,
+   "2007": 3,
+   "2008": 4,
+   "2009": 20,
+   "2010": 42,
+   "2011": 63,
+   "2012": 35,
+   "2013": 103,
+   "2014": 592
+  },
+  "neighbours": [
+   "AR",
+   "CO",
+   "IA",
+   "KS",
+   "MO",
+   "NE",
+   "NM"
+  ],
+  "pre_years": [
+   2000,
+   2008
+  ],
+  "surge_years": [
+   2010,
+   2013
+  ],
+  "orb_craft_counts": {
+   "OK_pre": [
+    94,
+    97
+   ],
+   "OK_surge": [
+    91,
+    51
+   ],
+   "NB_pre": [
+    880,
+    748
+   ],
+   "NB_surge": [
+    717,
+    410
+   ]
+  },
+  "DiD_log_odds": 0.21,
+  "ratio_of_OR": 1.234,
+  "CI95": [
+   0.771,
+   1.974
+  ],
+  "quake_increase_factor": 21.0
+ },
+ "geography": {
+  "geipan_by_department": {
+   "orb_share_overall": 0.8715,
+   "min_n": 20,
+   "spearman_orbshare_vs_median_fault_km": [
+    0.21,
+    0.166
+   ],
+   "rows": [
+    {
+     "region": "Ardennes",
+     "orb": 16,
+     "n_orb_plus_craft": 22,
+     "orb_share": 0.727,
+     "p": 0.0542,
+     "q_BH": 1.0,
+     "median_fault_km": 151.6
+    },
+    {
+     "region": "C\u00f4te-d'Or",
+     "orb": 24,
+     "n_orb_plus_craft": 24,
+     "orb_share": 1.0,
+     "p": 0.0642,
+     "q_BH": 1.0,
+     "median_fault_km": 197.6
+    },
+    {
+     "region": "Oise",
+     "orb": 26,
+     "n_orb_plus_craft": 33,
+     "orb_share": 0.788,
+     "p": 0.185,
+     "q_BH": 1.0,
+     "median_fault_km": 292.1
+    },
+    {
+     "region": "Is\u00e8re",
+     "orb": 38,
+     "n_orb_plus_craft": 47,
+     "orb_share": 0.809,
+     "p": 0.191,
+     "q_BH": 1.0,
+     "median_fault_km": 77.6
+    },
+    {
+     "region": "Gironde",
+     "orb": 55,
+     "n_orb_plus_craft": 59,
+     "orb_share": 0.932,
+     "p": 0.239,
+     "q_BH": 1.0,
+     "median_fault_km": 261.9
+    },
+    {
+     "region": "Vaucluse",
+     "orb": 25,
+     "n_orb_plus_craft": 26,
+     "orb_share": 0.962,
+     "p": 0.243,
+     "q_BH": 1.0,
+     "median_fault_km": 39.6
+    },
+    {
+     "region": "Alpes-de-Haute-Provence",
+     "orb": 16,
+     "n_orb_plus_craft": 20,
+     "orb_share": 0.8,
+     "p": 0.314,
+     "q_BH": 1.0,
+     "median_fault_km": 14.7
+    },
+    {
+     "region": "Dordogne",
+     "orb": 16,
+     "n_orb_plus_craft": 20,
+     "orb_share": 0.8,
+     "p": 0.314,
+     "q_BH": 1.0,
+     "median_fault_km": 271.5
+    },
+    {
+     "region": "Marne",
+     "orb": 21,
+     "n_orb_plus_craft": 22,
+     "orb_share": 0.955,
+     "p": 0.349,
+     "q_BH": 1.0,
+     "median_fault_km": 238.6
+    },
+    {
+     "region": "Var",
+     "orb": 34,
+     "n_orb_plus_craft": 41,
+     "orb_share": 0.829,
+     "p": 0.358,
+     "q_BH": 1.0,
+     "median_fault_km": 59.1
+    },
+    {
+     "region": "Savoie",
+     "orb": 22,
+     "n_orb_plus_craft": 27,
+     "orb_share": 0.815,
+     "p": 0.383,
+     "q_BH": 1.0,
+     "median_fault_km": 50.6
+    },
+    {
+     "region": "Haut-Rhin",
+     "orb": 24,
+     "n_orb_plus_craft": 29,
+     "orb_share": 0.828,
+     "p": 0.412,
+     "q_BH": 1.0,
+     "median_fault_km": 19.1
+    },
+    {
+     "region": "Rh\u00f4ne",
+     "orb": 29,
+     "n_orb_plus_craft": 31,
+     "orb_share": 0.935,
+     "p": 0.421,
+     "q_BH": 1.0,
+     "median_fault_km": 151.2
+    },
+    {
+     "region": "Pyr\u00e9n\u00e9es-Orientales",
+     "orb": 26,
+     "n_orb_plus_craft": 28,
+     "orb_share": 0.929,
+     "p": 0.571,
+     "q_BH": 1.0,
+     "median_fault_km": 13.3
+    },
+    {
+     "region": "C\u00f4tes-d'Armor",
+     "orb": 26,
+     "n_orb_plus_craft": 28,
+     "orb_share": 0.929,
+     "p": 0.571,
+     "q_BH": 1.0,
+     "median_fault_km": 650.2
+    },
+    {
+     "region": "Essonne",
+     "orb": 27,
+     "n_orb_plus_craft": 29,
+     "orb_share": 0.931,
+     "p": 0.575,
+     "q_BH": 1.0,
+     "median_fault_km": 356.3
+    },
+    {
+     "region": "Seine-et-Marne",
+     "orb": 27,
+     "n_orb_plus_craft": 32,
+     "orb_share": 0.844,
+     "p": 0.597,
+     "q_BH": 1.0,
+     "median_fault_km": 331.4
+    },
+    {
+     "region": "Loire-Atlantique",
+     "orb": 31,
+     "n_orb_plus_craft": 34,
+     "orb_share": 0.912,
+     "p": 0.615,
+     "q_BH": 1.0,
+     "median_fault_km": 536.5
+    },
+    {
+     "region": "Haute-Garonne",
+     "orb": 48,
+     "n_orb_plus_craft": 56,
+     "orb_share": 0.857,
+     "p": 0.69,
+     "q_BH": 1.0,
+     "median_fault_km": 108.5
+    },
+    {
+     "region": "Nord",
+     "orb": 49,
+     "n_orb_plus_craft": 57,
+     "orb_share": 0.86,
+     "p": 0.695,
+     "q_BH": 1.0,
+     "median_fault_km": 166.4
+    },
+    {
+     "region": "Vosges",
+     "orb": 17,
+     "n_orb_plus_craft": 20,
+     "orb_share": 0.85,
+     "p": 0.736,
+     "q_BH": 1.0,
+     "median_fault_km": 81.7
+    },
+    {
+     "region": "Doubs",
+     "orb": 18,
+     "n_orb_plus_craft": 21,
+     "orb_share": 0.857,
+     "p": 0.746,
+     "q_BH": 1.0,
+     "median_fault_km": 103.6
+    },
+    {
+     "region": "Haute-Savoie",
+     "orb": 19,
+     "n_orb_plus_craft": 22,
+     "orb_share": 0.864,
+     "p": 0.756,
+     "q_BH": 1.0,
+     "median_fault_km": 47.1
+    },
+    {
+     "region": "Hauts-de-Seine",
+     "orb": 19,
+     "n_orb_plus_craft": 22,
+     "orb_share": 0.864,
+     "p": 0.756,
+     "q_BH": 1.0,
+     "median_fault_km": 346.4
+    },
+    {
+     "region": "Ille-et-Vilaine",
+     "orb": 19,
+     "n_orb_plus_craft": 22,
+     "orb_share": 0.864,
+     "p": 0.756,
+     "q_BH": 1.0,
+     "median_fault_km": 599.3
+    },
+    {
+     "region": "Indre-et-Loire",
+     "orb": 22,
+     "n_orb_plus_craft": 24,
+     "orb_share": 0.917,
+     "p": 0.761,
+     "q_BH": 1.0,
+     "median_fault_km": 495.4
+    },
+    {
+     "region": "Bas-Rhin",
+     "orb": 24,
+     "n_orb_plus_craft": 26,
+     "orb_share": 0.923,
+     "p": 0.767,
+     "q_BH": 1.0,
+     "median_fault_km": 44.2
+    },
+    {
+     "region": "Pyr\u00e9n\u00e9es-Atlantiques",
+     "orb": 23,
+     "n_orb_plus_craft": 27,
+     "orb_share": 0.852,
+     "p": 0.771,
+     "q_BH": 1.0,
+     "median_fault_km": 123.7
+    },
+    {
+     "region": "Finist\u00e8re",
+     "orb": 23,
+     "n_orb_plus_craft": 27,
+     "orb_share": 0.852,
+     "p": 0.771,
+     "q_BH": 1.0,
+     "median_fault_km": 620.8
+    },
+    {
+     "region": "Gard",
+     "orb": 28,
+     "n_orb_plus_craft": 31,
+     "orb_share": 0.903,
+     "p": 0.791,
+     "q_BH": 1.0,
+     "median_fault_km": 75.1
+    },
+    {
+     "region": "H\u00e9rault",
+     "orb": 29,
+     "n_orb_plus_craft": 32,
+     "orb_share": 0.906,
+     "p": 0.792,
+     "q_BH": 1.0,
+     "median_fault_km": 96.8
+    },
+    {
+     "region": "Moselle",
+     "orb": 34,
+     "n_orb_plus_craft": 38,
+     "orb_share": 0.895,
+     "p": 0.812,
+     "q_BH": 1.0,
+     "median_fault_km": 149.1
+    },
+    {
+     "region": "Alpes-Maritimes",
+     "orb": 36,
+     "n_orb_plus_craft": 42,
+     "orb_share": 0.857,
+     "p": 0.816,
+     "q_BH": 1.0,
+     "median_fault_km": 13.3
+    },
+    {
+     "region": "Vend\u00e9e",
+     "orb": 24,
+     "n_orb_plus_craft": 27,
+     "orb_share": 0.889,
+     "p": 1.0,
+     "q_BH": 1.0,
+     "median_fault_km": 479.6
+    },
+    {
+     "region": "Yvelines",
+     "orb": 36,
+     "n_orb_plus_craft": 41,
+     "orb_share": 0.878,
+     "p": 1.0,
+     "q_BH": 1.0,
+     "median_fault_km": 353.0
+    },
+    {
+     "region": "Pas-de-Calais",
+     "orb": 20,
+     "n_orb_plus_craft": 23,
+     "orb_share": 0.87,
+     "p": 1.0,
+     "q_BH": 1.0,
+     "median_fault_km": 209.1
+    },
+    {
+     "region": "Seine-Maritime",
+     "orb": 26,
+     "n_orb_plus_craft": 29,
+     "orb_share": 0.897,
+     "p": 1.0,
+     "q_BH": 1.0,
+     "median_fault_km": 362.1
+    },
+    {
+     "region": "Paris",
+     "orb": 33,
+     "n_orb_plus_craft": 37,
+     "orb_share": 0.892,
+     "p": 1.0,
+     "q_BH": 1.0,
+     "median_fault_km": 339.5
+    },
+    {
+     "region": "Meurthe-et-Moselle",
+     "orb": 22,
+     "n_orb_plus_craft": 25,
+     "orb_share": 0.88,
+     "p": 1.0,
+     "q_BH": 1.0,
+     "median_fault_km": 121.5
+    },
+    {
+     "region": "Bouches-du-Rh\u00f4ne",
+     "orb": 47,
+     "n_orb_plus_craft": 54,
+     "orb_share": 0.87,
+     "p": 1.0,
+     "q_BH": 1.0,
+     "median_fault_km": 20.9
+    },
+    {
+     "region": "Puy-de-D\u00f4me",
+     "orb": 19,
+     "n_orb_plus_craft": 21,
+     "orb_share": 0.905,
+     "p": 1.0,
+     "q_BH": 1.0,
+     "median_fault_km": 279.3
+    },
+    {
+     "region": "Maine-et-Loire",
+     "orb": 18,
+     "n_orb_plus_craft": 20,
+     "orb_share": 0.9,
+     "p": 1.0,
+     "q_BH": 1.0,
+     "median_fault_km": 531.8
+    },
+    {
+     "region": "Eure",
+     "orb": 27,
+     "n_orb_plus_craft": 31,
+     "orb_share": 0.871,
+     "p": 1.0,
+     "q_BH": 1.0,
+     "median_fault_km": 388.5
+    },
+    {
+     "region": "Morbihan",
+     "orb": 24,
+     "n_orb_plus_craft": 27,
+     "orb_share": 0.889,
+     "p": 1.0,
+     "q_BH": 1.0,
+     "median_fault_km": 604.0
+    },
+    {
+     "region": "National (FR)",
+     "orb": 24,
+     "n_orb_plus_craft": 27,
+     "orb_share": 0.889,
+     "p": 1.0,
+     "q_BH": 1.0,
+     "median_fault_km": 166.2
+    }
+   ]
+  },
+  "nuforc_by_state": {
+   "orb_share_overall": 0.5906,
+   "min_n": 100,
+   "spearman_orbshare_vs_median_fault_km": [
+    -0.384,
+    0.0077
+   ],
+   "rows": [
+    {
+     "region": "WA",
+     "orb": 1567,
+     "n_orb_plus_craft": 2386,
+     "orb_share": 0.657,
+     "p": 3.38e-11,
+     "q_BH": 1.59e-09,
+     "median_fault_km": 14.5
+    },
+    {
+     "region": "SC",
+     "orb": 422,
+     "n_orb_plus_craft": 629,
+     "orb_share": 0.671,
+     "p": 4.06e-05,
+     "q_BH": 0.000955,
+     "median_fault_km": 1048.1
+    },
+    {
+     "region": "AR",
+     "orb": 184,
+     "n_orb_plus_craft": 376,
+     "orb_share": 0.489,
+     "p": 8.02e-05,
+     "q_BH": 0.00126,
+     "median_fault_km": 1017.7
+    },
+    {
+     "region": "TN",
+     "orb": 370,
+     "n_orb_plus_craft": 700,
+     "orb_share": 0.529,
+     "p": 0.000939,
+     "q_BH": 0.011,
+     "median_fault_km": 1358.5
+    },
+    {
+     "region": "FL",
+     "orb": 1489,
+     "n_orb_plus_craft": 2393,
+     "orb_share": 0.622,
+     "p": 0.00169,
+     "q_BH": 0.0159,
+     "median_fault_km": 459.8
+    },
+    {
+     "region": "OR",
+     "orb": 679,
+     "n_orb_plus_craft": 1067,
+     "orb_share": 0.636,
+     "p": 0.00228,
+     "q_BH": 0.0162,
+     "median_fault_km": 13.8
+    },
+    {
+     "region": "TX",
+     "orb": 1177,
+     "n_orb_plus_craft": 2110,
+     "orb_share": 0.558,
+     "p": 0.00242,
+     "q_BH": 0.0162,
+     "median_fault_km": 725.0
+    },
+    {
+     "region": "WI",
+     "orb": 490,
+     "n_orb_plus_craft": 763,
+     "orb_share": 0.642,
+     "p": 0.00363,
+     "q_BH": 0.0213,
+     "median_fault_km": 1347.3
+    },
+    {
+     "region": "KY",
+     "orb": 289,
+     "n_orb_plus_craft": 543,
+     "orb_share": 0.532,
+     "p": 0.00596,
+     "q_BH": 0.0311,
+     "median_fault_km": 1521.0
+    },
+    {
+     "region": "MT",
+     "orb": 199,
+     "n_orb_plus_craft": 299,
+     "orb_share": 0.666,
+     "p": 0.00812,
+     "q_BH": 0.0382,
+     "median_fault_km": 46.8
+    },
+    {
+     "region": "AZ",
+     "orb": 924,
+     "n_orb_plus_craft": 1484,
+     "orb_share": 0.623,
+     "p": 0.0121,
+     "q_BH": 0.0519,
+     "median_fault_km": 153.3
+    },
+    {
+     "region": "MO",
+     "orb": 543,
+     "n_orb_plus_craft": 984,
+     "orb_share": 0.552,
+     "p": 0.0138,
+     "q_BH": 0.0539,
+     "median_fault_km": 963.8
+    },
+    {
+     "region": "NY",
+     "orb": 1032,
+     "n_orb_plus_craft": 1831,
+     "orb_share": 0.564,
+     "p": 0.0199,
+     "q_BH": 0.0718,
+     "median_fault_km": 1986.0
+    },
+    {
+     "region": "MS",
+     "orb": 121,
+     "n_orb_plus_craft": 234,
+     "orb_share": 0.517,
+     "p": 0.0238,
+     "q_BH": 0.0779,
+     "median_fault_km": 1203.6
+    },
+    {
+     "region": "WY",
+     "orb": 76,
+     "n_orb_plus_craft": 109,
+     "orb_share": 0.697,
+     "p": 0.0249,
+     "q_BH": 0.0779,
+     "median_fault_km": 178.9
+    },
+    {
+     "region": "WV",
+     "orb": 145,
+     "n_orb_plus_craft": 271,
+     "orb_share": 0.535,
+     "p": 0.0641,
+     "q_BH": 0.188,
+     "median_fault_km": 1626.2
+    },
+    {
+     "region": "CT",
+     "orb": 305,
+     "n_orb_plus_craft": 547,
+     "orb_share": 0.558,
+     "p": 0.118,
+     "q_BH": 0.318,
+     "median_fault_km": 2008.9
+    },
+    {
+     "region": "OK",
+     "orb": 245,
+     "n_orb_plus_craft": 442,
+     "orb_share": 0.554,
+     "p": 0.122,
+     "q_BH": 0.318,
+     "median_fault_km": 657.4
+    },
+    {
+     "region": "VA",
+     "orb": 440,
+     "n_orb_plus_craft": 780,
+     "orb_share": 0.564,
+     "p": 0.136,
+     "q_BH": 0.335,
+     "median_fault_km": 1476.2
+    },
+    {
+     "region": "MA",
+     "orb": 433,
+     "n_orb_plus_craft": 765,
+     "orb_share": 0.566,
+     "p": 0.174,
+     "q_BH": 0.402,
+     "median_fault_km": 2125.8
+    },
+    {
+     "region": "NJ",
+     "orb": 445,
+     "n_orb_plus_craft": 785,
+     "orb_share": 0.567,
+     "p": 0.179,
+     "q_BH": 0.402,
+     "median_fault_km": 1852.8
+    },
+    {
+     "region": "AL",
+     "orb": 232,
+     "n_orb_plus_craft": 415,
+     "orb_share": 0.559,
+     "p": 0.195,
+     "q_BH": 0.416,
+     "median_fault_km": 1197.2
+    },
+    {
+     "region": "VT",
+     "orb": 108,
+     "n_orb_plus_craft": 169,
+     "orb_share": 0.639,
+     "p": 0.211,
+     "q_BH": 0.432,
+     "median_fault_km": 2295.3
+    },
+    {
+     "region": "CO",
+     "orb": 518,
+     "n_orb_plus_craft": 907,
+     "orb_share": 0.571,
+     "p": 0.237,
+     "q_BH": 0.465,
+     "median_fault_km": 98.1
+    },
+    {
+     "region": "RI",
+     "orb": 74,
+     "n_orb_plus_craft": 137,
+     "orb_share": 0.54,
+     "p": 0.259,
+     "q_BH": 0.469,
+     "median_fault_km": 2070.1
+    },
+    {
+     "region": "ME",
+     "orb": 222,
+     "n_orb_plus_craft": 358,
+     "orb_share": 0.62,
+     "p": 0.26,
+     "q_BH": 0.469,
+     "median_fault_km": 2392.3
+    },
+    {
+     "region": "MN",
+     "orb": 360,
+     "n_orb_plus_craft": 633,
+     "orb_share": 0.569,
+     "p": 0.275,
+     "q_BH": 0.473,
+     "median_fault_km": 1102.2
+    },
+    {
+     "region": "MD",
+     "orb": 291,
+     "n_orb_plus_craft": 513,
+     "orb_share": 0.567,
+     "p": 0.282,
+     "q_BH": 0.473,
+     "median_fault_km": 1670.2
+    },
+    {
+     "region": "DE",
+     "orb": 56,
+     "n_orb_plus_craft": 104,
+     "orb_share": 0.538,
+     "p": 0.319,
+     "q_BH": 0.516,
+     "median_fault_km": 1699.6
+    },
+    {
+     "region": "MI",
+     "orb": 687,
+     "n_orb_plus_craft": 1191,
+     "orb_share": 0.577,
+     "p": 0.346,
+     "q_BH": 0.542,
+     "median_fault_km": 1696.0
+    },
+    {
+     "region": "NV",
+     "orb": 283,
+     "n_orb_plus_craft": 463,
+     "orb_share": 0.611,
+     "p": 0.395,
+     "q_BH": 0.599,
+     "median_fault_km": 9.8
+    },
+    {
+     "region": "LA",
+     "orb": 214,
+     "n_orb_plus_craft": 349,
+     "orb_share": 0.613,
+     "p": 0.414,
+     "q_BH": 0.609,
+     "median_fault_km": 1055.8
+    },
+    {
+     "region": "KS",
+     "orb": 239,
+     "n_orb_plus_craft": 394,
+     "orb_share": 0.607,
+     "p": 0.539,
+     "q_BH": 0.758,
+     "median_fault_km": 610.4
+    },
+    {
+     "region": "ID",
+     "orb": 210,
+     "n_orb_plus_craft": 346,
+     "orb_share": 0.607,
+     "p": 0.548,
+     "q_BH": 0.758,
+     "median_fault_km": 64.1
+    },
+    {
+     "region": "IN",
+     "orb": 499,
+     "n_orb_plus_craft": 831,
+     "orb_share": 0.6,
+     "p": 0.573,
+     "q_BH": 0.769,
+     "median_fault_km": 1478.0
+    },
+    {
+     "region": "NC",
+     "orb": 633,
+     "n_orb_plus_craft": 1086,
+     "orb_share": 0.583,
+     "p": 0.622,
+     "q_BH": 0.805,
+     "median_fault_km": 1254.6
+    },
+    {
+     "region": "GA",
+     "orb": 447,
+     "n_orb_plus_craft": 768,
+     "orb_share": 0.582,
+     "p": 0.634,
+     "q_BH": 0.805,
+     "median_fault_km": 1122.1
+    },
+    {
+     "region": "NE",
+     "orb": 142,
+     "n_orb_plus_craft": 235,
+     "orb_share": 0.604,
+     "p": 0.691,
+     "q_BH": 0.835,
+     "median_fault_km": 646.5
+    },
+    {
+     "region": "SD",
+     "orb": 65,
+     "n_orb_plus_craft": 106,
+     "orb_share": 0.613,
+     "p": 0.693,
+     "q_BH": 0.835,
+     "median_fault_km": 699.3
+    },
+    {
+     "region": "NM",
+     "orb": 254,
+     "n_orb_plus_craft": 435,
+     "orb_share": 0.584,
+     "p": 0.807,
+     "q_BH": 0.908,
+     "median_fault_km": 7.6
+    },
+    {
+     "region": "OH",
+     "orb": 864,
+     "n_orb_plus_craft": 1471,
+     "orb_share": 0.587,
+     "p": 0.811,
+     "q_BH": 0.908,
+     "median_fault_km": 1741.4
+    },
+    {
+     "region": "CA",
+     "orb": 3287,
+     "n_orb_plus_craft": 5551,
+     "orb_share": 0.592,
+     "p": 0.817,
+     "q_BH": 0.908,
+     "median_fault_km": 4.3
+    },
+    {
+     "region": "PA",
+     "orb": 854,
+     "n_orb_plus_craft": 1453,
+     "orb_share": 0.588,
+     "p": 0.831,
+     "q_BH": 0.908,
+     "median_fault_km": 1801.2
+    },
+    {
+     "region": "NH",
+     "orb": 185,
+     "n_orb_plus_craft": 316,
+     "orb_share": 0.585,
+     "p": 0.864,
+     "q_BH": 0.923,
+     "median_fault_km": 2220.0
+    },
+    {
+     "region": "IA",
+     "orb": 264,
+     "n_orb_plus_craft": 450,
+     "orb_share": 0.587,
+     "p": 0.886,
+     "q_BH": 0.925,
+     "median_fault_km": 913.3
+    },
+    {
+     "region": "IL",
+     "orb": 922,
+     "n_orb_plus_craft": 1559,
+     "orb_share": 0.591,
+     "p": 0.959,
+     "q_BH": 0.96,
+     "median_fault_km": 1336.2
+    },
+    {
+     "region": "UT",
+     "orb": 236,
+     "n_orb_plus_craft": 401,
+     "orb_share": 0.589,
+     "p": 0.96,
+     "q_BH": 0.96,
+     "median_fault_km": 3.6
+    }
+   ]
+  }
+ },
+ "sensitivity": {
+  "geipan_CD_vs_AB_orb_fault_MH_by_decade": {
+   "10km": {
+    "MH_OR": 1.925,
+    "CI95": [
+     1.035,
+     3.499
+    ]
+   },
+   "25km": {
+    "MH_OR": 0.989,
+    "CI95": [
+     0.639,
+     1.397
+    ]
+   },
+   "50km": {
+    "MH_OR": 0.813,
+    "CI95": [
+     0.579,
+     1.156
+    ]
+   }
+  },
+  "geipan_CD_orbs_within_10km_by_dept": {
+   "Pyr\u00e9n\u00e9es-Orientales": 6,
+   "Alpes-de-Haute-Provence": 3,
+   "Haut-Rhin": 1,
+   "Bouches-du-Rh\u00f4ne": 3,
+   "Alpes-Maritimes": 7,
+   "Autre": 1,
+   "Vaucluse": 1
+  },
+  "cascadia_sweep": [
+   {
+    "M_min": 3,
+    "pre_days": 7,
+    "radius_km": 100,
+    "p_orb": 0.0654,
+    "p_craft": 0.0563,
+    "pre_MH_by_year": {
+     "MH_OR": 1.265,
+     "CI95": [
+      0.959,
+      1.806
+     ]
+    }
+   },
+   {
+    "M_min": 3,
+    "pre_days": 30,
+    "radius_km": 100,
+    "p_orb": 0.2071,
+    "p_craft": 0.1953,
+    "pre_MH_by_year": {
+     "MH_OR": 1.093,
+     "CI95": [
+      0.918,
+      1.324
+     ]
+    }
+   },
+   {
+    "M_min": 4,
+    "pre_days": 14,
+    "radius_km": 100,
+    "p_orb": 0.0072,
+    "p_craft": 0.0113,
+    "pre_MH_by_year": {
+     "MH_OR": 0.766,
+     "CI95": [
+      0.323,
+      1.611
+     ]
+    }
+   },
+   {
+    "M_min": 3,
+    "pre_days": 14,
+    "radius_km": 50,
+    "p_orb": 0.0422,
+    "p_craft": 0.0338,
+    "pre_MH_by_year": {
+     "MH_OR": 1.315,
+     "CI95": [
+      0.914,
+      2.018
+     ]
+    }
+   },
+   {
+    "M_min": 3,
+    "pre_days": 14,
+    "radius_km": 200,
+    "p_orb": 0.2822,
+    "p_craft": 0.283,
+    "pre_MH_by_year": {
+     "MH_OR": 1.09,
+     "CI95": [
+      0.925,
+      1.286
+     ]
+    }
+   }
+  ],
+  "cascadia_excl_1980_St_Helens": {
+   "MH_OR": 1.347,
+   "CI95": [
+    1.085,
+    1.741
+   ]
+  }
+ },
+ "manifest": {
+  "nuforc_scrubbed.csv": "48c804c5923b3ab31118fd5a7b5e4c7578ddb1dd66f6a1418fa1c954ea644405",
+  "gem.geojson": "37babb516edfac22b5ae91744495d8546b3ae4676b4d4f68cc77da8222df20e1",
+  "SW-All.txt": "8c97b91bf54a9110ea94e708536d377e8da57b2b8bd691414e7a18f48f9123c9",
+  "cities.tsv": "c02f493b5e9d16fac1c619bfe5662ff6259477b2950557ff58eadb529d13aa6d",
+  "eq/california_m5_plus_since_1900.csv": "39a81335cede67e79d1d032f405bec32c4db7e0461c6ad6cdf5e95982d78ea21",
+  "eq/cascadia_m2_5_plus_since_1970.csv": "72b2689b8ccdd779ac6fcee689000f69ebd5af85fcb6e02bbbb29415389e6ebb",
+  "eq/new_madrid_m2_5_plus_since_1974.csv": "f070e5598503134edcc712c61ebc83c559886e54f918440e8fe6d49d87b6fc4c",
+  "eq/oklahoma_m3_plus_since_2000.csv": "1d9f04104b77ae3c801693031f4ad5e392e0bb5481111a2fcb42f29197c78f7b",
+  "eq/plotly_23k.csv": "e03a6ef53617c7614272def82dcaa2e5a463426c4abbb2b3a26936de1c88a622",
+  "eq/world_m5_plus_2016_2025.csv": "691ddd8c38712c5e7604e378d7c36cfdf5f26608a4cd6dab426fb3b395b72fa9",
+  "eq/world_m6_plus_since_1900.csv": "65bce76b2bed8c90ff7fe39f0f38014d165fda567ead18b9394766fbf7e23c17",
+  "eq/yellowstone_since_1973.csv": "35e0a21f96186480645d5920f62a0bf9ec1e513250c0e4ec80f90f05701ceb19"
+ }
+}

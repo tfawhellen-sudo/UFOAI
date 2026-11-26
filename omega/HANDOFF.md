@@ -862,3 +862,24 @@ mechanism at trace sites.**
 13 FOIA letters drafted, not filed: `omega/reports/foia_request_drafts.md`.
 **New targets from this session:** DOW-UAP-D66–D73; NASA-UAP-D3 and D23–D29;
 and a French **CADA** request for the undisclosed D-case dossiers (§1.3).
+
+---
+
+## SESSION 6 UPDATE (2026-11-26): plasma / orb geophysics test
+
+Branch `claude/project-thread-479tio` (from eck2kl tip 2c859c0). Report:
+`omega/reports/plasma_geophysics.md`. Code: `omega/plasma_geophysics.py`,
+`omega/plasma_geophysics_plot.py`. Inputs frozen in
+`evidence_vault/11_PLASMA_GEOPHYSICS/inputs/plasma_inputs.tar.gz`; untar and set
+`OMEGA_GEO` (runtime ~6 min).
+
+Result: null. Orb vs craft reports (same system) show no fault proximity
+(US OR 0.94 [0.85,1.02]), no storm-day excess (US O/E 0.97 [0.89,1.06]),
+no pre-quake excess (mixed directions, Cascadia 1.33 hint dies at M4+/30 d),
+no Oklahoma induced-quake response (1.23 [0.77,1.97]). Raw storm OR 0.81 was an
+era artifact (lantern boom in solar minimum); always stratify by year.
+
+Blocked this session: earthquake.usgs.gov, GFZ, NOAA SWPC/NCEI, celestrak,
+overpass/geofabrik, BRGM, franceseisme/renass, ISC/IRIS/EMSC, macrostrat,
+zenodo, kaggle. Working mirrors: raw.githubusercontent.com, api.github.com
+search, PyPI wheels, npm registry tarballs, archive.org.

@@ -1,0 +1,12 @@
+{
+ "fetched": "2026-11-26",
+ "note": "All inputs are in inputs/plasma_inputs.tar.gz. Untar into a scratch dir and point OMEGA_GEO at it. Primary hosts (earthquake.usgs.gov, kp.gfz-potsdam.de, services.swpc.noaa.gov, ngdc.noaa.gov, overpass-api.de, geofabrik, BRGM, franceseisme.fr, renass, ISC, IRIS, EMSC, celestrak.org, zenodo, kaggle) were refused by the environment proxy, so these are mirrors.",
+ "sources": {
+  "nuforc/scrubbed.csv": "https://raw.githubusercontent.com/planetsig/ufo-reports/master/csv-data/ufo-scrubbed-geocoded-time-standardized.csv  (NUFORC 1910-2014-05, 80,332 rows, city-centroid geocodes)",
+  "faults/gem.geojson": "https://raw.githubusercontent.com/GEMScienceTools/gem-global-active-faults/master/geojson/gem_active_faults_harmonized.geojson",
+  "kp/spaceweather/data/SW-All.txt": "PyPI spaceweather 0.4.2 wheel (bundles CelesTrak SW-All.txt, Kp from GFZ Potsdam), 1957-10-01..2025-07-20",
+  "eq/*.csv": "https://raw.githubusercontent.com/liveatlasearth/earthquake-catalogs/main/data/<name>.csv (USGS ComCat extractions frozen 2026-10-29, third-party)",
+  "eq/plotly_23k.csv": "https://raw.githubusercontent.com/plotly/datasets/master/earthquakes-23k.csv (not used in tests)",
+  "pop/cities.tsv": "decoded from npm all-the-cities 3.1.0 cities.pbf (GeoNames cities1000) with pure-python decoder; columns id,name,cc,admin,feature,population,lat,lon"
+ }
+}
