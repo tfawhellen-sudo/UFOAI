@@ -226,6 +226,11 @@ publication dates, that is one to five months past the stated expectation.
 
 ## 7. Coverage of the 12 contracted areas — reported weakly, on purpose
 
+> **Superseded 2026-11-26 by `dird_area_assignment.md`.** The one-area-per-report
+> assignment withdraws the firm form of the sentence below: lift, control and
+> configuration/structure each rest on a single contested report, and control has
+> no FY2009 report under the primary reading.
+
 Every one of the 11 named areas has at least one plainly on-topic deliverable
 (lift → D143, D149; human effects → D128; signature reduction → D122, D148;
 armament → D121, D137; human interface → D130, D144).
@@ -290,9 +295,11 @@ below was checked against the release text, not against this report.
    U-10-2552/CE to USD(AT&L), December 2010, p.1: `The RFP identified twelve technical areas to
    be studied: lift, propulsion; control; armament; signatures reduction; materials;
    configuration; power generation; temporal translation; human effects; human interface; and
-   technology integration.` D188 lists the other eleven. This settles the twelve-area reading of
-   D182 §3(a), and it matters for §7: the one area D188 leaves out is the integration area,
-   which is the area the Integrated Threat Assessment would serve.
+   technology integration.` D188 lists the other eleven. The SOO's own wording for area 12
+   (D110 §3(a), readable there) is `other peripheral area,:; in support of(1-11)`, so DIA
+   relabelled it between 2008 and 2010. The one area D188 leaves out is the twelfth. Whether
+   "technology integration" was meant to be served by the Integrated Threat Assessment is not
+   stated anywhere in the release; that link is my inference, not a finding.
 5. **DIA says twelve FY2010 reports were delivered; the release holds eleven.** D186 p.1:
    `Twelve additional reports were produced and delivered. They are also included in enclosure
    1.` The release's FY2010 DIRDs are D143–D153, which is 11. Enclosure 1 of D186 is not in the
