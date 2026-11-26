@@ -15,6 +15,19 @@ seed-averaged values now, but if any figure disagrees, **§1.14 wins.**
 ---
 
 
+## TRACK 2 LANDCOVER RERUN (2026-11-26, branch claude/project-thread-6fi11a)
+
+`omega/reports/track2_landcover_controls.md`. Preregistered (5a9efb4) and
+controls frozen with sha256 (5d40a79) before any control pixel was read.
+**Null.** Tier A (prereg): n = 1, P = 0.76. Tier B (exploratory): n = 4,
+S1 P = 0.70, S2 P = 0.41. Settlement-centroid boxes are 30-71% built-up and
+can't be land-cover matched. Injection MDE is 10 to >41 ha, with 0% detection
+at every size up to 2.56 ha. The Cottage Grove outlier is earthworks: bare
+2018-2022, built by WorldCover 2021. **Don't rerun Track 2 on NUFORC
+settlement geocodes.** Next: MUFON CMS or GEIPAN 2016+ field coordinates, plus
+a dNDVI z-score against the controls in place of the fixed -0.20. WorldCover
+and Copernicus DEM hosts are reachable over https.
+
 ## SESSION 6 UPDATE (2026-11-26) — read this first
 
 Branch **`claude/project-thread-41xagd`**, built on session 5's tip `2c859c0` with
