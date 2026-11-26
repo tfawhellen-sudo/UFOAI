@@ -31,7 +31,7 @@ is hidden in them as text.
 These are the three forms session 3 flagged as image-only (`D60/D63/D65 flanking the D66–D73 gap are image-only`).
 They now feed `omega/redaction_slots.py`. That needed one parser fix: local tesseract renders the form bullet as
 `*`, `¢`, `«` or `-` where archive.org's OCR gives `•`. So line-leading glyphs before a `Label:` are normalised
-for this directory only. The other 33 forms are untouched and reproduce byte-for-byte.
+for this directory only. The other 33 forms are untouched: their 582 withheld instances reproduce exactly.
 
 | | session 4 (33 forms) | with D60/D63/D65 (36 forms) |
 |---|---|---|
