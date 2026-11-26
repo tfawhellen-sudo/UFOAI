@@ -1,98 +1,99 @@
 {
- "n_texts": 326,
- "n_forms": 41,
- "n_parsed": 33,
- "n_canonical_labels": 167,
+ "n_texts": 349,
+ "n_forms": 44,
+ "n_parsed": 36,
+ "n_canonical_labels": 168,
  "totals": {
-  "WITHHELD": 582,
-  "RELEASED": 1647,
-  "UNREADABLE": 226,
-  "EMPTY": 1367,
+  "WITHHELD": 639,
+  "RELEASED": 1819,
+  "UNREADABLE": 249,
+  "EMPTY": 1484,
   "PORTION_MARK": 1
  },
  "slots": {
   "CLASSIFICATION": {
    "withheld": 1,
-   "released": 41,
-   "unreadable": 11,
+   "released": 46,
+   "unreadable": 12,
    "codes": {
     "(b)(1)1.4a": 2
    }
   },
   "TIME": {
-   "withheld": 29,
-   "released": 288,
+   "withheld": 32,
+   "released": 318,
    "unreadable": 1,
    "codes": {
     "(b)(6)": 15,
     "(b)(1)": 40,
     "(b)(1)1.4a": 15,
-    "1.4a": 5,
-    "UNSPECIFIED": 4
+    "1.4a": 6,
+    "UNSPECIFIED": 6
    }
   },
   "OPERATION": {
-   "withheld": 42,
-   "released": 119,
-   "unreadable": 24,
+   "withheld": 46,
+   "released": 132,
+   "unreadable": 28,
    "codes": {
-    "1.4a": 21,
+    "1.4a": 23,
     "(b)(6)": 6,
     "(b)(1)1.4a": 18,
-    "UNSPECIFIED": 2,
+    "UNSPECIFIED": 4,
     "(b)(1)1.4g": 2,
     "1.4g": 1
    }
   },
   "UNCLASSIFIED_SLOT": {
-   "withheld": 69,
-   "released": 368,
-   "unreadable": 88,
+   "withheld": 81,
+   "released": 407,
+   "unreadable": 94,
    "codes": {
     "(b)(1)1.4a": 20,
     "(b)(1)": 61,
-    "(b)(6)": 16,
-    "UNSPECIFIED": 18,
+    "(b)(6)": 18,
+    "UNSPECIFIED": 27,
     "1.4c": 3,
-    "1.4a": 19,
+    "1.4a": 20,
     "1.4g": 9
    }
   },
   "UNIT_ORG": {
-   "withheld": 48,
-   "released": 370,
+   "withheld": 53,
+   "released": 404,
    "unreadable": 4,
    "codes": {
-    "(b)(6)": 45,
-    "UNSPECIFIED": 7,
+    "(b)(6)": 46,
+    "UNSPECIFIED": 8,
     "(b)(1)1.4a": 9,
     "(b)(3)": 6,
     "(b)(1)": 22,
-    "1.4a": 5,
+    "1.4a": 8,
     "(b)(6)1.4a": 1,
     "1.4g": 2
    }
   },
   "GEO": {
-   "withheld": 40,
-   "released": 105,
-   "unreadable": 6,
+   "withheld": 41,
+   "released": 123,
+   "unreadable": 7,
    "codes": {
     "1.4a": 30,
     "1.4g": 2,
     "(b)(1)1.4a": 20,
+    "(b)(6)": 1,
     "UNSPECIFIED": 1
    }
   },
   "PERSONNEL": {
-   "withheld": 131,
-   "released": 78,
-   "unreadable": 28,
+   "withheld": 143,
+   "released": 83,
+   "unreadable": 35,
    "codes": {
-    "(b)(6)": 133,
-    "(b)(3)": 41,
+    "(b)(6)": 135,
+    "(b)(3)": 43,
+    "UNSPECIFIED": 25,
     "(b)(6)1.4a": 1,
-    "UNSPECIFIED": 16,
     "(b)(1)": 2,
     "(b)(1)1.4a": 2,
     "1.4a": 4,
@@ -101,7 +102,7 @@
   },
   "WEAPON_SENSOR": {
    "withheld": 32,
-   "released": 77,
+   "released": 81,
    "unreadable": 25,
    "codes": {
     "1.4a": 8,
@@ -114,37 +115,40 @@
    }
   },
   "NARRATIVE": {
-   "withheld": 79,
-   "released": 115,
+   "withheld": 92,
+   "released": 132,
    "unreadable": 3,
    "codes": {
-    "1.4a": 73,
-    "(b)(6)": 37,
-    "(b)(1)1.4a": 28,
-    "UNSPECIFIED": 6,
+    "1.4a": 89,
+    "(b)(6)": 38,
+    "(b)(1)1.4a": 30,
+    "UNSPECIFIED": 7,
     "1.4g": 5,
-    "(b)(1)": 67
+    "(b)(1)": 69,
+    "(b)(1)1.4g": 3,
+    "(b)(4)1.4g": 1
    }
   },
   "CALLSIGN": {
-   "withheld": 98,
-   "released": 10,
-   "unreadable": 4,
+   "withheld": 105,
+   "released": 14,
+   "unreadable": 7,
    "codes": {
-    "1.4a": 75,
+    "1.4a": 83,
     "(b)(1)1.4a": 18,
-    "1.4g": 8,
+    "1.4g": 9,
     "(b)(1)1.4g": 8,
     "1.4c": 1,
     "1.4e": 1,
     "(b)(6)": 4,
-    "(b)(1)": 5
+    "(b)(1)": 5,
+    "UNSPECIFIED": 1
    }
   },
   "COUNT_QTY": {
    "withheld": 13,
-   "released": 76,
-   "unreadable": 32,
+   "released": 79,
+   "unreadable": 33,
    "codes": {
     "(b)(1)1.4a": 16,
     "(b)(6)": 4
@@ -152,17 +156,17 @@
   }
  },
  "calibration": {
-  "agree": 443,
-  "disagree": 132,
-  "unscored": 106,
-  "container_skipped": 362,
+  "agree": 461,
+  "disagree": 135,
+  "unscored": 121,
+  "container_skipped": 400,
   "disagreements": {
    "(b)(6)|TIME": 15,
    "(b)(3)|UNIT_ORG": 6,
-   "(b)(6)|UNIT_ORG": 45,
+   "(b)(6)|UNIT_ORG": 46,
    "(b)(6)|WEAPON_SENSOR": 21,
    "(b)(6)|OPERATION": 6,
-   "1.4g|CALLSIGN": 8,
+   "1.4g|CALLSIGN": 9,
    "1.4c|CALLSIGN": 1,
    "(b)(6)|COUNT_QTY": 4,
    "(b)(1)1.4g|CALLSIGN": 8,
@@ -173,50 +177,53 @@
    "1.4e|CALLSIGN": 1,
    "1.4g|PERSONNEL": 2,
    "(b)(6)|CALLSIGN": 4,
-   "1.4g|OPERATION": 1
+   "1.4g|OPERATION": 1,
+   "(b)(6)|GEO": 1
   }
  },
  "fields": {
   "Classification": {
    "withheld": 0,
-   "released": 15,
-   "unreadable": 0,
-   "empty": 5,
+   "released": 16,
+   "unreadable": 1,
+   "empty": 6,
    "portion_marks": 0,
    "slot": "CLASSIFICATION",
-   "n_docs": 20,
+   "n_docs": 23,
    "codes": {},
    "released_vals": [
     "8i36RE>f",
+    "SB@RBR",
     "SECRET"
    ]
   },
   "Associated Caveats": {
    "withheld": 0,
-   "released": 16,
+   "released": 17,
    "unreadable": 0,
-   "empty": 7,
+   "empty": 9,
    "portion_marks": 0,
    "slot": "CLASSIFICATION",
-   "n_docs": 23,
+   "n_docs": 26,
    "codes": {},
    "released_vals": [
     "!if8f'8It1il:",
     "Mffl~",
     "NOFORN",
     "REL TO USA, FVEY",
+    "RREROSSOia",
     "Wf'8RJ!l",
     "l JOFORJ f"
    ]
   },
   "Classification Source (MS or Classification Guide ID)": {
    "withheld": 1,
-   "released": 10,
+   "released": 13,
    "unreadable": 11,
    "empty": 0,
    "portion_marks": 0,
    "slot": "CLASSIFICATION",
-   "n_docs": 22,
+   "n_docs": 25,
    "codes": {
     "(b)(1)1.4a": 2
    },
@@ -227,12 +234,12 @@
   },
   "Declassification Date (YYYYMMDD)": {
    "withheld": 3,
-   "released": 21,
+   "released": 22,
    "unreadable": 0,
    "empty": 0,
    "portion_marks": 0,
    "slot": "TIME",
-   "n_docs": 24,
+   "n_docs": 25,
    "codes": {
     "(b)(6)": 3,
     "(b)(1)": 20
@@ -253,56 +260,59 @@
    ]
   },
   "Operation": {
-   "withheld": 6,
-   "released": 14,
+   "withheld": 8,
+   "released": 15,
    "unreadable": 1,
    "empty": 0,
    "portion_marks": 0,
    "slot": "OPERATION",
-   "n_docs": 21,
+   "n_docs": 24,
    "codes": {
-    "1.4a": 2,
+    "1.4a": 3,
     "(b)(6)": 1,
     "(b)(1)1.4a": 2,
-    "UNSPECIFIED": 1
+    "UNSPECIFIED": 2
    },
    "released_vals": [
     "ENDURING SENTINEL",
     "INHERENT RESOLVE",
-    "OP SPARTAN SHIELD"
+    "OP SPARTAN SHIELD",
+    "| (by 1ida |"
    ]
   },
   "Domain": {
    "withheld": 2,
-   "released": 22,
+   "released": 25,
    "unreadable": 0,
    "empty": 0,
    "portion_marks": 0,
    "slot": "UNCLASSIFIED_SLOT",
-   "n_docs": 24,
+   "n_docs": 27,
    "codes": {
     "(b)(1)1.4a": 1,
     "(b)(1)": 15,
     "(b)(6)": 1
    },
    "released_vals": [
-    "AIR"
+    "AIR",
+    "AIR Operations Center: 609th"
    ]
   },
   "Operations Center": {
-   "withheld": 19,
-   "released": 99,
+   "withheld": 22,
+   "released": 106,
    "unreadable": 1,
    "empty": 0,
    "portion_marks": 0,
    "slot": "UNIT_ORG",
-   "n_docs": 24,
+   "n_docs": 27,
    "codes": {
-    "(b)(6)": 23,
-    "UNSPECIFIED": 4,
+    "(b)(6)": 24,
+    "UNSPECIFIED": 5,
     "(b)(1)1.4a": 3,
     "(b)(3)": 4,
-    "(b)(1)": 2
+    "(b)(1)": 2,
+    "1.4a": 1
    },
    "released_vals": [
     "603 AOC INGEST",
@@ -310,40 +320,42 @@
     "603rd",
     "609 AOC Det 1 QC",
     "609 AOC Det l QC",
+    "609 AOC Det | OC",
     "609 CAOC APPROVER",
     "609 CAOC INGEST",
+    "609 CAOC OC",
     "609 CAOC QC",
     "609th",
-    "ACEQUIP ACEQUIP",
-    "ACEQUIP ACEQUJP",
-    "ACEQUIP ACEQVJP"
+    "ACEQUIP ACEQUIP"
    ]
   },
   "Major Command (MAJCOM)": {
    "withheld": 1,
-   "released": 20,
+   "released": 23,
    "unreadable": 0,
    "empty": 0,
    "portion_marks": 0,
    "slot": "UNIT_ORG",
-   "n_docs": 21,
+   "n_docs": 24,
    "codes": {
     "1.4a": 1
    },
    "released_vals": [
     "ACC",
+    "ACC Combatant Command (COCOM): USCENTCOM | MSGID",
     "AFCENT",
+    "AFCENT Combatant Command (COCOM): USCENTCOM MSGID",
     "AFSOC"
    ]
   },
   "Combatant Command (COCOM)": {
    "withheld": 5,
-   "released": 18,
+   "released": 19,
    "unreadable": 0,
    "empty": 0,
    "portion_marks": 0,
    "slot": "UNIT_ORG",
-   "n_docs": 23,
+   "n_docs": 24,
    "codes": {
     "(b)(6)": 2,
     "(b)(1)1.4a": 1,
@@ -359,12 +371,12 @@
   },
   "Report Type": {
    "withheld": 0,
-   "released": 23,
+   "released": 26,
    "unreadable": 0,
    "empty": 0,
    "portion_marks": 0,
    "slot": "UNCLASSIFIED_SLOT",
-   "n_docs": 23,
+   "n_docs": 26,
    "codes": {},
    "released_vals": [
     "MISREP"
@@ -372,12 +384,12 @@
   },
   "Originator (Unit or Squadron)": {
    "withheld": 3,
-   "released": 21,
+   "released": 22,
    "unreadable": 0,
    "empty": 0,
    "portion_marks": 0,
    "slot": "UNIT_ORG",
-   "n_docs": 24,
+   "n_docs": 25,
    "codes": {
     "1.4a": 2,
     "(b)(1)1.4a": 1
@@ -414,16 +426,17 @@
    ]
   },
   "Tasking Order (ATO)": {
-   "withheld": 3,
+   "withheld": 4,
    "released": 3,
-   "unreadable": 14,
+   "unreadable": 16,
    "empty": 0,
    "portion_marks": 0,
    "slot": "OPERATION",
-   "n_docs": 20,
+   "n_docs": 23,
    "codes": {
     "(b)(1)1.4a": 1,
-    "1.4a": 2
+    "1.4a": 2,
+    "UNSPECIFIED": 1
    },
    "released_vals": [
     "24-024",
@@ -433,12 +446,12 @@
   },
   "Mission Type": {
    "withheld": 5,
-   "released": 39,
+   "released": 45,
    "unreadable": 0,
    "empty": 6,
    "portion_marks": 0,
    "slot": "OPERATION",
-   "n_docs": 24,
+   "n_docs": 27,
    "codes": {
     "(b)(6)": 1,
     "(b)(1)1.4a": 2,
@@ -446,6 +459,7 @@
    },
    "released_vals": [
     "AREC",
+    "AREC STAC Callsign: -",
     "ARMED OVERWATCH",
     "ARMED RECCE",
     "DCA",
@@ -459,12 +473,12 @@
   },
   "Country Tasked": {
    "withheld": 0,
-   "released": 24,
+   "released": 27,
    "unreadable": 0,
    "empty": 0,
    "portion_marks": 0,
    "slot": "GEO",
-   "n_docs": 24,
+   "n_docs": 27,
    "codes": {},
    "released_vals": [
     "US - UNITED STATES",
@@ -475,12 +489,12 @@
   },
   "Service Tasked": {
    "withheld": 1,
-   "released": 21,
+   "released": 24,
    "unreadable": 1,
    "empty": 0,
    "portion_marks": 0,
    "slot": "UNIT_ORG",
-   "n_docs": 23,
+   "n_docs": 26,
    "codes": {
     "(b)(6)": 1
    },
@@ -492,20 +506,22 @@
    ]
   },
   "Rank": {
-   "withheld": 4,
-   "released": 62,
+   "withheld": 9,
+   "released": 67,
    "unreadable": 1,
-   "empty": 28,
+   "empty": 30,
    "portion_marks": 0,
    "slot": "PERSONNEL",
-   "n_docs": 24,
+   "n_docs": 27,
    "codes": {
-    "(b)(6)": 5,
-    "(b)(3)": 1
+    "(b)(6)": 6,
+    "(b)(3)": 2,
+    "UNSPECIFIED": 3
    },
    "released_vals": [
     "1LT",
     "1st Lt",
+    "2d Lt + Full Nanpesd_ (oy). 0b, 16)",
     "2dLt",
     "A1C",
     "AIC",
@@ -513,35 +529,34 @@
     "Arnn",
     "CAPT",
     "Ctr",
-    "Ist Lt",
-    "SSgt",
-    "SrA"
+    "Full Name; Unit:",
+    "Ist Lt"
    ]
   },
   "Full Name": {
-   "withheld": 33,
+   "withheld": 36,
    "released": 0,
    "unreadable": 2,
-   "empty": 47,
+   "empty": 49,
    "portion_marks": 0,
    "slot": "PERSONNEL",
-   "n_docs": 24,
+   "n_docs": 27,
    "codes": {
-    "(b)(3)": 23,
+    "(b)(3)": 24,
     "(b)(6)1.4a": 1,
-    "(b)(6)": 29,
-    "UNSPECIFIED": 4
+    "(b)(6)": 30,
+    "UNSPECIFIED": 6
    },
    "released_vals": []
   },
   "Unit": {
    "withheld": 5,
-   "released": 54,
+   "released": 58,
    "unreadable": 1,
-   "empty": 36,
+   "empty": 38,
    "portion_marks": 0,
    "slot": "UNIT_ORG",
-   "n_docs": 24,
+   "n_docs": 27,
    "codes": {
     "(b)(6)": 10,
     "UNSPECIFIED": 1,
@@ -557,20 +572,20 @@
     "163 ATKW",
     "389 EFS",
     "482 ATKS",
+    "482 ATKS \u00a9 Wing: 432 AEW",
     "482ATKS",
     "50 ATKS",
-    "50TH ATKS",
-    "56 SOIS"
+    "50TH ATKS"
    ]
   },
   "Wing": {
    "withheld": 7,
-   "released": 52,
+   "released": 58,
    "unreadable": 1,
-   "empty": 35,
+   "empty": 37,
    "portion_marks": 0,
    "slot": "UNIT_ORG",
-   "n_docs": 24,
+   "n_docs": 27,
    "codes": {
     "(b)(3)": 2,
     "(b)(6)1.4a": 1,
@@ -587,63 +602,67 @@
     "378 AEW",
     "379 AEW",
     "432 AEW",
-    "Other"
+    "Other",
+    "Other Phone Number: [73.5\u00a2, (bx6) |"
    ]
   },
   "Phone Number": {
-   "withheld": 28,
+   "withheld": 29,
    "released": 0,
-   "unreadable": 9,
-   "empty": 40,
+   "unreadable": 15,
+   "empty": 41,
    "portion_marks": 0,
    "slot": "PERSONNEL",
-   "n_docs": 24,
+   "n_docs": 27,
    "codes": {
     "(b)(6)": 27,
-    "UNSPECIFIED": 6,
+    "UNSPECIFIED": 7,
     "(b)(3)": 1
    },
    "released_vals": []
   },
   "Email": {
-   "withheld": 52,
+   "withheld": 55,
    "released": 0,
-   "unreadable": 9,
-   "empty": 44,
+   "unreadable": 10,
+   "empty": 45,
    "portion_marks": 0,
    "slot": "PERSONNEL",
-   "n_docs": 24,
+   "n_docs": 26,
    "codes": {
     "(b)(6)": 66,
-    "UNSPECIFIED": 6,
+    "UNSPECIFIED": 9,
     "(b)(3)": 16,
     "(b)(1)": 2
    },
    "released_vals": []
   },
   "Service": {
-   "withheld": 2,
-   "released": 70,
+   "withheld": 3,
+   "released": 77,
    "unreadable": 0,
-   "empty": 24,
+   "empty": 26,
    "portion_marks": 0,
    "slot": "UNIT_ORG",
-   "n_docs": 24,
+   "n_docs": 27,
    "codes": {
-    "(b)(6)": 2
+    "(b)(6)": 2,
+    "1.4a": 1
    },
    "released_vals": [
-    "Air Force"
+    "Air Force",
+    "Air Force Operations Center: 603 AOC a a oc",
+    "Air Force Operations Center: Other * J APPROVER"
    ]
   },
   "Radar Name or Destination": {
    "withheld": 6,
    "released": 1,
    "unreadable": 0,
-   "empty": 15,
+   "empty": 17,
    "portion_marks": 0,
    "slot": "WEAPON_SENSOR",
-   "n_docs": 22,
+   "n_docs": 24,
    "codes": {
     "1.4a": 2,
     "1.4g": 2,
@@ -659,10 +678,10 @@
    "withheld": 0,
    "released": 5,
    "unreadable": 0,
-   "empty": 19,
+   "empty": 22,
    "portion_marks": 0,
    "slot": "WEAPON_SENSOR",
-   "n_docs": 22,
+   "n_docs": 25,
    "codes": {},
    "released_vals": [
     "8070 / MMC 7.3",
@@ -674,10 +693,10 @@
    "withheld": 0,
    "released": 5,
    "unreadable": 0,
-   "empty": 19,
+   "empty": 22,
    "portion_marks": 0,
    "slot": "WEAPON_SENSOR",
-   "n_docs": 22,
+   "n_docs": 25,
    "codes": {},
    "released_vals": [
     "ALR-56C",
@@ -688,10 +707,10 @@
    "withheld": 0,
    "released": 5,
    "unreadable": 0,
-   "empty": 19,
+   "empty": 22,
    "portion_marks": 0,
    "slot": "WEAPON_SENSOR",
-   "n_docs": 22,
+   "n_docs": 25,
    "codes": {},
    "released_vals": [
     "102 / SY0730",
@@ -703,10 +722,10 @@
    "withheld": 0,
    "released": 1,
    "unreadable": 0,
-   "empty": 23,
+   "empty": 26,
    "portion_marks": 0,
    "slot": "WEAPON_SENSOR",
-   "n_docs": 22,
+   "n_docs": 25,
    "codes": {},
    "released_vals": [
     "AAR-47"
@@ -716,10 +735,10 @@
    "withheld": 1,
    "released": 0,
    "unreadable": 0,
-   "empty": 23,
+   "empty": 26,
    "portion_marks": 0,
    "slot": "WEAPON_SENSOR",
-   "n_docs": 22,
+   "n_docs": 25,
    "codes": {
     "(b)(6)": 1
    },
@@ -729,10 +748,10 @@
    "withheld": 0,
    "released": 1,
    "unreadable": 0,
-   "empty": 23,
+   "empty": 26,
    "portion_marks": 0,
    "slot": "WEAPON_SENSOR",
-   "n_docs": 22,
+   "n_docs": 25,
    "codes": {},
    "released_vals": [
     "AN-AAQ-24"
@@ -742,10 +761,10 @@
    "withheld": 0,
    "released": 0,
    "unreadable": 0,
-   "empty": 23,
+   "empty": 25,
    "portion_marks": 0,
    "slot": "WEAPON_SENSOR",
-   "n_docs": 21,
+   "n_docs": 23,
    "codes": {},
    "released_vals": []
   },
@@ -753,10 +772,10 @@
    "withheld": 1,
    "released": 3,
    "unreadable": 0,
-   "empty": 20,
+   "empty": 22,
    "portion_marks": 0,
    "slot": "WEAPON_SENSOR",
-   "n_docs": 22,
+   "n_docs": 24,
    "codes": {
     "(b)(6)": 1
    },
@@ -767,14 +786,15 @@
   },
   "ECM Software Load or Mission Data": {
    "withheld": 0,
-   "released": 3,
+   "released": 4,
    "unreadable": 0,
-   "empty": 21,
+   "empty": 23,
    "portion_marks": 0,
    "slot": "WEAPON_SENSOR",
-   "n_docs": 22,
+   "n_docs": 25,
    "codes": {},
    "released_vals": [
+    "- *\u00ab CMD Name or Designator: -",
     "ALE-47",
     "C01856"
    ]
@@ -783,10 +803,10 @@
    "withheld": 0,
    "released": 5,
    "unreadable": 0,
-   "empty": 19,
+   "empty": 21,
    "portion_marks": 0,
    "slot": "WEAPON_SENSOR",
-   "n_docs": 22,
+   "n_docs": 24,
    "codes": {},
    "released_vals": [
     "ALE-45",
@@ -798,10 +818,10 @@
    "withheld": 1,
    "released": 5,
    "unreadable": 0,
-   "empty": 18,
+   "empty": 20,
    "portion_marks": 0,
    "slot": "WEAPON_SENSOR",
-   "n_docs": 22,
+   "n_docs": 24,
    "codes": {
     "(b)(6)": 5
    },
@@ -814,10 +834,10 @@
    "withheld": 2,
    "released": 3,
    "unreadable": 2,
-   "empty": 17,
+   "empty": 20,
    "portion_marks": 0,
    "slot": "WEAPON_SENSOR",
-   "n_docs": 22,
+   "n_docs": 25,
    "codes": {
     "(b)(6)": 2
    },
@@ -830,10 +850,10 @@
    "withheld": 0,
    "released": 3,
    "unreadable": 2,
-   "empty": 19,
+   "empty": 21,
    "portion_marks": 0,
    "slot": "WEAPON_SENSOR",
-   "n_docs": 22,
+   "n_docs": 24,
    "codes": {},
    "released_vals": [
     "MJU-51/53",
@@ -845,10 +865,10 @@
    "withheld": 0,
    "released": 1,
    "unreadable": 5,
-   "empty": 18,
+   "empty": 20,
    "portion_marks": 0,
    "slot": "WEAPON_SENSOR",
-   "n_docs": 22,
+   "n_docs": 24,
    "codes": {},
    "released_vals": [
     "240"
@@ -858,10 +878,10 @@
    "withheld": 2,
    "released": 1,
    "unreadable": 0,
-   "empty": 20,
+   "empty": 23,
    "portion_marks": 0,
    "slot": "WEAPON_SENSOR",
-   "n_docs": 21,
+   "n_docs": 24,
    "codes": {
     "UNSPECIFIED": 1,
     "(b)(6)": 3,
@@ -875,10 +895,10 @@
    "withheld": 1,
    "released": 2,
    "unreadable": 0,
-   "empty": 20,
+   "empty": 23,
    "portion_marks": 0,
    "slot": "WEAPON_SENSOR",
-   "n_docs": 21,
+   "n_docs": 24,
    "codes": {
     "(b)(6)": 1
    },
@@ -890,10 +910,10 @@
    "withheld": 0,
    "released": 0,
    "unreadable": 2,
-   "empty": 20,
+   "empty": 23,
    "portion_marks": 0,
    "slot": "WEAPON_SENSOR",
-   "n_docs": 20,
+   "n_docs": 23,
    "codes": {},
    "released_vals": []
   },
@@ -901,10 +921,10 @@
    "withheld": 0,
    "released": 4,
    "unreadable": 0,
-   "empty": 20,
+   "empty": 23,
    "portion_marks": 0,
    "slot": "WEAPON_SENSOR",
-   "n_docs": 22,
+   "n_docs": 25,
    "codes": {},
    "released_vals": [
     "2X AIM-120D",
@@ -913,26 +933,28 @@
   },
   "Num Radar-Guided AAM": {
    "withheld": 2,
-   "released": 0,
+   "released": 1,
    "unreadable": 4,
-   "empty": 17,
+   "empty": 19,
    "portion_marks": 0,
    "slot": "WEAPON_SENSOR",
-   "n_docs": 21,
+   "n_docs": 24,
    "codes": {
     "UNSPECIFIED": 1,
     "(b)(6)": 4
    },
-   "released_vals": []
+   "released_vals": [
+    "- = Type of IR-Guided AAM: -"
+   ]
   },
   "Type of IR-Guided AAM": {
    "withheld": 1,
    "released": 4,
    "unreadable": 0,
-   "empty": 18,
+   "empty": 19,
    "portion_marks": 0,
    "slot": "WEAPON_SENSOR",
-   "n_docs": 21,
+   "n_docs": 22,
    "codes": {
     "(b)(6)": 1
    },
@@ -944,10 +966,10 @@
    "withheld": 0,
    "released": 0,
    "unreadable": 4,
-   "empty": 19,
+   "empty": 22,
    "portion_marks": 0,
    "slot": "WEAPON_SENSOR",
-   "n_docs": 21,
+   "n_docs": 24,
    "codes": {},
    "released_vals": []
   },
@@ -955,10 +977,10 @@
    "withheld": 0,
    "released": 5,
    "unreadable": 0,
-   "empty": 19,
+   "empty": 21,
    "portion_marks": 0,
    "slot": "WEAPON_SENSOR",
-   "n_docs": 22,
+   "n_docs": 24,
    "codes": {},
    "released_vals": [
     "30MM, 105MM",
@@ -969,10 +991,10 @@
    "withheld": 0,
    "released": 4,
    "unreadable": 0,
-   "empty": 19,
+   "empty": 22,
    "portion_marks": 0,
    "slot": "WEAPON_SENSOR",
-   "n_docs": 21,
+   "n_docs": 24,
    "codes": {},
    "released_vals": [
     "510"
@@ -980,12 +1002,12 @@
   },
   "TGT Pod Name or Designator": {
    "withheld": 2,
-   "released": 14,
+   "released": 16,
    "unreadable": 1,
    "empty": 4,
    "portion_marks": 0,
    "slot": "WEAPON_SENSOR",
-   "n_docs": 19,
+   "n_docs": 21,
    "codes": {
     "1.4a": 2,
     "(b)(6)": 1
@@ -1000,18 +1022,18 @@
    ]
   },
   "Additional Avionics": {
-   "withheld": 4,
+   "withheld": 6,
    "released": 12,
    "unreadable": 0,
    "empty": 6,
    "portion_marks": 0,
    "slot": "UNCLASSIFIED_SLOT",
-   "n_docs": 20,
+   "n_docs": 22,
    "codes": {
-    "(b)(6)": 2,
+    "(b)(6)": 3,
     "(b)(1)1.4a": 4,
     "(b)(1)": 1,
-    "UNSPECIFIED": 1
+    "UNSPECIFIED": 2
    },
    "released_vals": [
     "AH/GMESH",
@@ -1028,12 +1050,12 @@
   },
   "Data Link": {
    "withheld": 3,
-   "released": 9,
+   "released": 10,
    "unreadable": 0,
-   "empty": 9,
+   "empty": 11,
    "portion_marks": 0,
    "slot": "UNCLASSIFIED_SLOT",
-   "n_docs": 20,
+   "n_docs": 23,
    "codes": {
     "(b)(6)": 2,
     "UNSPECIFIED": 1
@@ -1044,20 +1066,21 @@
    ]
   },
   "Gentext": {
-   "withheld": 37,
-   "released": 49,
+   "withheld": 48,
+   "released": 57,
    "unreadable": 0,
    "empty": 4,
    "portion_marks": 1,
    "slot": "NARRATIVE",
-   "n_docs": 24,
+   "n_docs": 27,
    "codes": {
-    "1.4a": 55,
+    "1.4a": 71,
     "(b)(6)": 12,
-    "(b)(1)1.4a": 13,
-    "UNSPECIFIED": 2,
+    "(b)(1)1.4a": 15,
+    "UNSPECIFIED": 3,
     "1.4g": 1,
-    "(b)(1)": 9
+    "(b)(1)": 10,
+    "(b)(1)1.4g": 3
    },
    "released_vals": [
     "(SECRET//REL TO USA, MESF) Timeline Takeoff",
@@ -1066,36 +1089,38 @@
     "(UNCLASSIFIED) SATISFACTORY (UNCLASSIFIED) UAP",
     "(UNCLASSIFIED) SATISFACTORY On Station",
     "- OBSERVATION",
+    "- Off Station",
     "- On Station",
     "- Timeline Landing",
+    "- Timeline On Station",
     "- Timeline Takeoff",
-    "- Timeline landing",
-    "- UAP",
-    "1020x30mm / 80x105mm Timeline Takeoff"
+    "- Timeline landing"
    ]
   },
   "Callsign": {
-   "withheld": 32,
-   "released": 0,
-   "unreadable": 0,
+   "withheld": 33,
+   "released": 1,
+   "unreadable": 2,
    "empty": 12,
    "portion_marks": 0,
    "slot": "CALLSIGN",
-   "n_docs": 23,
+   "n_docs": 26,
    "codes": {
-    "1.4a": 29,
+    "1.4a": 30,
     "(b)(1)1.4a": 3
    },
-   "released_vals": []
+   "released_vals": [
+    "[___ 148 | ITAR Number: -"
+   ]
   },
   "Number of Aircraft": {
    "withheld": 4,
-   "released": 0,
+   "released": 2,
    "unreadable": 18,
    "empty": 2,
    "portion_marks": 0,
    "slot": "COUNT_QTY",
-   "n_docs": 24,
+   "n_docs": 26,
    "codes": {
     "(b)(1)1.4a": 4
    },
@@ -1138,12 +1163,12 @@
   },
   "Takeoff Location (ICAO Code)": {
    "withheld": 2,
-   "released": 12,
+   "released": 14,
    "unreadable": 3,
    "empty": 5,
    "portion_marks": 0,
    "slot": "GEO",
-   "n_docs": 22,
+   "n_docs": 24,
    "codes": {
     "1.4a": 2
    },
@@ -1158,38 +1183,38 @@
   },
   "Takeoff Time DTG": {
    "withheld": 1,
-   "released": 21,
+   "released": 23,
    "unreadable": 0,
    "empty": 1,
    "portion_marks": 0,
    "slot": "TIME",
-   "n_docs": 23,
+   "n_docs": 25,
    "codes": {
     "(b)(1)1.4a": 5
    },
    "released_vals": [
     "011206:00ZDEC22",
+    "012249:00ZOCT20",
     "020608:00ZNOV20",
     "042149:00ZMAY22",
     "050614:00ZMAY22",
     "060246:00ZMAY22",
     "062100:00ZJUN24",
     "090217:00ZNOV23",
+    "160443:00ZJUL20 Mode 3 (1FF Codes): -",
     "200542:00ZMAY22",
     "200823:00ZOCT24",
-    "201740:00ZSEP24",
-    "202330:00ZFEB23",
-    "240015:00ZOCT23"
+    "201740:00ZSEP24"
    ]
   },
   "Mode 3 (IFF Codes)": {
    "withheld": 1,
    "released": 8,
    "unreadable": 0,
-   "empty": 14,
+   "empty": 15,
    "portion_marks": 0,
    "slot": "CALLSIGN",
-   "n_docs": 23,
+   "n_docs": 24,
    "codes": {
     "1.4a": 1
    },
@@ -1203,23 +1228,26 @@
    ]
   },
   "Gentext/Additional Details": {
-   "withheld": 17,
-   "released": 33,
+   "withheld": 18,
+   "released": 36,
    "unreadable": 3,
-   "empty": 33,
+   "empty": 36,
    "portion_marks": 0,
    "slot": "NARRATIVE",
-   "n_docs": 23,
+   "n_docs": 26,
    "codes": {
     "(b)(6)": 9,
     "1.4a": 14,
     "(b)(1)1.4a": 1,
     "1.4g": 4,
-    "(b)(1)": 22
+    "(b)(1)": 23,
+    "(b)(4)1.4g": 1
    },
    "released_vals": [
     "(S//REL) AT 0542Z, COMM ISSUES.",
     "(U) NSTR. On Station",
+    "- *\u00ab Mission Canceled: * OBSERVATION",
+    "- Did not Arrive On Station: ESR",
     "- ISR",
     "- JSR",
     "- Takeoff",
@@ -1227,19 +1255,17 @@
     "AIR REFUEL",
     "ISR",
     "JSR",
-    "Landing",
-    "NIB",
-    "On Station"
+    "Landing"
    ]
   },
   "Mission Canceled": {
    "withheld": 2,
-   "released": 22,
+   "released": 23,
    "unreadable": 0,
    "empty": 0,
    "portion_marks": 0,
    "slot": "OPERATION",
-   "n_docs": 24,
+   "n_docs": 25,
    "codes": {
     "(b)(6)": 1,
     "UNSPECIFIED": 1
@@ -1251,17 +1277,18 @@
   },
   "Time On Station DTG": {
    "withheld": 1,
-   "released": 19,
+   "released": 21,
    "unreadable": 0,
    "empty": 5,
    "portion_marks": 0,
    "slot": "TIME",
-   "n_docs": 23,
+   "n_docs": 25,
    "codes": {
     "1.4a": 1
    },
    "released_vals": [
     "011220:00ZDEC22",
+    "012300:00Z0CT20",
     "020618:00ZNOV20",
     "050624:00ZMAY22",
     "060958:00ZMAY22",
@@ -1269,34 +1296,35 @@
     "090805:00ZNOV23",
     "140300:00ZJUL24",
     "152313:00ZSEP20",
+    "160504:00ZJUL20",
     "201102:00ZOCT24",
-    "201930:00ZSEP24",
-    "210003 :OOZFEB23",
-    "240l55:00ZOCT23"
+    "201930:00ZSEP24"
    ]
   },
   "JTAR Number": {
    "withheld": 2,
-   "released": 0,
+   "released": 1,
    "unreadable": 0,
-   "empty": 22,
+   "empty": 23,
    "portion_marks": 0,
    "slot": "OPERATION",
-   "n_docs": 22,
+   "n_docs": 24,
    "codes": {
     "(b)(1)1.4a": 1,
     "(b)(6)": 1
    },
-   "released_vals": []
+   "released_vals": [
+    "- Killbox (Location): -"
+   ]
   },
   "Killbox (Location)": {
    "withheld": 0,
    "released": 4,
    "unreadable": 0,
-   "empty": 22,
+   "empty": 23,
    "portion_marks": 0,
    "slot": "GEO",
-   "n_docs": 24,
+   "n_docs": 25,
    "codes": {},
    "released_vals": [
     "89AS",
@@ -1308,10 +1336,10 @@
    "withheld": 6,
    "released": 3,
    "unreadable": 1,
-   "empty": 16,
+   "empty": 17,
    "portion_marks": 0,
    "slot": "PERSONNEL",
-   "n_docs": 24,
+   "n_docs": 25,
    "codes": {
     "(b)(1)1.4a": 2,
     "1.4a": 4
@@ -1323,17 +1351,18 @@
   },
   "Did not Arrive On Station": {
    "withheld": 5,
-   "released": 21,
+   "released": 23,
    "unreadable": 0,
    "empty": 0,
    "portion_marks": 0,
    "slot": "TIME",
-   "n_docs": 24,
+   "n_docs": 26,
    "codes": {
     "(b)(6)": 4,
     "UNSPECIFIED": 1
    },
    "released_vals": [
+    "ISR",
     "JSR",
     "Off Station",
     "OffStation",
@@ -1342,12 +1371,12 @@
   },
   "Time Off Station DTG": {
    "withheld": 1,
-   "released": 18,
+   "released": 21,
    "unreadable": 0,
    "empty": 7,
    "portion_marks": 0,
    "slot": "TIME",
-   "n_docs": 24,
+   "n_docs": 27,
    "codes": {
     "UNSPECIFIED": 1
    },
@@ -1357,23 +1386,23 @@
     "030113 :002NOV20",
     "060014:00ZMAY22",
     "062036:00ZMAY22",
+    "090017:00ZAUG20",
     "090554:00ZNOV23",
     "091933:00ZNOV23",
+    "170124:00ZJUL20",
     "202323:00ZSEP24",
     "210005:00ZMAY22",
-    "210124:00ZOCT24",
-    "210340:00ZFEB23",
-    "241912:00ZOCT23"
+    "210124:00ZOCT24"
    ]
   },
   "Total Time On Station": {
    "withheld": 2,
-   "released": 17,
+   "released": 19,
    "unreadable": 0,
    "empty": 6,
    "portion_marks": 0,
    "slot": "TIME",
-   "n_docs": 23,
+   "n_docs": 25,
    "codes": {
     "1.4a": 1,
     "(b)(1)1.4a": 2
@@ -1388,19 +1417,19 @@
     "18 hours 14 minutes",
     "18 hours 35 minutes",
     "18 hours 44 minutes",
+    "20 hours 20 minutes GUARDCALL",
     "20 hours 24 minutes GUARDCALL",
-    "3 hours 2 minutes",
-    "3 hours 37 minutes"
+    "3 hours 2 minutes"
    ]
   },
   "Last Land Location (ICAO Code)": {
    "withheld": 2,
-   "released": 15,
+   "released": 16,
    "unreadable": 1,
    "empty": 6,
    "portion_marks": 0,
    "slot": "GEO",
-   "n_docs": 24,
+   "n_docs": 25,
    "codes": {
     "1.4a": 1,
     "1.4g": 1
@@ -1416,12 +1445,12 @@
   },
   "Last Land Time": {
    "withheld": 2,
-   "released": 20,
+   "released": 21,
    "unreadable": 0,
    "empty": 2,
    "portion_marks": 0,
    "slot": "TIME",
-   "n_docs": 24,
+   "n_docs": 25,
    "codes": {
     "(b)(6)": 1,
     "1.4a": 1
@@ -1429,6 +1458,7 @@
    "released_vals": [
     "010148:00ZAPR23",
     "020723:00ZDEC22",
+    "021953:00ZOCT20",
     "030250:00ZNOV20",
     "051924:00ZMAY22",
     "060039:00ZMAY22",
@@ -1437,22 +1467,22 @@
     "161958:00ZSEP20",
     "210036:00ZMAY22",
     "210046:00ZSEP24",
-    "210425:00ZFEB23",
-    "210447:00ZOCT24"
+    "210425:00ZFEB23"
    ]
   },
   "Last Engine Shutdown Time": {
    "withheld": 0,
-   "released": 21,
+   "released": 22,
    "unreadable": 0,
    "empty": 3,
    "portion_marks": 0,
    "slot": "TIME",
-   "n_docs": 24,
+   "n_docs": 25,
    "codes": {},
    "released_vals": [
     "010215:00ZAPR23",
     "020733:00ZDEC22",
+    "022003:00ZO0CT20",
     "030J00:00ZNOV20",
     "051934:00ZMAY22",
     "060049:00ZMAY22",
@@ -1461,18 +1491,17 @@
     "162008:00ZSEP20",
     "200101:00ZSEP24",
     "210046:00ZMAY22",
-    "210435:00ZFEB23",
-    "210457:00ZOCT24"
+    "210435:00ZFEB23"
    ]
   },
   "Total Mission Time": {
    "withheld": 3,
-   "released": 16,
+   "released": 17,
    "unreadable": 0,
    "empty": 4,
    "portion_marks": 0,
    "slot": "TIME",
-   "n_docs": 23,
+   "n_docs": 24,
    "codes": {
     "1.4a": 2,
     "(b)(1)1.4a": 4
@@ -1494,15 +1523,16 @@
   },
   "Time-on Station DTG": {
    "withheld": 0,
-   "released": 19,
+   "released": 22,
    "unreadable": 0,
    "empty": 3,
    "portion_marks": 0,
    "slot": "TIME",
-   "n_docs": 18,
+   "n_docs": 21,
    "codes": {},
    "released_vals": [
     "011518:00ZDEC22",
+    "020117:00ZOCT20",
     "021015:00ZNOV20",
     "050057:00ZMAY22",
     "051054:00ZMAY22",
@@ -1510,20 +1540,19 @@
     "090431:00ZNOV23",
     "090805:00ZNOV23",
     "160318:00ZSEP20",
+    "160552:00ZJUL26",
     "200927:00ZMAY22",
-    "201102:00ZOCT24",
-    "201230:00ZOCT24",
-    "202318:00ZOCT24"
+    "201102:00ZOCT24"
    ]
   },
   "Time-off Station DTG": {
    "withheld": 0,
-   "released": 20,
+   "released": 21,
    "unreadable": 0,
    "empty": 3,
    "portion_marks": 0,
    "slot": "TIME",
-   "n_docs": 19,
+   "n_docs": 20,
    "codes": {},
    "released_vals": [
     "020426:00ZDEC22",
@@ -1534,22 +1563,22 @@
     "090554:00ZNOV23",
     "091933:00ZNOV23",
     "161829:00ZSEP20",
+    "170012:00ZJUL20 \u00b0 Aircraft Callsign:[ 4a",
     "201200:00ZOCT24",
     "202121:00ZMAY22",
-    "202318:00ZOCT24",
-    "210124:00ZOCT24"
+    "202318:00ZOCT24"
    ]
   },
   "Aircraft Callsign": {
-   "withheld": 33,
+   "withheld": 37,
    "released": 0,
-   "unreadable": 4,
-   "empty": 15,
+   "unreadable": 5,
+   "empty": 16,
    "portion_marks": 0,
    "slot": "CALLSIGN",
-   "n_docs": 24,
+   "n_docs": 27,
    "codes": {
-    "1.4a": 26,
+    "1.4a": 31,
     "1.4c": 1,
     "(b)(1)1.4a": 4,
     "1.4e": 1,
@@ -1559,23 +1588,24 @@
    "released_vals": []
   },
   "Msn Type": {
-   "withheld": 10,
-   "released": 9,
+   "withheld": 11,
+   "released": 11,
    "unreadable": 1,
    "empty": 3,
    "portion_marks": 0,
    "slot": "UNCLASSIFIED_SLOT",
-   "n_docs": 19,
+   "n_docs": 22,
    "codes": {
     "1.4c": 2,
     "(b)(1)1.4a": 3,
-    "UNSPECIFIED": 1,
+    "UNSPECIFIED": 2,
     "1.4a": 10,
     "(b)(1)": 11,
     "(b)(6)": 1
    },
    "released_vals": [
     "AREC",
+    "AREC Primary Sensor: ANDAS4",
     "RECON",
     "REC\\XCAS",
     "TARGET DEV"
@@ -1583,12 +1613,12 @@
   },
   "Primary Sensor": {
    "withheld": 3,
-   "released": 13,
+   "released": 15,
    "unreadable": 0,
    "empty": 4,
    "portion_marks": 0,
    "slot": "UNCLASSIFIED_SLOT",
-   "n_docs": 16,
+   "n_docs": 18,
    "codes": {
     "UNSPECIFIED": 2,
     "(b)(6)": 1
@@ -1600,16 +1630,17 @@
    ]
   },
   "Sensors Available": {
-   "withheld": 5,
-   "released": 11,
+   "withheld": 6,
+   "released": 13,
    "unreadable": 0,
    "empty": 4,
    "portion_marks": 0,
    "slot": "UNCLASSIFIED_SLOT",
-   "n_docs": 16,
+   "n_docs": 19,
    "codes": {
     "1.4a": 2,
-    "1.4g": 3
+    "1.4g": 3,
+    "(b)(6)": 1
    },
    "released_vals": [
     "AH/BLASPHEMY",
@@ -1622,12 +1653,12 @@
   },
   "Tasking Type": {
    "withheld": 1,
-   "released": 22,
+   "released": 25,
    "unreadable": 0,
    "empty": 0,
    "portion_marks": 0,
    "slot": "OPERATION",
-   "n_docs": 19,
+   "n_docs": 22,
    "codes": {
     "(b)(1)1.4a": 7
    },
@@ -1641,10 +1672,10 @@
    "withheld": 2,
    "released": 7,
    "unreadable": 2,
-   "empty": 8,
+   "empty": 10,
    "portion_marks": 0,
    "slot": "OPERATION",
-   "n_docs": 15,
+   "n_docs": 17,
    "codes": {
     "1.4a": 2
    },
@@ -1656,10 +1687,10 @@
    "withheld": 4,
    "released": 0,
    "unreadable": 0,
-   "empty": 14,
+   "empty": 17,
    "portion_marks": 0,
    "slot": "UNCLASSIFIED_SLOT",
-   "n_docs": 14,
+   "n_docs": 17,
    "codes": {
     "1.4a": 1,
     "(b)(1)1.4a": 3
@@ -1668,12 +1699,12 @@
   },
   "Tasked Start Point": {
    "withheld": 12,
-   "released": 8,
+   "released": 11,
    "unreadable": 0,
    "empty": 3,
    "portion_marks": 0,
    "slot": "GEO",
-   "n_docs": 19,
+   "n_docs": 22,
    "codes": {
     "1.4a": 10,
     "(b)(1)1.4a": 5
@@ -1686,17 +1717,20 @@
     "38SMB4~83~",
     "38SMC541.4a961.4a",
     "38SMD38!1.4al5~",
-    "39RUP~a"
+    "39RUP~a",
+    "39RVN34.4a) T4a",
+    "39RVNIsayi RH iha",
+    "I9RWK 7@ii edi ba"
    ]
   },
   "Activity Description": {
    "withheld": 0,
-   "released": 22,
+   "released": 24,
    "unreadable": 0,
    "empty": 1,
    "portion_marks": 0,
    "slot": "UNCLASSIFIED_SLOT",
-   "n_docs": 19,
+   "n_docs": 21,
    "codes": {},
    "released_vals": [
     "ISR",
@@ -1749,15 +1783,15 @@
    ]
   },
   "Supported Unit": {
-   "withheld": 5,
-   "released": 15,
+   "withheld": 6,
+   "released": 17,
    "unreadable": 0,
    "empty": 2,
    "portion_marks": 0,
    "slot": "UNIT_ORG",
-   "n_docs": 18,
+   "n_docs": 21,
    "codes": {
-    "1.4a": 1,
+    "1.4a": 2,
     "(b)(1)1.4a": 4,
     "(b)(6)": 1,
     "1.4g": 2
@@ -1773,31 +1807,32 @@
    ]
   },
   "Supported Operation": {
-   "withheld": 8,
-   "released": 6,
+   "withheld": 9,
+   "released": 7,
    "unreadable": 4,
    "empty": 3,
    "portion_marks": 0,
    "slot": "OPERATION",
-   "n_docs": 17,
+   "n_docs": 19,
    "codes": {
     "(b)(6)": 2,
-    "1.4a": 5,
+    "1.4a": 6,
     "(b)(1)1.4a": 1
    },
    "released_vals": [
     "INHERENT RESOLVE",
+    "OPERATION | (b\u00a5tVida |",
     "OPERATIO~ 1.4-a"
    ]
   },
   "Precoord Time": {
    "withheld": 3,
-   "released": 12,
+   "released": 14,
    "unreadable": 0,
    "empty": 8,
    "portion_marks": 0,
    "slot": "TIME",
-   "n_docs": 19,
+   "n_docs": 21,
    "codes": {
     "(b)(6)": 3,
     "(b)(1)": 20
@@ -1810,6 +1845,7 @@
     "1HR 26MIN",
     "236 MINUTES",
     "24 HOURS",
+    "24 HOURS = Precoord Effectiveness: SATISFACTORY WEATHER",
     "240 MINUTES",
     "30 MINUTES",
     "409 MINUTES"
@@ -1817,12 +1853,12 @@
   },
   "Precoord Effectiveness": {
    "withheld": 0,
-   "released": 23,
+   "released": 24,
    "unreadable": 0,
    "empty": 0,
    "portion_marks": 0,
    "slot": "UNCLASSIFIED_SLOT",
-   "n_docs": 19,
+   "n_docs": 20,
    "codes": {},
    "released_vals": [
     "- WEATHER",
@@ -1831,15 +1867,15 @@
    ]
   },
   "Weather": {
-   "withheld": 12,
-   "released": 20,
+   "withheld": 13,
+   "released": 26,
    "unreadable": 0,
    "empty": 1,
    "portion_marks": 0,
    "slot": "NARRATIVE",
-   "n_docs": 19,
+   "n_docs": 22,
    "codes": {
-    "(b)(6)": 8,
+    "(b)(6)": 9,
     "UNSPECIFIED": 4,
     "(b)(1)": 23
    },
@@ -1847,6 +1883,7 @@
     "(S//REL TO USA, FVEY) WEATHER WAS NOT A FACTOR EFFECTIVENESS",
     "(S//REL) WAS NOT A FACTOR EFFECTIVENESS",
     "(U) HAZE PRECLUDED !MINT COLLECTION EFFECTIVENESS",
+    "(U) HEAVY HAZE PRECLUDED JMINT ANALYSIS EFFECTIVENESS",
     "(U) WEATHER WAS NOT A FACTOR EFFECTIVENESS",
     "(U) WEATHER WAS NOT A FACTOR. EFFECTIVENESS",
     "(U) WEATHER WAS NOT A FACTOR. UAP",
@@ -1854,17 +1891,17 @@
     "(UNCLASSIFIED) CLEAR WX (UNCLASSIFIED) EFFECTIVENESS",
     "(UNCLASSIFIED) CLEARWX (UNCLASSIFIED) EFFECTIVENESS",
     "CLOUDY. AIRSIGHT",
-    "ti:!1Mh' WEATHER WAS NOT A FACTOR EFFECTIVENESS"
+    "WEATHER WAS NOT A FACTOR OBSERVATION"
    ]
   },
   "Tasker": {
    "withheld": 1,
    "released": 0,
    "unreadable": 0,
-   "empty": 22,
+   "empty": 25,
    "portion_marks": 0,
    "slot": "UNCLASSIFIED_SLOT",
-   "n_docs": 19,
+   "n_docs": 22,
    "codes": {
     "(b)(1)": 18,
     "(b)(6)": 1
@@ -1874,11 +1911,11 @@
   "Intel Gap Filled?": {
    "withheld": 0,
    "released": 13,
-   "unreadable": 7,
+   "unreadable": 10,
    "empty": 3,
    "portion_marks": 0,
    "slot": "UNCLASSIFIED_SLOT",
-   "n_docs": 19,
+   "n_docs": 22,
    "codes": {},
    "released_vals": [
     "No \" Gentext: - Off Station",
@@ -1888,12 +1925,12 @@
   },
   "Observation DTG": {
    "withheld": 0,
-   "released": 8,
+   "released": 12,
    "unreadable": 0,
    "empty": 0,
    "portion_marks": 0,
    "slot": "TIME",
-   "n_docs": 7,
+   "n_docs": 9,
    "codes": {},
    "released_vals": [
     "022143:00ZNOV20",
@@ -1901,68 +1938,79 @@
     "050524:00ZMAY22",
     "052026:00ZMAY22",
     "061514:00ZMAY22",
+    "080726:00ZAUG20",
     "161732:00ZSEP20",
+    "161830:00ZJUL20",
+    "161920:00ZJUL20",
+    "162345:00ZJUL20",
     "271527:00ZAUG20",
     "300011 :00ZMAY22"
    ]
   },
   "Aircraft Location": {
    "withheld": 0,
-   "released": 14,
+   "released": 21,
    "unreadable": 1,
    "empty": 1,
    "portion_marks": 0,
    "slot": "GEO",
-   "n_docs": 8,
+   "n_docs": 11,
    "codes": {},
    "released_vals": [
     "36SYE6ffiAal2~",
     "38S MD 41~ 4~",
     "38SMC531.4a961.4a",
+    "39K! 4)1 agi} Ha",
+    "39RUN@@iayi waiha |",
     "39RUN~a",
     "39RVM3~Q1.4a!",
     "39RVM9~~",
     "39RWK12~",
+    "39RWK9414ab 471 4a)",
     "39RWKq~a",
-    "39RXK0filalS({w",
-    "40RBP0~11Ai!",
-    "40RCP2l1.4aBOual",
-    "40RCP7~(jw"
+    "39RXK0filalS({w"
    ]
   },
   "Aircraft Heading": {
-   "withheld": 0,
-   "released": 9,
+   "withheld": 1,
+   "released": 15,
    "unreadable": 2,
-   "empty": 6,
+   "empty": 7,
    "portion_marks": 0,
    "slot": "UNCLASSIFIED_SLOT",
-   "n_docs": 9,
-   "codes": {},
+   "n_docs": 12,
+   "codes": {
+    "UNSPECIFIED": 1
+   },
    "released_vals": [
     "018 M",
+    "020 M",
     "0I0M",
     "110 T",
+    "131M",
+    "145 M",
+    "152M",
     "264 T",
     "277 T",
     "290 T",
-    "360T",
-    "M 068"
+    "331 M",
+    "360T"
    ]
   },
   "Aircraft Altitude": {
-   "withheld": 7,
-   "released": 7,
+   "withheld": 13,
+   "released": 8,
    "unreadable": 0,
-   "empty": 3,
+   "empty": 4,
    "portion_marks": 0,
    "slot": "UNCLASSIFIED_SLOT",
-   "n_docs": 9,
+   "n_docs": 12,
    "codes": {
     "1.4a": 1,
-    "UNSPECIFIED": 6
+    "UNSPECIFIED": 12
    },
    "released_vals": [
+    "FL 200",
     "FL 210",
     "FL040",
     "FL200",
@@ -1972,20 +2020,25 @@
    ]
   },
   "Aircraft Airspeed": {
-   "withheld": 0,
-   "released": 7,
+   "withheld": 1,
+   "released": 11,
    "unreadable": 0,
-   "empty": 10,
+   "empty": 14,
    "portion_marks": 0,
    "slot": "UNCLASSIFIED_SLOT",
-   "n_docs": 9,
-   "codes": {},
+   "n_docs": 12,
+   "codes": {
+    "1.4a": 1
+   },
    "released_vals": [
     "100 KIAS",
     "107 KlAS",
+    "110 KIAS",
+    "115 KIAS",
     "120:KIAS",
     "89 KIAS",
     "90 KIAS",
+    "98 KIAS",
     "I 05 K.IAS",
     "I 58KIAS"
    ]
@@ -1994,10 +2047,10 @@
    "withheld": 0,
    "released": 0,
    "unreadable": 0,
-   "empty": 7,
+   "empty": 11,
    "portion_marks": 0,
    "slot": "UNCLASSIFIED_SLOT",
-   "n_docs": 7,
+   "n_docs": 9,
    "codes": {},
    "released_vals": []
   },
@@ -2005,10 +2058,10 @@
    "withheld": 0,
    "released": 1,
    "unreadable": 0,
-   "empty": 7,
+   "empty": 11,
    "portion_marks": 0,
    "slot": "UNCLASSIFIED_SLOT",
-   "n_docs": 7,
+   "n_docs": 9,
    "codes": {},
    "released_vals": [
     "4.98NM"
@@ -2018,62 +2071,67 @@
    "withheld": 0,
    "released": 1,
    "unreadable": 0,
-   "empty": 5,
+   "empty": 9,
    "portion_marks": 0,
    "slot": "GEO",
-   "n_docs": 6,
+   "n_docs": 8,
    "codes": {},
    "released_vals": [
     "91AS"
    ]
   },
   "Observed Activity Location": {
-   "withheld": 1,
-   "released": 5,
-   "unreadable": 1,
+   "withheld": 2,
+   "released": 7,
+   "unreadable": 2,
    "empty": 1,
    "portion_marks": 0,
    "slot": "GEO",
-   "n_docs": 7,
+   "n_docs": 9,
    "codes": {
-    "1.4a": 1
+    "1.4a": 1,
+    "(b)(6)": 1
    },
    "released_vals": [
     "36SYE6~21I:4al",
     "38SMC531.4a961.4a",
+    "39RUN Tigh Relay ka",
     "39RVMsrna1.4al",
     "39RWK1~",
-    "39RWK~~a"
+    "39RWK~~a",
+    "I9RVM 4sffp iA ba"
    ]
   },
   "Observed Activity Description": {
    "withheld": 0,
-   "released": 6,
+   "released": 10,
    "unreadable": 0,
    "empty": 1,
    "portion_marks": 0,
    "slot": "UNCLASSIFIED_SLOT",
-   "n_docs": 7,
+   "n_docs": 9,
    "codes": {},
    "released_vals": [
     "1X UAP",
     "FORMATION OF UNK FLYING OBJECTS",
     "ONE PROBABLE SU-27/35 OBSERVED LANDING",
+    "TRANSITTING",
     "UAP",
     "UAS"
    ]
   },
   "Method of Observation": {
    "withheld": 0,
-   "released": 8,
+   "released": 10,
    "unreadable": 0,
    "empty": 0,
    "portion_marks": 0,
    "slot": "UNCLASSIFIED_SLOT",
-   "n_docs": 7,
+   "n_docs": 9,
    "codes": {},
    "released_vals": [
     "FMV",
+    "FMV GENTEXT/OBSERVATION",
     "FMV GENTEXTIOBSERVATION",
     "~SENSOR GENTEXTIOBSERVATION"
    ]
@@ -2081,11 +2139,11 @@
   "ATO Mission Number": {
    "withheld": 12,
    "released": 1,
-   "unreadable": 3,
-   "empty": 3,
+   "unreadable": 5,
+   "empty": 4,
    "portion_marks": 0,
    "slot": "OPERATION",
-   "n_docs": 19,
+   "n_docs": 22,
    "codes": {
     "1.4a": 8,
     "(b)(1)1.4a": 4,
@@ -2098,11 +2156,11 @@
   "Air-to-Ground Wpn to Include Num of Each": {
    "withheld": 2,
    "released": 1,
-   "unreadable": 4,
+   "unreadable": 7,
    "empty": 12,
    "portion_marks": 0,
    "slot": "UNCLASSIFIED_SLOT",
-   "n_docs": 18,
+   "n_docs": 21,
    "codes": {
     "1.4c": 1,
     "1.4a": 1,
@@ -2500,17 +2558,23 @@
    ]
   },
   "GUARDCALL DTG": {
-   "withheld": 0,
-   "released": 5,
+   "withheld": 1,
+   "released": 9,
    "unreadable": 0,
    "empty": 0,
    "portion_marks": 0,
    "slot": "TIME",
-   "n_docs": 3,
-   "codes": {},
+   "n_docs": 6,
+   "codes": {
+    "1.4a": 1
+   },
    "released_vals": [
+    "020727:00Z CT20",
+    "021236:00ZOCT20 \u00b0 Aircraft Callsign 44a [",
+    "081250:00ZAUG20",
     "160408:00ZSEP20",
     "160421:00ZSEP20",
+    "160615:00ZJUL20",
     "161141:00ZSEP20",
     "240145:00ZOCT23",
     "270532:00ZAUG20"
@@ -3075,16 +3139,16 @@
    ]
   },
   "Submit Date (Auto-generated)": {
-   "withheld": 3,
-   "released": 3,
+   "withheld": 5,
+   "released": 4,
    "unreadable": 0,
    "empty": 0,
    "portion_marks": 0,
    "slot": "TIME",
-   "n_docs": 6,
+   "n_docs": 9,
    "codes": {
     "(b)(1)1.4a": 2,
-    "UNSPECIFIED": 2
+    "UNSPECIFIED": 4
    },
    "released_vals": [
     "MSNID"
@@ -3116,30 +3180,54 @@
     "On Station"
    ]
   },
-  "Number of Calls Noted from the Same Agency": {
-   "withheld": 0,
-   "released": 0,
-   "unreadable": 5,
+  "Ground Station Callsign": {
+   "withheld": 2,
+   "released": 3,
+   "unreadable": 0,
    "empty": 0,
    "portion_marks": 0,
+   "slot": "CALLSIGN",
+   "n_docs": 4,
+   "codes": {
+    "1.4a": 2,
+    "1.4g": 1,
+    "UNSPECIFIED": 1
+   },
+   "released_vals": [
+    "IRANIAN AIR DEFENSE",
+    "IRANIAN AIR DEFENSE GUARD",
+    "IRANlAN AIR DEFENSE"
+   ]
+  },
+  "Number of Calls Noted from the Same Agency": {
+   "withheld": 0,
+   "released": 1,
+   "unreadable": 6,
+   "empty": 5,
+   "portion_marks": 0,
    "slot": "COUNT_QTY",
-   "n_docs": 3,
+   "n_docs": 6,
    "codes": {},
-   "released_vals": []
+   "released_vals": [
+    "1 Guardeal! Tone: Professional GENTEXT/GUARDCALL"
+   ]
   },
   "Guardcall Tone": {
    "withheld": 0,
-   "released": 4,
+   "released": 10,
    "unreadable": 0,
    "empty": 0,
    "portion_marks": 0,
    "slot": "UNCLASSIFIED_SLOT",
-   "n_docs": 3,
+   "n_docs": 6,
    "codes": {},
    "released_vals": [
     "DIRECTIVE GENTEXT/GUARDCALL",
+    "Directive + \u00ab GENTEXT/GUARDCALL",
+    "Directive GENTEXT/GUARDCALL",
     "PROFESSIONAL GENTEXT/GUARDCALL",
-    "PROFESSIONAL GENTEXTIGUARDCALL"
+    "PROFESSIONAL GENTEXTIGUARDCALL",
+    "Professional GENTEXT/GUARDCALL"
    ]
   }
  },
@@ -8258,6 +8346,479 @@
     "(b)(1)",
     "(b)(1)",
     "(b)(1)",
+    "(b)(6)"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D60-Mission-Report-Persian-Gulf-August-2020.txt",
+   "label": "Operation",
+   "slot": "OPERATION",
+   "codes": [
+    "1.4a"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D60-Mission-Report-Persian-Gulf-August-2020.txt",
+   "label": "Tasking Order (ATO)",
+   "slot": "OPERATION",
+   "codes": [
+    "UNSPECIFIED"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D60-Mission-Report-Persian-Gulf-August-2020.txt",
+   "label": "Rank",
+   "slot": "PERSONNEL",
+   "codes": [
+    "UNSPECIFIED"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D60-Mission-Report-Persian-Gulf-August-2020.txt",
+   "label": "Rank",
+   "slot": "PERSONNEL",
+   "codes": [
+    "(b)(6)"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D60-Mission-Report-Persian-Gulf-August-2020.txt",
+   "label": "Full Name",
+   "slot": "PERSONNEL",
+   "codes": [
+    "(b)(3)",
+    "(b)(6)"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D60-Mission-Report-Persian-Gulf-August-2020.txt",
+   "label": "Operations Center",
+   "slot": "UNIT_ORG",
+   "codes": [
+    "UNSPECIFIED"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D60-Mission-Report-Persian-Gulf-August-2020.txt",
+   "label": "Service",
+   "slot": "UNIT_ORG",
+   "codes": [
+    "1.4a"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D60-Mission-Report-Persian-Gulf-August-2020.txt",
+   "label": "Aircraft Callsign",
+   "slot": "CALLSIGN",
+   "codes": [
+    "1.4a"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D60-Mission-Report-Persian-Gulf-August-2020.txt",
+   "label": "Aircraft Altitude",
+   "slot": "UNCLASSIFIED_SLOT",
+   "codes": [
+    "UNSPECIFIED"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D60-Mission-Report-Persian-Gulf-August-2020.txt",
+   "label": "Gentext",
+   "slot": "NARRATIVE",
+   "codes": [
+    "1.4a",
+    "1.4a"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D60-Mission-Report-Persian-Gulf-August-2020.txt",
+   "label": "Aircraft Callsign",
+   "slot": "CALLSIGN",
+   "codes": [
+    "1.4a"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D60-Mission-Report-Persian-Gulf-August-2020.txt",
+   "label": "Observed Activity Location",
+   "slot": "GEO",
+   "codes": [
+    "(b)(6)"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D60-Mission-Report-Persian-Gulf-August-2020.txt",
+   "label": "Gentext",
+   "slot": "NARRATIVE",
+   "codes": [
+    "1.4a"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D60-Mission-Report-Persian-Gulf-August-2020.txt",
+   "label": "Sensors Available",
+   "slot": "UNCLASSIFIED_SLOT",
+   "codes": [
+    "(b)(6)"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D60-Mission-Report-Persian-Gulf-August-2020.txt",
+   "label": "Gentext",
+   "slot": "NARRATIVE",
+   "codes": [
+    "1.4a",
+    "1.4a"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D60-Mission-Report-Persian-Gulf-August-2020.txt",
+   "label": "Supported Unit",
+   "slot": "UNIT_ORG",
+   "codes": [
+    "1.4a"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D63-Mission-Report-Strait-of-Hormuz-October-2020.txt",
+   "label": "Operation",
+   "slot": "OPERATION",
+   "codes": [
+    "UNSPECIFIED"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D63-Mission-Report-Strait-of-Hormuz-October-2020.txt",
+   "label": "Submit Date (Auto-generated)",
+   "slot": "TIME",
+   "codes": [
+    "UNSPECIFIED"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D63-Mission-Report-Strait-of-Hormuz-October-2020.txt",
+   "label": "Rank",
+   "slot": "PERSONNEL",
+   "codes": [
+    "(b)(3)"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D63-Mission-Report-Strait-of-Hormuz-October-2020.txt",
+   "label": "Full Name",
+   "slot": "PERSONNEL",
+   "codes": [
+    "UNSPECIFIED"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D63-Mission-Report-Strait-of-Hormuz-October-2020.txt",
+   "label": "Rank",
+   "slot": "PERSONNEL",
+   "codes": [
+    "UNSPECIFIED"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D63-Mission-Report-Strait-of-Hormuz-October-2020.txt",
+   "label": "Email",
+   "slot": "PERSONNEL",
+   "codes": [
+    "UNSPECIFIED"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D63-Mission-Report-Strait-of-Hormuz-October-2020.txt",
+   "label": "Additional Avionics",
+   "slot": "UNCLASSIFIED_SLOT",
+   "codes": [
+    "UNSPECIFIED"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D63-Mission-Report-Strait-of-Hormuz-October-2020.txt",
+   "label": "Msn Type",
+   "slot": "UNCLASSIFIED_SLOT",
+   "codes": [
+    "UNSPECIFIED"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D63-Mission-Report-Strait-of-Hormuz-October-2020.txt",
+   "label": "Gentext",
+   "slot": "NARRATIVE",
+   "codes": [
+    "1.4a",
+    "1.4a",
+    "1.4a",
+    "1.4a",
+    "1.4a",
+    "1.4a"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D63-Mission-Report-Strait-of-Hormuz-October-2020.txt",
+   "label": "Ground Station Callsign",
+   "slot": "CALLSIGN",
+   "codes": [
+    "1.4a",
+    "1.4a",
+    "1.4g"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D63-Mission-Report-Strait-of-Hormuz-October-2020.txt",
+   "label": "Aircraft Altitude",
+   "slot": "UNCLASSIFIED_SLOT",
+   "codes": [
+    "UNSPECIFIED"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D63-Mission-Report-Strait-of-Hormuz-October-2020.txt",
+   "label": "GUARDCALL DTG",
+   "slot": "TIME",
+   "codes": [
+    "1.4a"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D63-Mission-Report-Strait-of-Hormuz-October-2020.txt",
+   "label": "Aircraft Altitude",
+   "slot": "UNCLASSIFIED_SLOT",
+   "codes": [
+    "UNSPECIFIED"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D63-Mission-Report-Strait-of-Hormuz-October-2020.txt",
+   "label": "Aircraft Airspeed",
+   "slot": "UNCLASSIFIED_SLOT",
+   "codes": [
+    "1.4a"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D63-Mission-Report-Strait-of-Hormuz-October-2020.txt",
+   "label": "Gentext",
+   "slot": "NARRATIVE",
+   "codes": [
+    "(b)(1)1.4g",
+    "(b)(1)1.4a"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D63-Mission-Report-Strait-of-Hormuz-October-2020.txt",
+   "label": "Gentext",
+   "slot": "NARRATIVE",
+   "codes": [
+    "(b)(1)"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D63-Mission-Report-Strait-of-Hormuz-October-2020.txt",
+   "label": "Ground Station Callsign",
+   "slot": "CALLSIGN",
+   "codes": [
+    "UNSPECIFIED"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D63-Mission-Report-Strait-of-Hormuz-October-2020.txt",
+   "label": "Gentext",
+   "slot": "NARRATIVE",
+   "codes": [
+    "(b)(1)1.4g"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D63-Mission-Report-Strait-of-Hormuz-October-2020.txt",
+   "label": "Aircraft Altitude",
+   "slot": "UNCLASSIFIED_SLOT",
+   "codes": [
+    "UNSPECIFIED"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D63-Mission-Report-Strait-of-Hormuz-October-2020.txt",
+   "label": "Gentext",
+   "slot": "NARRATIVE",
+   "codes": [
+    "1.4a",
+    "1.4a"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D65-Mission-Report-Persian-Gulf-July-2020.txt",
+   "label": "Submit Date (Auto-generated)",
+   "slot": "TIME",
+   "codes": [
+    "UNSPECIFIED"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D65-Mission-Report-Persian-Gulf-July-2020.txt",
+   "label": "Email",
+   "slot": "PERSONNEL",
+   "codes": [
+    "UNSPECIFIED"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D65-Mission-Report-Persian-Gulf-July-2020.txt",
+   "label": "Full Name",
+   "slot": "PERSONNEL",
+   "codes": [
+    "UNSPECIFIED"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D65-Mission-Report-Persian-Gulf-July-2020.txt",
+   "label": "Phone Number",
+   "slot": "PERSONNEL",
+   "codes": [
+    "UNSPECIFIED"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D65-Mission-Report-Persian-Gulf-July-2020.txt",
+   "label": "Rank",
+   "slot": "PERSONNEL",
+   "codes": [
+    "UNSPECIFIED"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D65-Mission-Report-Persian-Gulf-July-2020.txt",
+   "label": "Email",
+   "slot": "PERSONNEL",
+   "codes": [
+    "UNSPECIFIED"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D65-Mission-Report-Persian-Gulf-July-2020.txt",
+   "label": "Operations Center",
+   "slot": "UNIT_ORG",
+   "codes": [
+    "(b)(6)"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D65-Mission-Report-Persian-Gulf-July-2020.txt",
+   "label": "Operations Center",
+   "slot": "UNIT_ORG",
+   "codes": [
+    "1.4a"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D65-Mission-Report-Persian-Gulf-July-2020.txt",
+   "label": "Additional Avionics",
+   "slot": "UNCLASSIFIED_SLOT",
+   "codes": [
+    "(b)(6)"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D65-Mission-Report-Persian-Gulf-July-2020.txt",
+   "label": "Callsign",
+   "slot": "CALLSIGN",
+   "codes": [
+    "1.4a"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D65-Mission-Report-Persian-Gulf-July-2020.txt",
+   "label": "Gentext",
+   "slot": "NARRATIVE",
+   "codes": [
+    "1.4a",
+    "1.4a",
+    "1.4a"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D65-Mission-Report-Persian-Gulf-July-2020.txt",
+   "label": "Supported Operation",
+   "slot": "OPERATION",
+   "codes": [
+    "1.4a"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D65-Mission-Report-Persian-Gulf-July-2020.txt",
+   "label": "Aircraft Callsign",
+   "slot": "CALLSIGN",
+   "codes": [
+    "1.4a",
+    "1.4a"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D65-Mission-Report-Persian-Gulf-July-2020.txt",
+   "label": "Aircraft Altitude",
+   "slot": "UNCLASSIFIED_SLOT",
+   "codes": [
+    "UNSPECIFIED"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D65-Mission-Report-Persian-Gulf-July-2020.txt",
+   "label": "Gentext",
+   "slot": "NARRATIVE",
+   "codes": [
+    "(b)(1)1.4a",
+    "(b)(1)1.4g"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D65-Mission-Report-Persian-Gulf-July-2020.txt",
+   "label": "Aircraft Heading",
+   "slot": "UNCLASSIFIED_SLOT",
+   "codes": [
+    "UNSPECIFIED"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D65-Mission-Report-Persian-Gulf-July-2020.txt",
+   "label": "Gentext",
+   "slot": "NARRATIVE",
+   "codes": [
+    "UNSPECIFIED"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D65-Mission-Report-Persian-Gulf-July-2020.txt",
+   "label": "Gentext/Additional Details",
+   "slot": "NARRATIVE",
+   "codes": [
+    "(b)(1)",
+    "(b)(4)1.4g"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D65-Mission-Report-Persian-Gulf-July-2020.txt",
+   "label": "Aircraft Callsign",
+   "slot": "CALLSIGN",
+   "codes": [
+    "1.4a"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D65-Mission-Report-Persian-Gulf-July-2020.txt",
+   "label": "Aircraft Altitude",
+   "slot": "UNCLASSIFIED_SLOT",
+   "codes": [
+    "UNSPECIFIED"
+   ]
+  },
+  {
+   "doc": "DOW-UAP-D65-Mission-Report-Persian-Gulf-July-2020.txt",
+   "label": "Weather",
+   "slot": "NARRATIVE",
+   "codes": [
     "(b)(6)"
    ]
   }

@@ -44,6 +44,8 @@ import os, re, sys, json, glob, collections
 TXT_DIRS = [
     os.environ.get("OMEGA_PURSUE_TXT", ""),
     "data/raw/pursue_ocr/txt",
+    # session 5: tesseract OCR of the 23 archive-declared image-only documents
+    "evidence_vault/01_PURSUE_PRIMARY/imgonly_ocr",
 ]
 OUT = "evidence_vault/05_SCRUBBED_CONTENT"
 
@@ -84,6 +86,7 @@ def portion_marks_only(v):
     return all(BANNER.search(v[max(0, m.start() - 60):m.start()]) for m in hits)
 
 BULLET = re.compile(r"[\u2022\u00b7]")
+TESS_BULLET = re.compile(r"(?m)^[ \t]*[*\u00a2\u00ab\u00bb+\-][ \t]+(?=[A-Z][^:\n]{1,60}[:;])")
 
 def legibility(v):
     """Share of characters that are alphanumeric or space."""
@@ -191,7 +194,13 @@ def iter_texts():
     for d in TXT_DIRS:
         if d and os.path.isdir(d):
             for f in sorted(glob.glob(os.path.join(d, "*.txt"))):
-                yield f, open(f, encoding="utf-8", errors="replace").read()
+                t = open(f, encoding="utf-8", errors="replace").read()
+                if d.endswith("imgonly_ocr"):
+                    # local tesseract renders the form's bullet as * ¢ « » + or -,
+                    # where archive.org's OCR gives U+2022.  Normalise line-leading
+                    # glyphs only, and only before a "Label:" so prose is untouched.
+                    t = TESS_BULLET.sub("\u2022 ", t)
+                yield f, t
 
 
 def is_misrep(text):
