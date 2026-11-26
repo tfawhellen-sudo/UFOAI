@@ -494,11 +494,11 @@
     7
    ],
    [
-    "EberhartUFOI",
+    "rr0",
     6
    ],
    [
-    "rr0",
+    "EberhartUFOI",
     6
    ],
    [
@@ -849,7 +849,7 @@
     "site": "Golfech",
     "commune": "golfech",
     "n_cases": 1,
-    "km_site_to_commune_coord": 0.5
+    "km_site_to_commune_coord": 0.7
    },
    {
     "site": "La Hague",
@@ -871,8 +871,8 @@
    }
   ],
   "median_nearest_km": {
-   "A": 67.8,
-   "B": 66.5,
+   "A": 67.6,
+   "B": 66.6,
    "C": 69.0,
    "D": 66.3
   },
@@ -882,26 +882,26 @@
     "r_km": 10,
     "case_near": 2,
     "case_n": 100,
-    "ctrl_near": 56,
+    "ctrl_near": 57,
     "ctrl_n": 2128,
     "case_rate": 0.02,
     "case_rate_ci": [
      0.0055,
      0.07
     ],
-    "ctrl_rate": 0.0263,
+    "ctrl_rate": 0.0268,
     "crude_OR": [
-     0.755,
-     0.182,
-     3.139
+     0.741,
+     0.178,
+     3.082
     ],
     "MH_OR_region_decade": [
-     0.434,
+     0.432,
      0.062,
-     3.049
+     3.036
     ],
-    "MH_p": 0.5931190315281234,
-    "perm_p_one_sided": 0.9116088391160884
+    "MH_p": 0.5892393881745547,
+    "perm_p_one_sided": 0.912008799120088
    },
    {
     "contrast": "D_vs_AB",
@@ -922,56 +922,56 @@
      2.285
     ],
     "MH_OR_region_decade": [
-     1.477,
-     0.657,
-     3.318
+     1.457,
+     0.65,
+     3.27
     ],
-    "MH_p": 0.46158422500046636,
-    "perm_p_one_sided": 0.22697730226977303
+    "MH_p": 0.48005162955246483,
+    "perm_p_one_sided": 0.23627637236276372
    },
    {
     "contrast": "D_vs_AB",
     "r_km": 30,
     "case_near": 15,
     "case_n": 100,
-    "ctrl_near": 377,
+    "ctrl_near": 380,
     "ctrl_n": 2128,
     "case_rate": 0.15,
     "case_rate_ci": [
      0.0931,
      0.2328
     ],
-    "ctrl_rate": 0.1772,
+    "ctrl_rate": 0.1786,
     "crude_OR": [
-     0.82,
-     0.468,
-     1.435
+     0.812,
+     0.464,
+     1.421
     ],
     "MH_OR_region_decade": [
-     0.904,
-     0.468,
-     1.747
+     0.886,
+     0.458,
+     1.712
     ],
-    "MH_p": 0.8864447272834663,
-    "perm_p_one_sided": 0.6827317268273173
+    "MH_p": 0.8359131944739285,
+    "perm_p_one_sided": 0.7030296970302969
    },
    {
     "contrast": "D_vs_AB",
     "r_km": 50,
     "case_near": 34,
     "case_n": 100,
-    "ctrl_near": 744,
+    "ctrl_near": 745,
     "ctrl_n": 2128,
     "case_rate": 0.34,
     "case_rate_ci": [
      0.2546,
      0.4372
     ],
-    "ctrl_rate": 0.3496,
+    "ctrl_rate": 0.3501,
     "crude_OR": [
-     0.958,
-     0.628,
-     1.463
+     0.956,
+     0.626,
+     1.46
     ],
     "MH_OR_region_decade": [
      1.289,
@@ -984,37 +984,37 @@
    {
     "contrast": "D_vs_AB",
     "r_km": "nearest-distance",
-    "MWU_p_less": 0.5931445359716864,
+    "MWU_p_less": 0.592218526387563,
     "median_case_km": 66.3,
-    "median_ctrl_km": 67.2,
-    "perm_p_one_sided": 0.08859114088591141,
+    "median_ctrl_km": 67.1,
+    "perm_p_one_sided": 0.09099090090990901,
     "rank_biserial": -0.014
    },
    {
     "contrast": "CD_vs_AB",
     "r_km": 10,
-    "case_near": 19,
+    "case_near": 20,
     "case_n": 1064,
-    "ctrl_near": 56,
+    "ctrl_near": 57,
     "ctrl_n": 2128,
-    "case_rate": 0.0179,
+    "case_rate": 0.0188,
     "case_rate_ci": [
-     0.0115,
-     0.0277
+     0.0122,
+     0.0289
     ],
-    "ctrl_rate": 0.0263,
+    "ctrl_rate": 0.0268,
     "crude_OR": [
-     0.673,
-     0.398,
-     1.138
+     0.696,
+     0.416,
+     1.165
     ],
     "MH_OR_region_decade": [
-     0.606,
-     0.343,
-     1.073
+     0.631,
+     0.361,
+     1.104
     ],
-    "MH_p": 0.10242904386309037,
-    "perm_p_one_sided": 0.9708029197080292
+    "MH_p": 0.12905775854172172,
+    "perm_p_one_sided": 0.9618038196180382
    },
    {
     "contrast": "CD_vs_AB",
@@ -1035,72 +1035,72 @@
      1.381
     ],
     "MH_OR_region_decade": [
-     1.123,
-     0.83,
-     1.52
+     1.124,
+     0.831,
+     1.521
     ],
-    "MH_p": 0.4965667709653153,
-    "perm_p_one_sided": 0.24907509249075094
+    "MH_p": 0.4930607910474587,
+    "perm_p_one_sided": 0.24747525247475252
    },
    {
     "contrast": "CD_vs_AB",
     "r_km": 30,
-    "case_near": 195,
+    "case_near": 196,
     "case_n": 1064,
-    "ctrl_near": 377,
+    "ctrl_near": 380,
     "ctrl_n": 2128,
-    "case_rate": 0.1833,
+    "case_rate": 0.1842,
     "case_rate_ci": [
-     0.1612,
-     0.2076
+     0.1621,
+     0.2086
     ],
-    "ctrl_rate": 0.1772,
+    "ctrl_rate": 0.1786,
     "crude_OR": [
-     1.042,
-     0.861,
-     1.262
+     1.039,
+     0.858,
+     1.257
     ],
     "MH_OR_region_decade": [
-     1.114,
-     0.875,
-     1.418
+     1.1,
+     0.865,
+     1.399
     ],
-    "MH_p": 0.4123710985335184,
-    "perm_p_one_sided": 0.20957904209579042
+    "MH_p": 0.47332804318294774,
+    "perm_p_one_sided": 0.23887611238876114
    },
    {
     "contrast": "CD_vs_AB",
     "r_km": 50,
-    "case_near": 373,
+    "case_near": 374,
     "case_n": 1064,
-    "ctrl_near": 744,
+    "ctrl_near": 745,
     "ctrl_n": 2128,
-    "case_rate": 0.3506,
+    "case_rate": 0.3515,
     "case_rate_ci": [
-     0.3225,
-     0.3797
+     0.3234,
+     0.3807
     ],
-    "ctrl_rate": 0.3496,
+    "ctrl_rate": 0.3501,
     "crude_OR": [
-     1.004,
-     0.861,
-     1.172
+     1.006,
+     0.862,
+     1.174
     ],
     "MH_OR_region_decade": [
-     1.158,
-     0.946,
-     1.418
+     1.155,
+     0.944,
+     1.414
     ],
-    "MH_p": 0.17408206212880795,
-    "perm_p_one_sided": 0.09119088091190881
+    "MH_p": 0.18112381260716476,
+    "perm_p_one_sided": 0.0933906609339066
    },
    {
     "contrast": "CD_vs_AB",
     "r_km": "nearest-distance",
-    "MWU_p_less": 0.5039007600623355,
-    "median_case_km": 68.9,
-    "median_ctrl_km": 67.2,
-    "perm_p_one_sided": 0.29817018298170184,
+    "MWU_p_less": 0.5014546783954058,
+    "median_case_km": 69.0,
+    "median_ctrl_km": 67.1,
+    "perm_p_one_sided": 0.30996900309969005,
     "rank_biserial": -0.0
    }
   ],
@@ -1109,10 +1109,10 @@
    "per_site": [
     {
      "site": "Belleville",
-     "first_service": 1987,
+     "first_service": 1988,
      "n_within_30km": 6,
      "obs_after": 6,
-     "exp_after": 4.75
+     "exp_after": 4.72
     },
     {
      "site": "Blayais",
@@ -1124,20 +1124,20 @@
     {
      "site": "Bugey",
      "first_service": 1972,
-     "n_within_30km": 30,
-     "obs_after": 30,
-     "exp_after": 29.56
+     "n_within_30km": 31,
+     "obs_after": 31,
+     "exp_after": 30.54
     },
     {
      "site": "Cattenom",
-     "first_service": 1986,
+     "first_service": 1987,
      "n_within_30km": 26,
      "obs_after": 22,
-     "exp_after": 20.68
+     "exp_after": 20.58
     },
     {
      "site": "Chinon",
-     "first_service": 1963,
+     "first_service": 1964,
      "n_within_30km": 13,
      "obs_after": 13,
      "exp_after": 12.85
@@ -1145,23 +1145,23 @@
     {
      "site": "Chooz",
      "first_service": 1967,
-     "n_within_30km": 6,
-     "obs_after": 5,
-     "exp_after": 5.92
+     "n_within_30km": 7,
+     "obs_after": 6,
+     "exp_after": 6.91
     },
     {
      "site": "Civaux",
-     "first_service": 1997,
+     "first_service": 2002,
      "n_within_30km": 14,
      "obs_after": 11,
-     "exp_after": 9.88
+     "exp_after": 9.32
     },
     {
      "site": "Cruas",
-     "first_service": 1983,
-     "n_within_30km": 21,
+     "first_service": 1984,
+     "n_within_30km": 22,
      "obs_after": 16,
-     "exp_after": 17.26
+     "exp_after": 17.85
     },
     {
      "site": "Dampierre",
@@ -1172,24 +1172,24 @@
     },
     {
      "site": "Fessenheim",
-     "first_service": 1977,
+     "first_service": 1978,
      "n_within_30km": 28,
      "obs_after": 28,
-     "exp_after": 26.87
+     "exp_after": 26.24
     },
     {
      "site": "Flamanville",
-     "first_service": 1985,
+     "first_service": 1986,
      "n_within_30km": 5,
      "obs_after": 4,
-     "exp_after": 4.03
+     "exp_after": 3.98
     },
     {
      "site": "Golfech",
-     "first_service": 1990,
+     "first_service": 1991,
      "n_within_30km": 13,
      "obs_after": 8,
-     "exp_after": 10.03
+     "exp_after": 9.92
     },
     {
      "site": "Gravelines",
@@ -1200,17 +1200,17 @@
     },
     {
      "site": "Nogent",
-     "first_service": 1987,
+     "first_service": 1988,
      "n_within_30km": 6,
      "obs_after": 5,
-     "exp_after": 4.75
+     "exp_after": 4.72
     },
     {
      "site": "Paluel",
-     "first_service": 1984,
+     "first_service": 1985,
      "n_within_30km": 6,
      "obs_after": 5,
-     "exp_after": 4.87
+     "exp_after": 4.84
     },
     {
      "site": "Penly",
@@ -1221,10 +1221,10 @@
     },
     {
      "site": "Saint-Alban",
-     "first_service": 1985,
+     "first_service": 1986,
      "n_within_30km": 25,
-     "obs_after": 17,
-     "exp_after": 20.16
+     "obs_after": 16,
+     "exp_after": 19.89
     },
     {
      "site": "Saint-Laurent",
@@ -1236,13 +1236,13 @@
     {
      "site": "Tricastin",
      "first_service": 1980,
-     "n_within_30km": 15,
-     "obs_after": 13,
-     "exp_after": 13.2
+     "n_within_30km": 16,
+     "obs_after": 14,
+     "exp_after": 14.09
     },
     {
      "site": "Brennilis",
-     "first_service": 1967,
+     "first_service": 1968,
      "n_within_30km": 6,
      "obs_after": 6,
      "exp_after": 5.92
@@ -1255,18 +1255,18 @@
      "exp_after": 19.89
     },
     {
+     "site": "Marcoule",
+     "first_service": 1959,
+     "n_within_30km": 32,
+     "obs_after": 31,
+     "exp_after": 31.67
+    },
+    {
      "site": "La Hague",
      "first_service": 1966,
      "n_within_30km": 4,
      "obs_after": 4,
      "exp_after": 3.95
-    },
-    {
-     "site": "Marcoule",
-     "first_service": 1956,
-     "n_within_30km": 32,
-     "obs_after": 31,
-     "exp_after": 31.72
     },
     {
      "site": "Cadarache",
@@ -1304,15 +1304,15 @@
      "exp_after": 14.78
     }
    ],
-   "O": 567.0,
-   "E": 574.35,
-   "ratio": 0.9872,
-   "z": -1.263,
-   "p_two_sided": 0.20655362199951965,
+   "O": 569.0,
+   "E": 575.93,
+   "ratio": 0.988,
+   "z": -1.162,
+   "p_two_sided": 0.24505771455570724,
    "note": "Nearly all sites predate most of the GEIPAN record; the test has power only for post-1980 sites.",
    "late_sites_O_E": [
-    117,
-    121.7
+    116,
+    121.11
    ]
   },
   "framing_mentions": {

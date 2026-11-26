@@ -13,7 +13,7 @@ Phase 3  descriptor drift: witness-portion lexicon, logistic slope per decade
          controlling for text length; class and explanation mix over time.
 
 Only the official export is used as case data. The nuclear-site layer is a
-hand-entered table (see SITES) and is flagged as such in the report.
+table in data/raw/nuclear_sites/fr_nuclear_sites.csv (22 sourced, 6 hand-entered; session 6).
 """
 import json, re, sys, math, unicodedata, collections as C
 import numpy as np
@@ -251,41 +251,18 @@ R["phase1b_literature"] = p1b
 print("P1b", p1b["linked"], p1b["by_class"], p1b["D_vs_AB"], p1b["CD_vs_AB"])
 
 # ================================================================ PHASE 2
-# Nuclear-site layer. HAND-ENTERED from general knowledge: site coordinates
-# (~1-3 km) and first-service year (first unit / first operation). NOT pulled
-# from an authoritative source in this run (Wikidata/ASN unreachable from this
-# container). Coordinates are cross-checked below against GEIPAN's own commune
-# coordinates where a case is filed under the host commune.
-SITES = [  # name, kind, lat, lon, first-service year, host commune (normtok)
-    ("Belleville", "NPP", 47.510, 2.875, 1987, "belleville sur loire"),
-    ("Blayais", "NPP", 45.256, -0.693, 1981, "braud et saint louis"),
-    ("Bugey", "NPP", 45.798, 5.271, 1972, "saint vulbas"),
-    ("Cattenom", "NPP", 49.416, 6.218, 1986, "cattenom"),
-    ("Chinon", "NPP", 47.230, 0.170, 1963, "avoine"),
-    ("Chooz", "NPP", 50.090, 4.789, 1967, "chooz"),
-    ("Civaux", "NPP", 46.457, 0.653, 1997, "civaux"),
-    ("Cruas", "NPP", 44.633, 4.757, 1983, "cruas"),
-    ("Dampierre", "NPP", 47.733, 2.517, 1980, "dampierre en burly"),
-    ("Fessenheim", "NPP", 47.903, 7.563, 1977, "fessenheim"),
-    ("Flamanville", "NPP", 49.536, -1.882, 1985, "flamanville"),
-    ("Golfech", "NPP", 44.107, 0.845, 1990, "golfech"),
-    ("Gravelines", "NPP", 51.015, 2.136, 1980, "gravelines"),
-    ("Nogent", "NPP", 48.515, 3.518, 1987, "nogent sur seine"),
-    ("Paluel", "NPP", 49.858, 0.636, 1984, "paluel"),
-    ("Penly", "NPP", 49.977, 1.212, 1990, "saint martin en campagne"),
-    ("Saint-Alban", "NPP", 45.404, 4.755, 1985, "saint alban du rhone"),
-    ("Saint-Laurent", "NPP", 47.720, 1.578, 1969, "saint laurent nouan"),
-    ("Tricastin", "NPP+fuel", 44.330, 4.732, 1980, "saint paul trois chateaux"),
-    ("Brennilis", "research reactor", 48.355, -3.870, 1967, "brennilis"),
-    ("Creys-Malville", "fast breeder", 45.758, 5.472, 1986, "creys mepieu"),
-    ("La Hague", "reprocessing", 49.678, -1.879, 1966, "beaumont hague"),
-    ("Marcoule", "military/reprocessing", 44.143, 4.709, 1956, "chusclan"),
-    ("Cadarache", "CEA research", 43.687, 5.761, 1963, "saint paul lez durance"),
-    ("Valduc", "CEA weapons", 47.580, 4.870, 1957, "salives"),
-    ("Saclay", "CEA research", 48.710, 2.150, 1952, "saclay"),
-    ("Ile Longue", "SSBN base", 48.307, -4.508, 1970, "crozon"),
-    ("Plateau d'Albion", "IRBM silos (1971-96)", 44.030, 5.490, 1971, "saint christol"),
-]
+# Nuclear-site layer (session 6). Loaded from data/raw/nuclear_sites/fr_nuclear_sites.csv.
+# 22 reactor sites come from GeoNuclearData (WNA/IAEA PRIS; reactor-mean coordinates, year =
+# earliest commercial operation) and agree with the WRI Global Power Plant Database to <=0.74 km
+# for all 19 NPPs. 6 non-reactor sites (La Hague, Cadarache, Valduc, Saclay, Ile Longue, Albion)
+# are still hand-entered and flagged in the CSV. OMEGA_SITES=sourced drops them (sensitivity run).
+import csv as _csv, os as _os
+_rows = list(_csv.DictReader(open("data/raw/nuclear_sites/fr_nuclear_sites.csv", encoding="utf-8")))
+if _os.environ.get("OMEGA_SITES") == "sourced":
+    _rows = [r for r in _rows if not r["source"].startswith("HAND")]
+    OUT = OUT.replace(".json", "_sourced_sites.json")
+SITES = [(r["name"], r["kind"], float(r["lat"]), float(r["lon"]), int(r["first_service"]), r["commune"])
+         for r in _rows]  # name, kind, lat, lon, first-service year, host commune (normtok)
 lat_s = np.array([s[2] for s in SITES]); lon_s = np.array([s[3] for s in SITES])
 xcheck = []
 for s in SITES:

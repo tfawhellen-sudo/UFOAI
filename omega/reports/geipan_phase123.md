@@ -87,6 +87,31 @@ GEIPAN's own commune coordinates was possible for only 4 sites (Golfech 0.5 km, 
 Beaumont-Hague 10.9 km; Saint-Christol matched a different commune of the same name). Radii start
 at 10 km for this reason. **Before anyone quotes Phase 2, rerun it against an authoritative layer.**
 
+### Session 6 update (2026-11-26): site layer replaced, result unchanged
+
+The 22 reactor sites (19 EDF plants, Brennilis EL-4, Creys-Malville Superphénix, Marcoule
+G-2/G-3/Phénix) now come from **GeoNuclearData** (WNA / IAEA PRIS, reactor-mean coordinates,
+year = earliest commercial operation, IAEA ids in the CSV). For all 19 EDF plants they agree
+with the independent **WRI Global Power Plant Database** to within **0.74 km** (median 0.17 km).
+The hand-entered positions were already within about 1 km. Six non-reactor sites (La Hague,
+Cadarache, Valduc, Saclay, Île Longue, Albion) have no authoritative source reachable from this
+container (Wikidata, ASN, data.gouv and Wikipedia are all blocked) and stay hand-entered. The
+layer is `data/raw/nuclear_sites/fr_nuclear_sites.csv`.
+
+| contrast, radius | old (hand) MH OR, perm p | new (22 sourced + 6 hand) | sourced 22 only |
+|---|---|---|---|
+| D vs AB, 30 km | 0.90 (0.47–1.75), 0.68 | 0.89 (0.46–1.71), 0.70 | 0.77 (0.32–1.82), 0.79 |
+| D vs AB, 50 km | 1.29 (0.74–2.25), 0.23 | 1.29 (0.74–2.25), 0.23 | 1.01 (0.55–1.84), 0.54 |
+| C+D vs AB, 30 km | 1.11 (0.88–1.42), 0.21 | 1.10 (0.87–1.40), 0.24 | 1.19 (0.89–1.59), 0.13 |
+| C+D vs AB, 50 km | 1.16 (0.95–1.42), 0.09 | 1.16 (0.94–1.41), 0.09 | 1.12 (0.90–1.39), 0.18 |
+| N2 commissioning O/E | 0.987, p = 0.21 | 0.988, p = 0.25 | 0.975, p = 0.23 |
+
+Smallest one-sided permutation p on the sourced-only layer is 0.098 (C+D nearest distance).
+**Phase 2 stays null, and the coordinate caveat is lifted for the reactor sites.** It can be
+quoted with one remaining caveat: six non-reactor sites are hand-entered, and dropping them does
+not change the verdict. Outputs: `evidence_vault/11_GEIPAN_PHASE123/geipan_phase123.json` (full
+layer) and `…_sourced_sites.json` (`OMEGA_SITES=sourced`).
+
 ### N1: case-control null
 
 Identified cases (A+B) come from the same observers, the same reporting system and the same
@@ -168,8 +193,9 @@ from 2000 to 2009 and lead from 2010 to 2026 (366 cases), with ISS, aircraft and
 
 ## Red team
 
-1. **The Phase 2 site layer is hand-entered.** This is the biggest weakness. The radii tolerate
-   errors of a few kilometres, but the result is not quotable until it is rerun on Wikidata, ASN or IAEA PRIS coordinates.
+1. ~~**The Phase 2 site layer is hand-entered.**~~ *Session 6: the 22 reactor sites are now from
+   IAEA PRIS / WNA via GeoNuclearData, cross-checked with WRI GPPD (≤0.74 km). The result is
+   unchanged. Six non-reactor sites are still hand-entered; the verdict holds without them.*
 2. **GEIPAN coordinates are commune centroids of the witness, not of the phenomenon.** A light seen
    from 15 km away gets the witness's commune. This blurs every radius below about 20 km toward the null.
 3. **N1 assumes classification is independent of proximity.** If investigators near plants have

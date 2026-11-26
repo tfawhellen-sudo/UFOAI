@@ -1,0 +1,29 @@
+name,kind,lat,lon,first_service,commune,source,iaea_ids,gppd_check_km
+Belleville,NPP,47.511,2.871,1988,belleville sur loire,"GeoNuclearData (WNA/IAEA PRIS), reactor mean; year = earliest OperationalFrom",211;212,0.31
+Blayais,NPP,45.256,-0.691,1981,braud et saint louis,"GeoNuclearData (WNA/IAEA PRIS), reactor mean; year = earliest OperationalFrom",187;188;189;190,0.17
+Bugey,NPP,45.798,5.2676,1972,saint vulbas,"GeoNuclearData (WNA/IAEA PRIS), reactor mean; year = earliest OperationalFrom",230;165;166;167;168,0.25
+Cattenom,NPP,49.416,6.217,1987,cattenom,"GeoNuclearData (WNA/IAEA PRIS), reactor mean; year = earliest OperationalFrom",207;210;218;223,0.01
+Chinon,NPP,47.232,0.167,1964,avoine,"GeoNuclearData (WNA/IAEA PRIS), reactor mean; year = earliest OperationalFrom",173;184;195;196;197;213;214,0.74
+Chooz,NPP,50.086,4.792,1967,chooz,"GeoNuclearData (WNA/IAEA PRIS), reactor mean; year = earliest OperationalFrom",206;220;226,0.48
+Civaux,NPP,46.457,0.654,2002,civaux,"GeoNuclearData (WNA/IAEA PRIS), reactor mean; year = earliest OperationalFrom",227;228,0.1
+Cruas,NPP,44.634,4.757,1984,cruas,"GeoNuclearData (WNA/IAEA PRIS), reactor mean; year = earliest OperationalFrom",198;199;200;201,0.25
+Dampierre,NPP,47.732,2.513,1980,dampierre en burly,"GeoNuclearData (WNA/IAEA PRIS), reactor mean; year = earliest OperationalFrom",176;183;185;186,0.41
+Fessenheim,NPP,47.903,7.564,1978,fessenheim,"GeoNuclearData (WNA/IAEA PRIS), reactor mean; year = earliest OperationalFrom",163;164,0.07
+Flamanville,NPP,49.537,-1.881,1986,flamanville,"GeoNuclearData (WNA/IAEA PRIS), reactor mean; year = earliest OperationalFrom",202;203;873,0.1
+Golfech,NPP,44.105,0.845,1991,golfech,"GeoNuclearData (WNA/IAEA PRIS), reactor mean; year = earliest OperationalFrom",219;224,0.12
+Gravelines,NPP,51.014,2.138,1980,gravelines,"GeoNuclearData (WNA/IAEA PRIS), reactor mean; year = earliest OperationalFrom",174;175;181;182;208;209,0.34
+Nogent,NPP,48.517,3.52,1988,nogent sur seine,"GeoNuclearData (WNA/IAEA PRIS), reactor mean; year = earliest OperationalFrom",215;216,0.14
+Paluel,NPP,49.857,0.635,1985,paluel,"GeoNuclearData (WNA/IAEA PRIS), reactor mean; year = earliest OperationalFrom",191;192;193;194,0.14
+Penly,NPP,49.9759,1.2147,1990,saint martin en campagne,"GeoNuclearData (WNA/IAEA PRIS), reactor mean; year = earliest OperationalFrom",221;222;,0.29
+Saint-Alban,NPP,45.404,4.754,1986,saint alban du rhone,"GeoNuclearData (WNA/IAEA PRIS), reactor mean; year = earliest OperationalFrom",204;205,0.11
+Saint-Laurent,NPP,47.723,1.5817,1969,saint laurent nouan,"GeoNuclearData (WNA/IAEA PRIS), reactor mean; year = earliest OperationalFrom",225;229;169;177,0.45
+Tricastin,NPP+fuel,44.3305,4.733,1980,saint paul trois chateaux,"GeoNuclearData (WNA/IAEA PRIS), reactor mean; year = earliest OperationalFrom",170;171;179;180,0.17
+Brennilis,research reactor,48.35,-3.8667,1968,brennilis,"GeoNuclearData (WNA/IAEA PRIS), reactor mean; year = earliest OperationalFrom",217,
+Creys-Malville,fast breeder,45.76,5.474,1986,creys mepieu,"GeoNuclearData (WNA/IAEA PRIS), reactor mean; year = earliest OperationalFrom",178,
+Marcoule,military/reprocessing,44.142,4.7127,1959,chusclan,"GeoNuclearData (WNA/IAEA PRIS), reactor mean; year = earliest OperationalFrom",172;161;162,
+La Hague,reprocessing,49.678,-1.879,1966,beaumont hague,HAND-ENTERED (no authoritative source reachable),,
+Cadarache,CEA research,43.687,5.761,1963,saint paul lez durance,HAND-ENTERED (no authoritative source reachable),,
+Valduc,CEA weapons,47.58,4.87,1957,salives,HAND-ENTERED (no authoritative source reachable),,
+Saclay,CEA research,48.71,2.15,1952,saclay,HAND-ENTERED (no authoritative source reachable),,
+Ile Longue,SSBN base,48.307,-4.508,1970,crozon,HAND-ENTERED (no authoritative source reachable),,
+Plateau d'Albion,IRBM silos (1971-96),44.03,5.49,1971,saint christol,HAND-ENTERED (no authoritative source reachable),,
