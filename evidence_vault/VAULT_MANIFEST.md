@@ -220,6 +220,16 @@ So `robots.txt` will not be mined for forbidden paths.
 
 ---
 
+## 12_CRAFT_TAXONOMY — **POPULATED** (2026-11-26)
+
+Results of the craft-taxonomy study (`omega/reports/craft_taxonomy.md`): class models and stability
+(`stability.json`), every report's class (`assign.json.gz`), drift, geography, GEIPAN D-vs-A/B and
+class-content results, and the two derived US grids (HRSL 2019 people and Copernicus GLO-90 terrain per
+0.05° cell, 7 MB together). `FETCH_MANIFEST.md` lists every downloaded file with its URL, size, SHA-1
+and licence, and the SHA-1 of each file here. Numbered 12, not 11, to stay clear of other branches.
+
+---
+
 ## Network reality, for whoever picks this up
 
 Allowlisted (8): `archive.org`, `www.geipan.fr`, `geipan.fr`, `cnes.fr`,

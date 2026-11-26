@@ -1,0 +1,48 @@
+{
+ "nuforc_us_east_k5": {
+  "US East": [
+   {
+    "share": 0.41925351898508834,
+    "label": "light 91%, glow 29%"
+   },
+   {
+    "share": 0.2485687334633722,
+    "label": "triangle 23%"
+   },
+   {
+    "share": 0.19371529235022888,
+    "label": "sphere 100%, red_orange 32%"
+   },
+   {
+    "share": 0.08717807448784443,
+    "label": "fireball 100%, red_orange 40%"
+   },
+   {
+    "share": 0.05128438071363665,
+    "label": "oval 100%"
+   }
+  ],
+  "rest": [
+   {
+    "share": 0.42111665927652664,
+    "label": "light 94%, glow 27%"
+   },
+   {
+    "share": 0.25438611957002627,
+    "label": "residual, no dominant feature (most raised: disc 19% vs 7% avg, oval 16% vs 6% avg)"
+   },
+   {
+    "share": 0.17440310173032492,
+    "label": "sphere 100%, red_orange 28%"
+   },
+   {
+    "share": 0.07948525361974786,
+    "label": "triangle 100%"
+   },
+   {
+    "share": 0.07060886580353147,
+    "label": "fireball 100%, dur_lt1m 52%, red_orange 30%"
+   }
+  ]
+ }
+}

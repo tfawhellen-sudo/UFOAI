@@ -15,6 +15,31 @@ seed-averaged values now, but if any figure disagrees, **§1.14 wins.**
 ---
 
 
+## CRAFT TAXONOMY UPDATE (2026-11-26) — separate thread, branch `claude/project-thread-loq0td`
+
+Started from `claude/project-thread-eck2kl` (`2c859c0`). Report `omega/reports/craft_taxonomy.md`;
+every number in `craft_taxonomy_tables.md`; code and run order in `omega/taxonomy/`; results, class
+assignments, US population and terrain grids and the fetch manifest in `evidence_vault/12_CRAFT_TAXONOMY/`.
+
+| question | answer |
+|---|---|
+| stable classes? | yes: Hatch 7 (6 replicate in ≥ 10/12 region and era subsets), NUFORC 5 (all ≥ 10/13), GEIPAN 2 |
+| craft types? | no: GEIPAN explained 48–79% of every shape; GEIPAN's 2010+ "silent orange sphere" class is lanterns (201 explained, 1 D) |
+| pop-culture drift | 1947 disc jump clear (OR 2.89, beats all 45 placebo years); 2017 "metallic" step chance-level after 15 tests; CE3K, Belgian wave, Phoenix null; Starlink and lantern controls detected |
+| US per person near sites | military airfields 0.74–0.78 (fewer), reactors 0.89–1.04, every class within 6% of other reports |
+| strongest site lead | Hatch triangles near operating reactors 1.48 (1.25–1.74) era-adjusted; 1.18 (0.98–1.41) without the Hudson Valley 1982–87 and Belgium 1989–91 waves; NUFORC triangles 0.94 |
+| terrain | per person 2.2–2.7× above 2,000 m, net of density |
+
+Lessons: a region-only Hatch site model reads the era as a site effect (triangles and reactors both rose
+in the 1980s: crude OR 2.63 → 1.48 with 5-year bins). Duration as four 0/1 LCA items takes over the
+classes; use one categorical item. LCA needs ≥ 12 restarts. HRSL COG overviews inflate sparse cells; use
+the CSV. More pitfalls in project memory (`craft-taxonomy`).
+
+Not done: a population null outside the US (no global layer reachable); a real military layer (DoD
+MIRTA, ICBM fields); a light-pollution layer; MUFON (not public).
+
+---
+
 ## SESSION 5 UPDATE (2026-11-26) — read this first
 
 Branch **`claude/project-thread-eck2kl`** (started from `49febcf`). Session 5 ran on

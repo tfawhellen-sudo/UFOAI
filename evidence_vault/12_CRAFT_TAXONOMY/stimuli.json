@@ -1,0 +1,347 @@
+{
+ "geipan": {
+  "K": 2,
+  "labels": [
+   "residual, no dominant feature (most raised: sphere 29% vs 22% avg, silent 42% vs 40% avg)",
+   "light 100%, white 33%"
+  ],
+  "classes": [
+   {
+    "n": 1947,
+    "gclass": {
+     "C": 580,
+     "D": 56,
+     "A": 544,
+     "B": 767
+    },
+    "D_share": 0.028762198253723677,
+    "explained_family": {
+     "identified, type not given": 264,
+     "lantern": 226,
+     "aircraft/drone": 162,
+     "balloon": 143,
+     "meteor/re-entry": 129,
+     "astronomical": 115,
+     "other identified": 107,
+     "ground light/laser": 63,
+     "satellite/ISS": 55,
+     "bird/insect": 39,
+     "hoax": 5,
+     "insufficient info": 2,
+     "strange (unexplained)": 1
+    }
+   },
+   {
+    "n": 1457,
+    "gclass": {
+     "B": 556,
+     "C": 440,
+     "D": 50,
+     "A": 411
+    },
+    "D_share": 0.03431708991077557,
+    "explained_family": {
+     "lantern": 193,
+     "aircraft/drone": 141,
+     "identified, type not given": 132,
+     "satellite/ISS": 128,
+     "astronomical": 127,
+     "other identified": 75,
+     "meteor/re-entry": 61,
+     "ground light/laser": 48,
+     "balloon": 38,
+     "bird/insect": 18,
+     "hoax": 4,
+     "insufficient info": 1,
+     "strange (unexplained)": 1
+    }
+   }
+  ],
+  "D_vs_AB": {
+   "table": [
+    [
+     56,
+     1311
+    ],
+    [
+     50,
+     967
+    ]
+   ],
+   "cramers_v": 0.017614934707780715,
+   "chi2": 0.7397216446263563,
+   "p": 0.3897500598516669,
+   "dof": 1
+  }
+ },
+ "hatch": {
+  "K": 7,
+  "labels": [
+   "disc 93%",
+   "light 77%",
+   "sphere 54%, glow 27%",
+   "landing 63%, disc 63%, size_small 23%, dur_5_30m 33%",
+   "cigar 100%",
+   "triangle 95%, rectangle 40%",
+   "oval 100%, glow 26%"
+  ],
+  "classes": [
+   {
+    "n": 4581,
+    "flags": {
+     "MID": 0.024012224405151713,
+     "HOX": 0.0091683038637852,
+     "HQO": 0.4758786291202794,
+     "RDR": 0.026631739794804626,
+     "PHT": 0.06788910718183802,
+     "EME": 0.06788910718183802,
+     "TRC": 0.030124426981008513,
+     "MIL": 0.22244051517135996,
+     "NUC": 0.017900021829294913,
+     "LND": 0.03841955904824274,
+     "OID": 0.010478061558611657
+    },
+    "strangeness": 6.529142108709888,
+    "credibility": 7.583933638943462
+   },
+   {
+    "n": 3818,
+    "flags": {
+     "MID": 0.060764798323729705,
+     "HOX": 0.008119434258774228,
+     "HQO": 0.5206914614981666,
+     "RDR": 0.06312205343111577,
+     "PHT": 0.04243059193294919,
+     "EME": 0.10476689366160294,
+     "TRC": 0.040859088528025146,
+     "MIL": 0.25170246202200103,
+     "NUC": 0.021477213200628602,
+     "LND": 0.0856469355683604,
+     "OID": 0.015453116815086433
+    },
+    "strangeness": 6.077527501309586,
+    "credibility": 7.807752750130959
+   },
+   {
+    "n": 2913,
+    "flags": {
+     "MID": 0.08341915550978372,
+     "HOX": 0.009268795056642637,
+     "HQO": 0.42808101613456917,
+     "RDR": 0.030552694816340542,
+     "PHT": 0.037075180226570546,
+     "EME": 0.059388946103673186,
+     "TRC": 0.06041881222107793,
+     "MIL": 0.18640576725025745,
+     "NUC": 0.01888087881908685,
+     "LND": 0.1383453484380364,
+     "OID": 0.023000343288705802
+    },
+    "strangeness": 6.408513559903879,
+    "credibility": 7.469962238242362
+   },
+   {
+    "n": 1898,
+    "flags": {
+     "MID": 0.025816649104320338,
+     "HOX": 0.037934668071654375,
+     "HQO": 0.36828240252897787,
+     "RDR": 0.02054794520547945,
+     "PHT": 0.03635405690200211,
+     "EME": 0.13645943097997892,
+     "TRC": 0.23709167544783982,
+     "MIL": 0.12961011591148577,
+     "NUC": 0.022655426765015807,
+     "LND": 0.7992623814541623,
+     "OID": 0.2792413066385669
+    },
+    "strangeness": 8.084299262381455,
+    "credibility": 7.101159114857745
+   },
+   {
+    "n": 2012,
+    "flags": {
+     "MID": 0.08349900596421471,
+     "HOX": 0.013916500994035786,
+     "HQO": 0.47962226640159045,
+     "RDR": 0.03578528827037773,
+     "PHT": 0.032803180914512925,
+     "EME": 0.053180914512922464,
+     "TRC": 0.03429423459244533,
+     "MIL": 0.19831013916500995,
+     "NUC": 0.016401590457256462,
+     "LND": 0.11133200795228629,
+     "OID": 0.009940357852882704
+    },
+    "strangeness": 6.578031809145129,
+    "credibility": 7.5521868787276345
+   },
+   {
+    "n": 1938,
+    "flags": {
+     "MID": 0.07120743034055728,
+     "HOX": 0.009287925696594427,
+     "HQO": 0.4711042311661507,
+     "RDR": 0.021671826625386997,
+     "PHT": 0.04231166150670795,
+     "EME": 0.058307533539731685,
+     "TRC": 0.03560371517027864,
+     "MIL": 0.13261093911248711,
+     "NUC": 0.011351909184726523,
+     "LND": 0.08101135190918472,
+     "OID": 0.012899896800825593
+    },
+    "strangeness": 6.633642930856553,
+    "credibility": 7.614035087719298
+   },
+   {
+    "n": 956,
+    "flags": {
+     "MID": 0.04811715481171548,
+     "HOX": 0.005230125523012552,
+     "HQO": 0.4225941422594142,
+     "RDR": 0.015690376569037656,
+     "PHT": 0.0397489539748954,
+     "EME": 0.07740585774058577,
+     "TRC": 0.0502092050209205,
+     "MIL": 0.14330543933054393,
+     "NUC": 0.01882845188284519,
+     "LND": 0.19246861924686193,
+     "OID": 0.02405857740585774
+    },
+    "strangeness": 6.5240585774058575,
+    "credibility": 7.304393305439331
+   }
+  ],
+  "base": {
+   "MID": 0.054427025833517335,
+   "HOX": 0.01230956060940605,
+   "HQO": 0.4634577169353058,
+   "RDR": 0.03422389048355045,
+   "PHT": 0.046147052329432545,
+   "EME": 0.07932214616913226,
+   "TRC": 0.061051004636785165,
+   "MIL": 0.1966217708103334,
+   "NUC": 0.01849194082578936,
+   "LND": 0.16493707220136897,
+   "OID": 0.04261426363435637
+  }
+ },
+ "nuforc": {
+  "K": 5,
+  "labels": [
+   "light 93%, glow 29%",
+   "residual, no dominant feature (most raised: disc 19% vs 7% avg, oval 16% vs 7% avg)",
+   "sphere 100%, red_orange 29%",
+   "triangle 100%",
+   "fireball 100%, red_orange 33%, dur_lt1m 50%"
+  ],
+  "classes": [
+   {
+    "n": 52209,
+    "names_explanation": 0.16428202034132047
+   },
+   {
+    "n": 33308,
+    "names_explanation": 0.1155878467635403
+   },
+   {
+    "n": 26546,
+    "names_explanation": 0.11248399005499887
+   },
+   {
+    "n": 10410,
+    "names_explanation": 0.09394812680115273
+   },
+   {
+    "n": 10778,
+    "names_explanation": 0.15884208573019112
+   }
+  ],
+  "base": 0.13585639132164112
+ },
+ "geipan_era_k2": {
+  "pre-2010": {
+   "n": 1613,
+   "classes": [
+    {
+     "share": 0.672839397927475,
+     "label": "residual, no dominant feature (most raised: dur_lt1m 60% vs 52% avg, sphere 31% vs 24% avg)",
+     "n": 1094,
+     "gclass": {
+      "C": 461,
+      "D": 46,
+      "A": 200,
+      "B": 387
+     },
+     "explained_as": {
+      "identified, type not given": 266,
+      "meteor/re-entry": 74,
+      "astronomical": 58,
+      "other identified": 46,
+      "lantern": 37
+     }
+    },
+    {
+     "share": 0.3271606020737633,
+     "label": "light 78%, flashing 22%, white 31%, dur_5_30m 26%",
+     "n": 519,
+     "gclass": {
+      "B": 143,
+      "C": 254,
+      "D": 33,
+      "A": 89
+     },
+     "explained_as": {
+      "identified, type not given": 104,
+      "astronomical": 24,
+      "aircraft/drone": 23,
+      "other identified": 16,
+      "satellite/ISS": 15
+     }
+    }
+   ]
+  },
+  "2010+": {
+   "n": 1791,
+   "classes": [
+    {
+     "share": 0.834862506917631,
+     "label": "residual, no dominant feature (most raised: white 35% vs 29% avg, light 51% vs 48% avg)",
+     "n": 1513,
+     "gclass": {
+      "D": 26,
+      "C": 270,
+      "B": 604,
+      "A": 613
+     },
+     "explained_as": {
+      "aircraft/drone": 244,
+      "lantern": 166,
+      "satellite/ISS": 157,
+      "astronomical": 153,
+      "balloon": 139
+     }
+    },
+    {
+     "share": 0.16513749308348633,
+     "label": "red_orange 88%, silent 78%, sphere 48%, dur_1_5m 43%",
+     "n": 278,
+     "gclass": {
+      "B": 189,
+      "A": 53,
+      "C": 35,
+      "D": 1
+     },
+     "explained_as": {
+      "lantern": 201,
+      "aircraft/drone": 10,
+      "meteor/re-entry": 10,
+      "astronomical": 7,
+      "balloon": 6
+     }
+    }
+   ]
+  }
+ }
+}
