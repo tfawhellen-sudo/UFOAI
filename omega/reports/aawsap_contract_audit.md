@@ -326,3 +326,40 @@ below was checked against the release text, not against this report.
 
 FOIA: all of the above is now **Letter 14** in `omega/reports/foia_request_drafts.md`, naming
 CLIN 0004 and CLIN 1004. Drafted, not filed.
+
+---
+
+## Session 6 addendum (2026-11-26) — D186 page-image check, PMP correction, two new details
+
+1. **D186 "Twelve" is confirmed on the page image.** The archive.org PDF
+   (`Release_08/DOW-UAP-D186-…December-2010.pdf`, 2 pp., Acrobat ClearScan) was rendered at
+   150 dpi and read on p.1: *"(U) The FY 2010 Defense Appropriations Act included a $12 million
+   add for the project. Twelve additional reports were produced and delivered. They are also
+   included in enclosure 1."* The OCR was right. The released memo has **neither enclosure**
+   (p.2: `2 enclosures: a/s`, then the preparer block, redacted under `1843(a)(3)`). The same
+   page also says *"26 technical reports by June, 2009. All of these reports were delivered to
+   DIA by September, 2009."*
+2. **Two readings of "twelve", not yet separable.** (a) A twelfth FY2010 report exists and is
+   not in the release. One candidate is one of the "four to six" reports D185 says would be
+   expanded with classified data. (b) "Twelve" restates the contract quantity (CLIN 1003,
+   `Quantity 12`, one per area) or echoes the "twelve technical areas" two paragraphs above.
+   Against (b): the base year has the same quantity of 12 and delivered 26, so DIA did not
+   count reports by contract quantity there. Letter 15 item 4 is built to separate the two.
+3. **D144 carries FY2009 boilerplate.** *Cockpits in the Era of Breakthrough Flight* (D144,
+   DIA-08-1011-002, ICOD 8 July 2010, published 1 Nov 2010) says *"produced in FY 2009"*. The
+   other ten Nov 2010–Jan 2011 DIRDs say *"FY 2010"*, and D144 is **not** among D188's 26
+   FY2009 titles (author IDs match 26/26 on D117–D142). Its number sits in the same
+   DIA-08-1011 run as D143 (-001). The most likely reading is a template error, so the FY2010
+   count stays at 11. If D144 really was FY2009 work, the FY2010 count would be 10 and the gap
+   to "twelve" would be 2. Not quotable either way; flagged for Letter 15.
+4. **Correction to §8 item 3 (PMPs).** D168 p.1 says the plan presents *"nine separate major
+   projects which collectively address all twelve of the technical areas"*. So the base-year
+   PMP is plausibly **one** consolidated document, and "~24 per-area papers" overstated the
+   gap. The real gap is **CLIN 1002, the option-year PMP, $4,759,300, the largest single line
+   item. No option-year plan is in the release.** Letter 16 targets that.
+5. **The August 2009 monthly report is referred to but not released.** D172 (Ten Month Report),
+   PDF p.9: *"More details on this project will be reported in the August 2009 BAASS monthly
+   report."* Letter 17 names it.
+
+FOIA: Letters 15–18 in `foia_request_drafts.md` cover all four remaining §8 targets. Drafted,
+not filed.

@@ -2,7 +2,7 @@
 
 **Prepared:** 2026-11-25
 **Status:** DRAFTS ONLY. Nothing here has been filed, submitted, or transmitted to any agency.
-**Count:** 14 letters (Letters 1–14 below). Letter 14 added 2026-11-26.
+**Count:** 18 letters (Letters 1–18 below). Letter 14 added 2026-11-26 (session 5); Letters 15–18 added 2026-11-26 (session 6) and share sections S1–S5.
 
 ---
 
@@ -2419,9 +2419,429 @@ platforms. The request is built so that items 3–5 answer the question either w
 
 ---
 
+# Shared sections for Letters 15–18
+
+Letters 15–18 all go to DIA about contract HHM402-08-C-0072. To keep them short, the
+sections that do not change from letter to letter (format, fee waiver, segregability,
+Vaughn index, processing) are written once here. **When you send a letter, paste this block
+into it in place of the line "[Insert shared sections S1–S5]".** Each letter must be
+complete on its own when it is filed.
+
+**S1. Format.** Electronic, text-searchable PDF or native files, 5 U.S.C. § 552(a)(3)(B).
+
+**S2. Fee waiver.** I request a waiver of all fees under 5 U.S.C. § 552(a)(4)(A)(iii). The
+records concern an identifiable operation of the government: a congressionally funded DIA
+contract (HHM402-08-C-0072, $21,948,810 obligated), what its priced deliverables were, and
+whether they were delivered and accepted. The program has drawn congressional and public
+attention since 2017 and was the subject of an official release in 2026. That release
+documents the contract and part of its output, and the question this request answers cannot
+be answered from it. I will disseminate the records and my analysis by [describe your
+dissemination channel specifically; edit this bracket before sending]. I have no commercial
+interest in these records. If a waiver is denied, please assign the correct fee category
+[state your category] and notify me before incurring fees above **[$ amount]**.
+
+**S3. Partial release, segregability and Exemptions 4 and 6.** Please release all reasonably
+segregable non-exempt portions, 5 U.S.C. § 552(b), marking the exemption at each redaction.
+Contract line items, prices, deliverable titles, dates, and delivery and acceptance records
+under a firm-fixed-price contract are ordinarily not confidential commercial information, and
+much of this is already public in the released contract. Where Exemption 4 is asserted over
+contractor-authored content, please give submitter notice under Executive Order 12600
+promptly, and limit the withholding to information that is actually confidential. **I do not
+seek personal identifying information.** Names of individuals may be withheld under
+Exemption 6 without dispute. I ask only that the office, role or institutional affiliation
+stay visible, as it does in the 2026 release. Please apply the foreseeable-harm standard,
+5 U.S.C. § 552(a)(8)(A), to each discretionary withholding.
+
+**S4. Vaughn index.** If records are withheld in whole or in part, I request a *Vaughn* index
+(*Vaughn v. Rosen*, 484 F.2d 820 (D.C. Cir. 1973)) that identifies each withheld record by
+date, author office, recipient, subject, length, exemption and justification.
+
+**S5. Processing, referrals and determination.** Please process on a rolling basis. Please
+tell me of each referral, its recipient and its tracking number, and give a determination
+within 20 working days, 5 U.S.C. § 552(a)(6)(A)(i). If any part of this request is unclear,
+please contact me so I can narrow it. Please identify the FOIA Public Liaison. If the request
+is denied in whole or in part, please state each exemption, identify the denying official, and
+tell me my appeal rights, the appellate authority and the deadline. I reserve all appeal
+rights and the right to seek OGIS assistance under 5 U.S.C. § 552(h).
+
+**Addressing (all four letters).**
+**To:** FOIA Requester Service Center, Defense Intelligence Agency [verify the current
+address, office symbol and DoD FOIA submission portal on the agency's FOIA page before
+sending; I will not guess an office symbol].
+**Date:** [Date] · **Signature block:** [Requester Name] / [Street Address] / [City, State
+ZIP] / [Email] | [Phone]
+
+**File them separately.** Four narrow requests are processed faster than one broad request,
+and a denial of one does not hold up the others. Letter 14 (the Integrated Threat Assessment)
+is the sharpest. File it first if you file only one.
+
+---
+
+# LETTER 15 — Defense Intelligence Agency (DIA)
+### AAWSAP research reports as delivered by BAASS (CLINs 0003 and 1003), their executive versions, and D186 Enclosure 1
+
+*Added 2026-11-26 (session 6). Source: `aawsap_contract_audit.md` §2 and §8 item 2, and its
+session-5 addendum item 5. Every citation was grepped against the release text on 2026-11-26.
+D186 was also checked against the page image of the archive.org PDF (2 pp.). The evidence
+table follows the letter. **Drafted, not filed.***
+
+**Re: Research Reports for Tasks 3.a.1–3.a.12, CLINs 0003 and 1003, contract
+HHM402-08-C-0072 (Advanced Aerospace Weapon System Applications Program): as-delivered
+versions, executive versions, and the enclosure list to INFO MEMO U-10-2552/CE**
+
+Dear FOIA Officer:
+
+This is a request under the Freedom of Information Act, 5 U.S.C. § 552.
+
+### 1. Background (to locate the records, not to argue)
+
+- The Statement of Objectives dated 18 July 2008, § 11(c), requires, **for each technical
+  area, "a comprehensive report and briefing forecasting potential advancements and their
+  impact … An executive version of each report should also be submitted."** The contract
+  prices these as **CLIN 0003, "Research Report for Tasks 3.a.1–3.a.12", quantity 12,
+  $2,100,000.00** (base year) and **CLIN 1003, same title, quantity 12, $2,870,600.00**
+  (option year 1).
+- DIA's review of contract deliverables, INFO MEMO U-429-09/DWO of 30 October 2009, lists
+  "the 26 extensive technical reports delivered to DIA in FY 2009" in its Enclosure 1 and says
+  "DWO intends to publish them in coming weeks as Defense Intelligence Studies." The 2026
+  release contains those reports **as published by DIA**: Defense Intelligence Reference
+  Documents (DIRDs) dated December 2009 to January 2011, each "Prepared by: Acquisition Support
+  Division (DWO-3)". At least three were retitled for publication. For example, the report
+  listed in October 2009 as *Novel MEMS-Based Biosensors* was published as *Biomaterials*
+  (DIA-08-0912-006).
+- None of the 37 released DIRDs contains an executive version or executive summary, and the
+  release contains no briefing for any of them.
+- The Director's INFO MEMO U-10-2552/CE to USD(AT&L) (December 2010), p.1, states: **"Twelve
+  additional reports were produced and delivered. They are also included in enclosure 1."**
+  The released copy of that memo is 2 pages and has neither enclosure. The release contains
+  **eleven** FY2010 reports (DIRDs dated 1 November 2010 to 11 January 2011).
+
+### 2. Records requested
+
+1. **Each research report delivered by BAASS under CLIN 0003 or CLIN 1003**, in the form in
+   which BAASS submitted it to DIA (the contractor's deliverable, before DIA editing and
+   republication as a Defense Intelligence Reference Document), including the transmittal
+   date and the title as submitted.
+2. **The executive version of each report** required by SOO § 11(c), and **the briefing**
+   (slides and any speaker notes) for each report, if any were delivered.
+3. **Enclosure 1 to INFO MEMO U-10-2552/CE** (Director, DIA, to USD(AT&L), December 2010): the
+   list of the 26 FY2009 reports and the twelve FY2010 reports. Please also release
+   **Enclosure 2** if it is anything other than the DIRD *Advanced Space Propulsion Based on
+   Vacuum (Spacetime Metric) Engineering*, which the memo names as Enclosure 2.
+4. **The twelfth FY2010 report.** If twelve FY2010 reports were delivered, please identify
+   and release any FY2010 research report **not** among the eleven DIRDs listed in § 3 below.
+   If the count of twelve included a classified report, please search classified holdings,
+   conduct a classification review, and release at least its title, date, page count,
+   classification marking and transmittal data. If the memo's "twelve" is a count of contract
+   quantity rather than of reports delivered, a record that shows so answers this item.
+5. **Acceptance records for CLINs 0003 and 1003**: receiving or acceptance reports (DD Form
+   250 or the Wide Area Workflow equivalent) and any COR or GPL memorandum that accepts or
+   rejects a research report or records how many were accepted against the quantity of 12.
+
+Date range: **18 July 2008 through 31 March 2011** (SOO date through the publication of the
+last DIRD plus processing time).
+
+If no record exists for an item, please say so for that item separately and describe the
+files searched.
+
+### 3. Search guidance
+
+- **Already public; do not reprocess.** I do not ask for the DIA-published DIRDs themselves.
+  For identification only, the eleven FY2010 DIRDs in the release are: *Laser Lightcraft
+  Nanosatellites*; *Cockpits in the Era of Breakthrough Flight*; *Aneutronic Fusion
+  Propulsion I*; *Aneutronic Fusion Propulsion II*; *Ultracapacitors as Energy and Power
+  Storage Devices*; *Detection and High-Resolution Tracking of Vehicles at Hypersonic
+  Velocities*; *MHD Air-Breathing Propulsion and Power for Aerospace Applications*; *Quantum
+  Computing and Utilizing Organic Molecules in Automation Technology*; *Cognitive Limits on
+  Simultaneous Control of Multiple Unmanned Spacecraft*; *Negative Mass Propulsion*; *Quantum
+  Tomography of Negative Energy States in the Vacuum*. Their DIRD numbers, where legible, are in the
+  DIA-08-1011-, DIA-08-1101- and DIA-08-1102- series.
+- **Offices:** Defense Warning Office, DWO-3 (Acquisition Support Division), the program
+  office; Office of Congressional and Public Affairs, which prepared U-10-2552/CE (p.2); the
+  contracting activity that issued HHM402-08-C-0072 (Virginia Contracting Activity, Bolling
+  AFB, per the modifications' distribution lists) [verify the current custodian].
+- **Terms:** "HHM402-08-C-0072", "CLIN 0003", "CLIN 1003", "Research Report", "executive
+  version", "U-10-2552", "AAWSAP", "AATIP", "AAITP", "BAASS", "Defense Intelligence Reference
+  Document", "DWO-3".
+
+[Insert shared sections S1–S5]
+
+Sincerely,
+[Requester Name]
+
+### Evidence table for Letter 15 (for the requester; do not send)
+
+| claim | document | page | string (OCR unless noted) |
+|---|---|---|---|
+| § 11(c) report + executive version | D110 SOO, 18 Jul 2008 | §11(c) | `For each technical area. a oompreheru,ive report and briefing forecasting potential advancements and their impact is to be submitted to the GPL by the end ofthe tenth month. An executive version ofeach report should also be submitted` |
+| CLIN 0003 | D111 | pp.1–2 of 59 | `Research Report for Tasks 3.a.1. • 3.a.12 … Quantity 12 … $2,100,000.00` |
+| CLIN 1003 | D111; D113 P00002 | D111 p.3 of 59 | `Research Report for Tasks 3..a. 1. - 3.a.12 … Quantity 12 … $2,870,600.00` |
+| 26 delivered FY2009, to be published | D188 U-429-09/DWO, 30 Oct 2009 | p.1 | `The table in Enclosure 1 lists the 26 extensive technical reports delivered to DIA in FY 2009` and `DWO intends to publish them in coming weeks as Defense Intelligence Studies` |
+| retitling | D188 Encl. 1 vs D119 | D188 p.3; D119 cover | D188 `Novel MEMS-Based Biosensors … MP Person 65`; D119 `Biomaterials … DIA-08-0912-006 … Author: AAP Person 65` |
+| no executive summaries | D117–D153 | — | `executive summary` occurs 0 times in all 37 DIRD texts (archive.org djvu OCR, grepped 2026-11-26) |
+| "Twelve" | D186 U-10-2552/CE | p.1, **checked on the page image** | `Twelve additional reports were produced and delivered. They are also included in enclosure 1.` |
+| enclosures absent | D186 | p.2 | `2 enclosures: a/s`. Released PDF is 2 pages, no enclosures |
+| 26 by June, all by Sept 2009 | D186 | p.1, page image | `BAASS identified and worked with academics and scientists to produce 26 technical reports by June, 2009. All of these reports were delivered to DIA by September, 2009.` |
+
+---
+
+# LETTER 16 — Defense Intelligence Agency (DIA)
+### AAWSAP Project Management Plans: CLIN 0002 (per-area papers and acceptance) and CLIN 1002 (option year, none released)
+
+*Added 2026-11-26 (session 6). Source: `aawsap_contract_audit.md` §8 item 3, **corrected**
+below. **Drafted, not filed.***
+
+**Correction to the session-4 framing.** §8 item 3 said "~24 per-area papers" were owed and
+"one" was released. D168 itself says it is a single consolidated plan, organised as **nine
+projects that "collectively address all twelve of the technical areas"** (D168 p.1). So the
+base-year PMP may well be one document that satisfies all twelve, and asking for "24 per-area
+papers" assumes something the release contradicts. The sharp target is different: **CLIN
+1002, the option-year Project Management Plan, priced at $4,759,300, the largest single line
+item in the contract. No option-year plan is in the release at all.** The letter is rebuilt
+around that.
+
+**Re: Project Management Plan for Tasks 3.a.1–3.a.12, CLINs 0002 and 1002, contract
+HHM402-08-C-0072 (Advanced Aerospace Weapon System Applications Program)**
+
+Dear FOIA Officer:
+
+This is a request under the Freedom of Information Act, 5 U.S.C. § 552.
+
+### 1. Background (to locate the records, not to argue)
+
+- The Statement of Objectives dated 18 July 2008, § 11(b), requires: **"Project Management
+  Plan — For each technical area, the team lead shall submit, at the 60 day point, an overview
+  paper identifying the scope of the final report, a Plan of Action and Milestones, and the
+  composition of the analytical team."**
+- The contract prices this as **CLIN 0002, "Project Management Plan for Tasks
+  3.a.1–3.a.12", quantity 12, $3,600,000.00** (base year, 22 Sep 2008 to 21 Sep 2009) and
+  **CLIN 1002, same title, quantity 12, $4,759,300.00** (option year 1, period of performance
+  extended to 21 Dec 2010). CLIN 1002 was funded in full by modification P00002 (2 Feb 2010).
+- The 2026 release contains **one** plan: *BAASS Project Management Plan (Overview Paper)*,
+  2 December 2008. It presents "nine separate major projects which collectively address all
+  twelve of the technical areas" and says that "for each of the nine projects, we envisage
+  extension and expansion into 2010 and 2011."
+- The release contains **no** Project Management Plan, overview paper or Plan of Action and
+  Milestones for option year 1.
+
+### 2. Records requested
+
+1. **Every Project Management Plan, overview paper, or Plan of Action and Milestones
+   delivered under CLIN 1002** (option year 1), including updates and revisions.
+2. **Any per-area overview papers delivered under CLIN 0002**, other than the consolidated
+   plan dated 2 December 2008 that is already public. If the consolidated plan was the only
+   CLIN 0002 deliverable, a record that shows it was accepted as satisfying the full quantity
+   of 12 answers this item.
+3. **Acceptance and payment records for CLINs 0002 and 1002**: receiving or acceptance
+   reports (DD Form 250 or Wide Area Workflow), invoices or vouchers billing either CLIN, and
+   any COR or GPL memorandum accepting, rejecting or commenting on a plan.
+4. **Any revision, update or government comment** on the 2 December 2008 plan, including
+   records that implement its stated "extension and expansion into 2010 and 2011" of the nine
+   projects.
+
+Date range: **18 July 2008 through 31 March 2011.** If no record exists for an item, please say
+so for that item separately and describe the files searched.
+
+### 3. Search guidance
+
+- **Already public; do not reprocess:** *BAASS Project Management Plan (Overview Paper)*,
+  Contract HHM402-08-C-0072, 2 December 2008.
+- **Offices:** the contracting activity that issued HHM402-08-C-0072 (Virginia Contracting
+  Activity, Bolling AFB) [verify the current custodian]; Defense Warning Office, DWO-3.
+- **Terms:** "Project Management Plan", "PMP", "Overview Paper", "Plan of Action and
+  Milestones", "POA&M", "CLIN 0002", "CLIN 1002", "HHM402-08-C-0072", "BAASS", "AAWSAP".
+
+[Insert shared sections S1–S5]
+
+Sincerely,
+[Requester Name]
+
+### Evidence table for Letter 16 (for the requester; do not send)
+
+| claim | document | page | OCR string |
+|---|---|---|---|
+| § 11(b) text | D110 SOO | §11(b) | `b. Project Management Plan - For each technical area, the team leoo shall submit, at the 60 day point, an overview paperidentifying the scope ofthe final re)X)(1; a Plan ofAction and Milestones, and the composition ofthe analytical team.` |
+| CLIN 0002 | D111 | pp.1–2 of 59 | `Project Management Plan for Tasks 3.a.1 • 3.a.12 … Quantity 12 … $3,600,000.00 … 09/22/2008 to 09/21 /2009` |
+| CLIN 1002 | D111 p.3 of 59; D113 P00002 | — | `Project Management Plan for Tasks 3.a.1 - 3.a.12 … Quantity 12 … $4,759,300.00 … 09/22/2009 to 12/21/2010`; D113: `1002 … 4,759,300.00` |
+| one consolidated plan | D168, 2 Dec 2008 | p.1 | `Plans of Action and Milestones in this report comprising nine separate major projects which collectively address all twelve of the technical areas` and `we envisage extension and expansion into 2010 and 2011` |
+| no option-year plan | release index | — | only `D168` carries "Project Management Plan" in the release titles |
+
+**Red-team note.** CLIN 0002 + 1002 is $8.36M against $4.97M for the research reports, which
+are the visible product. A $3.6M "plan" makes most sense if the PMP CLIN was the pricing
+vehicle for BAASS's own investigative work (the nine projects in D168, such as the Utah ranch
+and Colares). That is my inference from prices and D168's structure. It is not stated in any
+document, and the letter does not assert it.
+
+---
+
+# LETTER 17 — Defense Intelligence Agency (DIA)
+### AAWSAP monthly status reports, CLINs 0001 and 1001: the months not in the release
+
+*Added 2026-11-26 (session 6). Source: `aawsap_contract_audit.md` §8 item 4. **Drafted, not
+filed.***
+
+**Re: Monthly Status Reports, CLINs 0001 and 1001, contract HHM402-08-C-0072 (Advanced
+Aerospace Weapon System Applications Program)**
+
+Dear FOIA Officer:
+
+This is a request under the Freedom of Information Act, 5 U.S.C. § 552.
+
+### 1. Background (to locate the records, not to argue)
+
+- The Statement of Objectives dated 18 July 2008, § 11(a), requires **"Status Reports —
+  monthly reports outlining accomplishments, milestones, and work in progress."** The contract
+  prices these as **CLIN 0001, "Monthly Status Reports", quantity 12, $2,887,000.00** (base
+  year) and **CLIN 1001, same title, quantity 12, $1,549,100.00** (option year 1, period of
+  performance extended to 21 Dec 2010).
+- The 2026 release contains **four** BAASS monthly reports: **March 2009, April 2009, June
+  2009 and November 2009**. It also contains the BAASS *Ten Month Report* of 30 July 2009,
+  which is the § 11(c) ten-month research deliverable, not a monthly report.
+- The Ten Month Report itself (p.9 of the PDF) says a project "will be reported in the
+  **August 2009 BAASS monthly report**", which is not in the release.
+
+### 2. Records requested
+
+1. **Every BAASS monthly status report delivered under CLIN 0001 or CLIN 1001** for the
+   months **October 2008 through December 2010**, **except** the four already public (March,
+   April, June and November 2009). That covers, at most: October, November and December 2008;
+   January, February, May, July, August, September and October 2009; and December 2009
+   through December 2010. **The August 2009 report is referred to in a released document;
+   please prioritise it.**
+2. Any appendices, attachments or enclosures to those reports, and the transmittal records
+   (cover letters or e-mails) that record each report's submission date.
+3. **Acceptance and payment records for CLINs 0001 and 1001**, including invoices or vouchers
+   that bill monthly reports, and any record of how many monthly reports were accepted against
+   each quantity of 12.
+
+If a month had no report (for example, because the first report came later than October 2008
+or reports were combined), a record that shows the actual reporting schedule answers that
+month. If no record exists for an item, please say so for that item separately and describe
+the files searched.
+
+### 3. Search guidance
+
+- **Already public; do not reprocess:** BAASS *March 2009 Report*, *April 2009 Report*,
+  *June 2009 Report*, *November 2009 Monthly Report*,
+  and the *Ten Month Report* (30 July 2009).
+- Each released report carries the cover legend "Bigelow Aerospace Advanced Space Studies
+  (BAASS)" and the footer "This information is proprietary and confidential and cannot be
+  disseminated or used without prior written consent from the Operating Manager of BAASS."
+  The missing months should carry the same.
+- **Offices:** Defense Warning Office, DWO-3 (program office and GPL); the contracting
+  activity (Virginia Contracting Activity, Bolling AFB) [verify the current custodian].
+- **Terms:** "Monthly Report", "Monthly Status Report", "CLIN 0001", "CLIN 1001",
+  "HHM402-08-C-0072", "BAASS", "AAWSAP".
+
+**Exemption 4 note.** The proprietary footer does not make a deliverable bought and paid for
+by the government confidential by itself. Four of these reports were released in 2026 under
+the same footer, which shows that the content is releasable after review.
+
+[Insert shared sections S1–S5]
+
+Sincerely,
+[Requester Name]
+
+### Evidence table for Letter 17 (for the requester; do not send)
+
+| claim | document | page | OCR string |
+|---|---|---|---|
+| § 11(a) | D110 SOO | §11(a) | `a Status Reports - monthly reports outlining accomplishments, milestones, and work in progress.` |
+| CLIN 0001 | D111 | pp.1–2 of 59 | `Monthly Status Reports … Quantity 12 … $2,887,000.00 … 09/22/2008 to 09/21/2009` |
+| CLIN 1001 | D111 p.3 of 59; D113 | — | `Monthly Status Reports … Quantity 12 … $1 ,549,100.00 … 09/22/2009 to 12/21/2010`; D113 `1001 … 1,549,100.00` |
+| $4.44M total | arithmetic | — | 2,887,000 + 1,549,100 = **4,436,100** |
+| released months | D169, D170, D171, D173 | covers | `March 2009 Report`; `April 2009 Report`; `June 2009 Report`; `November 2009 Report … Monthly Report` |
+| August 2009 report referred to | D172 Ten Month Report | PDF p.9 (tesseract OCR, form-feed count) | `More details on this project will be reported in the August 2009 BAASS monthly report.` |
+
+**Caveat.** "About 20 missing" assumes one report per month for 24 months. The quantities say
+12 per year, but the option year ran 15 months (22 Sep 2009 to 21 Dec 2010), and the date of the
+first report is unknown. The letter asks for the months, not for a count, so an answer is
+still informative either way.
+
+---
+
+# LETTER 18 — Defense Intelligence Agency (DIA)
+### Full texts of the reviews of the FY2009 AAWSAP technical reports, including the Sandia National Laboratories reviews (D188 Enclosure 2)
+
+*Added 2026-11-26 (session 6). Source: `aawsap_contract_audit.md` §8 item 5. **Drafted, not
+filed.***
+
+**Re: Reviews of the 26 FY2009 technical reports cited in INFO MEMO U-429-09/DWO, 30 October
+2009, contract HHM402-08-C-0072 (Advanced Aerospace Weapon System Applications Program)**
+
+Dear FOIA Officer:
+
+This is a request under the Freedom of Information Act, 5 U.S.C. § 552.
+
+### 1. Background (to locate the records, not to argue)
+
+- DIA's INFO MEMO U-429-09/DWO of 30 October 2009, "Review of AAWSAP Contract Deliverables",
+  p.1, states: "The report titles highlighted in red and green are the ones that were reviewed.
+  **Eight reviews were performed by other authors listed in the table; five were performed by
+  outside reviewers, including three research staff members at Sandia National
+  Laboratories.**" It adds: "As the excerpts indicate, all of the reviews were positive."
+- The memo's Enclosure 1 marks reviewed titles "Red — Independent review" and "Green — Sandia
+  National Laboratories review". Its Enclosure 2 gives **short excerpts only**. The excerpts
+  attributed to Sandia reviewers concern *Metallic Glasses*, *Theory and Experiments of
+  Invisibility Cloaking*, and *State-of-the-Art & Evolution of High Energy Laser Weapons*.
+- The full reviews are not in the 2026 release.
+
+### 2. Records requested
+
+1. **The complete text of each of the thirteen reviews** that U-429-09/DWO describes (eight by
+   other program authors and five by outside reviewers, three of them at Sandia National
+   Laboratories), in every version transmitted to DIA.
+2. **The tasking and transmittal records for the reviews**: any request from DIA/DWO to the
+   reviewers or to Sandia National Laboratories to review AAWSAP reports, any agreement or
+   funding document under which Sandia staff reviewed them, and the cover e-mails or letters
+   that returned the reviews.
+3. **A colour copy of Enclosure 1** to U-429-09/DWO, or a version in which the red and green
+   highlighting is legible. The released copy is black-and-white, so which titles were reviewed
+   and by whom cannot be read from it.
+4. Any **summary or compilation of the reviews** prepared for the Director, DIA, or for
+   congressional engagement.
+
+Date range: **1 June 2009 through 31 December 2009.** If no record exists for an item, please
+say so for that item separately and describe the files searched.
+
+### 3. Search guidance and privacy
+
+- **Offices:** Defense Warning Office, DWO-3 (the memo's preparing office).
+- **Terms:** "U-429-09", "Review of AAWSAP Contract Deliverables", "Sandia", "SNL",
+  "review", "AAWSAP", "BAASS", and the titles above.
+- **Sandia National Laboratories** is a Department of Energy laboratory. If DIA holds the
+  reviews only by reference and Sandia or DOE/NNSA holds the originals, please refer that part
+  and tell me the referral. [Optional: file a parallel request with the DOE/NNSA FOIA office,
+  naming the same memo and titles.]
+- **Privacy.** I do not seek the reviewers' names. They may be withheld under Exemption 6, as
+  they are in the released memo. I ask only that the institutional affiliation stay visible,
+  as it does in the released excerpts.
+
+[Insert shared sections S1–S5]
+
+Sincerely,
+[Requester Name]
+
+### Evidence table for Letter 18 (for the requester; do not send)
+
+| claim | document | page | OCR string |
+|---|---|---|---|
+| 8 + 5 reviews, 3 Sandia | D188 U-429-09/DWO, 30 Oct 2009 | p.1 | `Eight reviews were performed by other authors listed in the table; five were performed by outside reviewers, including three research staff members at Sandia National Laboratories.` |
+| all positive, excerpts | D188 | p.1 | `As the excerpts indicate, all of the reviews were positive, some exceptionally so.` |
+| colour legend | D188 Encl. 1 | p.3 | `Red - Independent review.` / `Green - Sandia National Laboratories review.` |
+| Sandia excerpts | D188 Encl. 2 | p.8 | after `Metallic Glasses: tatus and Prospects for Aerospace Applications`: `…Sandia National Laboratories`; after `Theory and Experiments of Invisibility Cloaking`: `- IAAP Person 131 l s andia National Laboratories`; after `State-of-the-Art&Eve 1ution of High Energy Laser Weapons`: `- IAAP Person 132 … Sandia National Laboratories` |
+
+**Red-team note.** The memo's selling line is that "all of the reviews were positive." Eight of
+the thirteen reviews were written by other program authors, who were paid by the same contract.
+The full texts let the strength of "positive" be judged directly. This is why item 1 asks for
+whole reviews, not more excerpts. The pseudonyms (Person 131, 132) are the release's (b)(6)
+treatment, and I make no attempt to resolve them.
+
+---
+
 ## Document control
 
-- **Letters drafted:** 14 (Letters 1–14)
+- **Letters drafted:** 18 (Letters 1–18)
 - **Letters filed or transmitted:** 0. These are drafts. Nothing here has been sent.
 - **Expedited processing asserted in:** Letter 12 only, under 5 U.S.C. § 552(a)(6)(E)(v)(II).
 - **Next step for the researcher:** fill the requester and dissemination brackets, verify every
