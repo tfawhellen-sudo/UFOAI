@@ -15,6 +15,30 @@ seed-averaged values now, but if any figure disagrees, **§1.14 wins.**
 ---
 
 
+## SESSION 6 UPDATE (2026-11-26) — read this first
+
+Branch **`claude/project-thread-41xagd`**, built on session 5's tip `2c859c0` with
+`claude/project-thread-noala8` (GEIPAN Phases 1–3) merged in. Default environment. scipy was
+installed by hand. Installing tesseract with apt failed, but this session did not need it. Hosts
+that work: `archive.org/cors/<item>/<path>` downloads PURSUE PDFs (the `archive.org/download`
+redirect to `ia9xxxxx.us.archive.org` is blocked) and `raw.githubusercontent.com`. Hosts that are
+blocked: Wikidata, Wikipedia, ASN, data.gouv, IAEA PRIS web, Overpass, geipan.fr, arxiv.org.
+
+| item | output | headline |
+|---|---|---|
+| §5 item 2, remaining FOIA | `foia_request_drafts.md` Letters 15–18 + shared sections S1–S5 | as-delivered research reports + D186 Encl. 1 + the 12th FY2010 report (L15); option-year PMP CLIN 1002, $4.76M, none released (L16); monthly reports Oct 2008–Dec 2010 minus 4, Aug 2009 is referred to in D172 p.9 (L17); full texts of the 13 reviews incl. 3 Sandia (L18). **Drafted, NOT filed** |
+| D186 "Twelve" | `aawsap_contract_audit.md` session-6 addendum | **confirmed on the page image**. Release has 11. Alternative reading: "twelve" = CLIN 1003 quantity. D144 carries "FY 2009" boilerplate (likely a template error) |
+| PMP correction | same addendum | D168 is one consolidated plan "address[ing] all twelve" areas. "~24 per-area papers" was overstated; the real gap is CLIN 1002 |
+| §5 item 3, slots | `redaction_slots_s6_dirds_1950s.md`, `omega/redaction_boxes.py` | 0 content redactions in 37 DIRDs (1,473 pp) and 73 1940s–50s scans (3,160 pp). The DIRDs withhold author names only. FY2010 vs FY2009 no different. 2 ambiguous blackouts on D102 pp.71–72, in marking positions |
+| GEIPAN Phase 2 sites | `geipan_phase123.md` session-6 section, `data/raw/nuclear_sites/fr_nuclear_sites.csv` | 22 reactor sites now from IAEA PRIS/WNA (GeoNuclearData); WRI GPPD agrees ≤0.74 km. **Null unchanged.** 6 non-reactor sites are still hand-entered; dropping them does not change the verdict |
+
+Still open: send nothing (all 18 letters are drafts). An authoritative source for the 6
+non-reactor French sites. Using tesseract to re-OCR the session-4 UNREADABLE MISREP fields at
+higher dpi (the other half of §5 item 3; not done here). NT-16 work is on
+`claude/project-thread-het5pi`.
+
+---
+
 ## SESSION 5 UPDATE (2026-11-26) — read this first
 
 Branch **`claude/project-thread-eck2kl`** (started from `49febcf`). Session 5 ran on
