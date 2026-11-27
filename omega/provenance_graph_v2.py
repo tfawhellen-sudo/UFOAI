@@ -191,34 +191,71 @@ def fsr_vol_year(v):
     return FSR_VOL_YEAR.get(v, 1955 + v)
 
 
+def _interpolate(rows):
+    """rows: [order, key, anchor (y, m) or None]. Anchors must be monotone in
+    publication order; an anchor that breaks order by more than 3 months against
+    both neighbours is dropped. Unanchored rows get a linear interpolation in
+    months between the nearest anchors (month_known False). Returns key -> date."""
+    rows = sorted(rows)
+    mon = lambda d: d[0] * 12 + d[1] - 1
+    anc = [(i, mon(r[2])) for i, r in enumerate(rows) if r[2]]
+    good = []
+    for j, (i, v) in enumerate(anc):
+        pv = anc[j - 1][1] if j > 0 else None
+        nv = anc[j + 1][1] if j + 1 < len(anc) else None
+        bad_p = pv is not None and v < pv - 3
+        bad_n = nv is not None and v > nv + 3
+        if (bad_p and (bad_n or nv is None)) or (bad_n and pv is None):
+            continue
+        good.append((i, v))
+    out = {}
+    gi = dict(good)
+    for i, r in enumerate(rows):
+        if i in gi:
+            out[r[1]] = (gi[i] // 12, gi[i] % 12 + 1, True)
+            continue
+        lo = max((g for g in good if g[0] < i), default=None)
+        hi = min((g for g in good if g[0] > i), default=None)
+        if lo and hi:
+            v = lo[1] + (hi[1] - lo[1]) * (i - lo[0]) / (hi[0] - lo[0])
+        elif lo or hi:
+            continue                       # outside the anchored span: leave undated
+        else:
+            continue
+        v = int(round(v))
+        out[r[1]] = (v // 12, v % 12 + 1, False)
+    return out
+
+
 def build_fsr_dates(recs, xd):
-    """file -> (year, month, month_known). Cover date if it agrees with the
-    volume; else volume year (month unknown); else interpolate from neighbours."""
+    """file -> (year, month, month_known). Anchor = a cover date within 120 chars
+    of the "Vol N No M" masthead that agrees with the volume year (+-1); other
+    issues are interpolated between anchors in publication order."""
     rows = []
     for r in recs:
         n = int(re.search(r"^(\d+)\.FSR", r["file"]).group(1))
         t = open(os.path.join(xd, "txt", r["path"]), encoding="utf-8", errors="replace").read()[:5000]
-        v = FSR_VOL.search(t)
-        vy = fsr_vol_year(_ocr_int(v.group(1))) if v else None
-        covers = [(int(y), EN[mo.lower()[:3]]) for mo, y in NAMEDATE.findall(t)]
-        covers += [(int(y), SEASON_M[se.lower()]) for se, y in SEASON.findall(t)]
-        d = None
-        for y, m in covers:
-            if vy is None or abs(y - vy) <= 1:
-                d = (y, m, vy is not None)   # a cover date with no volume is weak
+        anchor = None
+        for v in FSR_VOL.finditer(t):
+            vy = fsr_vol_year(_ocr_int(v.group(1)))
+            if vy is None:
+                continue
+            w = t[max(0, v.start() - 120): v.end() + 120]
+            cands = [(int(y), EN[mo.lower()[:3]], mm.start()) for mm in NAMEDATE.finditer(w)
+                     for mo, y in [mm.groups()]]
+            cands += [(int(y), SEASON_M[se.lower()], mm.start()) for mm in SEASON.finditer(w)
+                      for se, y in [mm.groups()]]
+            cands = [c for c in cands if abs(c[0] - vy) <= 1]
+            if cands:
+                c = min(cands, key=lambda c: abs(c[2] - 120))
+                anchor = (c[0], c[1])
                 break
-        if d is None and vy:
-            d = (vy, 6, False)
-        rows.append([n, r["file"], d])
-    rows.sort()
-    for i, (n, f, d) in enumerate(rows):
-        if d is None:                         # neighbours in publication order
-            prev = next((x[2] for x in reversed(rows[:i]) if x[2]), None)
-            nxt = next((x[2] for x in rows[i + 1:] if x[2]), None)
-            if prev and nxt and abs(nxt[0] - prev[0]) <= 1:
-                d = (prev[0], 6, False)
-        if d:
-            FSR_DATES[f] = d
+        if anchor is None:                  # early covers print the date with no volume
+            m0 = NAMEDATE.search(t[:300])
+            if m0:
+                anchor = (int(m0.group(2)), EN[m0.group(1).lower()[:3]])
+        rows.append([n, r["file"], anchor])
+    FSR_DATES.update(_interpolate(rows))
 
 
 # ---- LDLN (Lumieres dans la Nuit, 1958-): ids carry only the issue number.
@@ -239,23 +276,31 @@ def _fr_month(w):
 
 
 def build_ldln_dates(recs, xd):
+    """path -> date. Anchor = the French month-year nearest the "N° <n>" mark on
+    the cover (within 80 chars), else a "<n> - <mois> <annee>" masthead; others
+    interpolated by issue number. (Taking the first date in the text, as the
+    first version did, read LDLN 120 = Oct 1972 as Jan 1971 from a photo caption.)"""
     rows = []
     for r in recs:
         m = re.search(r"LDLN_No_(\d+)", r["id"])
         if not m:
             continue
-        t = open(os.path.join(xd, "txt", r["path"]), encoding="utf-8", errors="replace").read()[:4000]
-        cands = [(int(y), _fr_month(mo)) for mo, y in FR_MONTH.findall(t.lower())]
-        rows.append([int(m.group(1)), r["path"], cands])
-    rows.sort()
-    firsts = [c[0][0] if c else None for _, _, c in rows]
-    for i, (n, path, cands) in enumerate(rows):
-        nb = sorted(y for y in firsts[max(0, i - 8): i + 9] if y)
-        if not nb:
-            continue
-        exp_y = nb[len(nb) // 2]
-        d = next(((y, mo, True) for y, mo in cands if abs(y - exp_y) <= 1), None)
-        LDLN_DATES[path] = d or (exp_y, 6, False)
+        n = int(m.group(1))
+        t = open(os.path.join(xd, "txt", r["path"]), encoding="utf-8", errors="replace").read()[:6000]
+        tl = t.lower()
+        anchor = None
+        for h in re.finditer(r"(?:n\W{0,3}\s*|^|\s)%d\b" % n, tl):
+            w0 = max(0, h.start() - 80)
+            w = tl[w0: h.end() + 80]
+            cands = [(int(mm.group(2)), _fr_month(mm.group(1)), abs(w0 + mm.start() - h.start()))
+                     for mm in FR_MONTH.finditer(w)]
+            cands = [c for c in cands if c[1]]
+            if cands:
+                c = min(cands, key=lambda c: c[2])
+                anchor = (c[0], c[1])
+                break
+        rows.append([n, r["path"], anchor])
+    LDLN_DATES.update(_interpolate(rows))
 
 
 def expansion_date(rec, text):
