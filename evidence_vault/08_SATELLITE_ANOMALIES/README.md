@@ -97,3 +97,11 @@ the only physical-trace class-D case with full laboratory analysis.
   landcover raster (e.g. ESA WorldCover), which is not on the allowlist.
 - No detection has been run. `track2_control_set.json` carries
   `"detection_run": false`.
+
+## Session 7 (2026-11-27): moving-object hunt + Landsat trace stacks
+
+See `omega/reports/s2_airborne_hunt.md`. Sentinel-2 inter-band parallax detector,
+water only (land mode manufactures Mach-5 objects). 171 clean de-duplicated scenes:
+sites vs same-scene random disks null (P = 0.35); 57 fast movers all eyeballed and
+explained; 3 testable report/overpass coincidences show ordinary airliners only.
+Landsat (GCP Collection 1 mirror) at 6 testable GEIPAN trace cases: null (P = 0.35).

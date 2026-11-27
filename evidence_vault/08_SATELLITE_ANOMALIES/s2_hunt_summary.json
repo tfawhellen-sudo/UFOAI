@@ -1,0 +1,1159 @@
+{
+ "n_jobs": 232,
+ "skipped": 0,
+ "no_water": 54,
+ "clean": 171,
+ "noisy": 7,
+ "clean_airborne": 223,
+ "clean_fast": 57,
+ "clean_slow": 80,
+ "clean_fa_total": 3.4000000000000004,
+ "clean_usable_km2": 254242.0380370355,
+ "fast_list": [
+  {
+   "job": "S|Catalina channel|S2C_11SLT_20250830_0_L2A",
+   "lat": 33.4327587094622,
+   "lon": -118.31558533566036,
+   "v": 632.2,
+   "hd": 302.1,
+   "d_km": 8.07,
+   "f3": 0.505,
+   "f8": 0.241,
+   "y": 3202,
+   "x": 3782,
+   "chip": "S|Catalina channel|S2C_11SLT_20250830_0_L2A_water_0_v632.png",
+   "eyeball_class": "ship wake / linear streak"
+  },
+  {
+   "job": "S|Catalina channel|S2C_11SLT_20250830_0_L2A",
+   "lat": 33.40435159220545,
+   "lon": -118.24453286692851,
+   "v": 517.6,
+   "hd": 60.3,
+   "d_km": 15.31,
+   "f3": 0.5,
+   "f8": 0.231,
+   "y": 3525,
+   "x": 4439,
+   "chip": "S|Catalina channel|S2C_11SLT_20250830_0_L2A_water_1_v517.png",
+   "eyeball_class": "ship wake / linear streak"
+  },
+  {
+   "job": "S|Flamanville NPP|S2B_30UWV_20200730_1_L2A",
+   "lat": 49.309939736550675,
+   "lon": -2.0037619161441764,
+   "v": 405.5,
+   "hd": 261.3,
+   "d_km": 26.66,
+   "f3": 0.543,
+   "f8": 0.277,
+   "y": 3763,
+   "x": 2145,
+   "chip": "S|Flamanville NPP|S2B_30UWV_20200730_1_L2A_water_0_v405.png",
+   "eyeball_class": "ship wake / linear streak"
+  },
+  {
+   "job": "S|Flamanville NPP|S2B_30UWV_20220809_0_L2A",
+   "lat": 49.58984727020373,
+   "lon": -1.9877483592854264,
+   "v": 450.0,
+   "hd": 264.9,
+   "d_km": 9.77,
+   "f3": 0.511,
+   "f8": 0.245,
+   "y": 649,
+   "x": 2219,
+   "chip": "S|Flamanville NPP|S2B_30UWV_20220809_0_L2A_water_0_v450.png",
+   "eyeball_class": "airliner + contrail (height parallax inflates speed)"
+  },
+  {
+   "job": "S|Flamanville NPP|S2B_30UWV_20220809_0_L2A",
+   "lat": 49.58958061848173,
+   "lon": -1.9852628830830925,
+   "v": 566.7,
+   "hd": 267.8,
+   "d_km": 9.61,
+   "f3": 0.51,
+   "f8": 0.245,
+   "y": 652,
+   "x": 2237,
+   "chip": "S|Flamanville NPP|S2B_30UWV_20220809_0_L2A_water_1_v566.png",
+   "eyeball_class": "airliner + contrail (height parallax inflates speed)"
+  },
+  {
+   "job": "S|Flamanville NPP|S2B_30UWV_20220809_0_L2A",
+   "lat": 49.58979319425259,
+   "lon": -1.988091283681309,
+   "v": 496.4,
+   "hd": 112.6,
+   "d_km": 9.79,
+   "f3": 0.535,
+   "f8": 0.278,
+   "y": 650,
+   "x": 2217,
+   "chip": "S|Flamanville NPP|S2B_30UWV_20220809_0_L2A_water_2_v496.png",
+   "eyeball_class": "airliner + contrail (height parallax inflates speed)"
+  },
+  {
+   "job": "S|Flamanville NPP|S2B_30UWV_20220809_0_L2A",
+   "lat": 49.58962967389119,
+   "lon": -1.9885740909138165,
+   "v": 569.2,
+   "hd": 266.3,
+   "d_km": 9.8,
+   "f3": 0.508,
+   "f8": 0.231,
+   "y": 652,
+   "x": 2214,
+   "chip": "S|Flamanville NPP|S2B_30UWV_20220809_0_L2A_water_3_v569.png",
+   "eyeball_class": "airliner + contrail (height parallax inflates speed)"
+  },
+  {
+   "job": "S|Flamanville NPP|S2A_30UWV_20250711_0_L2A",
+   "lat": 49.45240866250042,
+   "lon": -2.249548998649044,
+   "v": 433.4,
+   "hd": 20.0,
+   "d_km": 28.26,
+   "f3": 0.513,
+   "f8": 0.236,
+   "y": 2199,
+   "x": 343,
+   "chip": "S|Flamanville NPP|S2A_30UWV_20250711_0_L2A_water_0_v433.png",
+   "eyeball_class": "ship wake / linear streak"
+  },
+  {
+   "job": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A",
+   "lat": 51.053183436323344,
+   "lon": 2.3128760229933114,
+   "v": 915.8,
+   "hd": 255.5,
+   "d_km": 13.11,
+   "f3": 0.527,
+   "f8": 0.267,
+   "y": 2588,
+   "x": 4245,
+   "chip": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A_water_0_v915.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A",
+   "lat": 51.239117017543975,
+   "lon": 1.9156693675585459,
+   "v": 2174.8,
+   "hd": 33.3,
+   "d_km": 29.31,
+   "f3": 0.523,
+   "f8": 0.261,
+   "y": 487,
+   "x": 1491,
+   "chip": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A_water_1_v2174.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A",
+   "lat": 51.04849823367074,
+   "lon": 2.285841601085859,
+   "v": 627.8,
+   "hd": 254.8,
+   "d_km": 11.15,
+   "f3": 0.525,
+   "f8": 0.282,
+   "y": 2638,
+   "x": 4055,
+   "chip": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A_water_2_v627.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A",
+   "lat": 51.05239844683407,
+   "lon": 2.3081686786576707,
+   "v": 997.1,
+   "hd": 255.5,
+   "d_km": 12.77,
+   "f3": 0.525,
+   "f8": 0.271,
+   "y": 2597,
+   "x": 4211,
+   "chip": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A_water_3_v997.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A",
+   "lat": 51.052250881116585,
+   "lon": 2.3076183278195948,
+   "v": 1943.6,
+   "hd": 255.3,
+   "d_km": 12.73,
+   "f3": 0.524,
+   "f8": 0.265,
+   "y": 2598,
+   "x": 4208,
+   "chip": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A_water_4_v1943.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A",
+   "lat": 51.04854403795116,
+   "lon": 2.2861266756318113,
+   "v": 1618.1,
+   "hd": 255.0,
+   "d_km": 11.17,
+   "f3": 0.522,
+   "f8": 0.255,
+   "y": 2638,
+   "x": 4057,
+   "chip": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A_water_5_v1618.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A",
+   "lat": 51.04856342390602,
+   "lon": 2.2862866646761466,
+   "v": 2090.8,
+   "hd": 255.2,
+   "d_km": 11.18,
+   "f3": 0.523,
+   "f8": 0.257,
+   "y": 2638,
+   "x": 4058,
+   "chip": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A_water_6_v2090.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A",
+   "lat": 51.04834874279048,
+   "lon": 2.2851175613039683,
+   "v": 1412.3,
+   "hd": 75.1,
+   "d_km": 11.09,
+   "f3": 0.526,
+   "f8": 0.271,
+   "y": 2640,
+   "x": 4049,
+   "chip": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A_water_7_v1412.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A",
+   "lat": 51.05207363902092,
+   "lon": 2.306553042107369,
+   "v": 1154.9,
+   "hd": 74.9,
+   "d_km": 12.65,
+   "f3": 0.526,
+   "f8": 0.259,
+   "y": 2600,
+   "x": 4200,
+   "chip": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A_water_8_v1154.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A",
+   "lat": 51.053245700532194,
+   "lon": 2.3133264022954734,
+   "v": 2132.4,
+   "hd": 255.1,
+   "d_km": 13.14,
+   "f3": 0.527,
+   "f8": 0.262,
+   "y": 2587,
+   "x": 4248,
+   "chip": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A_water_9_v2132.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A",
+   "lat": 51.04840659851331,
+   "lon": 2.2852728298533274,
+   "v": 709.9,
+   "hd": 74.7,
+   "d_km": 11.11,
+   "f3": 0.535,
+   "f8": 0.272,
+   "y": 2639,
+   "x": 4051,
+   "chip": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A_water_10_v709.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A",
+   "lat": 51.052042070265664,
+   "lon": 2.306401644105237,
+   "v": 1894.3,
+   "hd": 75.2,
+   "d_km": 12.64,
+   "f3": 0.522,
+   "f8": 0.26,
+   "y": 2600,
+   "x": 4199,
+   "chip": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A_water_11_v1894.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A",
+   "lat": 51.046360338966664,
+   "lon": 2.27352936835714,
+   "v": 679.4,
+   "hd": 255.3,
+   "d_km": 10.26,
+   "f3": 0.515,
+   "f8": 0.245,
+   "y": 2661,
+   "x": 3968,
+   "chip": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A_water_12_v679.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A",
+   "lat": 51.052335777564444,
+   "lon": 2.3080332773781445,
+   "v": 586.4,
+   "hd": 255.0,
+   "d_km": 12.76,
+   "f3": 0.524,
+   "f8": 0.264,
+   "y": 2597,
+   "x": 4210,
+   "chip": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A_water_13_v586.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A",
+   "lat": 51.05241556411077,
+   "lon": 2.3083881832696234,
+   "v": 1728.9,
+   "hd": 255.1,
+   "d_km": 12.78,
+   "f3": 0.523,
+   "f8": 0.269,
+   "y": 2596,
+   "x": 4213,
+   "chip": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A_water_14_v1728.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A",
+   "lat": 51.053247981804134,
+   "lon": 2.313296168049813,
+   "v": 1906.1,
+   "hd": 255.0,
+   "d_km": 13.14,
+   "f3": 0.529,
+   "f8": 0.266,
+   "y": 2587,
+   "x": 4247,
+   "chip": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A_water_15_v1906.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A",
+   "lat": 51.042721296373365,
+   "lon": 2.1757889954468026,
+   "v": 851.3,
+   "hd": 298.8,
+   "d_km": 4.16,
+   "f3": 0.533,
+   "f8": 0.261,
+   "y": 2695,
+   "x": 3282,
+   "chip": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A_water_16_v851.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A",
+   "lat": 51.051145786600046,
+   "lon": 2.2995592672120875,
+   "v": 789.0,
+   "hd": 259.4,
+   "d_km": 12.15,
+   "f3": 0.525,
+   "f8": 0.272,
+   "y": 2610,
+   "x": 4151,
+   "chip": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A_water_17_v789.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A",
+   "lat": 51.05217011834845,
+   "lon": 2.3070306183474463,
+   "v": 2169.8,
+   "hd": 75.2,
+   "d_km": 12.68,
+   "f3": 0.527,
+   "f8": 0.269,
+   "y": 2599,
+   "x": 4203,
+   "chip": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A_water_18_v2169.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A",
+   "lat": 51.052064779015446,
+   "lon": 2.3064954570352323,
+   "v": 1785.5,
+   "hd": 75.1,
+   "d_km": 12.65,
+   "f3": 0.519,
+   "f8": 0.267,
+   "y": 2600,
+   "x": 4200,
+   "chip": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A_water_19_v1785.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A",
+   "lat": 51.051088626759,
+   "lon": 2.2991232349027246,
+   "v": 552.5,
+   "hd": 68.6,
+   "d_km": 12.12,
+   "f3": 0.518,
+   "f8": 0.243,
+   "y": 2611,
+   "x": 4148,
+   "chip": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A_water_20_v552.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A",
+   "lat": 51.1493535296428,
+   "lon": 1.9591369062241435,
+   "v": 2005.3,
+   "hd": 356.3,
+   "d_km": 19.41,
+   "f3": 0.52,
+   "f8": 0.258,
+   "y": 1490,
+   "x": 1780,
+   "chip": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A_water_21_v2005.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A",
+   "lat": 51.05139767011309,
+   "lon": 2.2996178168113794,
+   "v": 2164.6,
+   "hd": 255.8,
+   "d_km": 12.17,
+   "f3": 0.516,
+   "f8": 0.264,
+   "y": 2607,
+   "x": 4151,
+   "chip": "S|Gravelines NPP|S2A_31UDS_20200420_1_L2A_water_22_v2164.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Gravelines NPP|S2A_31UDS_20240919_0_L2A",
+   "lat": 51.002900591321904,
+   "lon": 1.9632351945061086,
+   "v": 887.4,
+   "hd": 286.2,
+   "d_km": 12.2,
+   "f3": 0.536,
+   "f8": 0.256,
+   "y": 3119,
+   "x": 1786,
+   "chip": "S|Gravelines NPP|S2A_31UDS_20240919_0_L2A_water_0_v887.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Gravelines NPP|S2B_31UDS_20250429_0_L2A",
+   "lat": 50.97004540434688,
+   "lon": 1.8464527945758125,
+   "v": 436.3,
+   "hd": 114.0,
+   "d_km": 20.93,
+   "f3": 0.51,
+   "f8": 0.258,
+   "y": 3472,
+   "x": 961,
+   "chip": "S|Gravelines NPP|S2B_31UDS_20250429_0_L2A_water_0_v436.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Kings Bay SSBN base|S2A_17RMQ_20200930_1_L2A",
+   "lat": 30.71720534035728,
+   "lon": -81.48257389070513,
+   "v": 1475.0,
+   "hd": 323.4,
+   "d_km": 9.85,
+   "f3": 0.527,
+   "f8": 0.262,
+   "y": 3919,
+   "x": 3354,
+   "chip": "S|Kings Bay SSBN base|S2A_17RMQ_20200930_1_L2A_water_0_v1475.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Naval Base Kitsap-Bangor|S2B_10TET_20230719_0_L2A",
+   "lat": 47.84099668995229,
+   "lon": -122.41174443806717,
+   "v": 641.8,
+   "hd": 222.3,
+   "d_km": 26.73,
+   "f3": 0.543,
+   "f8": 0.271,
+   "y": 124,
+   "x": 4403,
+   "chip": "S|Naval Base Kitsap-Bangor|S2B_10TET_20230719_0_L2A_water_0_v641.png",
+   "eyeball_class": "ship wake / linear streak"
+  },
+  {
+   "job": "S|Naval Base Kitsap-Bangor|S2B_10TET_20250608_0_L2A",
+   "lat": 47.52404522261887,
+   "lon": -122.47419462311368,
+   "v": 656.3,
+   "hd": 48.3,
+   "d_km": 28.56,
+   "f3": 0.523,
+   "f8": 0.253,
+   "y": 3650,
+   "x": 3960,
+   "chip": "S|Naval Base Kitsap-Bangor|S2B_10TET_20250608_0_L2A_water_0_v656.png",
+   "eyeball_class": "ship wake / linear streak"
+  },
+  {
+   "job": "S|Boeing Field Seattle|S2B_10TET_20210924_1_L2A",
+   "lat": 47.31732618662126,
+   "lon": -122.48018276603585,
+   "v": 438.6,
+   "hd": 264.2,
+   "d_km": 27.27,
+   "f3": 0.545,
+   "f8": 0.248,
+   "y": 5375,
+   "x": 1660,
+   "chip": "S|Boeing Field Seattle|S2B_10TET_20210924_1_L2A_water_0_v438.png",
+   "eyeball_class": "ship wake / linear streak"
+  },
+  {
+   "job": "S|Lake Titicaca|S2A_19LDC_20190929_1_L2A",
+   "lat": -16.08317965233477,
+   "lon": -69.15161161380406,
+   "v": 1855.9,
+   "hd": 143.9,
+   "d_km": 25.74,
+   "f3": 0.522,
+   "f8": 0.26,
+   "y": 5025,
+   "x": 4590,
+   "chip": "S|Lake Titicaca|S2A_19LDC_20190929_1_L2A_water_0_v1855.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Lake Titicaca|S2A_19LDC_20190929_1_L2A",
+   "lat": -16.10954263226697,
+   "lon": -69.12512293077255,
+   "v": 1127.0,
+   "hd": 149.8,
+   "d_km": 29.79,
+   "f3": 0.518,
+   "f8": 0.26,
+   "y": 5316,
+   "x": 4874,
+   "chip": "S|Lake Titicaca|S2A_19LDC_20190929_1_L2A_water_1_v1127.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Lake Titicaca|S2A_19LDC_20190929_1_L2A",
+   "lat": -16.116607848737573,
+   "lon": -69.10681594935387,
+   "v": 616.4,
+   "hd": 72.8,
+   "d_km": 31.65,
+   "f3": 0.532,
+   "f8": 0.255,
+   "y": 5394,
+   "x": 5069,
+   "chip": "S|Lake Titicaca|S2A_19LDC_20190929_1_L2A_water_2_v616.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Lake Titicaca|S2A_19LDC_20190929_1_L2A",
+   "lat": -16.112381162462526,
+   "lon": -69.12231203682724,
+   "v": 1639.2,
+   "hd": 144.0,
+   "d_km": 30.22,
+   "f3": 0.527,
+   "f8": 0.265,
+   "y": 5348,
+   "x": 4904,
+   "chip": "S|Lake Titicaca|S2A_19LDC_20190929_1_L2A_water_3_v1639.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Lake Titicaca|S2A_19LDC_20190929_1_L2A",
+   "lat": -16.09685305585198,
+   "lon": -69.13887646888949,
+   "v": 1816.1,
+   "hd": 112.1,
+   "d_km": 27.78,
+   "f3": 0.528,
+   "f8": 0.265,
+   "y": 5176,
+   "x": 4726,
+   "chip": "S|Lake Titicaca|S2A_19LDC_20190929_1_L2A_water_4_v1816.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Lake Titicaca|S2A_19LDC_20190929_1_L2A",
+   "lat": -16.10447219174565,
+   "lon": -69.1272380839907,
+   "v": 1931.6,
+   "hd": 144.4,
+   "d_km": 29.21,
+   "f3": 0.522,
+   "f8": 0.264,
+   "y": 5260,
+   "x": 4851,
+   "chip": "S|Lake Titicaca|S2A_19LDC_20190929_1_L2A_water_5_v1931.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Lake Titicaca|S2A_19LDC_20190929_1_L2A",
+   "lat": -16.107645195437073,
+   "lon": -69.12578002470462,
+   "v": 1504.2,
+   "hd": 318.2,
+   "d_km": 29.58,
+   "f3": 0.528,
+   "f8": 0.271,
+   "y": 5295,
+   "x": 4866,
+   "chip": "S|Lake Titicaca|S2A_19LDC_20190929_1_L2A_water_6_v1504.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Lake Titicaca|S2A_19LDC_20190929_1_L2A",
+   "lat": -16.14394706336529,
+   "lon": -69.44863111054697,
+   "v": 1444.3,
+   "hd": 3.1,
+   "d_km": 31.32,
+   "f3": 0.529,
+   "f8": 0.256,
+   "y": 5702,
+   "x": 1415,
+   "chip": "S|Lake Titicaca|S2A_19LDC_20190929_1_L2A_water_7_v1444.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Lake Titicaca|S2A_19LDC_20190929_1_L2A",
+   "lat": -16.106181880528183,
+   "lon": -69.12783201894763,
+   "v": 1698.2,
+   "hd": 10.5,
+   "d_km": 29.32,
+   "f3": 0.528,
+   "f8": 0.273,
+   "y": 5279,
+   "x": 4845,
+   "chip": "S|Lake Titicaca|S2A_19LDC_20190929_1_L2A_water_8_v1698.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Lake Titicaca|S2A_19LDC_20190929_1_L2A",
+   "lat": -16.107441780731474,
+   "lon": -69.12642900105517,
+   "v": 1929.4,
+   "hd": 66.3,
+   "d_km": 29.52,
+   "f3": 0.519,
+   "f8": 0.262,
+   "y": 5293,
+   "x": 4860,
+   "chip": "S|Lake Titicaca|S2A_19LDC_20190929_1_L2A_water_9_v1929.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Lake Titicaca|S2A_19LDC_20190929_1_L2A",
+   "lat": -15.877947485664775,
+   "lon": -69.56126586310648,
+   "v": 2072.0,
+   "hd": 358.4,
+   "d_km": 28.07,
+   "f3": 0.523,
+   "f8": 0.259,
+   "y": 2762,
+   "x": 203,
+   "chip": "S|Lake Titicaca|S2A_19LDC_20190929_1_L2A_water_10_v2072.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Lake Titicaca|S2A_19LDC_20190929_1_L2A",
+   "lat": -15.924138128744309,
+   "lon": -69.2775398122892,
+   "v": 1409.3,
+   "hd": 168.0,
+   "d_km": 3.6,
+   "f3": 0.535,
+   "f8": 0.273,
+   "y": 3267,
+   "x": 3241,
+   "chip": "S|Lake Titicaca|S2A_19LDC_20190929_1_L2A_water_11_v1409.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  },
+  {
+   "job": "S|Lake Tahoe|S2A_10SGJ_20220812_0_L2A",
+   "lat": 39.22122471199155,
+   "lon": -119.94005209487665,
+   "v": 478.4,
+   "hd": 268.5,
+   "d_km": 15.55,
+   "f3": 0.516,
+   "f8": 0.287,
+   "y": 1629,
+   "x": 3733,
+   "chip": "S|Lake Tahoe|S2A_10SGJ_20220812_0_L2A_water_0_v478.png",
+   "eyeball_class": "ship wake / linear streak"
+  },
+  {
+   "job": "C|NUFORC#12160|S2A_17RLK_20190827_0_L2A",
+   "lat": 27.11223694653753,
+   "lon": -82.07754521313817,
+   "v": 1190.2,
+   "hd": 284.6,
+   "d_km": 10.67,
+   "f3": 0.527,
+   "f8": 0.269,
+   "y": 67,
+   "x": 3941,
+   "chip": "C|NUFORC_12160|S2A_17RLK_20190827_0_L2A_water_0_v1190.png",
+   "eyeball_class": "cloud-edge parallax"
+  },
+  {
+   "job": "C|NUFORC#12160|S2A_17RLK_20190827_0_L2A",
+   "lat": 27.112447892565285,
+   "lon": -82.07813263207788,
+   "v": 1477.7,
+   "hd": 122.0,
+   "d_km": 10.63,
+   "f3": 0.521,
+   "f8": 0.252,
+   "y": 65,
+   "x": 3935,
+   "chip": "C|NUFORC_12160|S2A_17RLK_20190827_0_L2A_water_1_v1477.png",
+   "eyeball_class": "cloud-edge parallax"
+  },
+  {
+   "job": "C|NUFORC#12160|S2A_17RLK_20190827_0_L2A",
+   "lat": 27.08900326629369,
+   "lon": -82.05720091694249,
+   "v": 408.8,
+   "hd": 313.9,
+   "d_km": 11.66,
+   "f3": 0.53,
+   "f8": 0.251,
+   "y": 326,
+   "x": 4140,
+   "chip": "C|NUFORC_12160|S2A_17RLK_20190827_0_L2A_water_2_v408.png",
+   "eyeball_class": "cloud-edge parallax"
+  },
+  {
+   "job": "C|NUFORC#12160|S2A_17RLK_20190827_0_L2A",
+   "lat": 27.112346921642402,
+   "lon": -82.07809009035927,
+   "v": 533.1,
+   "hd": 66.3,
+   "d_km": 10.63,
+   "f3": 0.54,
+   "f8": 0.284,
+   "y": 66,
+   "x": 3935,
+   "chip": "C|NUFORC_12160|S2A_17RLK_20190827_0_L2A_water_3_v533.png",
+   "eyeball_class": "cloud-edge parallax"
+  },
+  {
+   "job": "C|NUFORC#12160|S2A_17RLK_20190827_0_L2A",
+   "lat": 27.11464594112458,
+   "lon": -82.0728596660796,
+   "v": 617.6,
+   "hd": 353.1,
+   "d_km": 11.2,
+   "f3": 0.498,
+   "f8": 0.269,
+   "y": 41,
+   "x": 3988,
+   "chip": "C|NUFORC_12160|S2A_17RLK_20190827_0_L2A_water_4_v617.png",
+   "eyeball_class": "cloud-edge parallax"
+  },
+  {
+   "job": "C|NUFORC#13359|S2A_12TVL_20190620_1_L2A",
+   "lat": 40.57730781890718,
+   "lon": -111.6184020216688,
+   "v": 1962.0,
+   "hd": 182.0,
+   "d_km": 29.49,
+   "f3": 0.528,
+   "f8": 0.268,
+   "y": 4937,
+   "x": 4770,
+   "chip": "C|NUFORC_13359|S2A_12TVL_20190620_1_L2A_water_0_v1962.png",
+   "eyeball_class": "cloud-edge parallax"
+  },
+  {
+   "job": "C|NUFORC#16133|S2A_17SQU_20181018_1_L2A",
+   "lat": 34.29611860094887,
+   "lon": -77.70964341496472,
+   "v": 558.6,
+   "hd": 293.9,
+   "d_km": 20.34,
+   "f3": 0.516,
+   "f8": 0.244,
+   "y": 2134,
+   "x": 4841,
+   "chip": "C|NUFORC_16133|S2A_17SQU_20181018_1_L2A_water_0_v558.png",
+   "eyeball_class": "surf/coastline/whitecap speckle"
+  }
+ ],
+ "tests": {
+  "uap_encounter": {
+   "airborne": {
+    "n": 40,
+    "mean_rank": 0.5225443537943537,
+    "p_more": 0.3036,
+    "site_count": 7
+   },
+   "any": {
+    "n": 40,
+    "mean_rank": 0.5468424422053454,
+    "p_more": 0.1524,
+    "site_count": 11
+   }
+  },
+  "nuclear": {
+   "airborne": {
+    "n": 42,
+    "mean_rank": 0.50391388331117,
+    "p_more": 0.4678,
+    "site_count": 19
+   },
+   "any": {
+    "n": 42,
+    "mean_rank": 0.4968916982188095,
+    "p_more": 0.5326,
+    "site_count": 20
+   }
+  },
+  "military": {
+   "airborne": {
+    "n": 21,
+    "mean_rank": 0.5138051481940489,
+    "p_more": 0.4072,
+    "site_count": 5
+   },
+   "any": {
+    "n": 21,
+    "mean_rank": 0.4856631622140411,
+    "p_more": 0.5988,
+    "site_count": 7
+   }
+  },
+  "contractor": {
+   "airborne": {
+    "n": 0
+   },
+   "any": {
+    "n": 0
+   }
+  },
+  "lore": {
+   "airborne": {
+    "n": 9,
+    "mean_rank": 0.4666666666666667,
+    "p_more": 0.6364,
+    "site_count": 3
+   },
+   "any": {
+    "n": 9,
+    "mean_rank": 0.4555555555555555,
+    "p_more": 0.68,
+    "site_count": 4
+   }
+  },
+  "sacred": {
+   "airborne": {
+    "n": 7,
+    "mean_rank": 0.5284893267651889,
+    "p_more": 0.392,
+    "site_count": 1
+   },
+   "any": {
+    "n": 7,
+    "mean_rank": 0.5284893267651889,
+    "p_more": 0.392,
+    "site_count": 1
+   }
+  },
+  "coincidence": {
+   "airborne": {
+    "n": 3,
+    "mean_rank": 0.7062091503267974,
+    "p_more": 0.1062,
+    "site_count": 2
+   },
+   "any": {
+    "n": 3,
+    "mean_rank": 0.7062091503267974,
+    "p_more": 0.1062,
+    "site_count": 3
+   }
+  },
+  "ALL_SITES": {
+   "airborne": {
+    "n": 119,
+    "mean_rank": 0.5105503415989466,
+    "p_more": 0.3462,
+    "site_count": 35
+   },
+   "any": {
+    "n": 119,
+    "mean_rank": 0.5104327790525631,
+    "p_more": 0.3482,
+    "site_count": 46
+   }
+  }
+ },
+ "per_site": {
+  "Nimitz 2004 'Tic Tac' area": {
+   "scenes": 7,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "W-72 warning area (Roosevelt 2014-15)": {
+   "scenes": 7,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "Aguadilla 2013": {
+   "scenes": 7,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "Catalina channel": {
+   "scenes": 6,
+   "site_air": 3,
+   "site_fast": 1
+  },
+  "Shag Harbour 1967": {
+   "scenes": 7,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "Lake Michigan 1994/2008": {
+   "scenes": 6,
+   "site_air": 4,
+   "site_fast": 0
+  },
+  "Flamanville NPP": {
+   "scenes": 6,
+   "site_air": 10,
+   "site_fast": 4
+  },
+  "Gravelines NPP": {
+   "scenes": 7,
+   "site_air": 5,
+   "site_fast": 1
+  },
+  "Paluel NPP": {
+   "scenes": 7,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "Penly NPP": {
+   "scenes": 7,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "Blayais NPP": {
+   "scenes": 7,
+   "site_air": 1,
+   "site_fast": 0
+  },
+  "La Hague reprocessing": {
+   "scenes": 7,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "San Onofre NPP (closed)": {
+   "scenes": 6,
+   "site_air": 3,
+   "site_fast": 0
+  },
+  "Diablo Canyon NPP": {
+   "scenes": 7,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "Kings Bay SSBN base": {
+   "scenes": 7,
+   "site_air": 2,
+   "site_fast": 1
+  },
+  "Naval Base Kitsap-Bangor": {
+   "scenes": 7,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "Vandenberg SFB coast": {
+   "scenes": 7,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "Point Mugu range": {
+   "scenes": 7,
+   "site_air": 3,
+   "site_fast": 0
+  },
+  "Boeing Field Seattle": {
+   "scenes": 7,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "Bermuda": {
+   "scenes": 3,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "Lake Titicaca": {
+   "scenes": 7,
+   "site_air": 1,
+   "site_fast": 1
+  },
+  "Lake Tahoe": {
+   "scenes": 4,
+   "site_air": 3,
+   "site_fast": 0
+  },
+  "Hessdalen valley": {
+   "scenes": 5,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "Elizabeth, CO": {
+   "scenes": 1,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "Edmonds, WA": {
+   "scenes": 1,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "Ocean City, MD": {
+   "scenes": 1,
+   "site_air": 1,
+   "site_fast": 0
+  },
+  "Irmo, SC": {
+   "scenes": 1,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "Gibsonton, FL": {
+   "scenes": 1,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "San Diego, CA": {
+   "scenes": 1,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "West Los Angeles, CA": {
+   "scenes": 1,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "Magnolia Park, FL": {
+   "scenes": 1,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "Tomkins Cove, NY": {
+   "scenes": 1,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "Buffalo, NY": {
+   "scenes": 1,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "Shelton, CT": {
+   "scenes": 1,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "Haiku, HI": {
+   "scenes": 1,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "Chicago, IL": {
+   "scenes": 1,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "North Port, FL": {
+   "scenes": 1,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "Peninsula State Park, WI": {
+   "scenes": 1,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "South Haven, MI": {
+   "scenes": 1,
+   "site_air": 1,
+   "site_fast": 0
+  },
+  "Salt Lake City, UT": {
+   "scenes": 1,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "Everett, WA": {
+   "scenes": 1,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "Norwood, NJ": {
+   "scenes": 1,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "Colorado Springs, CO": {
+   "scenes": 1,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "Wilmington, NC": {
+   "scenes": 1,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "New Brunswick, NJ": {
+   "scenes": 1,
+   "site_air": 0,
+   "site_fast": 0
+  },
+  "Banff, AB": {
+   "scenes": 1,
+   "site_air": 0,
+   "site_fast": 0
+  }
+ },
+ "fast_eyeball": {
+  "ship wake / linear streak": 8,
+  "airliner + contrail (height parallax inflates speed)": 4,
+  "surf/coastline/whitecap speckle": 39,
+  "cloud-edge parallax": 6
+ },
+ "fast_unexplained": 0
+}
