@@ -75,13 +75,6 @@
     "recall_only_issues": 1,
     "strict": [
      {
-      "issue": "B/FSR__the-flying-saucer-review-ultimate-collection__74.FSR.txt",
-      "issue_date": "1967-02",
-      "lag_months": 5,
-      "offset": 119695,
-      "context": "away to a place among the stars and in a few seconds was hid beyond the darkness of the night.” References Charles Fort, New Lands, 1923. Donald E. Keyhoe, The Flying Saucers Are Real, 1950, Edward J. Ruppelt, The Report on Unidentified Flying Objects, 1956. Donald B. Hanlon and Jacques Vallée, Airships over Texas: FSR, January/February 1967. Hanlon, Texas Odyssey of 1897: FSR, September/October 1966. Lucius Farish, "
-     },
-     {
       "issue": "B/UFOIC_Newsletter__UFOIC_Newsletter_No_17_December_1967.txt",
       "issue_date": "1967-06",
       "lag_months": 9,
@@ -94,6 +87,13 @@
       "lag_months": 9,
       "offset": 16185,
       "context": "rstyrrelser\", bedst illustreret ved de berømte Washington Airport observa¬ tioner den 19. og 26. juli 1952, 3) ,,kuglely ns¬ forklaringen\" i tilfældet ved Leveiland, Texas, den 2.-3. november 1957, 4) „astronomiske\" for¬ klaringer, som ved observationen i Exeter, New Hampshire, den 3. september 1965 og i Damon, Texas, samme nat. (Begge forklaringer blev trukket tilbage, efter at der var sat et spørgs¬ målstegn ved de"
+     },
+     {
+      "issue": "B/FSR__the-flying-saucer-review-ultimate-collection__74.FSR.txt",
+      "issue_date": "1967-07",
+      "lag_months": 10,
+      "offset": 119695,
+      "context": "away to a place among the stars and in a few seconds was hid beyond the darkness of the night.” References Charles Fort, New Lands, 1923. Donald E. Keyhoe, The Flying Saucers Are Real, 1950, Edward J. Ruppelt, The Report on Unidentified Flying Objects, 1956. Donald B. Hanlon and Jacques Vallée, Airships over Texas: FSR, January/February 1967. Hanlon, Texas Odyssey of 1897: FSR, September/October 1966. Lucius Farish, "
      },
      {
       "issue": "B/FSR__the-flying-saucer-review-ultimate-collection__77.FSR.txt",
@@ -111,15 +111,15 @@
      },
      {
       "issue": "B/FSR__the-flying-saucer-review-ultimate-collection__84.FSR.txt",
-      "issue_date": "1968-10",
-      "lag_months": 25,
+      "issue_date": "1968-12",
+      "lag_months": 27,
       "offset": 76086,
       "context": "The Strange Case of the 1897 Airship, FSR, July/August 1966. More on 1897, FSR, July/August 1967. Gordon W. Creighton, Saucers and South Africa, October 1962. Lucius Farish, An 1880 UFO, FSR, May/June 1965. Donald B. Pinson, Teras Od) of 1897, FSR, September/October 966. , and Jacques Vallée, Airships over Texas, FSR, January/February 1967. W. H. Watson, 19th Century Paraglider? FSR, November/December 1967. FSR, Sept"
      },
      {
       "issue": "B/FSR__the-flying-saucer-review-ultimate-collection__90.FSR.txt",
-      "issue_date": "1970-02",
-      "lag_months": 41,
+      "issue_date": "1970-01",
+      "lag_months": 40,
       "offset": 135831,
       "context": "Texas, U.S.A. (April 1897) The Dallas News of April 28, 1897, had a report of an anonymous witness (a lawyer) who was driving his horse and buggy at night when the “Airship” passed overhead. The horse snorted, reared, plunged madly, nearly overturned the buggy, and stood trembling like a leaf. Donald B. Hanlon: Texas Odyssey of 1897, FSR, September/October 1966, p. 8. 13. Hot Springs, Arkansas, U.S.A. (night of May 6"
      },
@@ -141,9 +141,9 @@
      }
     ],
     "by_source": {
-     "FSR": 4,
      "UFOIC_Newsletter": 1,
      "UFO_Nyt": 2,
+     "FSR": 4,
      "Australian_UFO_Bulletin": 1,
      "LDLN": 1
     }
@@ -1071,8 +1071,8 @@
      },
      {
       "issue": "B/FSR__the-flying-saucer-review-ultimate-collection__78.FSR.txt",
-      "issue_date": "1968-02",
-      "lag_months": 29,
+      "issue_date": "1967-09",
+      "lag_months": 24,
       "offset": 116030,
       "context": "he UFO problem. Mr. Fuller interviewed some sixty witnesses before writing his book, and described some twenty-one of these cases in detail. I have made a summary of these twenty-one cases, and I imagine readers of the REVIEW might be interested in the results. Most of the sightings were made in the vicinity of Exeter, New Hampshire, in the late summer and the fall of 1965, Muscarello Sighting September 3. A huge red"
      },
