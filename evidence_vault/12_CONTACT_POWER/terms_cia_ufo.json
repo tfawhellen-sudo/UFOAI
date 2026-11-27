@@ -1,0 +1,2946 @@
+{
+ "table_docs_containing": {
+  "1940-69": {
+   "docs": 80,
+   "Mchars": 1.16,
+   "flying saucer": 13,
+   "UFO": 30,
+   "UAP": 0,
+   "non-human": 0,
+   "biologics": 0,
+   "reverse engineering": 0,
+   "crash retrieval": 0,
+   "legacy program": 0,
+   "unknown origin": 0,
+   "trans-medium": 0,
+   "extraterrestrial": 20,
+   "contact": 0,
+   "telepathy/psi": 0,
+   "consciousness": 1,
+   "entity/being": 1
+  },
+  "1970-99": {
+   "docs": 13,
+   "Mchars": 0.3,
+   "flying saucer": 1,
+   "UFO": 7,
+   "UAP": 0,
+   "non-human": 0,
+   "biologics": 0,
+   "reverse engineering": 0,
+   "crash retrieval": 0,
+   "legacy program": 0,
+   "unknown origin": 0,
+   "trans-medium": 0,
+   "extraterrestrial": 3,
+   "contact": 0,
+   "telepathy/psi": 2,
+   "consciousness": 2,
+   "entity/being": 2
+  },
+  "2000-16": {
+   "docs": 2,
+   "Mchars": 0.01,
+   "flying saucer": 0,
+   "UFO": 1,
+   "UAP": 0,
+   "non-human": 0,
+   "biologics": 0,
+   "reverse engineering": 0,
+   "crash retrieval": 0,
+   "legacy program": 0,
+   "unknown origin": 0,
+   "trans-medium": 0,
+   "extraterrestrial": 0,
+   "contact": 0,
+   "telepathy/psi": 0,
+   "consciousness": 0,
+   "entity/being": 0
+  },
+  "2017-22": {
+   "docs": 1,
+   "Mchars": 0.01,
+   "flying saucer": 1,
+   "UFO": 0,
+   "UAP": 0,
+   "non-human": 0,
+   "biologics": 0,
+   "reverse engineering": 0,
+   "crash retrieval": 0,
+   "legacy program": 0,
+   "unknown origin": 0,
+   "trans-medium": 0,
+   "extraterrestrial": 1,
+   "contact": 0,
+   "telepathy/psi": 0,
+   "consciousness": 0,
+   "entity/being": 0
+  },
+  "2023-26": {
+   "docs": 0,
+   "Mchars": 0.0,
+   "flying saucer": 0,
+   "UFO": 0,
+   "UAP": 0,
+   "non-human": 0,
+   "biologics": 0,
+   "reverse engineering": 0,
+   "crash retrieval": 0,
+   "legacy program": 0,
+   "unknown origin": 0,
+   "trans-medium": 0,
+   "extraterrestrial": 0,
+   "contact": 0,
+   "telepathy/psi": 0,
+   "consciousness": 0,
+   "entity/being": 0
+  },
+  "undated": {
+   "docs": 128,
+   "Mchars": 0.34,
+   "flying saucer": 9,
+   "UFO": 25,
+   "UAP": 1,
+   "non-human": 0,
+   "biologics": 0,
+   "reverse engineering": 0,
+   "crash retrieval": 0,
+   "legacy program": 0,
+   "unknown origin": 0,
+   "trans-medium": 0,
+   "extraterrestrial": 10,
+   "contact": 0,
+   "telepathy/psi": 1,
+   "consciousness": 2,
+   "entity/being": 0
+  }
+ },
+ "docs": [
+  {
+   "doc": "cia-ufo-fof-0000015235",
+   "year": 1976,
+   "date_src": "text_modal",
+   "era": "1970-99",
+   "chars": 2838,
+   "hits": {
+    "UFO": {
+     "n": 9,
+     "ctx": [
+      "ROUTINE 14755 16 APRIL 1976 1000 1 /ij I 1 ' \u2019 \u2018J \u2014 1. PER THE REQUEST IN REFERENCE (B) 77 WE ATTEMPTED TO OBTAIN WJM,YriCAL GUIDANCE ON THE UFO SUBJECT. TO SEE IF HE 2. WE CONTACTED THB', AA^DS&T (DR KNEW OP ANY OFFICIAL UFO PROGRAM AND ALSO TO^ ATTEMPT TO ANSWER SOME OF THE QUESTIONS POSED^BY",
+      " REFERENCE (B) 77 WE ATTEMPTED TO OBTAIN WJM,YriCAL GUIDANCE ON THE UFO SUBJECT. TO SEE IF HE 2. WE CONTACTED THB', AA^DS&T (DR KNEW OP ANY OFFICIAL UFO PROGRAM AND ALSO TO^ ATTEMPT TO ANSWER SOME OF THE QUESTIONS POSED^BY EXH 1 B ITED INTEREST WHICH WAS HANDCARRIED TO HIS OFFICE. AFTER A SHORT EX",
+      " AND RITAlfcD THE FOLLOWING INFORMATION . 3. IT WOULD APPEAR TO BE'I5EST IF YOU ADVISED ^THAT HE SHOULD r\u201c SUBJECT ! DCD CASE - UFO RESEARCH REFERENCESt A) B) \u00bbT\u00a3LECON, 22 APRIL 1976 1, PER THE REQUEST IN REFERENCE (B ) , WE ATTEMPTED TO OBTAIN ANALYTICAL GUIDANCE ON ",
+      "EARCH REFERENCESt A) B) \u00bbT\u00a3LECON, 22 APRIL 1976 1, PER THE REQUEST IN REFERENCE (B ) , WE ATTEMPTED TO OBTAIN ANALYTICAL GUIDANCE ON THE UFO SUBJECT. 2. WE C0^3TACTED THE A/DDS&T (DR ^ KNEW OF ANY OFPICI/Oi UFO PROGRAM AND ALSO TO 7\\TTEMFT TO ANSWER EXHIBITED INTEREST SOME OF THE QUESTIONS"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015236",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 1282,
+   "hits": {
+    "UFO": {
+     "n": 1,
+     "ctx": [
+      " TO DCD. SUBJECT: CASE - UFO RESEARCH/ORD REQUEST FOR ADDTT'iONAL TNFOWlATION,^^?*\u00ae^*!??*^M ' RKFEKENCE: 1. ORD HAS EXHIBITED SOME INTEREST IN THE WORK OF A QUALIFIED ANALYST"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015237",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 928,
+   "hits": {
+    "UFO": {
+     "n": 4,
+     "ctx": [
+      " (TOHH^-B-E=\u00ab^F^A-i, 14U45Z APR 76 STAFF CITE OCD TO I PRIORITY DCD/HEADQUARTEfIST ^ AtTlil FROM*. DCD/ SUBJECT r CASE H UFO RESEARCH REF (A)* DCD/HEADQUARTERSZT^51^6T:r3^:^^^:^^^^^^^^^^ (?)l \u201eFORM-5j0 DATED P APRltTISTC, UFO STUDY. I. SOURCE'S FULL- > 1 AME - 1 s HE IS EMP",
+      " ^ AtTlil FROM*. DCD/ SUBJECT r CASE H UFO RESEARCH REF (A)* DCD/HEADQUARTERSZT^51^6T:r3^:^^^:^^^^^^^^^^ (?)l \u201eFORM-5j0 DATED P APRltTISTC, UFO STUDY. I. SOURCE'S FULL- > 1 AME - 1 s HE IS EMPLOYED AS ? 2, REFERENT B-FATERrAI71CrASSlFTED-CONFIDENIT AL\u201c^ REQUEST, SOURCE SEEKS GUIDANCE FROM CIA ",
+      " STUDY. I. SOURCE'S FULL- > 1 AME - 1 s HE IS EMPLOYED AS ? 2, REFERENT B-FATERrAI71CrASSlFTED-CONFIDENIT AL\u201c^ REQUEST, SOURCE SEEKS GUIDANCE FROM CIA UFO ! EXPERTS AS TO MATERIAL! N^^^PORT.TH AT SHO ULD REM A I N CLASS TFIE^^^^B ' \u2022 ' . |'\u25a0\u2022\u25a0C 'a * f. # ^ 1 * .^ - *\u25a0 \", ^ V\".:? J-1* , J *r^r:ri",
+      " ' \u2022 ' . |'\u25a0\u2022\u25a0C 'a * f. # ^ 1 * .^ - *\u25a0 \", ^ V\".:? J-1* , J *r^r:ri\u2019,;r.T f'5 tii i \u00abiv f i Vii IvLLWlvC (?) INFORM 5j0 DATED 9 APRIL 197\u20ac, UFO STUDY. 1. SOURCE'S FULL >jAM E IS HE IS EMPLOYED AS -f - - . * i . ' v'. \u2019.\u2019-iP \u2022 ' / '.V\\ \u25a0 \u2018f \u2018\u2018A. / >r*\u2019 .\u2019if i\u2019iSjr . ' . \u25a0fCL : .iSt"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015238",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 37,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015240",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 435,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015241",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 609,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015242",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 660,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015243",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 2713,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015244",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 2904,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015245",
+   "year": 1958,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 3055,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015246",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 407,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015247",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 950,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015248",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 609,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015249",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 817,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015250",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 2401,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015251",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 819,
+   "hits": {
+    "extraterrestrial": {
+     "n": 1,
+     "ctx": [
+      "ject ripj^ared to be a ball about one-Ual;' freler Ir. al;iTi-\u2019er atiJ hao a tail one -Sill f\u00bbcler In lesgtfi. U truvelled at Mjb speed a .1 o\u2019 a o't 2,OCO l>et and was visible for orUv a few seconds. Tur _ .;s.oae trail Icll Vy the object dr llted over-lrasi'an Juifa fros the I'.'oH and consisted of a trail about '"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015252",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 22,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015253",
+   "year": 1959,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 653,
+   "hits": {
+    "extraterrestrial": {
+     "n": 1,
+     "ctx": [
+      "rs poiadii fr*p\u00abat.y Uta ctltr\u00ab^d ln tb\u00ab diMm r,gi^a ym of t^' tovii. Ulii\u00ab4 tUl way Eti\u00ab.k>v\u00ab \u00bb\u00bba T\u00bbd\u00bbMU h*4 Uh k^.\u00ab out' e\u00bb \u2022 tlttov* ftir of flylog 0 b>et\u00bb.^ VVtfflng hod It v\u00abi \u2022 up\u00abr. "
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015254",
+   "year": 1952,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 2170,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015255",
+   "year": 1963,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 3285,
+   "hits": {
+    "flying saucer": {
+     "n": 2,
+     "ctx": [
+      "be issued in a few days. (Buenos Aires ANSA Spanish 1556 Ct-n\u2018 6 July I985--F} (P^n-fT'^'^rT*'' ^ AlfTARCTIC FLYINa SAUCERS^A group of Ted.^reen, and yellow flying saucers has been seen flying avitT Decepclcn Island for two hours by Argentine, Chilean, and British bases in Antarctica. The flying saucers were also seen ClJing ",
+      "f Ted.^reen, and yellow flying saucers has been seen flying avitT Decepclcn Island for two hours by Argentine, Chilean, and British bases in Antarctica. The flying saucers were also seen ClJing in formation over the South Orkney islands in quick circles. (Buenos Aires ANSA Spanish I556 GW 6 July I965--F) ^ .IE OIL It .mas oce"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015256",
+   "year": 1972,
+   "date_src": "text_modal",
+   "era": "1970-99",
+   "chars": 3942,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015257",
+   "year": 2000,
+   "date_src": "text_modal",
+   "era": "2000-16",
+   "chars": 4060,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015258",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 3521,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015262",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 685,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015263",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 156,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015264",
+   "year": 1953,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 4421,
+   "hits": {
+    "extraterrestrial": {
+     "n": 1,
+     "ctx": [
+      ", for local loo of AyvU F 3 ca\u00bbp, at# Anna*. mi I'u .S!p'*bW.C# - 3 - cc-x-C7>*6i fi eld CcLinant. mIJ pr\u00ab\u00bbiou\u00bb report* cn /1/ln^ obj*et\u00bb ofc?\u00abfv#4 In the Shakhlj aria Bfaxlon ed that loud noise* nsgOBiXinlcd the netloD. The description of tue noloee Indicated that the r.M propelled hy a r"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015265",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 107,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015266",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 1759,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015267",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 1193,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015268",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 773,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015270",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 1399,
+   "hits": {
+    "flying saucer": {
+     "n": 2,
+     "ctx": [
+      " \u2022\u2022 t * Aaothir Soviet, vho VM * Benber of a octiilttee the USSR ha* established to iaveeligate^unusiTal phenoaeoaV Itrother^of da , flying saucer* , save a serious talk^/hlch vaa actually ver y huworous, HI* app roach vas . \u201cVeil, of course, ve linov there Isn't anythin^to^tM* alleged i^enoae- Bon (",
+      "ca\u201c the^thef hand-^.\" During this talk ether Soviets Joked and lau^sedtnd obvleualy did take the speaker* a rc aui rka seriously. later to ^^H^^^lHhat the \"flying saucer conalttec ' consists of many poil- tlciw7 theorists, hlstorisss ud slicllar type^e^lc. It has little if luy\u2019 stdentlfic tideat. - r r 1 .S' V M"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015272",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 5684,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015273",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 3363,
+   "hits": {
+    "UFO": {
+     "n": 1,
+     "ctx": [
+      "eeted by the *,re Iciglnetlve e^xhere of the eelen tlflc corcwntty. Appereotly eo\u00abe offloUl \u2022 .action 1 . needed.) \u00ab^^he. been Inter.eted In uo re- porte of UfO\u2019e eod reedlly ecccpte their reelity. In feet. It 1 \u00bb prrronel opinion thet the CTO\u2019, coy origlnet. on Veoue. he le veil ever, cl the neg.tlve etfcct uf \"enli"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015274",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 487,
+   "hits": {
+    "extraterrestrial": {
+     "n": 1,
+     "ctx": [
+      "se occur i cs-vv vvi? tr4.-vj-le to clilicr namrjl of aon-r..ide phcnor-cni such as ctficsllal povtient, alr- crail or .-irtiflcial sntcllitcs. and th at the et her one i>ctccnt cac.not he c*plalncd--posslbly an hallucination. asked. Do you think It Is possible. . .could there be sgoclhlrs coolofi iroa vJtcr space. "
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015275",
+   "year": 1976,
+   "date_src": "text_modal",
+   "era": "1970-99",
+   "chars": 3385,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015277",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 4649,
+   "hits": {
+    "extraterrestrial": {
+     "n": 1,
+     "ctx": [
+      "t ec\u00abr*i'-*\u00abcl vllb E\u00ab; the other tvo occupied the M^oinlng coni>vrtii>ent. Tee traio raa very slowly, B\u00abhir;g every stop; I voiild cstlsate Us orerall speed et 20 *ph. \u00a3xsctly two hours wid forty aliiutes out oiie of our group In the coBp&rtajcnt next doer catered sy cocp*rtS)cnt_srid eald, *I)ld you see that out "
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015279",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 2316,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015280",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 2527,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015281",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 4021,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015285",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 3802,
+   "hits": {
+    "extraterrestrial": {
+     "n": 1,
+     "ctx": [
+      "have rep lied that nane s vould bemused oaly, 3 _ vithin official clrcles\"hShdh;oiildlMt:bo^ ^vea\u2019 to the p>res3.:T:2ivi> C3 such Inforcatioa has a tendency :et:^tiae3 to^'ilter out,^ it should be rccosnlsed that. If cpproval is fiivhaifor use of the hsi^ they n?y veil be co\u00bb co^soa knovledse. \\ \u25a0 ! i "
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015286",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 2251,
+   "hits": {
+    "UFO": {
+     "n": 1,
+     "ctx": [
+      "y coanectloii vlth the Fend is vltbheld. \u2022 ' \u2018 f T- Sincerdyi'T\u201d T li i i \\ \u25a0 \" \"fc IMllp 0. StiCJiiS ( teputy Asalatcat lUridor \\ Eadcsure UFO Bepor- "
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015287",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 8018,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015290",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 2597,
+   "hits": {
+    "UFO": {
+     "n": 2,
+     "ctx": [
+      "e on the general subject of umdenti- fied Hying objects. The Department of the Air Force has primary respOBsibility for investlgaUng i^ormatlon pertaining to UFO\u2019s. Mrs. Golden recently contacted the State Department on the subject of the alleged BrarlUaa iighUng and her query was referred to the Department of the A",
+      "ome tlme\"on the general subject pl vmidentl- fied flying object*. The Department of the Air Force has prin^ary respoosibUity for irvve^tig^ngj^ pertaioing to UFO\u2019s. Mrs .^G old e n rcTently contacted the State Departro^ollonLl hc sub je^ of the alleged Brarillaa sighting and her query was referred to the Department "
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015293",
+   "year": 1955,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 3329,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015294",
+   "year": 1957,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 872,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015295",
+   "year": 1957,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 666,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015296",
+   "year": 1957,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 388,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015297",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 4077,
+   "hits": {
+    "UFO": {
+     "n": 1,
+     "ctx": [
+      "ion vith the -Panel\u2014 is -^vdt'iiicld. Very best re^ ardsT ~~ ~ = \" : ^ Sincerely, Philip 0. Strong Deputy Assistant Director Enclosure ---7 UFO Sepoi-t (Secret ) - \u2014 \u2014 : \u2014 \u2014 : "
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015298",
+   "year": 1957,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 795,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015299",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 2130,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015300",
+   "year": 1957,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 3828,
+   "hits": {
+    "extraterrestrial": {
+     "n": 1,
+     "ctx": [
+      "o^ Ptacl rSPORI? 0? EE CCIC4TIFIC:P/JEL g;i . UiJiDErffiiXso Tima osjucia i7 JoBisjy 1. 2h0 viEdcrsieaed Pisisl of Scientific Conaultanto has eat et re<sicat cf the Coverissatt to evaluate tmy posaHM^e tiircei to natloEyal cccurity tccc4 tiy Uaije^vilTt^ Ssjucera\"), ead to nsijo rcco^iaidstioai Sso Pcac"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015301",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 874,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015302",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 336,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015303",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 764,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015304",
+   "year": 1953,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 855,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015305",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 978,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015306",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 1197,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015307",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 489,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015308",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 1905,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015310",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 2204,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015311",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 616,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015312",
+   "year": 1953,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 2160,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015313",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 1151,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015314",
+   "year": 1953,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 2005,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015315",
+   "year": 1958,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 3511,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015316",
+   "year": 1953,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 1265,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015317",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 1280,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015318",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 624,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015319",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 1158,
+   "hits": {
+    "UFO": {
+     "n": 1,
+     "ctx": [
+      "t^ftgeacy qu-vlif iod to sps?ai ca tba subject o\u00a3 Aaiacntified flylag objccta* ; Sd^rely yowo. Distribution; Or jg-a nd - 2- ^ Ea rava n - ASD (UFO ^TL - FVbrvt Off Ice _-. _ OSl/ASDj0!>xcwi^/6^(lOct58 ) "
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015320",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 666,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015321",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 458,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015322",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 1,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015323",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 2498,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015324",
+   "year": 1959,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 684,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015325",
+   "year": 1959,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 1602,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015326",
+   "year": 1959,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 774,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015327",
+   "year": 1959,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 1820,
+   "hits": {
+    "UFO": {
+     "n": 2,
+     "ctx": [
+      "m, Connecticut . *-\u25a0\u25a0 \u25a0 i Dear Dr. Page; 1 was very Interested iii your letter of November 19th ^ _ regarding the freshinan papers on the su b ject o f UFO's. I \u25a0 /\u25a0 \u25a0 . have checked my pe^ hare who have foU ov/ed thle aubjecr^ and they umuld be ver y much Interested ly haviag a chance to look these papejf ?.",
+      "rsity Middletov/nr Connecticut\" Dear Dr, PageT I was very Interested la your letter of November 19t h \u2022 regarding the freshman papers on the subject of UFO*b. I have checked with my people here who have foUovved this subject and- they would be very much laterested la having a chance to look thaaa papers over"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015328",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 7,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015329",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 2608,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015330",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 1391,
+   "hits": {
+    "UAP": {
+     "n": 1,
+     "ctx": [
+      "have referred your letter with the enclosure to Lt. Goloael I^^redce Tackor, U. S. Air Force# who is our contact point and respoosihle for matters regarding unidentified aerial phenomena Conceraiag tSyiast s e oteoce of our letter to CoagreescBao Scherer, there was a typing error In which a word vras omitted; the last clause should have re"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015331",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 1659,
+   "hits": {
+    "UFO": {
+     "n": 2,
+     "ctx": [
+      "copy of your new bookioa_nyins saucersj_ I certainly agree with the pious hd Wth at publica tion of this hook will dd^ much to clear Up the confusidaTabo u t UFO*9. I read about half the book laat^ight and found it extremely Interesting ^d well presented. Unfortunately, there seems to be a fair sized 'lunatic fringe*",
+      "ibed copy of your new book da flying ^auce^^ I certainly agree with the pious hope that publicatida^f ISiOodk svill do much to clear up the coafuSida about UFO\u2019s. 1 read about the book last nij> ht and found it e xtr eme ly Interestiog and weU presented, Ua fortuaatel y7 there seems to be a fair ^ sized \u2018lunatic f"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015332",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 724,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015333",
+   "year": 1959,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 3283,
+   "hits": {
+    "UFO": {
+     "n": 1,
+     "ctx": [
+      "s to clarify the purpose of vithholding certain icfoj'satios for eecurity reasons. Inq uires vhether CIA is ^ carrying out ScoioJ^ical VarfS^iu creating UFO elorles. Accuses eXA of ereatlns CFO furor end Elsleauing persons such as hlsjor Keyhue \u00ab \u2014 \u2014 KOES; la edditioa, ve ha-ve on file letters frOT Hr. Ca"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015334",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 5,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015335",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 496,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015336",
+   "year": 1974,
+   "date_src": "text_modal",
+   "era": "1970-99",
+   "chars": 1058,
+   "hits": {
+    "UFO": {
+     "n": 1,
+     "ctx": [
+      "ory^^ . Unideat 1 f iedrFlyingiOb j acts \u201d /X da ^dT l? January 1953 is enclosedr In viev; of the conclusion of the Pajael that the Gvidsnoe presentad on unidentified flying objects , showed no indication that^ these phanomona constitute direct physical threat\u2019 to national security, no National Security Council^Intslligence: Directive ,"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015345",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 5906,
+   "hits": {
+    "flying saucer": {
+     "n": 2,
+     "ctx": [
+      " KEl\u2019lORArSUH JOR RECORD SUBJ33TJ Flying Saucers 1. At 1100 yesterday jnorniag I raet with Dr, Julius A, Stratton, Executive Vice President and Provost of Massachusetts Institute of Technology and Dr. M",
+      " DCI in order that a scien- tific review of this problem \u00a9ay be laid on. VJithout this backing, it p L/eWqi(iU94 Kfl-IORANDUM FOR RSCOfD SUBJECT s Flying Saucers 1. At 1100 yesterday morning I met with Dr\u00bb Julius A\u00bb Stratton, Executive Vice President and Provost of Massachusetts. Institute of Technology and Dr. Ma"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015346",
+   "year": 1952,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 1701,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015347",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 3587,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015350",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 2940,
+   "hits": {
+    "flying saucer": {
+     "n": 2,
+     "ctx": [
+      "ed E>r. Wheeler at Princeton, Netf ^ Jerss\u2019? (123'^''} to than]< hin for his interest in nossible affilla- v - tion as a consultant in the CTA^attacl^cn:^ '\u2018flying saucer'* problen. I told hin we^rsi^etted that-the urgency of his current vork for AHC (\u2019IATTS?lnCRIT) prevented association at this tine. 2. DrT Viheeler stated ",
+      "I called Dr. VJheeler at Princeton, New Jersev (123'^'^) to thani< bin for his interest in nosslble affilia- tion as a constiltant in the CIA attaclc on tho \"flying saucer\" problem, I told hini ws regretted that the urgency of hls^current work for AB3 (MATTSHCPiT) prevented association at this time. 2. Dr. \u2019.ihseler stated th"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015351",
+   "year": 1952,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 4185,
+   "hits": {
+    "UFO": {
+     "n": 1,
+     "ctx": [
+      ". c. Dr. Thornton d/.- Page is a particularly conpetent astronossr end astrophysicist.- i'oreover, he has -given considerable thought to the sub.ject of ^ \u201cunidentified flying objects\" . 4. DlSCUSSICh ^ ^ ^ a. Every effort has-been r.ada to consider the nost conpetent scientists x/hose dispositions are suitable to this comple?: study. "
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015352",
+   "year": 1953,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 4996,
+   "hits": {
+    "UFO": {
+     "n": 3,
+     "ctx": [
+      " lIs''oran'JIaT> for file OSI-'.\u00bb'/\\ 2X Januaiy 1953 Meeting of OSI Advicory Croup on UFO January' 14 thru 17, 1953 Dee!\u00bb$sified by ^^Z'3 7-S -' data \u2014 p p APR to/ / At 0945 oa Jamnry 14, 1953, an ad l;oc panel of scientific coasul tents . ",
+      "tates, 2 . Ho evidence is available to indicate the existence or use of any es yet xaiknown (to us) fundamental scientific principles. 3. The subject \"UFO\" is not of direct intelligence interest. It is of Ijxdlrect intelligence interest only insofar as any knowledge about the Inumerabl e unsolved laysterles of ",
+      "ntelligence interest only insofar as any knowledge about the Inumerabl e unsolved laysterles of the universe are of intelligence interest. 4, The subject \"UFO\" is of operational interest for three reasons: (a) Interference with air defense by Intentional ene^r,' jailing or hj lack of ability on the part of \u00a9pemtin"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015353",
+   "year": 1953,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 1475,
+   "hits": {
+    "UFO": {
+     "n": 1,
+     "ctx": [
+      " shwiag of the Eotlon pic^^ flbas of slgbticga et Treronton, Utah, an d Great Fall s, > 53 atasar~ Copies of tb\u00a9\"' Eepcrt of tha Scientific Advisory Panel on Unidentified Flying Objects bad previousl y- beetn^do available to th\u00a9 Board. Eiis briefing vaa given fo^backgrcund prior to tha ONE reqdiMted briefing by ATIC schtcultd for 0900, 30 Ja"
+     ]
+    },
+    "extraterrestrial": {
+     "n": 2,
+     "ctx": [
+      "CCO hours, 29 Jafiuary, ' A histcry of 0/SI iaterest iJ3 and actloa on IMs subject vasZZZI follsved by a shovda^ of the Eotloa piot iire filns of sigbtiiigs et '^esoatbn, Ut^, ard Great Falls, >Jpnta^, Copies of the Reperteof:t hb~ggie3tlfic AdTlsory Fansl ba tfaldeatlfied KLyl^ Objects had .grevlousl T beg^ side a",
+      "C. Ejrant^ at 1000 bow 29 January,' A history of O/SI ^terest in and action on this subject vas follovad by a shwiag of the Eotlon pic^^ flbas of slgbticga et Treronton, Utah, an d Great Fall s, > 53 atasar~ Copies of tb\u00a9\"' Eepcrt of tha Scientific Advisory Panel on Unidentified Flying Objects bad previousl y- beet"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015354",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 2173,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015355",
+   "year": 1953,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 5646,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015357",
+   "year": 1953,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 3882,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015358",
+   "year": 1953,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 1633,
+   "hits": {
+    "UFO": {
+     "n": 1,
+     "ctx": [
+      "Adialnistra- tion has vritten tbs Secretary of the LAC, under date of l8 April, respscting tbs report of a panel of scientific consultants on the subject of unidentified flying objects. This report vas furnished FCDA xmder letter of 13 I''^rcb pur-r - suant to IAC-D-67 (18 Februaty), Adroinistrator Peterson reports his interest in the sub"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015359",
+   "year": 1953,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 1845,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015360",
+   "year": 1953,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 804,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015361",
+   "year": 1953,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 2306,
+   "hits": {
+    "UFO": {
+     "n": 2,
+     "ctx": [
+      "S GOVERNMENT MV/ 0\" iCi'-? Chief, Physics and Electroalcs Division/osi DATE! *'\u25a0''' TO FROM ! Assistant Director, Scientific Intelligahcc SUBJECT: Unidentified Flying Objects - 1 \\ repo ''aisT^eT-to^your.. dl\\i.5ip nV-~ 3^ carbon \u2019^opy of this meinorandun, \"Chief cf the AppTied Science Division is_requested to provide",
+      "AXhm Distribution: \\ v^ri& and 1 - Addressee \u25a0 1 - Reqts/ol FROM SUBJECT: \\ Assistant Director, Scientific Intelligehcc Unidentified Flying Objects 1. Responsibility for^jijintaining ^current knoHledga^of reports of sishtlngs_.pf_^dentifie_d_fl;^ hereby || _ 3 SsT^i''i\u201dtplypu^ cin'boa'clDpi"
+     ]
+    },
+    "extraterrestrial": {
+     "n": 1,
+     "ctx": [
+      "s Division/osi DATE! *'\u25a0''' TO FROM ! Assistant Director, Scientific Intelligahcc SUBJECT: Unidentified Flying Objects - 1 \\ repo ''aisT^eT-to^your.. dl\\i.5ip nV-~ 3^ carbon \u2019^opy of this meinorandun, \"Chief cf the AppTied Science Division is_requested to provide support fron a weapons and hardvi"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015362",
+   "year": 1953,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 4252,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015363",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 5153,
+   "hits": {
+    "flying saucer": {
+     "n": 3,
+     "ctx": [
+      "s reouested, the subject book ims reviewed by one of our consultants vrith particular reference to possible security ^ violations conceiving CLV s^art in the flying saucer investigation. - Pertinent comsnts of this consultant are as follous! . : ^ ^ \u2014 : a . '*The book itself^is highly readable, but the content is b-it;bly d",
+      "he public. TO : Assistant Cijrector, Scientific IntelliccncG q Decevier 1V53 C FROM ; Chief, Operations Staff, O/SI SU0JECT: Heoorb on Booh Entitled \"Flying Saucers from Outer Space\" 1. As requested, the subject book was reviewed by one of our consultants i-rith particular reference to possible security violations co",
+      "s requested, the subject book was reviewed by one of our consultants i-rith particular reference to possible security violations conceiving CIA\u2018s part in the flying saucer investigation. Pertinent corrsnts of this consultant are as follows: a, \"The book itself is highly readable, but the content is highly distorted and filled"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015364",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 0,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015365",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 9148,
+   "hits": {
+    "UFO": {
+     "n": 1,
+     "ctx": [
+      "53 TO; /wsl 3 t 3 ^it Director, Scientlllc Irvtslll^eAce * jY.OM ! Chief, Phicics and EloctronlCG Diyloion, SI FF.OM SUBJECT ! . Current Stnt^of Unidentified Flying Objects (UFC3) Project. la accordnace vilh the verbal request Ov^Hr \u00bb Ercn t' ^ Exnc/v>I > on 30 ~:rove::ber, the I'olldvir.s resuna of the currentrstatur^^talde"
+     ]
+    },
+    "extraterrestrial": {
+     "n": 1,
+     "ctx": [
+      "stntpentaiiQa^s^ effort ia the - , \u2022 Alb'.!iiverq\u2019:e area^ Xni^^hj^s no? hcerr dropped. . - v- f?ro*ect GTOR^SKC^l*) has hs^ ATIC Te^oestr:^^, <: a co--r^et^nn%^r.i3n'cal retort on UrC3 si\u00a3htiags7d';ri&g the period Ivli? ;bro :?h 19;2~ This sttdy Is nov exT geted J,Q ho cpc^l^ed by It Dece-ber 1933- \u25a0 . ATIC i"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015366",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 1775,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015367",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 2955,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015368",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 3022,
+   "hits": {
+    "flying saucer": {
+     "n": 1,
+     "ctx": [
+      "r.a lhst suppor t for the pro J ec^ . Air support of the project nov is in basic research^ concerned ^a^.n ^ vertical thrust which modifies considerably the flying saucer concept. 0 m SCOVTuM, Assistant Director Scientific latelligence Enclosure; 00-3-90^9 Report 36541 FOR:\u2019 Director of Central lutelli^ence"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015369",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 11807,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015370",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 6,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015371",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 4,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015372",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 5,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015373",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 904,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015374",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 2412,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015375",
+   "year": 1955,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 4003,
+   "hits": {
+    "UFO": {
+     "n": 5,
+     "ctx": [
+      "M Acting Assistant Director for Scientific IntsUleence Chief, Physics end Electronics Division, SI DATE: AUG 8 1955 SUDJECT: Responslhillty for \"Unidentified Flying Objects\u2019* (UFOSs) REFERENCES: A. Meao to Cb/PiE frba AD/sI, 27 I-tiy 53 >\u201dUni< 3 eatified Flying Objects\" B. Keir.o to-AD/SI:frcm;Ch7P4Sr3 53, Flying Objects",
+      " raterial vill be reviewed periodically to segregate \"oferences to recognisable and explainable oheaosena fren thnne whic h come und er the definition of '\u25a0unidentified flying objects' c. all material cn unidentified objects will ha deposited in the files for future reference unless it raises an li_i:ediately recognisable problem of conc",
+      " above, about half that much clerical time. for Scientific InteUlgence FROM : Chief, Physics and Electronics Division, SI SUDJECT: Responsibility for \"Unidentified Flying Objects\" (l^\u2019OBs) RSFRR2MCE3; A. Memo to Ch/PtE froQ AD/sI, 2? ftay 53 /\u2018Unidentified Flying Objects\" B. Memo to AD/SI frea Ch/P^cS:, 3 July 53, 'Unidentified Fl",
+      "sics and Electronics Division, SI SUDJECT: Responsibility for \"Unidentified Flying Objects\" (l^\u2019OBs) RSFRR2MCE3; A. Memo to Ch/PtE froQ AD/sI, 2? ftay 53 /\u2018Unidentified Flying Objects\" B. Memo to AD/SI frea Ch/P^cS:, 3 July 53, 'Unidentified Flylos Objects\" C. Memo for the Record signed by Ch/ASD, Ch/Ops, and Ch/Pi:S, J\u2019ona 5^, \"Intell"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015376",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 13098,
+   "hits": {
+    "extraterrestrial": {
+     "n": 1,
+     "ctx": [
+      "^rr tba \u2018oos^r t^t s^Tvaisr irpirt^ 4^i?J\u00abasd*r^Htf0re Coaputsent''? .. baa ashed ths porter to prep^ysLhls bed bccauso bo bad^o get up at C'SCO heurs^ to \u00a3et off the trair \u2014 A js rar as I ba vent to bod ^uito bccs tlse baforo the ccevrreree, Ralcivillsia Cc^partrLcnt 6 seen in tts Ecnatics after ths oceurrease but"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015377",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 2096,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015378",
+   "year": 1955,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 3739,
+   "hits": {
+    "extraterrestrial": {
+     "n": 1,
+     "ctx": [
+      "orted Sighting of Uncoaventionil AircmCb The objects reportedly sighted b^^^SSwl\u00aei\u00ab\u00ae9^^aro described to be sioilar to Project \"I\u00ae Vnlcl^ the r^arck stegs et Avro Aircraft Ltd,, C^da, under contract to ths US Air S0TV3 > \u25a0 .. \u2022 i \u25a0' \u25a0 2* Several design studies have beeo'rade on Project \u00b0I\u00ab# The present study ca"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015379",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 2693,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015380",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 4204,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015381",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 2255,
+   "hits": {
+    "extraterrestrial": {
+     "n": 1,
+     "ctx": [
+      " eppears to coafim the existence of these or other _ i cxdarly uaeosveht^loaal^type aircr^ It core 1 ikelyfthat ; t h e~air craf t^h served ver e norcalb^ et s or s,t^heTyery=i'bestis^^af\u00a3\"^tTrhi03rrate of iclicibr^ Vl\u201c^\u201c to have heea the prise Eovsr-^^ In s e aiiag - the^or i g^a^ dl soatch and ascrihlag so jau"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015382",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 1823,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015384",
+   "year": 1956,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 2004,
+   "hits": {
+    "flying saucer": {
+     "n": 2,
+     "ctx": [
+      "m 8-o?35 HELCRANDUH FOR: Assistant Director/Scientljfic lotelligeiice .- SUBJECT : Flying Saucers 1. ^At Ard^ House t^-attentica vras called to the 1? l^ch 155^ issue of the -French popular magasinej^.ATGHj^t/hich had M sjrticls on a particalarly cha",
+      "ed reports # I ROBFiiT AIviOR\u2019f, JR. Dej5ut3TDii^ctor/lntelliJ 26 tlarch tSUDRAJ/DUHi FOR: Assistant Director/Scientific Intelligesce SUBJECT s Flying Saucers 1, At Arden Ffouse attention was called to the 17 inarch 1956 issue of the French popular magaaine^ TATCH, which had an article on a particularly challen"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015385",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 1843,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015386",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 589,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015387",
+   "year": 1955,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 3793,
+   "hits": {
+    "UFO": {
+     "n": 5,
+     "ctx": [
+      "ich fit under none of the above will be destroyed. e. A chronological file of all OSI coiYespondence and action taken in connection with the United States -U.F.O. program vri.!! be maintained in ASD. ^ . /\u2022jT, -4' ^\u25a0'\u2018nisbed irtelligence reports published by* members of the United States intelLlgcnce comunity on U",
+      "O. program vri.!! be maintained in ASD. ^ . /\u2022jT, -4' ^\u25a0'\u2018nisbed irtelligence reports published by* members of the United States intelLlgcnce comunity on U.F.O. vdll be maintadnod in ASD. KE-IORA>rDUi-I I'OR 'iHS RECORD \u2022 , \u2022 , SUBJECT : Responsibility for \u00abUnidsnttfied Rlyias Objects\" RSFERSJJOE: 1. ad/si ",
+      "it under none of the above will be destroyed. e . A chronological file of all OSI correspondence and ac tion taken in connection with the United States -U.F.O. program v/iH be nsaintained in ASD. ' \u2019'talligencc recorts published by members of the United States intelligence coireaunity-on . ^ U.F.O. i- iH be ",
+      "ed States -U.F.O. program v/iH be nsaintained in ASD. ' \u2019'talligencc recorts published by members of the United States intelligence coireaunity-on . ^ U.F.O. i- iH be raalnt ain ed In ASD. < 5 \u2019^ I SUBJECT: Responsibility Tor ''Unidentified Flying Objects t ; . P i 1 Thp Tsrocedure slated in 2"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015390",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 2886,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015391",
+   "year": 1952,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 4495,
+   "hits": {
+    "extraterrestrial": {
+     "n": 1,
+     "ctx": [
+      "J^fharilef OoU of th\u00ab J^lnaMs\u00bbntU. 0 cl\u00ab^t MrUloa \u2022 co acwa^d vltt ftlroraf% ''.i-i la \u00abi# fcUoM Wvl.ica \u00a9f 031. 0\u00aba. ,V*Uc\u00ab^ AHCr (mi 7 :: .\u25a0 Stro^ balt^et) *ilatala* co\u00ab ca^tvo offlcart fcllovlM ,tb* ITO \" \u25a0 ^estlc^ ^ij ATIC affort la all that la lart c^ ia wXltrT\u2019 ' Book.\u00ab_(Co^ ^ port^^t^\u00bbd 5 May 1<?$ 5 la"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015392",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 36,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015393",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 17,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015394",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 5713,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015395",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 3459,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015396",
+   "year": 1957,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 4653,
+   "hits": {
+    "UFO": {
+     "n": 1,
+     "ctx": [
+      "s np . ccnspleted its invcjHsoJion oitlvi iocld^nf, but in any ov?nt i\u00bb now seems c! so? tnat thd phonamona fepofted wss? or Sufrclo wars no? poloJod to ?ho UFO. 2. VA? hova no lntainr cnc; on Sovio? oefivitigs . rrjafinj, or rrerchont sSippIn^ cpsjtiiioris^ 'Action con bo I\u2019oictvd opac\u00abnojUy to \u00bbn!\u00bb ^ fepcfi^ eva"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015397",
+   "year": 1953,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 1107,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015398",
+   "year": 1957,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 3939,
+   "hits": {
+    "UFO": {
+     "n": 7,
+     "ctx": [
+      "- 30 days, #\u2022 2. The prlnt^rted \"A\" l3 enlarged pfcotograpb of prigload l6 sa oovle strip on vhlcb Mr. yaylier tooleJLhe photos in 1952, Tb^ sl^ of the UFO Day 1*\u00a9 gav\u00bbg^ in relation to the perforations oa the fila vhlch are of knovn standard size, Ihe large print F^rked^B- la an outsized enlargecont code froa ",
+      "ives . k, Bacicground^lftfor'satioafollova; 5. Caoera mel vas a I6 m oovie, focal Letigth of lens vas 63 esa, speed fraiaes per secc-nd, 1 Altitude of the UFO^ as estloated by ^WbeLohdlotbar observers^ vas tvo fhousend feet, Kajdmua! caaera angle vas esti^ted by source to be 45^. Tbe UFO appeared to bare thc^bape ",
+      " secc-nd, 1 Altitude of the UFO^ as estloated by ^WbeLohdlotbar observers^ vas tvo fhousend feet, Kajdmua! caaera angle vas esti^ted by source to be 45^. Tbe UFO appeared to bare thc^bape of a saucer, i.e>, a rotating oblate apherold vMcb seeo^ to flatty m speed increased. Tbs UFO vas in V lev for about three atnutes",
+      "vas esti^ted by source to be 45^. Tbe UFO appeared to bare thc^bape of a saucer, i.e>, a rotating oblate apherold vMcb seeo^ to flatty m speed increased. Tbs UFO vas in V lev for about three atnutes and vas of a bright orange color, At-the tlsjs the fila vas taken the lens aperture of the casexa vaa f;2.7* Fila eaaiU"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015399",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 1902,
+   "hits": {
+    "UFO": {
+     "n": 2,
+     "ctx": [
+      "lhl\" \u00bb\u2022 CT* \u2019\u2019fioU orJ to aiK M\u00bb toreljtloo to prosont tbU t\u00abt?rlhl- 0 S_Oj J t<) that I cculdror.^rtS^.ho6t letter but ttat he 48 \u00bb CS^tUea, Interested ta U.F.O. \u2022 u4^ \u00abhrS.^ 4\u00ablal\u00ab. With thl\u00ab. lhtoWi\u00ab vaa \u00ab=- pjeted. 5. Thd. sxso is belo 3 forwarded for any iter^st It oay have and to preTotrt aoy rcparcusBloiiS ",
+      " vbleh wlftbt ptoi\u00abs\u00abi5^ \u00bb\u00abd 1 vould P\u00aba\u00ab oo r\u00ab<i\\ie\u00abt to h<\u00abd\u00a3i\\ 2 ^t\u00abrt. rJbllc that k^vaa att\u00absptu^ W \u00abot up ^ ij tbAt If esd vfc\u00abn they eror e^ pny U.F.O, o^to call Kia at^ p^albla t^a a i&otogra?h of tM object ba ^-uld be able ?Tkacp tb\u00ab public sbrcart of tbe laUst dcYolopi^ta . 3 . Ee the\u00ab asied ae if it "
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015402",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 1069,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015403",
+   "year": 1953,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 1452,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015404",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 1822,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015407",
+   "year": 1953,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 2769,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015408",
+   "year": 1953,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 7119,
+   "hits": {
+    "UFO": {
+     "n": 2,
+     "ctx": [
+      "ez, Lloyd V, Berknsr, S \u2022\u201cAV\u201dGoudsaitx and Thornton Page pai^l concerned^ Itself >dth the evaluation of any po ss ib le thre at t o Ifatlcna l \u2018 Secnrlty ty unidentified flying objects i _, The^aaelr=issued a dated IT January 1953* Ihla report vaa claasl fled Seerat . ~ 2. The letters frca Leon Davidson and Donald Keyhce to the.- tt- DCI",
+      "leatific panel ret, Euppelt vas.a Captain=ln=tha.Alr^Force and attended the panel Geetings* Hit beck) hove ver, is concerned vlth the ideati- ^ ftcatloi of unidentified flying objects. JRuppelVs statessnts regarding the dssion of the panel are in error, Ee has led the reader to believe the panel\u2019s nissioa vas to Identify the flying object"
+     ]
+    },
+    "extraterrestrial": {
+     "n": 1,
+     "ctx": [
+      "vt pans! repo^ froQ the M o REKS! 0? THS SC3Iini?I\u00b0 \u2022 on . . .\u2022... UnHElTOIFffiD FIiJfTlIO CSJECIS 17 1953 v 15 IE, und\u00ab.ten^ Ooo\u00ablUat. \u00abt et IR, cf .t^ \u00ab-\u2122t to ovalooto tB\u00ab.t to_ security loood by omaontlitod nyioa CbJoct, (\"flytos E\u00ab\u00abr.\"), \u00ab4 to mlM r\u00abom\u00aboaatloo; Tto r<^VhM recolved ts:, evM"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015409",
+   "year": 1958,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 2951,
+   "hits": {
+    "UFO": {
+     "n": 1,
+     "ctx": [
+      " , h April 195\u00a7 Iffi-DRAr-ICUl'I FOR R\u00a3CO^ ^ \u2022 SUBJECT j /domnsnts on Lstters Csslins; with Unidentified Flying Objects; \"KFeHENCS: Memo to AssSstant Director/SI from Chief, A\u00a3D/sI> \" dated h ApPll=19Sb,- same; subject 1. trajor Byr ne\u2019s office (AjOrO was cont acted in"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015410",
+   "year": 1953,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 5972,
+   "hits": {
+    "UFO": {
+     "n": 1,
+     "ctx": [
+      "onllV oin ted out that peAaps the best way to fore.stslil,ny iut\u2019^*T inquiries along _the_se^h^ was vo put ouu a\u2019 v t)\u2019'e5S '\u25a0\u25a0\u201clease covering the subject ot unidentified flying objects, utilising the panel report as much as possible, l^ajor Boland agreed V SUBJECT: Meeting vdth Air Force Personnel Conce^ Scientific Advisory "
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015411",
+   "year": 1953,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 3905,
+   "hits": {
+    "UFO": {
+     "n": 2,
+     "ctx": [
+      "22 M-ay I058 FOR RSCORD SUBJECT: I'eetln^ vith^r. Ch^l^o^ R^lylfg to Leon Davidson\u2019s UFO L\u00a5tt^i^nd Sv.bseouent Telephone Conversation with 1'^ jor Taeker \u25a05* 0 1. I Tne t wl th Kr M 1 s ts 0 1 to \u2018the DCI^ In Ms office on 22 Kay 19^\"",
+      "ted I voutd look into the matter. e; p/ 22 Kay 1953 ^tLVOFUliDLW RSCOBD SUBJECT: f-^etln^ vlth^r. Cha pi ^|oC Replying to Leon Pavldscn's UFO Letter,^nd Snbseouent Telephone Conversation with K^Jor Tacker 1. I met with ?'f.\"Cha pln!^''isslstent to the DCI, in his office on 22 !'ay 1Q>? for "
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015412",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 3257,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015413",
+   "year": 1958,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 490,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015414",
+   "year": 1958,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 5608,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015415",
+   "year": 1953,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 3223,
+   "hits": {
+    "UFO": {
+     "n": 5,
+     "ctx": [
+      "3, Csca Su 3 )Ject 1, Ths foUovlss Inforrntica lo auppUed In enaver to the raferoaeed pego rsr.dUM j- ^ \" i>. (ysi h^ on interest lo kssoLas trs?oJs of UFO*a, fcovcver, tho cverill respcnslbUlty for^ laveotlsatir^ UFO's h) ^'\u2019-diing oil iiu'oimtion reissaeo to the public So voa^<cd In Mr FOTCO^ Tho Ascncy, fr",
+      "In enaver to the raferoaeed pego rsr.dUM j- ^ \" i>. (ysi h^ on interest lo kssoLas trs?oJs of UFO*a, fcovcver, tho cverill respcnslbUlty for^ laveotlsatir^ UFO's h) ^'\u2019-diing oil iiu'oimtion reissaeo to the public So voa^<cd In Mr FOTCO^ Tho Ascncy, fron thc^Dlroctor oq ^ riM b\u20ac<r^ fl^iod by CJcrloo corooroijn^ U",
+      "^ 1953> Casa Subject *\u201c 1. Tbs foLlovins Inforratlca lo fluppllcd In ensver to th\u00ab r^faitsiced i3e20x\u2018\u00a3-'-dv\u00a33i^ 2. C^-1 hsa eo iatsreot keeplsa of UFO\u2019s, ^Jcvsr, tha o'/er-^ coLunlty respor^lbrn a) lavesUgatlnG UFO's b) Vf\u2019-dliag oil ini'ciTzation releases to the puIxLlc io voSvcd la Mr Force. T^/^cyr^ro",
+      "uppllcd In ensver to th\u00ab r^faitsiced i3e20x\u2018\u00a3-'-dv\u00a33i^ 2. C^-1 hsa eo iatsreot keeplsa of UFO\u2019s, ^Jcvsr, tha o'/er-^ coLunlty respor^lbrn a) lavesUgatlnG UFO's b) Vf\u2019-dliag oil ini'ciTzation releases to the puIxLlc io voSvcd la Mr Force. T^/^cyr^ro^ tho^Dlroctor oq notJiod by queries concoroins UFO'o ^s a result"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015416",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 2824,
+   "hits": {
+    "extraterrestrial": {
+     "n": 1,
+     "ctx": [
+      "^PSI^^lo a CP/cO staff to Cn.12^^ v/f*^ r.t*v r*\"* \u2022 \u2022 i Sti i'ttat 6. r*cocs*sfil \u00a9^oocail eiltArrtjaLlv-a abov!# bs iri\u00ab4 flT4i *3sd tai&\u00ab et^Vloa c\u00bb A ec^jssstod tbtvft rejJljr la altesrahoi. / 9 ^ Cht?2f > OooW gj Dlvlsicja Cfflca Qpcr^tloca Rsaleauras i Aa <\u00bb8 ttUtsibirtlcia"
+     ]
+    },
+    "telepathy/psi": {
+     "n": 1,
+     "ctx": [
+      "osscca for ropagtitd to i\u00abep fUcut** Sbo 13 JSaxb cesorsahw vaus referred t^tfcj AIiycr^ tba Al/S 2 f or cocisiirtj & cc^ of car reply 2. Ili ft 4 Mtlea,^^PSI^^lo a CP/cO staff to Cn.12^^ v/f*^ r.t*v r*\"* \u2022 \u2022 i Sti i'ttat 6. r*cocs*sfil \u00a9^oocail eiltArrtjaLlv-a abov!# bs iri\u00ab4 flT4i *3sd tai&\u00ab et^V"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015417",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 1928,
+   "hits": {
+    "UFO": {
+     "n": 4,
+     "ctx": [
+      " GUIDANCE TO UFO PHOTOGRAPHERS 1. Have camera set at infinity. 2. Fast film^ such as Tri-X, is very good. \" 3. For moving objects shutter speeds not slower than one hund",
+      "ra during exposurer.^^j:^ \u2019::::;\":\u201d;\" 5. Take several p ictures of the ob ject? as many as you can. : If you can, include some ground in the picture of the UFO. 6. If the object app ears to be close to you, a few hundred feet or closer, try to change ycur location on the ground so that each picture, or few p ict",
+      "re will not help. However, - if you can get in a car and drive l/2 to a mile or so and-take - another series of pictures this w help. 7. After pictures of UFO have been taken, remain where you are: now, slowly,turning 'ako overlapping, eye level, photography as you turn around By this technique the surrounding co",
+      "aphy as you turn around By this technique the surrounding countryside will be photographed. Till 3\u201c \"photography is \"Very valuable for the analysis of the UFO you have just photographed. 8. Your original negative is of value. Be sure it Is processed with care. 9. If you can, have another negative made from the o"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015418",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 957,
+   "hits": {
+    "UFO": {
+     "n": 1,
+     "ctx": [
+      "UFO PHOTOGRAPHIC INFORISATION SHH:T (TO BE FILLED IN) Information on camera r Name of camera: Camera Manufacturer: Lense number and other data p rinted "
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015419",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 445,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015422",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 2513,
+   "hits": {
+    "flying saucer": {
+     "n": 1,
+     "ctx": [
+      " ^dldr 4. \u201cAnother student vho vas not in my class lasr^d^\u2019^TTSTThT?^*^ opportunity to q,uestion him Eovever, I have not Imd an 5 . ^ ^This vas not flying saucer stuff. I say that orOy in tte sense that I tes^ratures. I am a doctor here in dynamics end pities and I knov a high temperature vhea I see it. That's vhy I "
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015423",
+   "year": 1953,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 3628,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015424",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 1316,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015425",
+   "year": 1965,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 8419,
+   "hits": {
+    "extraterrestrial": {
+     "n": 1,
+     "ctx": [
+      "OS . C-3. ::iic 57 SO 32 27 24 I; .ei t ic icu 1 Lit a 11 130 lU 0-5 10?. 115 \u00a32 37 Ui \u2018 et* of 53 o3 \u2014 Cl 120 SO 7?. S3: 74 . \u20ac4 .60 .. .. i :/tci llto 0 0 0 3 13 0 21 60 77 o"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015426",
+   "year": 1965,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 4177,
+   "hits": {
+    "UFO": {
+     "n": 12,
+     "ctx": [
+      "ee on Atrial Frienoigena (fflGAP) Casej 1 . This conf i TIES 1965, at vhich tine \\-arious ^^^^^^ ^ ^convor sation I9 January ;enples and reports on UFO sigiitings *for transffiittal piXTCured froa NICAP vere given to | to OSI. The infoJT\u2019^tlon vas desired by OSI to assist them in the preparation of a ~T",
+      " *for transffiittal piXTCured froa NICAP vere given to | to OSI. The infoJT\u2019^tlon vas desired by OSI to assist them in the preparation of a ~T)aper:^for UFO's. 2. In accordjince vlth . we aet on 19 January 1965 vith Mr. Richard Harris Hall, Acting Director of HIC-AP. lliough Ma^or Willi am Kehoe, founder of ",
+      "n oyMr. Hall is representative of the tT-pe of \"info iTsatioh available at NICAP. Their past and present correspon de nce from all over the US rela- tive to UFO sightings is voluminous. They have slack^eriodsy as ves the case in December 19 ^, thus there vere no \"Investigator^\" reports irgnediatel y- available for ",
+      " o f Disceaber. NICAP has active CooEiitteeSj, scattered throughout the US. Investigators active with these coriiaittees-call- upon the sources of reported UFO sigj'.tings to obtain first hand, eye witness accounts of the sightings. A p rin te d fo rra , prepa red b y the Air Force for KICAP's use, is utilized durin"
+     ]
+    },
+    "extraterrestrial": {
+     "n": 1,
+     "ctx": [
+      "th an unxdenoifxed person close to the situation, there were three separate sighv- (a) T'rfo UFO\u2019s about 10 miles apart, southeast of Patuxent, approaching et^a high rate speed, disappeared from the scrconj ^ (bj A single UFO picked up 39 miles southeast of Patuxent, avtitude estimated som.rrfhere between three "
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015427",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 3953,
+   "hits": {
+    "UFO": {
+     "n": 2,
+     "ctx": [
+      "oct AUac^\u00ab3i\u00aba^> i 1. Daailoi JusiiysU ot 0 ^^' ^ ' 'I . - N\u00ab\u00abpjsar nC-^ csid f tii \u00a333^>ciiud coy?espc4\u00abac\u00ab . _v 'aigii ald\u00a3iid3 \u201dJ.Lri-blrib-9p\u00abetl UFO ocrrUa off ^r.-r-r!*>s4\" rn^ro bowsves*. ia th^ vicUity of / 24 Hovo^o^r 19i\u00ab- \u201c ' . \u25a0 \u2022> Si-UUvd -to iociacat duviag tho evtaiag of 19 Wovo^^r, U-^\u2019",
+      " - EslaUvd tsi the US l?ayy F-\u00bbC c^ 6b2.p^ th9_si:^ |vlscb. 3 ~ If 19 Novociaer 1 ^ of aiisio-i co^eapcaicacc thaw ^ 4 ^^ is ^vra-blrih-spead UFO ocr?lh 1 . ' Thfr^wsro, bewevcr, _ cLsesvaticas o; lu^deaiUico slscraXt \u25a0^ \u25a0\u25a0' \u25a0 \u2018 loa 16, 17. Jd. 19* :ho iaciacat durlag tbo cvt^Tsiag of 19 N"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015428",
+   "year": 1953,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 4058,
+   "hits": {
+    "UFO": {
+     "n": 6,
+     "ctx": [
+      "\u2022 > MKIORivNDUM FOR: Cbiof, Defensive Syetems Divlslon/OSI SUBJLCT: Air ForcelRociuest to Declassify an OSI Paper on UFO\u2019s REFFRCiCS; ' C1A/03I' \"Re^t\u201cof \u201cth^ Scientific Panels on UrticSe^tlf led .Flying Objects'' dated February . 1 . llrs . Sara BT^Hunt, of the Of f ice",
+      "rts'* progr aa. Dr. H. P. \u25a0 . Robertson, Cnairtaaa of the paneiy was oh the show and re^^ - portedly nade sufficteht^nfeferenccs to CIA involvement in vV*; UFO analysis to cause a press reaction, //'\u25a0 3, A re view of the d ocugeats supplied by Mrs, Hunt ^ sheared that\u201c^r, Piiil^Stron^Hiad approved a slwtlar^ Al",
+      "ation, Mrs, Hunt ex- pressed the view that this wag Intended. _ ?.Irs. Hunt said that the Air Force is noy/tryiug to declassify all U.S, Cover nneat work on UFO's, 5, laasmuch as tny review of the original material shoT; 0 G that al.Nnificant deletions would be roaulrod for further declassif ieation, I suggested th",
+      "nal material from 2 0 JUU 135b ilESiOR/vNDUa FOH: Chief i Defensive Systems Divislon/OSl SUBJDC?: Air Force Request to Declassify aa CSX Paper on UFO's REfERDvCS; CIA/031 \"Report of the Scientific Panel on Unidentified .Plying Objects\u2019* dated February 1953 : r 1, IJrs ^ Sara B7~ Hun ty^f the Office "
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015429",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 1749,
+   "hits": {
+    "UFO": {
+     "n": 4,
+     "ctx": [
+      " 12 AUS136^ I V MEMORANDUM FOR RECOR D; \u2022 1 ZZ I : . SUBJECT; Air Force Request to Declassify CIA ^ UFO Re port . REFERENCE; Memo for OTlef, DSD/OSir7<iated 20 July^66 1. Sat^Hirnt^f Air Force Of flee of lof^rma- ^ ^ ^ tlon phoned on-lOZAugust to deteraine ",
+      "i nt was admlr^ . able. Rhe- wessed which was not forthcoming^ 3. Uis 3 ~ Hun t coacludod by saying t hat Mr . John Leard, a newsman, had an article on UFO's liTlast week's ^Saturday j ^ ^ Review. She stated that they y/anted to show the new ver- srOn to him as soon as it was declassified, \u2022 ; Distributio",
+      "rig ?i 1 - 2 - ACJ3/DSD/OSI D3D/OSI (11 Aug 66) V 1 2 AUG 196^ MEMORANDUM FOR RECORD; SUBJECT; Air Force Request to Declassify CIA UFO Report REFERENCE: Memo for Chief, DSD/OSI r^dated 20 July 66 1. Sara Hunt of Air Force Office of Infonaa- tion phoned on 10 August to determine the statu",
+      "gently for a more specif ic response, which was not forthcoming. 3. Ulss Hun t concluded by sa yin g th^ t Mr . ^^hnj Lejrd , a newsman, had an article-on-UFO*^ih last week's Satur^ Review. She stated that they v/anted to show the new ver- sion to hlra as soon as it was declassified, 6-3 Distribution; Or"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015430",
+   "year": 1986,
+   "date_src": "text_modal",
+   "era": "1970-99",
+   "chars": 2485,
+   "hits": {
+    "UFO": {
+     "n": 2,
+     "ctx": [
+      " inaioRAiiDu^i Fon record*. \u2022 \u2022 . SUBJECT; Air Force Request to DaclasslfyTClA UFO Report REFEREI^CE: 1. lleao to CfT/DGD dated .20 July J.9G6 2. MoEOf or Record dated 12 Aug us t 1986 \u2014 1, Krs. Sara Euat of Eo^AIr~Por c\u00a9 Office of In",
+      " 1 - D3D/0SX 1 - E0/03I 0SI/DSD/ACl3^DESte%\u2019cnson':sJ:a/7 (23 Aug 63) lIBIORAIiDljli FOR RECORD: SUBJECT: Air Force Request to Declassify CIA UFO Report RE?ERE:?CS: 1, Dcoo to Ch/DGD dated .20 July 19G6 2, Hoeo for Record dated 12 August 1066 1. Sara Euat of th^Air Forco Office of laforraa tion "
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015431",
+   "year": 1953,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 3459,
+   "hits": {
+    "UFO": {
+     "n": 4,
+     "ctx": [
+      " Memorandum for the D/CI Subject: Fo rce R eq uest to Dec las sify' CIA Material oa Uoldeattfled Flylns Obj ects (UFO) \u2022 \u2022 1. The foUovin^ is a brief p ertinent . subject ratter.^ 2. In 1953 OSI coD vea ed a panel of ^lentists to consider reports on unidentified flying ",
+      "ng Obj ects and to & dvisi-uin:>p^the to nationallsecumy* in a report classifi ed -'secret. \u201d , 3. to 1957 follQvlns some pubUcity on CIA inyolvemeot ^ the UFO problem, the USA^ req uested and obtniaedwuncla ssmed yersloa of the condusiotts of the 1953 \"reportT^ Ihat version a ^ involvesent\"\"^See^att\u00bb^i 2 ent a) ",
+      " July. . 27 July vas prepared by ird-'oT. (Sea \u25a0 Keoioranduni for the D/CI Air Forc, Br.jaeAt to DotUttlfF CU ifettrlU oa UoldtutlClcd Flying Objects (UFO) , \u2022 ' 1. -Eis foUowlBS is a brief review of events pertinent to the - subject =atter. 2 . In 1953 031 convened a p&nel of scientists to consider reports",
+      "D) \u2014 - \u00ab \u00ab 8. On 10 August Mr called to ask about the status of our I'oiJly. wie stated tbtt I!r. John Lear;^, a newsraaa, had imblished an article on UFO's in the Saturday Review/. (See attachment 3 ) This was the first indication during the recent interchan \"Uiat the UoAF^v^ted to release- the coinplete CIA "
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015432",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 2743,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015433",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 5780,
+   "hits": {
+    "UFO": {
+     "n": 15,
+     "ctx": [
+      "17 February 19^7 '\u25a0 MEMORANDUM FOR: Director, National Photographic Interpretation Center SUBJECT: aoto Analysis of UFO Photography 1. This memorandum is in response to Project Number 66120-7, submitted by requesting that perform a photo analysis of photographs imaging a",
+      " 1. This memorandum is in response to Project Number 66120-7, submitted by requesting that perform a photo analysis of photographs imaging an alleged UFO (i.e. unidentified flying object), v 2. Tiie photography for this project was- supplied by the Aerial Phenomena Office of FTI) (TDET/UF0) 7 locked at Wright",
+      "is memorandum is in response to Project Number 66120-7, submitted by requesting that perform a photo analysis of photographs imaging an alleged UFO (i.e. unidentified flying object), v 2. Tiie photography for this project was- supplied by the Aerial Phenomena Office of FTI) (TDET/UF0) 7 locked at Wright- Patterson Ai'B, Dayton, Ohio. ",
+      "Phenomena Office of FTI) (TDET/UF0) 7 locked at Wright- Patterson Ai'B, Dayton, Ohio. The photographic package included three photo enlarge- \u2014 raents of the UFO (attachments 1, 2 and 3) an'i one photo enlargetnent of a helicopter (attachment 4).\u2014 The-latter-uas supposedly taJvcn at approximately the same- time and f"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015434",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 4536,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015435",
+   "year": 1967,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 4272,
+   "hits": {
+    "UFO": {
+     "n": 4,
+     "ctx": [
+      " SUBJECT: Visit of Dr .^Condon to NPIC, 20 February 19^7 1. The U.S. Air Force hamlet a $300,000 contract to the University of Colorado to study reported UFO sightings. Brig. Gen. Edward B, Gillers,^US.AF,^is senior Air Force contact and Dr. Thomas Rachford is senior Air Force Scientist on the project. The senio",
+      "is and what it c an do. ^- \u2014 - \u2014 - presented _this , discussion. b. \u25a0 \u2018 \u25a0 \" followed with a presentation of the analysis_he had been conducting on UFO photography furnished !JPIC by Dr. Rachford. discussion was of a general ^nature and outlined the problems he had encountered because of lack of basic- infor",
+      "ing instruments used in and follov/ed by a general presentation on the success and failure had experienced in trying to measure objects imaged on the second UFO project assigned Following \u25a0'his '^\u25a0''\"'\u2022ission tb-n cenducted the group into the instrument area where the Point Transfer Device, Niann 880 Comparator, \"",
+      " SUBJECT: Visit of Dr. Condon to NPIC, 20 February 19<37 6. At about 1215 escorted the group back to Mr. Lundahl's office v/here a general discussion on UFOs ensued. At about 1235 the group adjourned to lunch and follovfing lunch they left NPIC for a Kc.eting with Brig, Gen Gillers at the pentagon. 7. Most al"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015436",
+   "year": 1967,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 3029,
+   "hits": {
+    "UFO": {
+     "n": 5,
+     "ctx": [
+      " 0 ^^ay 1967 \u2022 KEJ10RANDU14 FOR THS RECORD gUUjDCT: UFO Briefing for Dr. Edward Condon, 5 May 1-9^7 1. At 0900 cn 5 May 19^7/ ^ precentcd a briefing covering hlo onalyrls of tlic Z.'jneoville, Cliio, UFO phote",
+      "jDCT: UFO Briefing for Dr. Edward Condon, 5 May 1-9^7 1. At 0900 cn 5 May 19^7/ ^ precentcd a briefing covering hlo onalyrls of tlic Z.'jneoville, Cliio, UFO photegraphy, TJie briefing was given in the cojrfcrcnce roon, end in otteudanco were Dx*. Edward Condon, University of Colorado; Dr, Robert I/ovc, Unlvercl",
+      "d nc\".i oatlimatical cuiolyolp, jmd groiiuaetric techniqueo end dcnsltoinctrlc traces. Dr. Cenden ntateU he had for the flrottlcs a scientific onalyclp of a UFO that vould Stand up to Investigation. Di'. Condon raid tneubers of Me group questioned in detail during the analysis and were very icipresced with the qual",
+      "lc technique to ejialyze unacheduled photography. 3. There was discussion held ccuicorning Methods of liitereGtlng the American public in larticipotlng in UFO photography. No epcclflc conclusions were drawn, but it was Euggoated that it wight be ndvlcable to review oil the photography ilICnP lioldo, tind conduct p"
+     ]
+    },
+    "extraterrestrial": {
+     "n": 1,
+     "ctx": [
+      " iiaHlng ovollable to pclJ.cg offlccro, on ;iaillt?iry roots, olrllne pilotsy^&hd such people, Polaroid carjcras lor instant uoc. Ho conclusions vero arrived et, but soijc interesting thoughts were tabled. It was, however felt by oil that more publicity was needed. 4 . report on Ms onalyols of the Eancsville phot"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015437",
+   "year": 1976,
+   "date_src": "text_modal",
+   "era": "1970-99",
+   "chars": 1226,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015438",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 796,
+   "hits": {
+    "UFO": {
+     "n": 2,
+     "ctx": [
+      "TO ATTN \u2022 Chief, Denies r.lc Collection Division r:<OM : chief, Minneapolis Office SO'BJTCTT Eeporr of UFO at Tiae of Soviet Satellite Falli MIN-11-78 date; 9 February 197 ^ 8 February j 9 7 S , who works f th Inf oral c t e<3 _ Carada on \\ ^ Soviet sate",
+      "e Air Force, and Air For contact him for more information we would give the Air Force his na-ne and telephone number. ^ ve fo?^-arr^he^tonowing^ tracking UFO\u2019s, Telephone (home) : (work) ; ^ '\u25a0; - -\u25a0 V -' *; '\u25a0 \u2019 J ''rvr'* t ' \u2019 \u2018 \u2018 ' -t - : _ i 1 < A Kffirtr\u2018^.> f^CKVtC t r .iW It ii-iW* i i"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015442",
+   "year": 1967,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 677,
+   "hits": {
+    "UFO": {
+     "n": 1,
+     "ctx": [
+      "rious raensura \u2014 tion instruments in operation.__ SUBJECT: Monthly Report for February I967 6 . The ns thorough No definite be issued. UFO Menourntion fkinr-orb nrolpct closed with EUJ cvnluation n;; th\u00ab photocrnphic prints pennitted. conclusion ns to U\u00bbe authenticity of the iraetcc couid "
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015444",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 3,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015445",
+   "year": 1959,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 2051,
+   "hits": {
+    "UFO": {
+     "n": 2,
+     "ctx": [
+      " UFO's OBSERVED OVm NORWAY 0 The foUovins Is the fulT^te^ of sa item vMcb aj^eared ib Oslo - ; \u2022 \u00bb Coaservatlve Aftenpostea of l6 March 1959 (^t editloa",
+      " the objects. Storesund's dog, which iisually reacts the presence of aircraft, < I^id TiO ettenticn. Tl^o'oJ acts vere aUd^hserved in binoculars. ; UFO *s OBSERVED OVM NORWAY Ihe foUoving is th\u00a9 full text of an Item vhlcli appeared id Oslo (!<^nqervatiYe Aftenpostea of l6 l^Sarch 1959 e dltloa) ; "
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015446",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 690,
+   "hits": {
+    "flying saucer": {
+     "n": 2,
+     "ctx": [
+      "Flying; Saucers Seen Over Svedea f f^n /> \"Eight Persons Sav Flying Saucer,\" Stockholm, Stockholms- Tldalngen , 20 Jan 59, page 1 No less than eight relia1>le persons Observed n \"flying saucer\" over Stigsjce, near feemoesand (Va",
+      " f^n /> \"Eight Persons Sav Flying Saucer,\" Stockholm, Stockholms- Tldalngen , 20 Jan 59, page 1 No less than eight relia1>le persons Observed n \"flying saucer\" over Stigsjce, near feemoesand (Vaesteraorrland Province) recently. The object approached the observers si ovly from the south over [Lake] I*acgsJoen at a"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015447",
+   "year": 2000,
+   "date_src": "text_modal",
+   "era": "2000-16",
+   "chars": 4902,
+   "hits": {
+    "UFO": {
+     "n": 1,
+     "ctx": [
+      ", PagsBs Nyheter, is give n helow, The article, vhich vaa entitled: \"Light ta Sir/ New Satsmte, Experts Believe\", was acccmpanied hy a photospr^ph of the two UFO's sighted hy Esse Janssoa Kentioaed ic the article . \"The lualaous\u201dohJect which shortly after 2000 hours oa 6 March hy the crew of the Sundsvall pl^e Of L"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015448",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 247,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015449",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 464,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015450",
+   "year": 1962,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 735,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015451",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 332,
+   "hits": {
+    "UFO": {
+     "n": 1,
+     "ctx": [
+      "15 April 197^^ who vae also trlefel on the developmentB to date, Vr. The UFO\u00ae? v: , ^8 turned over to T>r. ADDS&t) said he would show the study to a few people to determine possible Inrnllcations of the intfiengijc Information and "
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015452",
+   "year": 1968,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 45114,
+   "hits": {
+    "flying saucer": {
+     "n": 5,
+     "ctx": [
+      "w-Aviation Institute, appearing in the P^ebruary I908 issue of, Soviet Life : (counterpart to USIA\u2019s Merica ) for which APN supplie^fall materials and b. \"\u2019Flying Saucers\u2019? They're a liyth!\" by Villen Lyustiberg, APN Science Con-jaentator, which originally appeared in the I6 February 1968 issue of y.oskov.sky Komsomolets, and",
+      " Aviation Institute, appearing in the February I968 issue of Soviet Li fe (counterpart to USIA's ^jnerica ) for which AF\u2019N supplies all materials; and b. \"\u2019Flying Saucers'? They're a Myth I\" by Villen Lyustiberg, APN Science Conaaentator, which originally appeared in the I6 February 1968 issue of Moskovsky Koms o molets , and",
+      "ied flying objects\u201d has advanced to one of the first places in the world. .This prob- lem is dealt with by numerous associa- tions and clubs. Are these ''flying saucers\" just imagination or reality?- Thousands of recorded statements by eye-witnesses seem to show that \"there must be some- thing in it\". But let us try to loo",
+      " doila.., uut Ox the pockets of trusting listeners and patients already. We may trace a clearly defined regularity in the appearance of large numbers' 0 . flying saucers. And, strange as it might seem, this regularity is closely connected with earthly events. guxain.y is cioseiy ^947. The number of saucers always -1 &rows s"
+     ]
+    },
+    "UFO": {
+     "n": 8,
+     "ctx": [
+      "9 April 1968 Noticing the Facts on UFQs or Which Novosti Writer Do You Read? 1 , V/hether you believe in unidentified flying objects (UFOs) or not, Novosti (AHi \u2014 the Soviet \"unofficial\" news agency) agrees with you. VJe are forwarding attached reproductions of two articles which argue bo",
+      "9 April 1968 Noticing the Facts on UFQs or Which Novosti Writer Do You Read? 1 , V/hether you believe in unidentified flying objects (UFOs) or not, Novosti (AHi \u2014 the Soviet \"unofficial\" news agency) agrees with you. VJe are forwarding attached reproductions of two articles which argue both si",
+      " Soviet \"unofficial\" news agency) agrees with you. VJe are forwarding attached reproductions of two articles which argue both sides of the issue; \u00bb > a. \"Unidentified Flying Objects\" by Felix Zigel, Doctor of Science (Technology), Assistant professor ,-Moscow-Aviation Institute, appearing in the P^ebruary I908 issue of, Soviet Life : (co",
+      "eared in the I6 February 1968 issue of y.oskov.sky Komsomolets, and which A P?l-releas'gd in English translation bn 12 Flarch I968. The first article takes UFOs quite seriouslyj thesecond laughs them off end even claims the U.S. publicizes them to divert people from its failures - and aggressions. |v.r - 2 . It"
+     ]
+    },
+    "extraterrestrial": {
+     "n": 2,
+     "ctx": [
+      "xygen apperatu. on board his crait. know or stories about encounters and even hand-to-hand fights with pilots pf c^k undtng r\u2122 other pt.octe. They vere shot et, hut urthout euceees. , \u00a3mo7nn Pivei^ shore and disappeared in *he turbid Lver''reco;e;ed.\u201c Another* saucer glided over the earth like an injured ",
+      "w : *li!l IKr rpm.iiL jM' I }0 irltrMmHii*^*?! \u00bb\u00ab tlw *\u2018Tunpu-k% In rr^rnl \u25a0 xp*f* winiji*!* haxr r 4 aVU'l>*^I |li*l liw Turi;'uA> r\\p1i\u00bb*ion )\u00bb4\u00bb1 t\\et\\ laramrlrt \u2022 f an air hu*la\u00bbr l*|j*t* TL^ i SSR \u25a0 n/ ,V*-iVjt.nrt A*'7\u00bbi*r/i \u00bb\\nlynw I7A. Nn^. I anil \u25a0J a, l'X\u00bb7\u00bb Kaxf In /ail*4*n In : jHirtf lhal ll"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015454",
+   "year": 1953,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 8585,
+   "hits": {
+    "extraterrestrial": {
+     "n": 1,
+     "ctx": [
+      "iTED 1. Searantyvfiva casa Kl^orloa \u00a9f slghtJjiga 1951 - 1952 (sal#-: tod by A3J1C as tbosa bsat dommeirtod) . 2, AIIC Status and Pr\u00a9gr\u00aeoa R<^:rto of ProJ^et (SIDOOE acd Ptojsctr BUJS BOOK (\u00a9ode naineo for AIIC study of subject)# 3\u00bb ft*ogr\u00a9(30 Rapes' of IWJ set STORK (code mm for PcttoUb^flCTwarlft^^ Distituto "
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015455",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 6376,
+   "hits": {
+    "UFO": {
+     "n": 1,
+     "ctx": [
+      "40,000 budget and has 3,500 dues paying members. Both the membership and tho budget may be expected to Increase siibsiajaiiix substatlally due to the recent UFO f lap , A comouter project codenaiaed \"Project Aeesa\" is currently In the mill, \"n* effort is being made to' develop some sort of pattern analysis out of t"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015458",
+   "year": 1952,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 27627,
+   "hits": {
+    "flying saucer": {
+     "n": 6,
+     "ctx": [
+      "re) or electromagnetic phenomena or ppssiblylTjght reflections from ice crystals in the air, but\u201ctheir^ej^ct cause or nature was never defined. If the term \"flying saucers\"^ had been popular-in 1943-1945,- these objects would have been so labeled.ii^ :: - Air Force Reporting Systera;r . T7 It was the Panel\u2019s opinion that ",
+      "af feet the Air Defense intelligence system, and should be studied by experts, possibly under- ADCr\"\" If UFO's become dis- credited in a reaction to the \"flying saucer\" scarer^ or if reporting channels are saturated with false and poorly docvimented reports, our capability of detecting hostile activity will be reduced. ",
+      "ere.exaninedy^lone at Palonar Kountatn, California^ la October 1949, v/hen cosmic ray counters went \"offzscale for a few seconds\", apparently while a \"V\" of flying saucers was observed visually; and two, a series of observations: by the \"Los_Alanos Bird V/atchers Association'i from August 1950 to January 1951, when co33ic ray ",
+      "tTin a marked reduction in reports caused by aisidentificatioh and resultant confusion. The \"debunkihg''^im wouM result in reduction in public interest ip \"flying saucers\" which today ev9kes a 15 strong psychological reaction. This education could be accomplished by mass media such as television, motion pictures, an"
+     ]
+    },
+    "UFO": {
+     "n": 10,
+     "ctx": [
+      "COiSl\u00a3NTS AND SUGGESTIONS OF UFO PANEL Ceneral . Th\u00a9 Panel Members were im pressed with the lack of sound data in the great majority of case histories. Among the case histories of signi",
+      "ore, it was considered that, normally, it would be a great waste of effort to try to solve most of the sightings, unless such COiOmNTS AND SUGGESTIONS OP UFO PANEL General . The Panel Members were Impressed with the lack of sound data in the great majority of case histories. Among the case histories of signifi",
+      "these objects would have been so labeled.ii^ :: - Air Force Reporting Systera;r . T7 It was the Panel\u2019s opinion that some of the Air Force concern over UFO\u2019s (notwithstandin^Air Defense Command anxiety over fast radar tracks) was probably caused by public pressure. ...The.result today .is that the Air Force 2 ",
+      " Intensity of the lights indicated extremely high, speed in small orbital paths. g. Apparent lack of guidance of investi- gators by those familiar with UFO reports and explanations. h. Analysis:ofilightJ^tensity of objects Bade from duplicate rather than original film. The original film was noted to have a m"
+     ]
+    },
+    "entity/being": {
+     "n": 1,
+     "ctx": [
+      "^conmon threat'to unite pcbplesl) It was noted that pre s e n t astronomical^ know l\u00a5d gei of 7 the solar system 'A makes the existence of \u201cintelligence\" beings (as we know the term) elsewhere than on the earth extremeryJIunlikely, and the concentration of their attention by any controllable means confined to any on"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015459",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 34819,
+   "hits": {
+    "UFO": {
+     "n": 1,
+     "ctx": [
+      "f tiio lights Itrficvtod oztrcEoly high cj>o*.xJ in n^^Xll orbit a i ttath.io e\u00bb Apparent lock of 0uidanao_of liirantlg.'.tors b-r th-5,:a fcjillL^r vith U.F.O, reperxo ai:,d.!:r.'pIoc:.ti!c>rvj, ho A&alriig ofJHGht intc^aaity of b->c!o fre-i dupliecits' rather than orlgsr il fl la, Th^j crl elr-il fi. Jn v-as Dot*"
+     ]
+    },
+    "extraterrestrial": {
+     "n": 3,
+     "ctx": [
+      "\u25a0- - l \u25a0'\u25a0 f^/c: cc-;:;ntr c.::/i cvGf03iici';7 of I^oa b val wlt * '* Ip-b^n -* 5 \" AT^cr ccnoi5cvatfcn cf-tCiG -\u00a3Aib|c^ v of '\u2019wf Viyl-S cbjcot;v\u2018 et t \u00bb!0 4 r>G 7 ':i'<cv i;ci->ir4pcf^IJ0 Ii3laL\u00bbi.GO.\u2018- 20 /Airijr..? Cc-ait\u00abvr .8 t:' i foUc.::i?:.? cril^a.vai c--<i'At rVo i. . J.).**, C '*\u25a0# 1#^ ^ ",
+      "i^abiojir^ asa-^r of Gddtblccal taSe : hltterica voro with H^oovo-r- rcurndt,' 'Rvo tooUeg cdJo\u2019JKr-S at 1500 for lx;:*.;?h(jc.n. - Thia caccion ope:;ed et 14CO, Eonfdon Parol and CIA . iL TV. Tl< -I V, E''1 i'aVP\" s:\u00bb Pi'^ol pccoonnol, Pr, vcc5,pro-nt J wuj siroJKaV.VWla-ew-MaS- *\u00bb-*\u25a0\u2666*\u201c cf Iho \u25a0=oc,UrJ:= ",
+      " COCt CUSh lC53 V.tf\\n inrXl \u2022 viz JI- i-TT ;\u25a0 V'.-i c::i.cs \\7irc.\u201d oc\\ t CL tv Fol&r/J* I to! Tj , Ccilifcvxia y CSv.r .''\u2019'.\u25a0\u2018v \u2019-J''' c3:-'aI'- rci;' et:-vivcv3 tva^ \"off fc,* a fov cccoad3\u201c, a '-V' of r3 cu3of*? v^aa o'j -i'rvcd vira\\lly^ &r,'i \u2018v-o-, a fc':j-'icu cf Cv*ar/a'vloi 2 J tiio \u201ctea DC^Watohr-r;"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015460",
+   "year": 1943,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 5039,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015461",
+   "year": 1956,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 3533,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015462",
+   "year": 1972,
+   "date_src": "text_modal",
+   "era": "1970-99",
+   "chars": 175482,
+   "hits": {
+    "extraterrestrial": {
+     "n": 8,
+     "ctx": [
+      "* fr: \u2022V\u2014 ^ , k -a \u00bb, 'S \u00ab< ifiloft JPRS 55557 _ ?,8 March 1972 3 1 3 L I OG X A?n I tS O N P ARAPbY GH 0 lO tV ( Pb Y CH OcN \u00a3 RG ET 1 1 S ) AND RtLATED SUBJECTS Content s \u2022 Page Soviet Bibliog^phy . . \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 * \u2022 \u2022 \u2022 \u2022 \u2022 \u2022 For\u00a9 ign Bibli ography ........ . . . \u2022 ? . . .",
+      " 54. Sukharebskiy, LTTM77^\u201cTelep3thlc Information as a BlolOglcaV ,Prcb\u2014 lem.\" The ant hology NTORES t nT. A \u25a0 S . Popova ( Set entiflc and Teclinica irsbct et y II of Radio EflglKflflhg and Teldcbnwuhlcation im. A, S, Popov] . Th^ 24th All- Union Scientific Session DedidatTd. t^RFdlo DayV Cdmunlcations Operators\u2019",
+      " 9 June 1964. \u2014 -A.-\u2014 130. Naumov, E. K. , \"The Secret Chambers of Parapsychology Walt to Be Found,\" Baku . No 190, 12 August 1964. 131, Naumov, E.K., \u2022'Extraterrestrial ClvillEation and Parapsychology.* Moskovskava Fravda. 14 March 1967 . No 1 . J\u00ab\u201d; pII'iTm.'' *\" * iEiH. Nov\u201d \u201cr> \"\u2022'\u2022''\u25a0\u2022\u25a0'\u25a0y- \u201c'\u2022> \u00ab\u2022- 1\u201d\" p- \u2022 ' Im",
+      "romaticheskogoKrasnogo S veta [The^Biologlcal Action of Mono- chromatic Red Light], Kazakh State University, AlmA Ata^-lSO?. 11. Inyushin, V. H. Lazernyy Sv et i Zhivoy Organizm {Laser Light and the Live Organism] . Alma Ata, Kazakh S fate University, ' ' 12. Inyushin, V^^M7^\"The^Probleiirof Bioplasm end Resona"
+     ]
+    },
+    "telepathy/psi": {
+     "n": 57,
+     "ctx": [
+      ". Konesl at the 14th Congress of the International Federa- tion on AsCionauCics) The anthology K osaos , Koscov. Nauka, Issue 2, 1965, 48; \u201cExperiments with Telepathy.\" Rad ioelektronika ea Rubezhoa (Radio Electronics^Abroad] , No 25, 1777une 1963 203,^ 4$, Ostroumov, G. A, , \"At What Distance Can Marine Animals Communica",
+      "l i 71\u201c .R asprostraneniye-Voln ( Problecis of Diffraction and Propag ation o f Waves] . ^ Tssue 8, I968r pp 3-24 .1 : ! ' . 50. Petrovskiys A. A. , \"Telepsychic Phenomena and Brain Ra^di\u00a5tlohs7\" Telegra f iya i Tele f oniya bet Provodov ( Vixel e s s Tel egraphy\" and TelephcneJ7 No 34, 1926, p 61, ' 51. Presman , A",
+      "od Radio Laboratory Iro, V. I. L^inT^Ahhotatiohs of reporcs,^ Moscow, 1963, pp 42-43. \"\" 55. TarasehkoT^F. P.7 '*Lett\u20act tb^ on I. M. Kogan\u2019s article . 'Is Telepathy Possible?' {Within appended reply by I. M. Kogan). Radio- i tekhnika . Vol 22, No 3, 1967,^1117^ 7 56. \"Tclepachy.\" Bol'shava Sovetskaya Entsiklv>pediya . ",
+      "e Society of Psychologists!. Gor'kly, February 1965. 59. Fidel'tnan, Ye. Ye. et al., \"Method and Results of Experimental Verification of the Possibility of Telepathic Communication.\" Radiotekhnika. Vol 25, No 7, 1970, pp 109-110. , 60. Fleksor,^?., \"Experlreents oh So-Called Mental Suggestion of Ani- mals,\" The anthol"
+     ]
+    },
+    "consciousness": {
+     "n": 2,
+     "ctx": [
+      "USSR biophysics Laboratory.\" Byulleten * Ek5perimcntal\u00bbnoy Slologii lij^edltstny . Vol XIV. No 10. Issue 4, 1942, pp 63- 58. Feitov, E. Z., \u2022\u2019\u2019\u2019'he Brain, Consciousness, and Telei^thy\".*' The anthology Teatsy D6 kl adb^5-v Nauchnov^ KbhfeT^rTFsitnRor\u2019kovskog Otdeleniya Obahehestva Pslkhologov l Theses of \"th^Rcports of the",
+      "tI\u00ab 7 ^T 7 ,:\u2019'FhysioIbilcal Cdrmates q f Pet_CoBnltton\", International^ J. of Faraovcholbly .1^ Vol 5; p. 37]5; 125 Tact^ C. T7 (Z^)', Altered States of Consciousness ; K<s^ York, ^ John Wiley and^Sona ^I969. i 126. W. in the H^therlahdr.\" Ihterhat. jyHeyropsychUiryyVQl 2. No 5, 1966. 1 27 . Wrv..teii \u25a0 Robert Resear"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015470",
+   "year": 1952,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 9237,
+   "hits": {
+    "flying saucer": {
+     "n": 4,
+     "ctx": [
+      "llies, the balloons carry a lualnous'devlcc which, togeth^7wlth the Botloo of rthe balloonF aa^they are buffeted by the wind, oust have mad e\u201cthem seem like \"flying saucers\" to the spectators . LDIOROIS OBJECT SIGHTED OVER CC^SICA'^e Algiers, L'Echo d 'Alger , U Oct 52 On 2 October 1952, at .about 2000 hours, several people",
+      "00 tbeir way in a straight line. INVERTOR IN VZ3X GESU^ANY PERFECTS \"FLYING SATKTER\" \u2014 Conakry, La Gulnee Francalse, 20 Nov 52 \u00bb The first patent for a \"flying saucer\" was recently applied for in Vest Ger- many by Rudolf Bchrlever, a former pilot, who claimed to have perfected an \"elUp- tip each eTeolog betwecD 2000 and",
+      "llles, the balloons carry a luoloous' device which, together with the Botloo of the balloons as they ere buffeted by the vind, must have made them Bcem llbe \"flying saucers\" to the spectators , LOmOIB OBJECT SIGHTED OVER COBS Algiers, L'Echo d 'Alger, U Oct 52 On 2 October 1952, at .about 2000 hours, several people in Corsi",
+      "R\" FORMATIOS IN TARN, FRANCE \u2014-Casablanca, Kaxoc-' Presse, 29 Oct 52 About 100 Inhabitants of Galllac (Department of Tarn, France) repartedrvlt- sessing a \"flying saucer \"^orBatldbTat abdutl I60O hours on 27 October 1952. Th^ objects were said to have be^ 16 t in number, ranged in twos, and dlsb-sbaped, ex- cept for a Bv'elll"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015471",
+   "year": 1953,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 16163,
+   "hits": {
+    "flying saucer": {
+     "n": 11,
+     "ctx": [
+      "nna (social Service) \u2014 According to recent reports from Toronto, a r \u2014 number of Canadian Air Force engineets^are engaged in the cons tiTictlon of a - - 7 \"flying saucer\" to he used as a future veapon of yar. The yorh of these engi- neers is being carriedjout in great secrecy at the A. B\u00ab Roe Coopany /translit- eration from t",
+      "eapon of yar. The yorh of these engi- neers is being carriedjout in great secrecy at the A. B\u00ab Roe Coopany /translit- eration from the Greek7 factories. \u2014 \"Flying saucers\" bare been taovn to be an actuality since the possibility of their construction vas proven in plans dxavn up by J/ercian engineers tovard the end of Vorld Wa",
+      "p by J/ercian engineers tovard the end of Vorld War II. \u25a0 Georg Klein, a German~erglneer 7 ^ stated recently that though many people ^ ^ ^ ^ ^ believe the \"flying saucers\" to be a postvar develoiaient, they vere actually In the planning stage la German aircraft factoMcs as early as 1941. Klein said that he vas an engineer Ih ",
+      ", vas Minister for Armament and Ammunition i for the Third Reich7 and vas present in Prague on 14 February 1945, at the \u2022 \u2019 first ejcperlEental flight of a \"flying saucer.\" ~ During the experiment, ^Klein reported, the \"flying saucer\" reached an al- titude of 12,400 meters within 3 minutes and a speed of 2,200 IdloDeters per "
+     ]
+    },
+    "extraterrestrial": {
+     "n": 1,
+     "ctx": [
+      " PUBLISHED DATE PUBLISHED language Athens, Brazsavllle, Tehran U Mar - 20 May 1953 GreeS, ri*\u20acnch, Persiss CENim CR^GES 3 CUSSIfjCATlO;! ET ixn^Ki] y ^^ftSiFpLEMEirrit) REPORT NO. OKicf \u2014 Sile Ti^rUREVAtUATCtrtNfORWATlON SOURCE Newspapers as indicated. \\ I ETWir^ER CLAIMS \"SAO"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015472",
+   "year": 1953,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 4842,
+   "hits": {
+    "flying saucer": {
+     "n": 2,
+     "ctx": [
+      "and Ipfot^tlgp, durtr ^g the period 'around the above date, did cot carry tbs etoryj' Copenhagen, 12 July\u2014 \u2019Danish defense authorities ^ th<* oroblea of flying saucers . The military experts are of the option that althoS most of Jbe^observations :/?fTTIy^^ astrocOBlcal phenomena, there remain the reports of trained obse^e",
+      "vas sent up^but It vas not able to reach the object, Vhich disappeared at a terrific speed. The report of the Danish Air Force Comraand emphasizes that the \u25a0flying saucer traffic\" over Scandinavia seems to be a fact of ^eat aerotecbnlcal interest. "
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015473",
+   "year": 1953,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 3530,
+   "hits": {
+    "flying saucer": {
+     "n": 1,
+     "ctx": [
+      "TH AFRICA 'FLYDJG SAUCFJiS\" BEPORIEa) SEEN OVER SPAS -- Athens, I Kathimerini, 19 Jul 53' Parle (Special Services) -- According to reports from' Madrid, \"flying saucers\" vere seen during the lest^^f^day g I n ^n unidep tlfled area of / S pain. Witnesses stated-that a luminous, circular ohject, emitting a. red. reflection, "
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015474",
+   "year": 1953,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 22270,
+   "hits": {
+    "flying saucer": {
+     "n": 2,
+     "ctx": [
+      "ledge of the Defense Staff, there was no Swedish plane in* the area concerned nt the time of the Incident, Investigation continues.\" 7 J' . . Reports of \"flying saucers\" have arisen in both Europe and'^erica.-.oa countless occasions in recent ycnrs but, according to a statement to Da'^ns Ryfaeter' by a member of the Air Staf",
+      " of the Defease Staff, there was \u201cno Svedisb plane In -the area concerned at the time of^^ the incident. Investigation continues . --- ^ > \u25a0/ Reports of \"flying saucers\" have arisen in both Europe and -toericaj.on countless ocbasions in recent ye crs but, aceording to a statement - to DaT^1^ Ryfaeter ' by a member of the Air"
+     ]
+    },
+    "extraterrestrial": {
+     "n": 1,
+     "ctx": [
+      "roffl North Africa and 'Itedy. . i Captain Christiernsson BSde3heZfollbving^M^hV to Dag eas Nyfae_t_er; \"I do not doubt for an Instant that IV ^srh fot a J et plane. .What I say vas a completely unorthodox;\" metallic , syinmetrlc, round object yhich vas.vmlike aay- thlcg I have seen before . The \u25a0 mystefious object"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015475",
+   "year": 1953,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 19083,
+   "hits": {
+    "flying saucer": {
+     "n": 13,
+     "ctx": [
+      "lying at an altitude of core than 4,700 meters vere seen ovej- PesbavAr on the night of ?1 December. The objects, cosing from the southeast and thought to be flying saucers, disappeared in the direction of AfghaDistan. Witnesses vho saw the saucers said they emitted red and green flames. [The Salonica daily newspaper, Makedonia ",
+      "sh SUPPLEMENT TO REPORT NO. THIS ISIJNEVALUATED INFORMATION SOURCE iDdicatea SIGHTINGS OF UHTDEMTiyigP FLYIKQ OB JECTS PAKISTAN \u2014 - FLYING SAUCERS OVER PESHAWAR \u00a77 :U Fi^o:,-23 \u00a3ec \u25a0 Tvo brilll8Dt objects flying at an altitude of core than H,700 meters were seen over PesbawAr on the night of 21 Decembe",
+      "lying at an altitude of core than H,700 meters were seen over PesbawAr on the night of 21 Decembex. The_ objects, coaiDg froE the southeast and thought to be flying saucers, disappeared In the direction of Afghanistan. Witnesses who saw the saucers said they emitted red and green flames. (The Salooica daily newspaper, Makedopla ",
+      "minous object a high speed tovard the north, at an altiiwde of about 1,500 meters and ^ a borizonUl plane. This is the first reported sighting of a so-called flying saucer over Dahomey. FRANCE\" CELESTIAL DISK CHANGES FORM -- Bordeaux, Sud-Ouest, 12 Dec 53 At about 15^5 hours on 9 O^ember, Charles Buaut, a carpenter from"
+     ]
+    },
+    "extraterrestrial": {
+     "n": 1,
+     "ctx": [
+      " 2 - RCWW A\\. HtCOBD ROUND FLYISG OBJBOT SIGHTED AT LUNEVILLE \u00abice, Hlce-Matin, 10 Jaa 54 \u2022 \u2022 \u00bb - \u2019 \u2019 \u2022 * \u2022 Three Vesldeots of Luneville, Keurtbe-et-Moselle Department, clflio to bare seen ft round object flying from north to south at about 0600 boure on 9 Januexy. The object flev more slowly than a Jet p"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015476",
+   "year": 1953,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 6674,
+   "hits": {
+    "flying saucer": {
+     "n": 3,
+     "ctx": [
+      "d disappeared over the horiaon. - 1 - APPnOVEO m ?.F' OAU.-J^.> CLASSIFICATION DISTRIBUTiON I JIJPWIPII oo-v-30339 DrEPfE \"FLYING SAUCER\" CALLED FE'IBCBI'IS \u2014 The Hague, Hleuwe Baagsche Couraat, 9 Jan 54 Freacli (Parie) aetronoraers are convinced that the object vhlch exploded over Dieppe r",
+      "In several parts of Algeria, LUMINOUS DISK SIGHTED OVER CONSTANTIKS AREA -- Tunis, La Press\u00a9 de Tunis le, 16 Jan 54 At 1030 hours on 12 January 1954,^ a \"flying saucer\" crossed the sky over Saint Arnaud, in the Cdostahtl DeTaTeaiTThb .pbg^^^ witnessed by many persons, including Cunat [fnu], director of the Ecole^Clemenceau",
+      "people in several parts of Algeria. LUIONOUS DISK SIGEIED OVER CK\u00bbNSTANTrKS AmV -- Tunis > P de Tunisie, l6 Jan 5^ At 1030 hours on 12 January 195 a \u2018'flying saucer\" crossed the sky over' Saint Amaud, in the Constantine area. Th^henoisihoa was witnessed by many persons^ including Cunat [fnu]^ director of the Ecble Clenen"
+     ]
+    },
+    "extraterrestrial": {
+     "n": 1,
+     "ctx": [
+      "339 lATD! AiEHICA Urvtguay -JT,\u2122 SAU0S8\" OVER mmOBSO - res, U coupler A\u201c ,\u00bb>'\u25a0<>=. 2 KaAl* On 1 Kerch 195>>, ^Sir<lUk*e^u\u201cS'JiU^S\"Kn^^ \u2018n\u2122 l^Us et no eltltnJe of seyernl thouseoR oeUcs. on 1 Kferch 1954, .Uliu4. of ooveral toouaaod .ote,.. \u25a0 - -END- \\ ahchwac reco^ HAA8J5 iCTlWj^ a"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015477",
+   "year": 1953,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 5080,
+   "hits": {
+    "extraterrestrial": {
+     "n": 1,
+     "ctx": [
+      "-EXPERPiSNTg. DISCUSSES \"FKfIRa SAUCERS\" Dakar, Paris-Dakar, 12 Dec 53 ^ Vnrrps Adriennes Franc al ses. a aontbly periodical , published brthe COEite d\u2019Et^d^rAeronautiques the d\u201ce^op^ thf . ?r.rtterV?S\u2018lc:re'g d SI- fsiirMr^c^dtlcal SCoo^). [PhH- thfLttcL in none detell 1953 issue of t^e Beirut daily new"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015478",
+   "year": 1954,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 9796,
+   "hits": {
+    "UFO": {
+     "n": 1,
+     "ctx": [
+      " \u25a0 CENTRAL INTELUGENCE AGENCY INFORMATION FROM FOREIGN DOCUMENTS OR RADIO BROADCASTS REPORT NO. OO-w ,30757 CD NO. Kon-Orblt \u2022'\" Military - Unidentified flying objecte Kevspapers DATE OF INFORfMTlON I93k OATEDfST. 3i>juli95l\u00bb As indicated NO. OF PAGES 19 Jan-15 May 1954 Various As indicated"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015479",
+   "year": 1951,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 7413,
+   "hits": {
+    "flying saucer": {
+     "n": 2,
+     "ctx": [
+      "igation will be made to deteraine whether a flying object which landed in a field near Spjellerup about 6 months ago is a meteor, a shell, or some part of a \"flying saucer.\" The object laade a hole in the field about 3.5 meters deep and 25 centimeters in diameter aid passed thi-ough a taick stratum of flintT The cvner of the la",
+      "-meter overcast. -- An employee of the Condor aerial-advertising fiimi, who happened to be watch- ing a skywriter of his firm at the time called the object a flying saucer and stated that it could not possibly have been an airplane, balloon, or aerial measuring device. Several other airport employees confirmed his observation. "
+     ]
+    },
+    "UFO": {
+     "n": 5,
+     "ctx": [
+      " the hole and detenained that the object at the bottom. is metallic. It is said that at the time the object descended to earth, there were quite a number of unidentified flying objects over the area. Excavation of the object will be performed with assistance from the military. PUBLISHED As indicated NU. Uh KAijti 2 DATE _ PUBLI",
+      "e hole and detenJlned that the obj ect at. th e_bottX'm is metallic. It is said that at the time the object descended to earth, there were quite a number of unidentified flying Objects over the area. Excav ation of the object will be performed with assistance from the military. T Arri^ovEo foil rriE/iSE Istatc riftwv t ",
+      "ver the Taurus Mountains, seemed to be about 10 meters in v^s traveling in a straight line. It vas visible only for a fev minutes ana then disappeared. UNIDENTIFIED FLYING OBJECTS SEEN 07 ER VEST GERMANY \u2014 Doua la, L'Bveil du Cameroun 17 JUD 54 Two unidentified flying objects vere reported to have been seen recently for about 10 seco",
+      " visible only for a fev minutes ana then disappeared. UNIDENTIFIED FLYING OBJECTS SEEN 07 ER VEST GERMANY \u2014 Doua la, L'Bveil du Cameroun 17 JUD 54 Two unidentified flying objects vere reported to have been seen recently for about 10 seconds by a PTT\"(Postes, Te^te graphe s, et Telephones, Post, Tele- graph, and Telephone Service) eng "
+     ]
+    },
+    "extraterrestrial": {
+     "n": 2,
+     "ctx": [
+      "Bveil du Cameroun 17 JUD 54 Two unidentified flying objects vere reported to have been seen recently for about 10 seconds by a PTT\"(Postes, Te^te graphe s, et Telephones, Post, Tele- graph, and Telephone Service) eng ineer -a nd by an othe r p erso n be tveen Frankfurt Ld Darmstadt, near the Rhein-Kaln Air Rase. Th",
+      "-Eveil du Camercmn 17 Jun 5 ^ Two unidentified flying objects vere reported to have teen seen recently for about 10 seconds by a PTT (Postes, Te^graphee, et Telephones, Tele- graph, and Telephone Service) engineer -and by another person between Frankfurt and Darmstadt, near the Rhein-Kain Air ^se. The objects ve"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015480",
+   "year": 1954,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 5376,
+   "hits": {
+    "UFO": {
+     "n": 1,
+     "ctx": [
+      " . i i\u2014 \u25a1 UNTDENTlFIiCD FLYXNG OBJECTS FIIKEID IN NORWAY DURING ECLIPSS -- Oslo, AYtenposten, 6 Jul 5^ (PM edition) Color motion pictures of unidentified flying objects vere obtained by photo- grapher Johnny BJoernulf during the recent total eclipse of the eua. The pictures, vhich were obtained from an airplane flying at an "
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015481",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 8345,
+   "hits": {
+    "flying saucer": {
+     "n": 6,
+     "ctx": [
+      "S the speed of sound. SWK!ERS\" SIC8TED 0Vi3 VEST BER1DI -- Casab lane la Vlglc Kaj-ocslce, 5 Jul 5\u201c* Since Kay 195*4, oysterlous oojccts, described as \"flying sauceri.,\" have \\ been observed [dsllyl ] between 2200 arid 2300 hours by various personi; living dAl^tst Berlin. \u00bb ; \"rmso SAUCiSS\" OVarVESr GII^KAKY \u2014 Baaburg, ",
+      "urger Ahendblatt, 7 Aug 5\u201c* Several Inhabitants, the crew of the local weather elation, and^a police officer 00 eight duty at headqcartera observed three \"flying saucers* over the city of Dancstsdl. They appeared at arouiid 2200 hours (presuitably on o August], were of a firry yellowish -red color, and seeaed alternately to s",
+      "eed of sound. \"fLffltO tJA'JCSPS\" SIGHTED 0V1\u00ab VEST BOaiN -- Casablanca, U Vlglc Kar-ocalDe, 5 Jul 5>\u00bb Since Kay 195'*, Bystertous oojccts, described as \"flying saucert.,\" have been observed [daily?] between ?2O0 and 2300 hours by various personi; Hying Aad/est Berlin. v \u00bb ^ ^ ^ \"fLYUW SAUCatS\" CNIB VIST Gi3^jy\u2018YT^EaaJ5i\u00bb",
+      "ave been emanated frcm the cecter of tbe dlsKa. \u201cmihO SAUCpiS\" OVTR SOOTERyi CtiyWif Berold, 23 Aug 3** Kew forS,^!l.lt^ Staati-Zeltucsg uxid Two \u201cflying saucere\" were seen over the city of Paatatt several lays ago, shortly after 2200 bo'ori, by at least 2 doreO|^ltneases . The saucers passed over the city froo Vest "
+     ]
+    },
+    "UFO": {
+     "n": 2,
+     "ctx": [
+      "^ 'I ii'\u00abr \u00bb \u2022wi'i r ^vrlt^O^J DOCUMENTS OR nAHIC QRCflVC CO COUNTRY Fon-Orblt \u2022 - DATE OF INFORMATION 195\u201c4 SUBJECT Kllltary - Unidentified flying objects HOW PUBLISHED tally newspapers DATE OIST. ;t5' Oct 195'\u00bb WHERE PUBLISHED As Indicated NO. OF PAGES 3 DATE PUBUSHEO 5 Jul-? Sep 19",
+      "JI) \u2022 - Mc-nalgnor Verhllle, ' Apoatollc Ylcar of fort Ronaret, reported in the BrarzaviUe uevapaper ScaiAlne <]\u00ab 1*A?5? that he axi>l otbera h*.a sighted an unidentified flying object over LaSctl In the liVunla- MDatalA reijlon of the Kiddle Congo biTl8^unV 1954^^1935 houre. A liaaicoua globe,, it ease frc\u00ab the Hortb tovard the lAhetl Klaa"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015482",
+   "year": 2020,
+   "date_src": "text_modal",
+   "era": "2017-22",
+   "chars": 11535,
+   "hits": {
+    "flying saucer": {
+     "n": 2,
+     "ctx": [
+      "r side a siaII luslnous tall fo/alng an Integral part of the object. Vhen the travelers reached the bridge at Bulre, they aaw vhat the^ tellevcJ to oe a \u201cflying saucer\" increasing Its altitude; as soon as the car lights bea<3ed on It, the ouject started flying si great speed toward La Herie, 3-^ klloneiers away, and di8Bpf\u00ab",
+      "l Of the object. The h'etnerlaads \"n-YItiC 5A1>:E83\" over the H.\\Cl/\u00a3 -- A..\u00abterd&3S, De Tclea.'aaf, 6 .iug 5** Ten fireacn and their chief observed ^wo \"flying saucers\" over The Hogue on the night of 4 August between Z^O'J and 2400 hours. The objects were seen In the clear night air at a high altitude. They ooved at .ncredl"
+     ]
+    },
+    "extraterrestrial": {
+     "n": 1,
+     "ctx": [
+      " than the landing of planes used -in saujgling. Fm^ornof^ In one case, the far:.er To Corrcce Dcpartcent stated that the pilot uttered unintelliglole words; ^et the farmer vas-certalnly.no polyglot and could easily have been fooled. In the other case. In ValenclenneGiDepartment, the witness may have .,een sincere, b"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015483",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 623,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015484",
+   "year": 1958,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 958,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015486",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 301,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015487",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 480,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015488",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 17,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015489",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 10,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015490",
+   "year": 1976,
+   "date_src": "text_modal",
+   "era": "1970-99",
+   "chars": 2426,
+   "hits": {
+    "UFO": {
+     "n": 3,
+     "ctx": [
+      "KH cem/ri\u00ab.it I9 iHew ffcm -wH&m K> whom. t <o*vmA of}\u00abr \u00ab9<b comatM.) ^^Sr. At a recent TOeetlng to evaluate sor mentloaed a personal, interest in the UFO phenoroena. As you may recall, I mentioned my own interest in the subject as well as the fact that DCD had been receiving UFO related material from many of",
+      "d a personal, interest in the UFO phenoroena. As you may recall, I mentioned my own interest in the subject as well as the fact that DCD had been receiving UFO related material from many of our SiT sources who are presently conducting related rcscarchi Thesi scientists Include some who have been associated with t",
+      "d a personal Interest in the Uro phenomena. \u2018\u2018As you nay recall, I mentioned my own interest In the subject as well as the fact that DCO had been receiving UFO related material from many of our StT sources who are presently conducting relvated research. Thesi scientists include some who lisvc been associated v^lt"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015491",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 6408,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015492",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 1250,
+   "hits": {
+    "extraterrestrial": {
+     "n": 1,
+     "ctx": [
+      "uaoel by VrJs date, plccje^costacfc this offlr by teltp boae laa-odlately . . ^ J \u2022' \u2018 ~j. \\(i ir i'\" I f \u2018 /fc y / . \u25a1 5!:c;:et \u25a1 CC\u2018..I UiE t:.iv "
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000015495",
+   "year": 1958,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 3062,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000015496",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 2716,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000028609",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 11,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000042346",
+   "year": 1989,
+   "date_src": "text_modal",
+   "era": "1970-99",
+   "chars": 11003,
+   "hits": {
+    "UFO": {
+     "n": 30,
+     "ctx": [
+      " t\u00abeadi!ig Soviet nev5{>apers end journals tieve recently begun publishing an increasing nueber o\u00a3 articles and nevs reports on sightings o\u00a3 unidentified flying objects (UFOs) In various areas of the Soviet Union. **peraanent center\u201d for the study of UFOs has been established in Moscow to conduct research and support the inv",
+      "oviet nev5{>apers end journals tieve recently begun publishing an increasing nueber o\u00a3 articles and nevs reports on sightings o\u00a3 unidentified flying objects (UFOs) In various areas of the Soviet Union. **peraanent center\u201d for the study of UFOs has been established in Moscow to conduct research and support the investiga",
+      "er o\u00a3 articles and nevs reports on sightings o\u00a3 unidentified flying objects (UFOs) In various areas of the Soviet Union. **peraanent center\u201d for the study of UFOs has been established in Moscow to conduct research and support the investigation of reported sittings. ***********. ************* Setting the tone for t",
+      "******* Setting the tone for this media coverage was an article in the 9 July 1989 S0TSIALISTICHESKA7A INDUSTRIYA, which referred to many recent reports of UFO sightings in the USSR. Interviewed by the paper ^ P. Prokopenko, director of a laboratory for the study of ^anomalous phenomena,\u201d stated that a \u201dperaanent ce"
+     ]
+    },
+    "extraterrestrial": {
+     "n": 4,
+     "ctx": [
+      "ression in the grass with a diameter of 4 meters. The skeptics maintain that most of this so-called \"evidence\" can be explained as having no connection with extraterrestrial intelligence. Many of the sightings could be attributed to rocket testing, for example. Academician Vladimir Vasilyevich Migulin, director of the Terrestrial",
+      "of the Terrestrial Magnetism Institutd\" does not believe the claims of scientists who maintain they have found remnants in Dalnegorsk of a UFO constructed by extraterrestrials, and he is convinced that the materials found at that site are really only the remnants of the unsuccessful launch of a Soviet rocket in that region, fie bel",
+      "in both cases \u2014 in Dalnegorsk and in Roswell. In the latter case, he cited the testimony of eyewitnesses who maintained that they had seen the bodies of four extraterrestrials lying near the smashed spacecraft. According to Platov, however, the eyewitnesses in the Roswell case were mistaken. He believes that the object that crashed",
+      "nts seeking sensational news for their aevsp^ers, regardless of the controversial mature of the so-called **weighty evidence** being presented as proof that extraterrestrials had visited Voronezh. "
+     ]
+    },
+    "entity/being": {
+     "n": 1,
+     "ctx": [
+      " Some of the scientists have concluded that the object that crashed into Hill 611 was an *\u00abx tra terras tri^\" space vehicle constructed by highly intelligent beings. Doctor of Chemical Sciences V. Vysotskiy stated that \"without doubtt this is evidence of a hi^ technology, and it is not anything of a natural or terrestria"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000042347",
+   "year": 1967,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 9498,
+   "hits": {
+    "flying saucer": {
+     "n": 1,
+     "ctx": [
+      " Fanners Baming Straw To Make Up For Delays AUJ608J62389 Sofia RABOTNICHESKO DEIX) in Bulgarian U Aug 89 p 2 [Unattributcd report: \u201cWarning Tip: Ban on *Flying Saucers Made of Straw***] [Text] It is well-known how the short-lived sensational story ended concerning the unidentified flying object that was recently reporte"
+     ]
+    },
+    "UFO": {
+     "n": 1,
+     "ctx": [
+      "ributcd report: \u201cWarning Tip: Ban on *Flying Saucers Made of Straw***] [Text] It is well-known how the short-lived sensational story ended concerning the unidentified flying object that was recently reported to have landed near Moscow: Unprejudiced investigations produced a perfectly pro- saic explanation, namely the combustion of a la"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000042348",
+   "year": 1990,
+   "date_src": "text_modal",
+   "era": "1970-99",
+   "chars": 16556,
+   "hits": {
+    "extraterrestrial": {
+     "n": 1,
+     "ctx": [
+      "toe 20 Novemba- Soviet morning sem^ in toe Kremlin. f The morning ression is chaired by Nish^tov, who says toere is a quorum for toe joint session oftoe S^et of toe Union and So^ of Nationalities aM declares toe session open. HeWtes that if toe adtoda is not com- pleted this week, ii is not exduded mt toe session"
+     ]
+    },
+    "telepathy/psi": {
+     "n": 1,
+     "ctx": [
+      " \u00aeon^- vatives. At the same time, wc must take all the >^u\u00bble and useful and sensible things offered by both of these, and indude these in our programme and psi on alo^ our own way. As for the aspects whidi came in for mtic^, I would limit myrelf to just two approaches. Emotions carried over from meetings were pres"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000042349",
+   "year": 1979,
+   "date_src": "text_modal",
+   "era": "1970-99",
+   "chars": 63235,
+   "hits": {
+    "flying saucer": {
+     "n": 1,
+     "ctx": [
+      "e airplanes or anything else. More and more people saw them but nobody knew what they were. So after failing to find their name after much research. them \u2022\u2022flying saucers** which foreigners called UFO\u2014 namely unidentified flying objects. Is this a cwccpl? -Flying iaucers**--unidentiricd flying ^ms-^s a concept. Rut what exact"
+     ]
+    },
+    "UFO": {
+     "n": 2,
+     "ctx": [
+      "re people saw them but nobody knew what they were. So after failing to find their name after much research. them \u2022\u2022flying saucers** which foreigners called UFO\u2014 namely unidentified flying objects. Is this a cwccpl? -Flying iaucers**--unidentiricd flying ^ms-^s a concept. Rut what exactly is this unideati- iicd flyi",
+      "w them but nobody knew what they were. So after failing to find their name after much research. them \u2022\u2022flying saucers** which foreigners called UFO\u2014 namely unidentified flying objects. Is this a cwccpl? -Flying iaucers**--unidentiricd flying ^ms-^s a concept. Rut what exactly is this unideati- iicd flying object or *71ying saucerT* Is it "
+     ]
+    },
+    "consciousness": {
+     "n": 2,
+     "ctx": [
+      "through legal struggle and he had no intention of overthrowing the capitalist system. Wc 'annot just say ytm American workers have such a low level of class consciousness, you are cor- rupted. and etc. 1 think wc shtnild do more than make critical remarks on this issue, for it reflects the objective existence of a, situation;",
+      "heroes. However, in the socialsit period, since the party and letders have high prestige, wc always feel like wt arc wrong, wondering if wc lack ideological consciousness, if wc arc wrong after all, and if wc will go down in histc^ labelled as a byword of infamy and humiliation. TTiis indeed poses a mental pressure. .So I nid"
+     ]
+    },
+    "entity/being": {
+     "n": 1,
+     "ctx": [
+      "s of Mtistics on urban nstry of Finance Wuld like to see lards applied to me definitioii of cm becatse the mhre than 9,100 \u2022II w- \"*: treatment as m urban entity wil be a heavy bidden. The public security, commercial. ^ucatHm. iwblidhcalth. and grain departments all have dtllerent definiyons and measures for urbbn a"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000042350",
+   "year": 1992,
+   "date_src": "text_modal",
+   "era": "1970-99",
+   "chars": 11765,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000042351",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 21397,
+   "hits": {
+    "flying saucer": {
+     "n": 1,
+     "ctx": [
+      "cc. An examine of such organizations is the tctentific tocreties of UFO Ciiicicrs with coirc- tponding periodicals as the revue \u201cFddic Tansuo** (-Studies of Flying Saucers**). The cflbni by Chinese acientists to find in anc^nt (jhinese sources -historical evidences** of UFO* exigence are d* particular Interest for Sinologisis "
+     ]
+    },
+    "UFO": {
+     "n": 5,
+     "ctx": [
+      "cmiomic history could be applied r<H* forecasting trends in the following flelds: global problems, studies of economic growth and anal>*sis of precedents. UNIDENTIFIED FLYING OBJECTS (UFO) IN ANCIENT CHINA A.D. DIKARYOV The process of cmanctpalton of thought in (*hina in 1910$ is particularly impressive after the spiritual vacuum of ",
+      "ied r<H* forecasting trends in the following flelds: global problems, studies of economic growth and anal>*sis of precedents. UNIDENTIFIED FLYING OBJECTS (UFO) IN ANCIENT CHINA A.D. DIKARYOV The process of cmanctpalton of thought in (*hina in 1910$ is particularly impressive after the spiritual vacuum of the e",
+      "e based on the cai- nomtc reforms, ukes in a number of cases the form of unofllcial reiencc. An examine of such organizations is the tctentific tocreties of UFO Ciiicicrs with coirc- tponding periodicals as the revue \u201cFddic Tansuo** (-Studies of Flying Saucers**). The cflbni by Chinese acientists to find in anc^nt (",
+      " as the revue \u201cFddic Tansuo** (-Studies of Flying Saucers**). The cflbni by Chinese acientists to find in anc^nt (jhinese sources -historical evidences** of UFO* exigence are d* particular Interest for Sinologisis and experts in ictencc of scieiice. The activities of adherents of this new sdeniific trend in Cliina d"
+     ]
+    },
+    "consciousness": {
+     "n": 1,
+     "ctx": [
+      "ell as the small enterprises perform this function in practically all countries of Asia. But this way is still firmly blocked by a deep-rcmied iSugma in our consciousness that proclaimed the slate property lo k* a prion the height of perfection. STANOAKI) OF NON-('APITAIJ.ST OnVELOP- AIENT M.A.<IUMOV One could not deny t"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000042352",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 11175,
+   "hits": {
+    "UFO": {
+     "n": 1,
+     "ctx": [
+      "ttention of about half of the respondents, a majority (80 pcittml) arc interested in questions linked to mysterious pb(*m>mcfui of nature and the human mind (UFO's. 40 Idcpathy. telekinesis, the bioficld. and the like). There is a iMHaMe rnfatuatiem with dream btKiks. honrscopi's. fortune idling, and the like. Althou"
+     ]
+    },
+    "consciousness": {
+     "n": 1,
+     "ctx": [
+      " real processes in the ideology and activity of our country's religious organizations.*' But while rejecting vulgar athe- ism which has been imposed on mass consciousness for many years, wc must understand that idealized ideas of religion and religicHis organizations arc also unwise and usually result from inadequate theoreti"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000043370",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 2118,
+   "hits": {
+    "UFO": {
+     "n": 4,
+     "ctx": [
+      " KONG ACCT FBLD-EWDK BT CONTROLS UNCLAS 3B/PMU/SU CHINA SERIAL; LD2205081590 BODY J COUNTRY; USSR SUBJ; USSR, PRC SCIENTISTS IN JOINT STUDY OF UFO'S SOURCE; MOSCOW DOMESTIC SERVICE IN RUSSIAN 2100 GMT 21 MAY 90 TEXT: ((TEXT)) A REPORT FROM VLADIVOSTOK \u2014 SCIENTISTS THE SOVIET FAR EAST HAVE BEGUN JO",
+      "OSCOW DOMESTIC SERVICE IN RUSSIAN 2100 GMT 21 MAY 90 TEXT: ((TEXT)) A REPORT FROM VLADIVOSTOK \u2014 SCIENTISTS THE SOVIET FAR EAST HAVE BEGUN JOINT STUDY, OF UFO'S. MEETING OF UFOLOGISTS OF THE TWO COUNTRIES HAS EJJDEP ^ ^ _ MARITIME TOWNLET OF DALNEGORSK. THE SOVIET AND CHINESE ^KI^^ ON ANOMALOUS PHENOMENA HAVE M",
+      "HOTOGRAPHIC MATERIALS ON DALNEGORSK HAS NOT BEEN CHOSEN BY CHANCE AS T^ PLACE FOR SUCT ACQUAINTANCE. IN THE LAST FEW YEARS THE NUMBER OF CAS^ OBSERVATION OF UFO'S HAS NOTICEABLY INCREASED THERE- IN JUST THE UNCLASSIFIED ^pprovftf tof Refoiis JUN m \u25a0UNCLI^SSIFIED PAGE; 0067 LAST FOUR YEARS ALONE RO LE",
+      "CEABLY INCREASED THERE- IN JUST THE UNCLASSIFIED ^pprovftf tof Refoiis JUN m \u25a0UNCLI^SSIFIED PAGE; 0067 LAST FOUR YEARS ALONE RO LESS THAN 10 UFO'S HAVE SPECIALISTS LINK THEIR HEIGHTENED INTEREST IN VARIETY AND WEALTH OF USEFUL MINERALS IN MARITIME KW * yuosE INCiSrS HAVE AI^ ocamco in hountainous r"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000044116",
+   "year": 1969,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 5939,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000098713",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 4045,
+   "hits": {
+    "UFO": {
+     "n": 7,
+     "ctx": [
+      "FIED UNCLASSIFIED PAGE: 0002 WARNING : ATTN WSPOPO SERIAL : LD2606110796 BODY COUNTRY : SUBJ: LITHUANIA POLICE OFFICERS SPOT UFO; RAPID REACTION FORCE ALERTED SOURCE : MOSCOW ITAR-TASS WORLD SERVICE IN RUSSIAN 0920 26 JUN 96 GMT TEXT: BY VLADAS BURBULIS FBIS TRA",
+      " SOURCE : MOSCOW ITAR-TASS WORLD SERVICE IN RUSSIAN 0920 26 JUN 96 GMT TEXT: BY VLADAS BURBULIS FBIS TRANSLATED TEXT VILNIUS, 26 JUN -- AN UNIDENTIFIED FLYING OBJECT (UFO) , SPOTTED NEAR THE LITHUANIAN BORDER ON 25 JUNE BY TWO DUTY MOTOR POLICE PATROL OFFICERS JAUNIUS POZERA AND LAIMIS KRAUJALIS PLACED THE WHOLE VILIUS PO",
+      "S WORLD SERVICE IN RUSSIAN 0920 26 JUN 96 GMT TEXT: BY VLADAS BURBULIS FBIS TRANSLATED TEXT VILNIUS, 26 JUN -- AN UNIDENTIFIED FLYING OBJECT (UFO) , SPOTTED NEAR THE LITHUANIAN BORDER ON 25 JUNE BY TWO DUTY MOTOR POLICE PATROL OFFICERS JAUNIUS POZERA AND LAIMIS KRAUJALIS PLACED THE WHOLE VILIUS POLICE ",
+      "XPANDING. AT THE SAME TIME, THEY HEARD WHAT THEY DESCRIBED AS \"A STRANGE SOUND LIKE AN ELECTRIC OR ELECTRONIC CRACKLE, \" WANTING TO TAKE A CLOSER LOOK AT THE UFO, THE POLICEMEN MOVED TOWARD IT. WHEN THEY HAD ADVANCED ABOUT 50 METERS THROUGH THE LONG GRASS,- THE POLICE SAID, THE SPHERE MOVED AWAY, ROSE HIGHER AND RAPI"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000098714",
+   "year": 1997,
+   "date_src": "text_modal",
+   "era": "1970-99",
+   "chars": 5346,
+   "hits": {
+    "UFO": {
+     "n": 3,
+     "ctx": [
+      "LY OCCURRED IN DECEMBER, BUT BECAUSE OF THE REMOTE NATURE OF THE AREA HAVE BEEN SLOW COMING TO LIGHT. THE BLASTS HAVE BEEN ATTRIBUTED TO VARIOUS CAUSES FROM UNIDENTIFIED FLYING OBJECTS , UFO'S, TO ROCKET TESTS. WELL, SOMALILAND LEADER, MOHAMED EGAL, HAS BEEN LOOKING INTO THE UNCLASSIFIED Approvsd for Release ^ Date 1997 UNCLASSIFI",
+      "BECAUSE OF THE REMOTE NATURE OF THE AREA HAVE BEEN SLOW COMING TO LIGHT. THE BLASTS HAVE BEEN ATTRIBUTED TO VARIOUS CAUSES FROM UNIDENTIFIED FLYING OBJECTS , UFO'S, TO ROCKET TESTS. WELL, SOMALILAND LEADER, MOHAMED EGAL, HAS BEEN LOOKING INTO THE UNCLASSIFIED Approvsd for Release ^ Date 1997 UNCLASSIFIED ",
+      "FALLEN. THEY HAVEN'T BEEN ABLE TO DO THAT. ECOTT WHATEVER YOUR AUTHORITY IS CLAIMING THAT THIS MIGHT HAVE BEEN, SOME OF THE NEWS AGENCIES ARE TALKING ABOUT UFO'S. EGAL NO, NO, NO, NO, WE ARE NOT MAKING ANY CLAIMS OF THAT OR ANY FANTASTIC CLAIMS LIKE THAT, YOU KNOW. WHAT WE THINK HAPPENED IS THAT THERE MUST HAVE BE"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "cia-ufo-fof-0000098719",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 4471,
+   "hits": {}
+  },
+  {
+   "doc": "cia-ufo-fof-0000190094",
+   "year": 1960,
+   "date_src": "text_modal",
+   "era": "1940-69",
+   "chars": 767663,
+   "hits": {
+    "UFO": {
+     "n": 12,
+     "ctx": [
+      "e U-2 Project The CIA - Air Force Partnership Technical Challenges to High-Altitude Flight Delivery of the First U-2 Initial Testing of the U-2 U-2s, UFOs, and Operation BLUE BOOK 39 43 45 48 56 59 60 61 66 68 72 Approved for Release: 2013/06/25 Approved for Release: 2013/06/25 Hi",
+      "r members of his staff, and personnel from Lockheed and Hycon. This crash represented the greatest single loss of life in the entire U-2 program.^^ U-2s, UFOs, AND OPERATION BLUE BOOK Fligh-altitude testing of the U-2 soon led to an unexpected side effect \u2014 a tremendous increase in reports of unidentified flying o",
+      "ram.^^ U-2s, UFOs, AND OPERATION BLUE BOOK Fligh-altitude testing of the U-2 soon led to an unexpected side effect \u2014 a tremendous increase in reports of unidentified flying objects (UFOs). In the mid-1950s, most commercial airliners flew at altitudes between 10,000 and 20,000 feet and military aircraft like the B-47s and B-57s operated",
+      "RATION BLUE BOOK Fligh-altitude testing of the U-2 soon led to an unexpected side effect \u2014 a tremendous increase in reports of unidentified flying objects (UFOs). In the mid-1950s, most commercial airliners flew at altitudes between 10,000 and 20,000 feet and military aircraft like the B-47s and B-57s operated at alt"
+     ]
+    },
+    "extraterrestrial": {
+     "n": 2,
+     "ctx": [
+      ", in the West Potomac Park area of Washington. On 25 February 1956, the project staff moved again, this time to the fifth floor of the Matomic Building S^et Project AQUATONE Table of Organization, 28 April 1955 in OSA History, chap. 3, an- nex 15 (TS Codeword). Approved for Release; 2013/06/25 Approve",
+      "er 1956. renl\u2019v\u2018^ril raded to S); the Soviet protest note of 15 December 1956 and the b.S. reply of 1 muary 1957 are contained in \u201cAlleged Overflight of Sov.et Area by Amencan panes IS Department of State Bulletin, vol. 36. 28 January 19 d 7 p. Although Du les s .m- al inclination had been to offer an apology, the U"
+     ]
+    },
+    "consciousness": {
+     "n": 1,
+     "ctx": [
+      "s ex- periencing oxygen difficulties.\" Thus, if the Soviets protested and pointed to wreckage inside their borders, NASA could claim that the pilot had lost consciousness and the aircraft had then flown into the Soviet Union before crashing. \" Geary interview (S). Beschloss, Mayday, p. 39. Approved for Release; 2013"
+     ]
+    }
+   }
+  },
+  {
+   "doc": "ids.txt",
+   "year": null,
+   "date_src": "undated",
+   "era": "undated",
+   "chars": 5141,
+   "hits": {
+    "UFO": {
+     "n": 224,
+     "ctx": [
+      "cia-ufo-fof-0000015236 cia-ufo-fof-0000015244 cia-ufo-fof-0000015270 cia-ufo-fof-0000015297 cia-ufo-fof-0000015300 cia-ufo-fof-0000015317 cia-ufo-fof-0000015427 cia-uf",
+      "cia-ufo-fof-0000015236 cia-ufo-fof-0000015244 cia-ufo-fof-0000015270 cia-ufo-fof-0000015297 cia-ufo-fof-0000015300 cia-ufo-fof-0000015317 cia-ufo-fof-0000015427 cia-ufo-fof-0000015430 cia-uf",
+      "cia-ufo-fof-0000015236 cia-ufo-fof-0000015244 cia-ufo-fof-0000015270 cia-ufo-fof-0000015297 cia-ufo-fof-0000015300 cia-ufo-fof-0000015317 cia-ufo-fof-0000015427 cia-ufo-fof-0000015430 cia-ufo-fof-0000042348 cia-uf",
+      "cia-ufo-fof-0000015236 cia-ufo-fof-0000015244 cia-ufo-fof-0000015270 cia-ufo-fof-0000015297 cia-ufo-fof-0000015300 cia-ufo-fof-0000015317 cia-ufo-fof-0000015427 cia-ufo-fof-0000015430 cia-ufo-fof-0000042348 cia-ufo-fof-0000042350 cia-uf"
+     ]
+    }
+   }
+  }
+ ]
+}

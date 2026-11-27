@@ -1,0 +1,129 @@
+{
+ "records": 12234,
+ "training_share_all_titles": 0.0975,
+ "series_3digit": {
+  "records": 144,
+  "training": 140,
+  "et_titled": 18
+ },
+ "series_4digit_operational": {
+  "records": 1610,
+  "training": 14,
+  "et_titled": 0,
+  "project_numbers": 125
+ },
+ "et_titled": [
+  {
+   "id": "CIA-RDP96-00788R001900760001-9",
+   "title": "MARS, 1 MILLION BC (TRAINING)",
+   "training": true
+  },
+  {
+   "id": "CIA-RDP96-00789R003800220002-5",
+   "title": "248 & 249 SOURCE OF CHANNELED DATA (TRAINING)",
+   "training": true
+  },
+  {
+   "id": "CIA-RDP96-00789R003800230001-5",
+   "title": "221 THE MIDWAYERS (TRAINING)",
+   "training": true
+  },
+  {
+   "id": "CIA-RDP96-00789R003800100001-9",
+   "title": "238 MARS (TRAINING) 19/5/87",
+   "training": true
+  },
+  {
+   "id": "CIA-RDP96-00789R003800150004-1",
+   "title": "232 HIGDON EXPERIENCE UFO ABDUCTION (TRAINING)",
+   "training": true
+  },
+  {
+   "id": "CIA-RDP96-00789R003800220001-6",
+   "title": "248 & 249 SOURCE OF CHANNELED DATA (TRAINING)",
+   "training": true
+  },
+  {
+   "id": "CIA-RDP96-00789R003800050001-5",
+   "title": "238 MARS (TRAINING) 10/7/87",
+   "training": true
+  },
+  {
+   "id": "CIA-RDP96-00792R000700990001-2",
+   "title": "NEW ZEALAND-ENERGETIC INTERACTIONS-UFO'S",
+   "training": false
+  },
+  {
+   "id": "CIA-RDP96-00789R001600610001-7",
+   "title": "TRAINING, MARS, VIEWER 95 23 SEPT 87",
+   "training": true
+  },
+  {
+   "id": "CIA-RDP96-00789R003800190001-0",
+   "title": "168 U/I STRUCTURE, U/I LOCATION DESCRIPTION OF PERSONNEL ASSOCIATED WITH ET BASES (TRAINING)",
+   "training": true
+  },
+  {
+   "id": "CIA-RDP96-00789R003800220003-4",
+   "title": "248 & 249 SOURCE OF CHANNELED DATA (TRAINING)",
+   "training": true
+  },
+  {
+   "id": "CIA-RDP96-00789R003800150003-2",
+   "title": "232 HIGDON EXPERIENCE UFO ABDUCTION (TRAINING)",
+   "training": true
+  },
+  {
+   "id": "CIA-RDP96-00789R003800150002-3",
+   "title": "232 HIGDON EXPERIENCE UFO ABDUCTION (TRAINING)",
+   "training": true
+  },
+  {
+   "id": "CIA-RDP96-00789R003800060001-4",
+   "title": "238 MARS (TRAINING) 29/4/87",
+   "training": true
+  },
+  {
+   "id": "CIA-RDP96-00789R003800140001-5",
+   "title": "250 ET ACTIVITIES (TRAINING)",
+   "training": true
+  },
+  {
+   "id": "CIA-RDP96-00789R003800170001-2",
+   "title": "234 POSSIBLE CIII UFO ENCOUNTER (TRAINING)",
+   "training": true
+  },
+  {
+   "id": "CIA-RDP96-00789R001400640001-6",
+   "title": "018 TRAINING POSSIBLE UFO ENCOUNTER JUNE 87",
+   "training": true
+  },
+  {
+   "id": "CIA-RDP96-00789R003800080001-2",
+   "title": "238 MARS (TRAINING) 20/5/87",
+   "training": true
+  },
+  {
+   "id": "CIA-RDP96-00789R003800090001-1",
+   "title": "238 MARS (TRAINING) 29/4/87",
+   "training": true
+  },
+  {
+   "id": "CIA-RDP96-00789R003800150001-4",
+   "title": "232 HIGDON EXPERIENCE UFO ABDUCTION (TRAINING)",
+   "training": true
+  },
+  {
+   "id": "CIA-RDP96-00789R003800040001-6",
+   "title": "238 MARS (TRAINING) 27/4/87",
+   "training": true
+  },
+  {
+   "id": "CIA-RDP96-00789R003800210001-7",
+   "title": "ET ACTIVITY AGAINST US PROGRAMS (TRAINING)",
+   "training": true
+  }
+ ],
+ "et_training": 21,
+ "binomial_tail_vs_all_titles": 1.1762556567495887e-20
+}

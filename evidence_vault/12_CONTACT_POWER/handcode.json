@@ -1,0 +1,1760 @@
+{
+ "table_hand": {
+  "contact_claims|contact|CATALOGUE_LABEL": 1,
+  "contact_claims|contact|CLAIM_RELAY": 14,
+  "contact_claims|contact|ORDINARY_USAGE": 19,
+  "contact_claims|contact|PRESS_RELAY": 1,
+  "contact_claims|contact|SETI_THEORY": 7,
+  "contact_claims|contact|TRAINING_SESSION": 2,
+  "contact_claims|contact|TYPOLOGY": 5,
+  "deep_terms|B_maintained_contact|ORDINARY_USAGE": 128,
+  "deep_terms|B_maintained_contact|TYPOLOGY": 1,
+  "deep_terms|C_entities_in_power|CLAIM_RELAY": 3,
+  "deep_terms|C_entities_in_power|ORDINARY_USAGE": 9,
+  "deep_terms|C_entities_in_power|PRESS_RELAY": 2
+ },
+ "table_auto": {
+  "contact_claims|contact|DIRECT": 34,
+  "contact_claims|contact|HYPOTHETICAL": 3,
+  "contact_claims|contact|PHYSICS_TERM": 9,
+  "contact_claims|contact|THIRD_PARTY": 1,
+  "contact_claims|contact|TRAINING": 2,
+  "deep_terms|B_maintained_contact|DIRECT": 116,
+  "deep_terms|B_maintained_contact|HYPOTHETICAL": 2,
+  "deep_terms|B_maintained_contact|QUOTED_FICTION": 1,
+  "deep_terms|B_maintained_contact|THIRD_PARTY": 10,
+  "deep_terms|C_entities_in_power|DIRECT": 9,
+  "deep_terms|C_entities_in_power|PHYSICS_TERM": 4,
+  "deep_terms|C_entities_in_power|QUOTED_FICTION": 1
+ },
+ "rows": [
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_01__255_413270_UFO's_and_Defense_What_Should_we_Prepare_For_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "TYPOLOGY",
+   "ctx": "asis ofthe facts observed and their interpretation, while trying to answer three questions: Who are they? What are their intentions? Are they seeking to make contact or have they already done so? I 10.1 What Extraterrestrials? Who Are They and What Are They Like? I A relative consistency emerges from the numerous descriptions ofthe phenomena: saucer, luminou"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_01__255_413270_UFO's_and_Defense_What_Should_we_Prepare_For_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "TYPOLOGY",
+   "ctx": "eans to investigate I them, c) States that know ofextraterrestrial phenomena and have the means to investigate them, I d) States that have entered into contact with one or more extraterrestrial civilizations and that have established relations and/or entered into political, scientific, and technical collaboration. I 10.4 Have Contacts Possibly Been Made with"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_01__255_413270_UFO's_and_Defense_What_Should_we_Prepare_For_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "TYPOLOGY",
+   "ctx": "at strategies could we map out in the following situations: - appearance ofUFO and extraterrestrial desire to establish an official and peaceful I. contact, - chance or intentional discovery ofa microbase or base at some location in France or in Europe: position to adopt toward a friendly or non-friendly power, I - invasion (hardly likely given the fact that"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_01__255_413270_UFO's_and_Defense_What_Should_we_Prepare_For_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "TYPOLOGY",
+   "ctx": " eventually , mix with the indigenous populations, going against orders received, whatever happens not to intervene or interfere in local affairs. These contacts presuppose that the worlds discovered are populated with human beings or hominids I whose complexion is identical or close to ours. But under the hypothesis of contacts and planned long-term settlem"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_01__342_HS1-416511228_box186_319.1-Flying-Discs-1949_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "l.1 h \u2022 b . Surroundina t errain V'rere object \"'f'.S observed: \u2022 \u2022 0 ,..JOE P!'ige 11 EEI Froject \"SIGF\" c. P1ace w},et'e object contacted earth ( if tbis happened) : 1d no d . ''aneuvers~ e . \"?or!T!ation (if morP t>:e n t'.'\u2022o): 0 t 8. Secure ~ipnerl stat ement: \u2022 9 . Obtain fraP.'l!lf'nts or p1:vsical evidence wJ,, ere possible"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "CLAIM_RELAY",
+   "ctx": "E Van Tassel, Hal Wilcox. R ,..;-; HEAR: Amazing experiences with spacecraft from other planets and their occupants by the N greatest assembly of contactee-speakers since our Los Angeles convention in 1959 at the Statler-Hilton. SEE: Startling new photographic evidence -the biggest collection of Flying Saucer photos on display in the history of the saucer mo"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "CLAIM_RELAY",
+   "ctx": "or the death of journalistic freedom and individuality! Perhaps you would be surprised to learn that Annual Spacecraft Convention at Giant Rock, Calif. in contacts with several Space Beings, including Monka One more comment on this topic: May I say that ancient Latin was liberally taken from Galingua. the desert 17 miles north of Yucca Valley. Bring of Mars."
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "CLAIM_RELAY",
+   "ctx": " Miss said peoplehavecommun1cate.d w1thl her In the English lan;::uage 'though a bit haltmgly\" and that .THOSE SPACE PEOPLE! Ctz,..~::w\u2022 one such communication was With people trom lhe planet Plut0. She part!<! with the infonna\u2022 Flying Saucers, lion that the flyirig saucer peo\u00ad ple travel In J lgantlc saucers as much IS IO mlle.s long and that the.5ebouseasm"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "CLAIM_RELAY",
+   "ctx": "at Man's cation here. The book will discuss the possibility of life here and later, is more likely to depend on his living beings in space and efforts to communicate rel ation to the spiritual than to the scientific. with them . Our decisions now will unavoidably determine fut\u00ad The chief editor of the book is B. P. Konstantinov, ure actions. Nature around us"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "PRESS_RELAY",
+   "ctx": " of his Western contemporaries. The author has spent 30 years collecting evidence to back up his thesis that intelligent beings from outer space have had contact with our Earth. He has written two books, \" Cosmic Reminiscences in Written Reli cs of the Past\", and \" The Evolution of the Univ\u00ad erse and Intelligent Beings.\" With acknowledgements to the \" SPUTNI"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_6_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "red to moue. llr. Eekhout stated that he did not feel such a deutce could be re~ote controlled atnce tt would probably not be poastble to maintain radt o contact with tt. Ile /eels, however, that the occupants of such a deutce ~ould be /ullU protected stnce accordtng to the electrtcal theory demonstrated by Tara.day's Cage the current tnuolued tn the propul."
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_8_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "CLAIM_RELAY",
+   "ctx": "hat durtng hts l'inrerrowd _ Tele . Room _ Rollo.man _ Gandy __ Tolson __ tated that Swan tnfo ed that Boardman _ Nichols _ _ h ne1J o have contact tth th p ople in \u2022 ut r Belmont _ _ rpac , \u2022 s d et a buzzing so d tn her left ar to ffarbo __ Mohr __ tndtcc.te that tltey ~ n th line.\u2022 Hut tatBd that Pa,sons __ Rosen __ Tamm __ Sizoo _ _ - 2"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_8_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "THIRD_PARTY",
+   "hand_code": "CLAIM_RELAY",
+   "ctx": "n an article that the DFSC met Septe~ber 28 , 1954, and DES~OND LESLIE , British flyinf saucer authority , spoke , statin that <1-EO'R ,-E ADAMSKI made contact to yeas a~o with space people n a Cal fornia dese t . Mr. V1. ..: WILL ill) advised he \"ece ved a letter September 30 , 1954, from DOLORES~ - COYNE , Secy., DF~C , settin~ out the d scussion roup in t"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_9_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "CLAIM_RELAY",
+   "ctx": "tood that JANAP 1~6 i\u2022 \u2022 Depa~tm nt of Defense document nd 1 not. aG such, pplicable to the operations of the Federal Bureau of Investigation. Foa&ible communication Vil.th extraterrestrial ' vehicles from another pl not, should th unidentifi d ESS:jas See cover memo Donahoe to Belmont. captioned (6) \"Donald E. Keyhoe. Misc\u00b7ellaneous .. Information Concernin"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_9_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "CLAIM_RELAY",
+   "ctx": " INVESTIGATIVE SOCIETY; GEORGE W. VAN TASSEL they have the power to know your thoughts just as JESUS did. He said this is their means or communication and many or the space people are mute, but they train a certain number or them to speak earth languages. He said that the space people here on earth are equipped with a \"crystal battery\" which generates a magn"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_9_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "CLAIM_RELAY",
+   "ctx": "se earth people who have abided by the \"Golden Rule\" when the polar tilt occurs, but will leave the rest to perish. He advised that the space people have contacted the officials on earth and have advised them of their concem but this has not been made public. He also said that the radioactive fallout has become extremely dangerous and officials are worried b"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Serial_449_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "CLAIM_RELAY",
+   "ctx": " Troxell, George W . Van Tassel, Hal Wilcox. HEAR: Amazing experiences with spacecraft from other planets and their occupants by the greatest assembly of contactee-speakers since our Los Angeles convention in 1959 ~ at the Statler- Hilton. SEE: Startling new photographic evidence - the biggest collection of Flying Saucer photos on display in the history of t"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Serial_449_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "CLAIM_RELAY",
+   "ctx": ": G . Green 4:40 DR.FRANK STRANGES MARIANNE FRANCIS GABRIEL GREEN ORFEO ANGELUCCI WAYNE AHO MARIANNE FRANCIS to \"A Space Beings Visit \"Starcraft Contact\" \" Abundant New World: \"Secret of the \" Flying Saucers and \"Messages From Our 5:30 to the Pentagon\" The Promise for Tom Saucers\" the Latter Days\" Space Brothers\" Chairman: Dan Fry Ch: Hanno Mayberry morro"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Serial_449_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "CLAIM_RELAY",
+   "ctx": "stigation. WILBUR MILLER, one of the early researchers in the Flying Saucer Movement, passed away en Ma\u00b7rch 5, 1966. He was known for his fine channel contacts with several Space Beings, including Monka of Mars . He also was the co- author - with his wife, Evelyn - of the book \"We of the New Dimension.\" Although he was a native of Missouri he had, in recent "
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_03__FBI-UAP-D012_Newark-Field-Office_1952-1967_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "CLAIM_RELAY",
+   "ctx": "s, Mollie Thompson, Hope Troxell, George W. Van Tassel, Hal Wilcox. es with spacecraft from other planets and their occupants by the greatest assembly of contactee-speakers since our Los Angeles convention in 1959 at the Statler-Hilton. SEE: Startling new photographic evidence -the biggest collection of Flying Saucer photos on display in the history of the s"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_03__NASA-UAP-D016_Preliminary-Gemini-4-Crew-Debriefing_Part1_1965_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "thrown around so that we couldn't have heard anything anyway. C8t--.J\u00b7F ID-ENTIAI: I White McDivi tt -cot \u25c4 FIE>Et~TIAl They tried to communicate with us a couple of times after we came out of the blackout and before we put the drogue out . I didn't hear exactly what he was saying. He wasn't hearing anything I was saying either as far as I could tell"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_03__NASA-UAP-D020_Gemini-5-Technical-Debriefing_Part2_1965_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": " t t ast ed good. No objectionable t aste to i t at all. I thought the water was excellent . Humidity sensor . .GON\u00a3Hil Et~TJ.il:s 66 8,5 Communications Cooper Yes, we took it. It worked fine . It dries out very rapidly; you have to refill it with water frequently, but that is no problem. The drink gun fills it very readily. I t seems to be pretty ac"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_03__USG-UAP-D001_Congress-WhiteHouse-UFO-Correspondence_1998_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": " the field ofaerial phenomena investigation. UFO Points ofContact 1. For further information on the Search for Extraterrestrial Intelligence, please contact the SETI Institute, 2035 Landings Drive, Mountain View, CA 94043, (415) 960-4530. 2. News media requiring Project Blue Book files should contact the National Archives Public Affairs Office, (202) 501-552"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_03__USG-UAP-D001_Congress-WhiteHouse-UFO-Correspondence_1998_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "he U.S. Government and Unidentified Flying Objects.\" This Fact Sheet gives a brief outline of NASA's research into UFO's and will give you other points of contact you may wish to pursue. We appreciate your interest in this matter. Edward Heffernan (Acting) Associate Administrator for Legislative Affairs Enclosure This letter came to us via_the White House Bu"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_03__USG-UAP-D001_Congress-WhiteHouse-UFO-Correspondence_1998_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "1he U.S. Government and Unidentified Flying Objects. This Fact Sheet gives a brief outline of NASA's research into UFO's and will give you other points of contact 0A;;f:~ou may wish to pursue. We appreciate your interest in this matter. Sincerely, Edward Heffernan (Acting) Associate Administrator for Legislative Affairs Enclosure Headquarters Action Tracking"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_03__USG-UAP-D001_Congress-WhiteHouse-UFO-Correspondence_1998_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "the field ofaerial phenomena inves\u00ad tigation. UFO Points ofContact 1. Forfurther infonnation on the Search for Extraterrestrial Intelligence, please contact the SETI I~itute, 2035 Land\u00ad ings Drive, Mountain View, CA 94043, (415) 960-4530. 2. News media requiring Project Blue Bookfiles should con\u00ad tact the National Archives Public Affairs Office, (202) 501- 5"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_05__DOW-UAP-D100_Air-Materiel-Command-Report-on-UFOs_1947-1948_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "g Hone:ral, A~ llatcricl COlUlW:il, 1sht- e.tter~on Afr Force &t.ue, Dmon, ,Ohio A'fftt: T~DIU I\"\"'. /' l. fhe Central Int.nlli,sonce Aceney h&s contactod tho , ow York ottlco or Zitt-Oavis P12bliahing Ca:tpan,y in cc:mnection nth basic l.et.ter' s request fl,)l' iu.toraation on 11JW&udng Stor1u11 and their pub~cat.ion ot items r\u25ba gard.int Fqing Diaes. ~ 2. "
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_06__DOW-UAP-D127_AAWSAP-DIRD-An-Introduction-to-the-Statistical-Drake-Equation-March-11-2010_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "SETI_THEORY",
+   "ctx": "wards the Galactic Center, looking for beacons (see, for instance ref. [1]). \u2022 Suppose next that N=l000, i.e. there are about a thousand extraterrestrial communicating civilizations in the whole galaxy right now. Then the distance law (5) yields an average distance of 2,885 light years. This is a distance that most radiotelescopes in Earth may not reach for "
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_06__DOW-UAP-D127_AAWSAP-DIRD-An-Introduction-to-the-Statistical-Drake-Equation-March-11-2010_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "PHYSICS_TERM",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "bove three special cases of N, we may say that the distance law (5) yields t he following key diagram of the average ET distance vs. the assumed number of communicating civilizations, N, in the galaxy right now (Figure 1): UNCLASSIFIED/ J'FOA. OFlilCI0 I. P !SE ON! X 6 0 l \\ ' \"-- ~ UNCLASSIFIED/ /FOR OFFIEiIAk Wlii QPU,\u00a5 Average DIST A CE of the nearest ET "
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_06__DOW-UAP-D127_AAWSAP-DIRD-An-Introduction-to-the-Statistical-Drake-Equation-March-11-2010_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "PHYSICS_TERM",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "he fraction of inhabited planets on which an intelligent form of life evolves. \u2022 fc, the fraction of planets inhabited by intelligent beings on which a communicative technical civilization develops. \u2022 fl, the fraction of planetary lifetime graced by a technical civilization. Written out, the equation reads N =Ns \u2022jjJ \u2022ne \u2022fl \u00b7ft \u00b7Jc\u00b7 fL (7) All of the f's ar"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_06__DOW-UAP-D127_AAWSAP-DIRD-An-Introduction-to-the-Statistical-Drake-Equation-March-11-2010_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "PHYSICS_TERM",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "IED/ /FOR OFFIEiIAk Wlii QPU,\u00a5 Table 1. Summary of the Properties of the Lognormal Distribution That Applies to the Random Variable N = Number of ET Communicating Civilizations in the Galaxy Random variable N = number of communicating ET civilizations in galaxy Probability distribution Loqnormal Probability density function (1n(11h,J' 1 1 -~ (n ;::-: 0) n 27"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_06__DOW-UAP-D127_AAWSAP-DIRD-An-Introduction-to-the-Statistical-Drake-Equation-March-11-2010_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "PHYSICS_TERM",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "he Lognormal Distribution That Applies to the Random Variable N = Number of ET Communicating Civilizations in the Galaxy Random variable N = number of communicating ET civilizations in galaxy Probability distribution Loqnormal Probability density function (1n(11h,J' 1 1 -~ (n ;::-: 0) n 27!<:T JN (n)= - \u00b7 & e a' Mean value - (N )= e\u00b5e 2 Variance a1 = e2\u00b5"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_06__DOW-UAP-D127_AAWSAP-DIRD-An-Introduction-to-the-Statistical-Drake-Equation-March-11-2010_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "PHYSICS_TERM",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "ion (7). We see that, for this particular set of seven inputs, the classical Drake equation (i.e. the product of the seven numbers) yields a total of 3500 communicating extraterrestrial civilizations existing in the galaxy right now. rs := 350 -109 s := s 0 10 \u00b5fp := fp fp := 100 ofp := 100 l ne := 1 \u00b5ne := ne crne := -/3 0 fl := - \u00b5fl := fl crfl := ~ 100 10"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_06__DOW-UAP-D127_AAWSAP-DIRD-An-Introduction-to-the-Statistical-Drake-Equation-March-11-2010_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "SETI_THEORY",
+   "ctx": "a FINITE INTERVAL a::; x::; b. This is obviously the case with any physical POSITIVE random variable, such as a distance, or the number N of extraterrestrial communicating civilizations in the,\". And it is easy to prove that for any such finite random variable the maximum entropy distribution is the UNIFORM distribution over a -5, x -5, b. Shannon did not bo"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_06__DOW-UAP-D127_AAWSAP-DIRD-An-Introduction-to-the-Statistical-Drake-Equation-March-11-2010_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "PHYSICS_TERM",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "0, the Drake equation was the first scientific attempt to estimate the number N of ExtraTerrestrial civilizations in the Galaxy with which we might come in contact. Frank D. Drake (see ref. [4]) proposed it as the product of seven factors: N=Ns-fp-ne\u00b7fl\u00b7fi\u00b7fc\u00b7fL. (1) Where: I) Ns is the estimated number of stars in our Galaxy. 2) fp is the fraction (= percen"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_06__DOW-UAP-D127_AAWSAP-DIRD-An-Introduction-to-the-Statistical-Drake-Equation-March-11-2010_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "SETI_THEORY",
+   "ctx": "I DEAD END! I 4. The Central Limit Theorem (CLT) of Statistics. I s. LOGNORMAL distribution as the probability distribution of the number N of communicating ExtraTerrestrial Civilizations in the Galaxy. I 6. Comparing the CLT results with the Non-CLT results, and discarding the Non-CLT approach. 7. DISTANCE to the nearest ExtraTerrestriai Civilization as a p"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_06__DOW-UAP-D127_AAWSAP-DIRD-An-Introduction-to-the-Statistical-Drake-Equation-March-11-2010_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "PHYSICS_TERM",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": " derived about the random variable N in the following Table 2. Random variable Probability distribution Probability density function N =number of communicating ET civilizations in Galaxy Lognormal (111(11}--p)' 1 1 ---;;;;r- fN(n) =-\u00b7 ..n,; e (n z O) n 2na Mean value (T2 - (N) =e\" e 2 Variance a1 =e2\" ea2 (ea2 -1) Standard deviation a' a N"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_06__DOW-UAP-D127_AAWSAP-DIRD-An-Introduction-to-the-Statistical-Drake-Equation-March-11-2010_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "PHYSICS_TERM",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": " ~ \u2022e \u2022e - -,121r a Table 2. Summary of the properties of the lognormal distribution that applies to the random variable N = number of ET communicating civilizations in the Galaxy. We want to complete this section about the lognormal probability density function (56) by finding out its numeric values for the inputs to the Statistical Drake equation (3) liste"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_06__DOW-UAP-D127_AAWSAP-DIRD-An-Introduction-to-the-Statistical-Drake-Equation-March-11-2010_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "PHYSICS_TERM",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "roperties of the probability distribution that applies to the random variable ET _Distance yielding the (average) distance between any two neighboring communicating civilizations in the Galaxy. UNCLASSIFIED/ /FOA OlililCI0 I. P !SE ON! X 51 UNCLASSIFIED/ /fOR OFFI&IAk Wlii QPU,\u00a5 that is (148) (149) Since from the definition (147) one obviously has erf(0)=0, "
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_06__DOW-UAP-D144_AAWSAP-DIRD-Cockpits-in-the-Era-of-Breakthrough-Flight-November-1-2010_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "on strategy. Accordingly, cockpit controls to affect such changes are required. Also, it is likely that this double-hull notion would prevent direct visual contact between the occupants and the environment outside the vehicle, or perhaps distort such visual cues beyond easy interpretation. In other words, do not expect windows. Without the famil iar visual a"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_07__DOW-UAP-D167-Project_Capella-December-2008_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "HYPOTHETICAL",
+   "hand_code": "TYPOLOGY",
+   "ctx": "r traces were reported CE3 was the class of reports where \"occupants\" or \"entities\" were present, a category from which he excluded claims of repeated contact. These definitions bave stood the test of time. In recent years a new category has been invented. Called CE4, it encompasses the abduction reports in which the witness claims not only to have seen occu"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_07__DOW-UAP-D167-Project_Capella-December-2008_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "HYPOTHETICAL",
+   "hand_code": "SETI_THEORY",
+   "ctx": "ng an interesting overlap between the SETI and UAP paradigms: each excludes consideration of the other when laying claim to the legitimate search for and contact with potential non-human intelligence. In the view of the authors, current hypotheses are not strange enough to explain the facts of the phenomenon, and the debate suffers from a lack of scientific "
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_07__DOW-UAP-D167-Project_Capella-December-2008_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "SETI_THEORY",
+   "ctx": "iteratur~1843(a)(2) I- The cognitive mismatch or Incommensurability Problem between human and ET cultures will guarantee that the latter will develop communication techniques other than radio. ET cultures may be sending radio and optical signals to Earth now but they may also be sending signals in a variety of other forms such as holographic images, psychic "
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_07__DOW-UAP-D167-Project_Capella-December-2008_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "SETI_THEORY",
+   "ctx": "1843(a)(2) ~. Icons could function in any sensory modality. Given that we are not sure which sensory modality will be primary for ETs/UAP, a sign for communication that is not reliant on any particular sensory modality would be preferable. In SETI/CETI, electromagnetic radiation is used as an iconic representation, allowing a direct communication of concepts"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_07__DOW-UAP-D167-Project_Capella-December-2008_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "SETI_THEORY",
+   "ctx": "nt on any particular sensory modality would be preferable. In SETI/CETI, electromagnetic radiation is used as an iconic representation, allowing a direct communication of concepts (Earth chemistry, solar system organization, human DNA, math, geometry, etc.) without encoding the message into a format specific to a particular sensory modality. In using icons, "
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_07__DOW-UAP-D169-BAASS_Monthly_Report-March_2009_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "DIRECT",
+   "hand_code": "CATALOGUE_LABEL",
+   "ctx": " 0 MA4: 28 CE4: 3917 ANS: 765 FBS: 51 MAS: 58 CES: 1592 IFO: 4550 AAP Person Unknown!...._ ____,!Classifications: 60,276 5 Contact Events: 614 Occupant Events: 526 UFO Crash Events: 60 Physical Traces Events: 1623 Nuclear Site Events: 352 Radar Events: 923 Military Events: 2841 Police Reported Events: 1280 12 This informatian is"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "pursue",
+   "doc": "Release_07__DOW-UAP-D171-BAASS_Monthly_Report_June_2009_djvu.txt",
+   "kind": "contact",
+   "auto_frame": "HYPOTHETICAL",
+   "hand_code": "CLAIM_RELAY",
+   "ctx": "lked in depth with one of the members 31 identified a 1843(a)(2) who claimed to have been abducted and now has special powers to include the ability to communicate and write in \"alien\". (Supplemental reports of witness interviews to follow fromlAAP Person 31 I Files obtained from Sobral, Brazil: Sobral CD - 252 MB l1843 2 on May 22, 2009 by ...._ _ca_)(_) __"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "stargate_et",
+   "doc": "CIA-RDP96-00789R003800190001-0__168_U_I_STRUCTURE__U_I_LOCATION_DESCRIPTION_OF_PERSONNEL_ASSOCIATED_WITH_ET_BASES__TRAINING_.txt",
+   "kind": "contact",
+   "auto_frame": "TRAINING",
+   "hand_code": "TRAINING_SESSION",
+   "ctx": "of entities associated with this site. The two entities located outside of the structure were accomplishing .some sort of routine task.... unable to make contact with them or gain information y any sort. Inside the sirudure were Iwo entities.... one sitting at some sort jof circular console with a round screen- 1 ike object. The other was busy doing (somethi"
+  },
+  {
+   "source": "contact_claims",
+   "corpus": "stargate_et",
+   "doc": "CIA-RDP96-00789R003800190001-0__168_U_I_STRUCTURE__U_I_LOCATION_DESCRIPTION_OF_PERSONNEL_ASSOCIATED_WITH_ET_BASES__TRAINING_.txt",
+   "kind": "contact",
+   "auto_frame": "TRAINING",
+   "hand_code": "TRAINING_SESSION",
+   "ctx": "th this site also. The first bad a very large , round -shaped 'head on a slender neak..\u201exrery unhuman in appearance .\u2014almost roboM.ke i\u2014 unable To make any contact with this being, the clher entity was almost I human -like in appearance. His face was devoid of any hair, his complexion (was very pale. \u2014 facial features were very Indistinct with the exception "
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__255_413270_UFO's_and_Defense_What_Should_we_Prepare_For_djvu.txt",
+   "kind": "B_maintained_contact||technology transfer",
+   "auto_frame": "HYPOTHETICAL",
+   "hand_code": "TYPOLOGY",
+   "ctx": "make fantastic I \"revelations\": there were numerous kidnappings, with the placement ofimplants to control the \"abductees.\" Furthermore, technology transfers were supposedly carried out on bases in New Mexico and Nevada jointly owned by the U.S. Army and extraterrestrials baptized I EBEs, Extraterrestrial Biological Entities. Bennewicz disclosed this informat"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_ours",
+   "doc": "Release_08__DOW-UAP-D172-BAASS_Ten_Month_Report_July-2009.txt",
+   "kind": "B_maintained_contact||technology transfer",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "ent laboratories . Although most government organizations and private- sector firms employ mitigation strategies to protect against illegal technology transfers and loss of trade secrets, the volume of joint research underway presents a prime targeting opportunity, either through human-to-human contact or via technica I means."
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__255_413270_UFO's_and_Defense_What_Should_we_Prepare_For_djvu.txt",
+   "kind": "C_entities_in_power||infiltrat(?:e|ed|ion)",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "stripping the UFO phenomenon ofits aura ofmystery. \" I The same committee recommended \"monitoring\" the ufological movements, which were infiltrated1 by the CIA mainly. Several key figures have tried to nullify numerous important cases. Philip Klass, then I editor ofAviation Week qnd Space Technology, took on, among others, three major aeronautical cases: Lak"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+   "kind": "C_entities_in_power||infiltrat(?:e|ed|ion)",
+   "auto_frame": "QUOTED_FICTION",
+   "hand_code": "CLAIM_RELAY",
+   "ctx": " young people to and achieve any noticeable results. said many times before, we will take two steps for As I have said before, we have infiltrated your the saucer subject at the Teen-Age Fair, April l thru 1543 Sunset Plaza Drive; Los Angeles, Calif. 90069. 10 at the Hollywood Palladium, where AFSCA had a every one that you take to help yourselves. planet. W"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+   "kind": "C_entities_in_power||infiltrat(?:e|ed|ion)",
+   "auto_frame": "DIRECT",
+   "hand_code": "PRESS_RELAY",
+   "ctx": "as kept busy signing up \"students.\" \"There is no mystery as to whether the space men are wal ..hing us - some have al\u00ad rea_iy infiltrated our society,\" sai\"' Bateman. \"The mystery is why so many are coming. \\11_!,_a.1'\u00a7 gQi!JK.JQ.j\\~?~'.._ Flying Saucers, _ 2 3 _66 !To the Editor, S.C.M . Posr,-- Sir,-Citizens beware! ThiS is not a drill! If you report what "
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Serial_449_djvu.txt",
+   "kind": "C_entities_in_power||infiltrat(?:e|ed|ion)",
+   "auto_frame": "DIRECT",
+   "hand_code": "CLAIM_RELAY",
+   "ctx": "ed goals . It is our opinion that one cannot stand on the sidelines and achieve any noticeable results. As I have said before, we have infiltrated your planet. We are directly involved in Earth's life. You might say that you have been invaded - a strong way of phrasing it, to be sure, but nonetheless factual, since we walk and work amongst you daily! We have"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Serial_449_djvu.txt",
+   "kind": "C_entities_in_power||infiltrat(?:e|ed|ion)",
+   "auto_frame": "DIRECT",
+   "hand_code": "PRESS_RELAY",
+   "ctx": " sald it was flat and small. 1 \"There is no mystery as to whether the space men are watching us - some have al\u00ad ready infiltrated our society,'' said Bateman. \"The mystery is why so many are coming. 'IYJ!.;t!'\u00a7 8Q.i!'L!U,~?.'.:_ Flying Saucer!Ji 2 3 6 6 (To the Editor, S.C.M. Posl)_ Sir,-Citizens beware! This Is not a drill! It you report what you see,"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_03__FBI-UAP-D012_Newark-Field-Office_1952-1967_djvu.txt",
+   "kind": "C_entities_in_power||infiltrat(?:e|ed|ion)",
+   "auto_frame": "DIRECT",
+   "hand_code": "CLAIM_RELAY",
+   "ctx": "ed goals. It is our opinion that one cannot stand on the aiidelinee and achieve any noticeable results. Ae I have said before, we have infiltrated your planet. We are directly involved in Earth 1s life. You might say that you have been invaded - a strong way of phrasing it, to be sure, but nom~thell!!:ss factual, since we walk and work amongst you daily! We "
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_06__DOW-UAP-D117_AAWSAP-DIRD-Metallic-Glasses-for-Aerospace-Applications-December-14-2009_djvu.txt",
+   "kind": "C_entities_in_power||infiltrat(?:e|ed|ion)",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "form, the volume fraction of the crystalline phase can be much higher (up to about 80 percent by volume), but the problem then is how to infiltrate the high -viscosity melt into the preform without leaving voids and while still ensuring sufficiently rapid cooling to form a glassy matrix. With both approaches, interfacial reactions between the crystalline pha"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_06__DOW-UAP-D119_AAWSAP-DIRD-Biomaterials-January-7-2010_djvu.txt",
+   "kind": "C_entities_in_power||infiltrat(?:e|ed|ion)",
+   "auto_frame": "PHYSICS_TERM",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "........................ 13 Figure 19. Scaffold-Guided Tissue Regeneration .................................................. 14 Allow Infiltration by Living Cells While in a Submerged Cell Culture ... 15 Blood Contact...................................................................................... 16 Figure 22. Gore Medical Teflon Foam Used in Vascular"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_06__DOW-UAP-D119_AAWSAP-DIRD-Biomaterials-January-7-2010_djvu.txt",
+   "kind": "C_entities_in_power||infiltrat(?:e|ed|ion)",
+   "auto_frame": "PHYSICS_TERM",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "one another, a three-dimensional structure is built. Figure 20. Biodegradable Material CSLG Deposited in a Honeycomb Structure to Allow Infiltration by Living Cells While in a Submerged Cell Culture CARDIOVASCULAR BIOMATERIALS Biomaterials are often made into medical devices rather than being sold in raw form. Among the largest and most demanding of all biom"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_06__DOW-UAP-D120_AAWSAP-DIRD-Materials-for-Advanced-Aerospace-Platforms-January-12-2010_djvu.txt",
+   "kind": "C_entities_in_power||infiltrat(?:e|ed|ion)",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "ires a very large weaving machine. It also requires a large injection machine capable of multiple injection sites to ensure the complete infiltration necessary to avoid formation of voids. In practice, there are several significant challenges associated with manufacturing large PMC structures today. Among these, perhaps the most significant are manufacturing"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "aawsap_dirds",
+   "doc": "DOW-UAP-D117_AAWSAP-DIRD-Metallic-Glasses-for-Aerospace-Applications-December-14-2009_djvu.txt",
+   "kind": "C_entities_in_power||infiltrat(?:e|ed|ion)",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "form, the volume fraction of the crystalline phase can be much higher (up to about 80 percent by volume), but the problem then is how to infiltrate the high -viscosity melt into the preform without leaving voids and while still ensuring sufficiently rapid cooling to form a glassy matrix. With both approaches, interfacial reactions between the crystalline pha"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "aawsap_dirds",
+   "doc": "DOW-UAP-D119_AAWSAP-DIRD-Biomaterials-January-7-2010_djvu.txt",
+   "kind": "C_entities_in_power||infiltrat(?:e|ed|ion)",
+   "auto_frame": "PHYSICS_TERM",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "........................ 13 Figure 19. Scaffold-Guided Tissue Regeneration .................................................. 14 Allow Infiltration by Living Cells While in a Submerged Cell Culture ... 15 Blood Contact...................................................................................... 16 Figure 22. Gore Medical Teflon Foam Used in Vascular"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "aawsap_dirds",
+   "doc": "DOW-UAP-D119_AAWSAP-DIRD-Biomaterials-January-7-2010_djvu.txt",
+   "kind": "C_entities_in_power||infiltrat(?:e|ed|ion)",
+   "auto_frame": "PHYSICS_TERM",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "one another, a three-dimensional structure is built. Figure 20. Biodegradable Material CSLG Deposited in a Honeycomb Structure to Allow Infiltration by Living Cells While in a Submerged Cell Culture CARDIOVASCULAR BIOMATERIALS Biomaterials are often made into medical devices rather than being sold in raw form. Among the largest and most demanding of all biom"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "aawsap_dirds",
+   "doc": "DOW-UAP-D120_AAWSAP-DIRD-Materials-for-Advanced-Aerospace-Platforms-January-12-2010_djvu.txt",
+   "kind": "C_entities_in_power||infiltrat(?:e|ed|ion)",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "ires a very large weaving machine. It also requires a large injection machine capable of multiple injection sites to ensure the complete infiltration necessary to avoid formation of voids. In practice, there are several significant challenges associated with manufacturing large PMC structures today. Among these, perhaps the most significant are manufacturing"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "THIRD_PARTY",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "n __ Tavel Trotter Tele. Room- ,]. Edrr n ...ar .n.oQver Enclosure 1 - London - Enclosure 1 - Foreign Liaison Unit - Enclosure NC>TE: Buflles disclose one prior letter from correspondent and a rep\\l made to him 1-26-65. BRH:u- ~ - J ~ ' ... , I ~\\~ - \"' ...>\u00b7 JU (5) h \\ ,_; ~\\ '- ti, tl}tt~ OH!'7~ (\\1t MAIL ROOM D TELE"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "I cam\\ot '\\ a . . - Enc 1 -. J 0rque - c' ..,...:..\u00b7.: 1 - l\\ . )\\lllivan - :.....il-, ~v: ... \u00b7e 1 - Fo:relgn Liaison J n~t - J \u2022\u2022 ' \\ )I /}, I f' , r 3:::closure (See NO'I'..2 next page) 'I .>,l-'\\,IL ROOM D Ti:u.: ..... .....,,\\r \\ \\ \u2022 \u2022 . r l\\C.r. J . A. .:.\u00b7fo.~.1essey NOTE: Bt.iiles reflect that an unidentified"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "THIRD_PARTY",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "n a memo for dissemination. The Albuquerque Office did not conduct any investigation other than to keep the Bureau advised and maintain liaison with the Air Force . This is apparently the situation to :which the correspondent is referring. Bufiles contain no information identifiable with the correspondent . - 2 - \u2022 \u2022 December 21, 1966 / ,., t:./ 3 ~o/\u00a5- \u00abEC-"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "........ ..._ \\.> ,;, '. ) {\\ e:,:::>-~ ( - Mr. DeLoach 1\u2022 \u2022 1 - Mr. Gale 1 - Liaison Section 1 - Mr. McAndrews 1 - Mr. Ware January 18, 1987 ~ BIIITJFJED J1Ln11G OBJECT ~ ~y SIGHTI NG, JANUARY 17, 1987. 1.JJ/>~~1~/ c r, YJM _, /f v P / ~ ~ ' QJ,Y At 4: 10 a.a ., Januar1 18, 1967, Jaaes-t:' Coll1.ns, 21"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "QUOTED_FICTION",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "ter from Fred to Thom as G. Corbin, Major\u00ad icials could see G.A.'s and her film, too. They seem\u00ad General U.S.A.F. Director Legislative Liaison, Dep\u00ad ed to be quite impressed, but would not make an artment of the Air Force, Washington, D.C ., read: open statement concerning the film, naturally. The \" Dear Sir, 2 hour meeting took place in Building A.I. They t"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": " Holmes 1 - Mr. DeLoach 1 - Mr . Bishop 1 - Mr. Gale 1 - Mr. Cleveland 1 - Mr. Mcinerney SFM:jbt (7) 1\\ \\,~ r(s,~ * Liaison Agent search of CIA with negative \u2713 $1\\:-1\\)?i ~ Papich caused complete ind~ r.Bi&r~ Wood results. WVC:pnh 10 MAY 1191969 \u2022 \u2022 . I . ) c;-,: - c- 1-1 u;:., ::c. --::C: ' ,,. . ~ ('Y'1 - 0 ~"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_1_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "cerning a 11disc . 11 This telegram has been aclmowledge ACTION: It is recommended that this telegram be turned over to the Liaison Section in order that they may make the information contai~ed therein available to the War Department. \u2022 : , ,< is a fulhate Telegrarr. or Cable, gram un1eu its de,., SYMBOLS ferred characte..;, i-1- d,cated by a suitabl"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_1_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": " Quinn T8\"\"'- ~~\u2022~~~m - J.~ls o~- 8 03ndy-====:t ACTION : It is recommended that this telegram be turned over to i he Liaison Section in order that they may make the information cont~ine therein available to the liar Department. ,1v? 4_,.y ~ ~1 I ; \\. -.-,.1;c~ ... \u2022 \u2022 \u2022 .,~: ~\u00a3\\\\Jt.O-L\u00b5U\\, t: p, 1 \\ - - ,r e-\u00b7 :'I .. lil::t INTERNA"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_1_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "ormation you develop in connection with these discs should be ~romptly brou(Ylt fu the attention of the Army through your usual liaison channels. ' A i~</ 37 'L, v---- 1,8 k' ft l \u2022 \u2022 If 1)tl)J) 7~ AU~ 4 .1Mf\u00b7 AFTER FIVE CAYS RETURN TO ... 0:1 ... t Daly City, Calif - JJr J Ed , Hoover ~ F .B .! . Wn in ,ton, D .C . \\ ,..,._..., 6) 1~ M."
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_1_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "d to be through the regular established chanrel s . It was pointed out to General Schul.gen that the Bureau Field Offices maintain close liaison with \u00b7the Intelligence Divisions of the various Annie s as '\\'Jell as close liaison with the Intelligence Division of the \"i~r Depi.rtmmt. ~ral Schul gen ind:i.categ that he would be satisfied to receive information"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_1_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "hul.gen that the Bureau Field Offices maintain close liaison with \u00b7the Intelligence Divisions of the various Annie s as '\\'Jell as close liaison with the Intelligence Division of the \"i~r Depi.rtmmt. ~ral Schul gen ind:i.categ that he would be satisfied to receive information thr o~~ ~ift V\" Gamral Schulgen indicated to Mr. Reynolds that he believed t.i-iat "
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_1_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": ",,_-_ -_ -_ llr. Nlchclii SUBJECT: '4-LYING SAUCERS llr. Rosen,_-_-_- _ llr. Tracy S~cial Agent s.w. Reynolds of the Liaison Section contacted Mr. carson--- 11r. 1:gan----_ -_ Lieutenant Colo:ool c. P. L.:artin, Army Air Forces Intelligen:::e, inquiring llr. Gurnea llr. P.arbo -\u00ad about an article 'l'lhich app:3ared in the ~st Cc:ast rewspapers recently ll"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_1_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "THIRD_PARTY",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "the War Depa.rt 1ent for ap~roval. It is reco:1, ,ended th...1.t the letter to the Wi:>.r Department- be In~ forwarded to the Liaison Section for transmittal to that agency. ~ \u2022 ~. J;,j) . . ~ Attachments/~ iVVC:mJp ()\u00a3-'(' . RECORDED \u2022 t fWt:.IIA\\. 6\\.REAU Of IH'IE.Sl1GAllOM \u2022 \\ U, s. DEPARTMENT Of JUSTICE t---- COMMUNIC~IO~ SEGTlOM AU"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_2_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "d Mrs. Laura Lane relat1Te to \"t~ing discs.\" RECOMMENDATION: It ie recommended that this :aater1al be personally d.el1Tered b7 the Liaison Section to the appropriate contact 1n the War Department. --- \u00b7. I. r y ., I r . I : .... \u2022 .... ' I ., \u2022 I .,. August a, 1947 FLYmG 'DISCS Ini'o:nnation was received fl-om the n>w Chemical Company, lfi"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_2_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "nel Carl Golbranson of the Intelligence Divisjon of the 1ar ~:;~,~ - Department advised Special Agent S. w. Reynolds of the Liaison Section that : :~-:\u2022~=-= . N k J 5 1ole. Ro~:, a the :.ar Department has received telegram, dated , ew Yor , New York, uly , Ill'. ;;oa \u2022-== lltss ealJm a S f O110,:($ : .IL!SS Gan<ly-- 0 ~ / 11FOP. FUR:J.HER DETAIL"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_2_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "rview him regarding any information that ne has relative to flying disks.\" 'Ihe results of any investigation should be forwarded' to the Liaison Section.for delivery to the Intelligence Division of the war Depart- \"' ment. Attachments S.'ffi:AJB nrf>'ID?Wm ~t~~~ ,.. \u2022 SAC, Chicago ll August ~, 1947 / Director, FBI _6y f FLIIN~ mscs ~~~~ &~- s"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_2_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "nny or Navy. 'Ihe article attributed the source of its information to a Federal investigative agency. Pursuant to your instructions, liaison representatives have contacted the Headquarters of 1!:i.litary Intell igence, the Headquarters of the Air Forces Intelligence, Office of Naval Intelligence and CIG. All agencies denied any knowledge of the flying discs,"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_2_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": " above captioned :: ~-=\u2022a-\u00ad matter dated August 22, 1947, which irrlicates that Special Agent Griffee !: r.~Ttigl;on of the Liaison Section had contacted Lieutenant Colorel G. D. Garrett, Jr., ~i.~JggmTanm of the Air Forces Intelligence at which tine Colonel Garrett advised that t!'t./~~~ the A:nn.y Air Forces were coniucting no research or experin:ents in t"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_2_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "EP1947 Director Federal Bureau of Investigation Department of Justice Washington 25, D. C. Dear Sir: Attention: Liaison Section In answer to a verbal request of your Mr . S. W. Reynolds , a complete survey of research activities discloses that the Army Air Forces has no project with the characteristics similar to those which have been associa"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_2_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "THIRD_PARTY",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": " rxnm DISCS ::: ~_:on~-- Kr. Ournea____ llr. llarbo llr. Holldo\u00b7;;-0:;;.;;.:::.:::.= Special Agent s. Vf. Reynolds of the Liaison Section, while dis- ~i.~:=== cussing the above captioned phenomena with Lieutenant -Colone~rrett l:i;.~~ :.,,.,0.---- of the Air Forces Intelligence, expressed the possibility that fzyin\u00b7g 111 iscs were, in fact, a very highly c"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_2_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "a ?.;: ;::,;.;;; _I cs_ SUBJECT: c::FBS u;:.;ING...,;D_s_ Reference is made to the memorandum to you frolJl t he Liaison Section dated July 21, 1947 , setting forth a request from Colonel Ool br anson of the Intelligence Di.vision of the War Department for the B.lreau to conduct investigation to determine the origLn of the flying discs. OBSERVATIONS:"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_3_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "on this subject. Very shortly, with the separation of the AAF' from the War Department, a firm polioy will be established to clarify the liaison arrangements between A-2\u2022s and FBI Speoial Agents. Presently, it is considered inadvisable to promulgate a formal interim policy - only to have it replaced in a month or so by another. BY COMMAND OF LIEUTENANT ~ HER"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_3_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "ces on tests which /~~~ were classified as \"Top Secret.\" Z-,>-' The memorandum indicates that Special Agents. w. Heynolds of the Liaison Section contacted the Intelligence Division of the Air Forces and was advised that Mrs. 'Whedon alluded that the instrument was used in \"Operation Mogul.\" The instru\u00ad ment was loaned to the Intelligence Division of the Air "
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_3_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "ces that t he Bureau might wish to pursue thi s matt er f urther. Mr. Zinnners of the Technical !Aboratory advised Mr . Reynolds of the Liaison Section that Mrs. Whedon had told him that a Major Hopkins handled the Liaison in \\'jlshington for the tests in which this instrument was used. Id.eutenant Colonel George Ge.rrett of the Intelligence Division of the "
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_3_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "of the Technical !Aboratory advised Mr . Reynolds of the Liaison Section that Mrs. Whedon had told him that a Major Hopkins handled the Liaison in \\'jlshington for the tests in which this instrument was used. Id.eutenant Colonel George Ge.rrett of the Intelligence Division of the Air Forces advised Special Agent Reynolds that he contacted Major Hopkins. He a"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_3_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "ility it was just a hoax. flu~ Fo.-ce.. RECOMMENDATION: the Technical Ia.boratory \u00b7- {ECEtvr, RECEI VED 0 NlrA ABORAror LIAISON SEt, f ION 8 : OFPi qi: HJST\u2022r: c- lrr 8 I 02 AM '~7 I') fB! !.:PT. 01- ~u~;11;-r \u2022 .I ,, TSNAD-2B/AC/tk 25 August 1947 Authority: F.lying Saucer. NND90986 i'O: Co:mnanding General A?'i!tY' 11:r For"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_3_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "47, with enclosure of Madden Is ''Report on a 'Flying Saucer 1 \u2022 11 lfo action being ta}fen by Seattl e . - 2 (\\ RECE/1/fo LIAISON::;[;, 11011 r:-p 18 2 19 P/1 '1/J J I- -, IS tC ..._ ...... \u2022 RECEIVED .P 18 ID 11 AM'1 lNTfRNAL SECURI: ' F. B. I. ~ - r t1F ,,. \" ~ ~ Reef,~ -- > P Zr/ 3 19 PN ' 1 frERHAL SfCURi -r r. B. I."
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_3_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "on this subject. Very shortly, with the separation of the AAF from the War Department, a firm policy will be established to clarify the liaison arrangements between A-2\u2022s and FBI Special Agents. Presently, it is considered inadvisable to promulgate a formal interim policy\u2022\u2022 only to have it replaced in a month or so by another. BY COMMAND OF LIEUTENANT GENERA"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_3_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "on with the above- captioned matter. -ni.,._.,. z-1\u2022'-\"\"-c,-\u2022,ev.\u2022 -~ -,1.1.a~J.a +_..,. ~...... , A:.,,.,+, C::_ _ PAvnnlrlQ- \u2022 the Liaison Section by Ueutenant Colonel x:. 1. Garrett of the Intelligence Division o~ the Air Force for completion of ~ureau files . RECO'~ZDATION: It is reoO!lm9nded that this memorandUJU be made availa'b1e to Supervisor R. G. F"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_4_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "vising them that there had been no change in the Bureau's policy. This matter has been discussed by Special Agent S. W. \u00b7Reynolds of the Liaison Section with Lieutenant Colonel C. P. Martin of the Intelligence Division of the Air Force. Colonel Martin advised Mr . Reynolds that apparently the Air Defense Command at Mitchel Field was not aware of the fact tha"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_4_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "s respectfully requested that a copy of this memorandum be forwarded to Uexico City. JUS:ml .;. RECE.IVt.0 .\\TOHIC ENERGY LIAISON SECTION ) ~PR 19 9 14 AM ,~~ F. B. I. U.S. OE.PT. OF JUSTICE \u00b0) \u2022 H .. - \u2022 ~ ' \u2022 b~D...RD FORM NO. 64 \u2022 . \u2022 ,.Ojfice Memorandum \u2022 UNITED .STATES GOVERNMENT (1), TO DIRECTOR, FBI DATE: 4-22-49 / F"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_5_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "g \"dry run\", it D8ftl:l'theless varrants som:, consideration :trom a procedural stendpomt and 111ght be var.thy ot 41scuasion at a0'%1D liaison zzotillg in the future. !rhe Bureau will '.be ~d1ntel.y &1.vised 1f tliol'il ere ;;rrrJ' :f'urther 4.eye~ts in this mnttw. ' ' \u2022 U.S.N9lws & World Report The Un,ted ,States News \u00a9 World Reporl \u00a9 ) - ,} APR201sso"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_6_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": " objects. INFORMATION OBTAD1ED BY BUREAU LIAIOON FROM OSI, WASHINGTON, D. C. RE THE CAPTIONED MA1'rffis ON OCTOBER 9, 1950. Bureau liaison determined on the morning of October 9, 1950 .from OSI headquarters that the :investigations of these aerial phenomena are being handled by OSI, Wright Field, Ohio. Their investigation of these phenomena fails to indicate"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_6_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "er al Joseph F . Carroll Director of Special\u00b7 Invest.igations Headquarters USAF Washington 25 , D . C. ff /, I 1 1 1. In a liaison meeting with other military and government intel\u00ad ligence and investigat1ve agencies in December 1948, it was determined that the frequency of unexplained aerial phenomena in the New Me~dco area was such that an organized plan of"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_6_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "ON CONCERNING - R\u2022- \"\"\"'\u00ad O F LY..IllG-lllSaB_. - \u00ad i,.ela.mt_ ~ IX>hr__ PURPOSE /2.... To recommend that Bureau Liaison contact / ,; \u00a3 OSI to determine whether photographs alle(P.:dl.y taken ~ by the captioned individual of a f lying disc in 1947 were furnished by OSI to the offi ce of Drew Pearson. BACKGR(JUND Bureau files reflect that on A"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_6_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": " OSI were both contacted and both advised that no inquiries had been received by OSI from , Blumenthal. The Bureau ' s Air Force Liaison Representative then contacted Colonel c. JI. roung of Air Force Intelligence (A- 2) who likewise advised that no inquiries had been received by the Office of the Director of Intelligence from Blumenthal or anyone in Pearson"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_6_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "AC, Philadelphia 0 FLilID SAUCERS SUBJECT: UNITED \u2022 STATES GOVERNMENT DATE : 8/7/52 At the iTeekly liaison conference held in the Philadelphia Office on August 5, 1952, Major H. B. ELIRIIGE advised that OSI is no longer interested in receiving reports concerning flying saucers. '!he above is submitted for the Bureau I s information. <ph,"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_6_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "\\), 0 c.> SAC, PHILADELPHIA .August 15, l 952 DIREC'rOR, FBI \u2022 iRECORDE0-29 (8:J-88894) FLTING SAUCERS ~ OSI LIAISON ~~ Reurlet .Auguet \"I, 1952, in whtch you stated that at a weekly liatson conference held tn Phtladelphta Jlajor H.B. Eldridge advised that OSI ta no longer interested tn receiving reports concerning .flying saucers. OSI, as th"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_7_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "RS 11 PHENOMEhA; L1TELLI 1 ,_ (,,:., ADV.LS )RY COb..1\u20221L'. 1TEE Pursuant to instr~cti~ns , Su,ervisor M.W. Kuhrtz of t~e Liaison uection attended the Intelligence Advisory Lommittee (IAC) meeting on December )1 , 1952. ~one of the ugenda i terns are of direct inter\u00b7e t to the Bureru; however, ::)r . F . M. Chadwe J. , centrtl Intelligence Agency (LI\\) , dir"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_7_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "velopment . .1.he detuils of tnis Afric n obser1ation were not ~re ented ; nowever, an\"ronriate contact will be m\u00b7de by the 3u \u2022eau Is Liaison ...>ect ion with the 1~ir Force to determine vhe deta... ls of t us latter report . As a result of the above, -i;he 't' ilit&ry mcmb rs sum;ested a lo7:csl apnroach wnich would call or a gr0up sciEntists to ~eke & )f "
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_7_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "der\u00b7tlon. Unon recc\u00b7~t of t~is dra~t, anDroorirte Bureau re \u00ad corr.mendations will 'be mE de nr\u2022ior to IAC an....,r, v 1 . ACT 'r: Liaison will obtt.in the deta:_1s of the \"flying s& tcers 11 observ\u2022ti n :n Afr.:ca from t~ Air Force . \u00b7 I f MWK : lw 61,,-': 53 FEB 161~31 \u2022 \u2022 TO : PRO ~ ti L is de to my ~emor~ndu r.\"PY:fcr MR . A. H. BELMONT"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_8_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": " Sizoo ___ l'uuerrowd _ hat 1 c r l 0 J ohn d r \u00a3rect o oo ucr cc - cc - Legal Attaohe, Londo Foreign Liaison Desk n, England, with and Copies of incoming and enclosures sent b'y Office of Special Inuestigations, Departm Air Force . MM - FS Tele. Room Hollo Gandy NOV 2 9 1954 MAILED 24 fl \u2022 \u2022 ' explosions Mysteriou~h~"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_8_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": ":CORDED \u00b7 36 INDEXED. 36 DATE: / I I .. RECORDED \u202236 ~ ig. and duplicate \u2022 1-yellow 1-Liaison Sect . tickler 1-Mr. liannion \u2022 t t D11oe To, Dtrec or oJ op\u2022c a I u \u2022 ,g tto Th\u2022 Inapactor eneral o/ e ir Fore on .s, \u2022 c. Fr~ 1 Dir o or \"' 1ga. t 01 C ll\u2022 ,tor con ern-i a I e, ape, 00 \u2022 ct -tt r,a.,"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_8_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": " the object appeared very real to them. 1 RECOMMENDATION: If you agree, it ts recommended that this memorandum be referred to the Liaison Section of the Domestic Intelligence Division for possible referral to any int?rested military agencies. 1',BE:sak l..2..:~...J (3) \\ CC: \u2022 - LBN. ols ' AE 'ont LVB 'dman EEMossburg Liaison V: rfl 16, 1"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_8_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": " int?rested military agencies. 1',BE:sak l..2..:~...J (3) \\ CC: \u2022 - LBN. ols ' AE 'ont LVB 'dman EEMossburg Liaison V: rfl 16, 1956 01 ~ctor nt of thlt Air o/ S \u2022oial Inv\u2022 ttgatton (Original & 1) \u2022n\u2022raJ. orc6 Drtve, \u2022 \u2022 a. ro , SubJsot, (ESPIONAG-E) \u2022 Jo e t lexa.nd.rta, 1 l na, via auto11JObtl1 ob an un"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_8_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": " - .B.lreau 1 - Albuquerque 1 - St. Louis (62-0) CSS :nln (4) } 'ii I. ,.COR ED-,7 INDEXED-7'1 \u2022 - f \u2022 \u2022 1 - Liaison ~ection 1 - Mr. O'Connor 6 - 3894 f COURIER S \u2022ll VIC e, Septe b r 01 195 To Dir6otor oj Inv st, gattona Th Inap a l rot Subj ot, DBpart ent Force Bu\u00b7Ucl' th a a h On A rl ~old, l a on, ~ion d to"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_9_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "HYPOTHETICAL",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "ve allegedly seen UF0 1s that caused the engines in their automobiles to stop. In view of the number oj' these reports, the Bureau ' s Liaison Representative discussed these various sightings with officials of Air Force Intelligence and was advised that all \\ the cases mentioned above have j'or all practical purposes been /i resolved as being nonauthentic or"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_9_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "\"\" ?oo \"\"\" . . . .. - . f \u2022 \u2022 . .. . . - . .. . .. . \u2022 . \u2022 ,,# : ,, ' ' t. ,.J' l Liaison ' .. ~ co,e111ilR \u00b7 7 .,. _ l - Sanders \") \"' ' .'= \u2022 . I REC- 65 62-83894 ~\\ (1---.\\ii Dato: To: From: Subject: October 2, 1958 Director of Zpecial Inve&tigations !ho lnspoctor General Depar"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_9_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "ed to i nvesti gate each i nstance to determine if bona fide sighti ng , a prank, or halluci nation. Coordination with Army through liaison channels in field and at SOG . By letter 9- 3-47 from Headquarters Air Defense Command addressed to Commanding Generals of the various Air Forces it was noted original intent of Ai r Force was that Ai r Force would inter"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_9_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "rsons __ Belmont__ Callahan -- Deloach __ Molone___ McGuire__ Trotter__ \u2022 . - . ,. \u2022 l - Air. Wacks l - Liaison 0 -23 Xft,L -'113 April 6, 1960 Office of Spectal Investigations Air Force Attention: Chief, Counter Intelltgenoe Dt1Jiston John Edgar Hoovt1r, Director UNIDENTIFIED PLYING OBJECT JOSEPH PERBT, GRAND BLANC, llICHIOAN"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_9_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": " \u2022 \u2022 l J \u2022 \u2022 \" \u2022, 09,._Hd~_~s Z ~ I ~dV I'J.:J SBrJO.i. 18 \u00b7~t:O :J-0,33~ \u2022 1 - Mr. 1Yacks 1 - Liaison Date: Aprt1 '21, 1960 To: Office of Spectal Tnvestigattons Air Force Attention: Chief, Counterintelligence Di'Dision John Edgar Hoouer, Director SUbJect.: UNIDZ. 'PIED FLTING OBJECT JOSS. ~fl r, GBA Ml BUNC\u2022 MICHI"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_9_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "THIRD_PARTY",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "irector JUN 2 71963 COMM-FBI Jc..... NOTE: No record <:t. correspondent in Bufiles. Referral as noted suggested by the Liaison Section, ~ tfi Mohr ___ Casper __ Callahan __ Conrad __ l rtif ~ DeLoach __ Evans ___ Gale ___ Rosen ___ Sullivan~~ Tave! -\"\"-'--'-'\u00ad Troller-=-=\u00ad Tele. Room_ Holmes __ Gandy ___ MAIL ROOM D TELETYPE UNIT D \u2022 \u2022"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_9_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "B, ALBUQUERQUE END PAGE TWO \u2022 \u2022 .. . ~ ,. ,... l ADVISED. NO INVESTIGATION BEING CONDUCTED BY FBI, ALBUQUERQUE. LIAISON BEING MAINTAINED. MILITARY OFFICERS CONTACTED ADVISE THE TWO INCIDENTS REPORTED ARE NOT A PART OF A MILITARY EXERCISE TO THEIR KNOVLEOGE ANO TO \\DATE HAVE Nc;:XPLANATION. BUREAU WILL BE ADVISED OF ANY PERTENENT DEVELOPMENTS."
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_9_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "THIRD_PARTY",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "DENT RELATES TO CLOUD GAP . CONSIDERABLE INTEREST OF PRESS IN MATTER. ALBUQUERQUE CONDUCTING NO INVESTIGATION , IS MAINTAINING LIAISON WITH MILITARY. BUREAU WILL BE ADVISED OF ANY PERTINENT DEVELOPMENTS. END WA NHH FBI WASH DC TUP cc:, JD-I. I r,_~G ------- FEDERAL BUREAU OF INVESTIGATIOfl FBI ALBUQ UEE: \u2022 \u2022 \u2022 U. S. DEPARTMENT OF JUSrlCE C"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_9_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "THIRD_PARTY",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": " RELATES TO CLOUD GAP. CONSIDERABLE INTEREST OF PRESS IN MATTER. ALBUQUERQUE . CONDUCTING NO INVESTIGATION, IS ,MAINTAINING LIAISON WITH MILITARY. BUREAU WILL BE ADVISED OF ANY PERTINENT DEVELOPMENTS. END WA NHH FBI WASH TUP DC .,.. \u2022 I 1 - Wacks 4/28/64 Airtel ti To: Frori: UNIDENTIFIED FLYING OBJECT SOCORRO, NE1f JIEX"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_9_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "r policy is not to investigate but assure that Air Force is cognizant. Military is investigating and Albuquerque Office is maintaining liaison. MAILED 5 APR 2 8 1964 Tolson __ COMM-FBI Belmont __ Mohr ___ Casper ___ CaUahon __ Conrad __ DeLoach __ 1i /v ~ Evans ___ Gale -----,.--\u00ad Rosen_~_ Sullivon_.,,;.;....v 5 19\u20ac4 f Tove! ___ Trotter _ _ Tele. Roam_"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_9_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "AQ 62-1028 It may be noted that Captain HOLDER immediately contacted proper milita:rypersonnel concerning this incident. Liaison will be maintained with Major CONNER, who advised he has received several more reported incidents to which he will give attention. 3 \u2022\u2022 -- .,,. OPTIONAL fOR.M NO. 10 50l 0-I0-4 UNI TED STAUS G. NME NT \u2022 Merrloranaum T"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_9_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "ion of the Department of Defense. RECOMMENDATION: That Bryant's manuscript on UFO be returned to the Department of Defense\u00b7 by our liaison representative with that agency at which time that agency can be informed that the FBI does not agree with Bryant's portrayal of his interview by the FBI or his misrepresentation of the Bureau's role in investigating of U"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_9_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "-\"__ Sincerely yours, CO M-FB .. 1 - London - Enclosure 1. - Albuquerque - Enclosure 1 i Mr. Sullivan - Enclosure 1 - Foreign Liaison Unit - Enclosure Tolson __ Belmont __ 1 WAM:pem Mohr _ _ _ D~Loach _ _ (7) (See NOTE next1'a,g~) Cas~,-\u00ad ~ J.; Callahan __ Conrad __ f-clt===== \u2022 ~~~:n r J ii{~:~i,V ~:~~ ._ 19 S ROOM\u25a1 TELETYPE UN IT\u25a1 ."
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Section_9_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "THIRD_PARTY",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "mo for dissemination. The Albuque:i;-que Office did not concluct any investigation other than to keep the Bureau advised and mainta:j.n liaison with the Air Force. This is app:trently the situation to which the correspondent is referring. Bu.files contain no information identifiable with the correspondent. - 2 - \u2022 . , . \u2022 f - J ' ' f _____ Mr. MG'hr M"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_01__65_HS1-834228961_62-HQ-83894_Serial_130_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "THIRD_PARTY",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "ce taken fro\u25a0 1nterT1ew\u2022 at the G. D. Garrett, Ail A.-3. / r ;1 ~ ,, \"\"'\"\" WILLIAM P. MP!.t,J.D Major, Air Corpe AMC Liaison Officer )layal Re \u25a0earch Laborator,. ..) - 'lxce1\u2022p, troa letter to Dr. B. 'l'ouH7 fro\u25a0 ~. John \"I. Cole South Brook\u2022Tille, Ne. Jul7. ae, 1947. BaTing in \u25a0ind the ri~cule which ha\u25a0 been beape4.on thoH iuocnt or per-hap\u2022 cul"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_02__DOW-UAP-D017_General_Correspondence_Of_Sandia_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "TO: Brigadier General Joseph F . Carroll Director of Special\" Invest.i gations Headquarters USAF Washington 25 , D. c. 1. In a liaison meeting with other military and government intel\u00ad ligence and investigative agencies in December 1948, it was determined that the frequency of unexplained aerial phenomena in the New Mexico area was such that an or ganized pl"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_03__CIA-UAP-002_Scientific-Advisory-Panel-on-Unidentified-Flying-Objects_Report_1952-1953_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "uat1ng reports\u2022 ao An analysts0 pmel qf !'our officers ~~ 1'our offi:c.r 1me!lt.igators c. A briei'ing officer de. An Am liaison oftieor eo. A voa.thar\u00b7 am bfllloon data oi'f'icar t. An astronomical. consultant g.: A Group Loo.der, with adrn1uist:t-ative assistant, r11o clerks nm. stenographers. Thie proposal 1!18t with general..4\" f'o.vorable oomnent."
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_03__CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "ny; and Louis N. Ridenour of Ridenour Associates, Inc. The Wright Air Development Command sent Lt. Col. Richard Leghorn to serve as its liaison officer.30 During January and February 1952, the BEACON HILL Study Group traveled every weekend to various airbases, laboratories, and firms for briefings on the latest technology and projects. The panel members were"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_03__CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "uary 1962. DCI records, job 80-B-1676R, box 18. folder 10 (S). Seeret 193 Secret NOF'OAN Chapter 4 Special Assistant for Liaison Security Staff I Deputy for Technology I Advanced Engineering Projects Analysis Division Division Development Contracts Division Division Office of Special Activities Assistant Director for Special Activiti"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_03__DOW-UAP-D088_US-AirForce_Analysis-of-Flying-Objects-in-the-US_101-172_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "l at Lt Francia '.i. Sennj n, Jr. & lat Lt Robert .... Loollia, U.J ..P c \u2022up\u2022 , i n or ob: c. rv:,r Both a t tached to Liaison eq. Greenv1.Ue b . .. !d r of ob:i rvor \u2022 Greenville AF Base, Greenv1lle,l. C. l ,c ! oh r \u00b7 t, i on Greennl le AF Base \u2022 !'mu r o: ol j\u2022\u00b7t ., ! J - l at firet , 1 t later ) . )1. n of ob t fr ::1 obs rv r 15,CX"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_03__FBI-UAP-D004_FD-1057-02_Northeastern-US_2024_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "owing objects appearing to be unknown UxS or UAP near .i residence. - had previously been referred to the FBI by a FBI liaison contact Title: \u2022 Contact with - - Re: 10/- 2024 in August 2024. \u2022 - detailed his observations, . attempts to collect data, and - work to de-conflict possible prosaic explanations for - observations . \u2022 documented -"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_03__USG-UAP-D001_Congress-WhiteHouse-UFO-Correspondence_1998_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "or Legislative Affairs Enclosure ecc: S/Ruth Netting LB/Barbara Cherry Sent to Sue J. Smith Director, Office of Agency Liaison Room 6, OEOB The White House Washington, DC 20502 &l-alt:ii ltt.LY }J.12 ' I i ~lr:;y THE W HITE HOUS E WASHINGTON l: I DATE MEMORANDUM FOR: ' J FROM : SUE J. SMITHc;f'x1 DIRECTOR, OFFfd[ OF AGENCY LIAISON"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_03__USG-UAP-D001_Congress-WhiteHouse-UFO-Correspondence_1998_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "W HITE HOUS E WASHINGTON l: I DATE MEMORANDUM FOR: ' J FROM : SUE J. SMITHc;f'x1 DIRECTOR, OFFfd[ OF AGENCY LIAISON SUBJECT: REFERRAL OF CASEWORK IN BULK An unprecedented number of individuals still write the President and the First Lady for help. I know that this has meant a far greater volume of mail for your agency than ever before. I appr"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_03__USG-UAP-D001_Congress-WhiteHouse-UFO-Correspondence_1998_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "ttirn.ed -C9 my o.r:.i:u;~, i.i: yg~ 11.\u00a7V~ qy~etiQns you can reach me at: 4 56 - 7486. Su e J . Smith Director, Office of Agency Liaison Room 6, OEOB The White Ho u se Washi ngton, D.C. 20502 Again, t hank you for your continuing help. A98'- 0 I I C,'f From nobody@wwwr.-wrutehouse.gov Sun May 17 17:57:37 l998 Date: Sun, 17 May 1998 17:54:05 -0400 From: (6) "
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_03__USG-UAP-D001_Congress-WhiteHouse-UFO-Correspondence_1998_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "rmation will be helpful to you. ecc: S/Ruth Netting LB/Barbara Cherry Sent to Sue J. Smith Director, Office of Agency Liaison Room 6, OEOB The White House Washington, DC 20502 Headquarters Action Tracking System (HATS) INCOMING CORRESPONDENCE ACTION ID Number: U1998-00494 Title: Ward/White House Referral: UFO Hearings Re cipient: A/Goldin Author"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_04__DOW-UAP-D092_DAF-Committee-to-Review-Project-Bluebook_1966-1967_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "aluating reports: a. An analysts\u2022 panel of. four officers b. Four officer investigators c. A briefing officer .d. An AOC liaison officer e. A weather and balloon data officer .r. An astronomical consultant g. A group Leader, with administrative assistant, file clerks and stenographers. This proposal met with generally favorable comment. The Panel"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_04__DOW-UAP-D094_Analysis-of-Flying-Object-Incidents-in-the-US_1949_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "from missions over these more concentrated strategic areas, or that the Soviets obtained sufficient information during their World War Il liaison with U.S. industry to satisfy their intelligence requirements and have a more active requirement for information on industries and areas which were not available to them during World War TI con\u00ad tacts. This 1s of i"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_04__DOW-UAP-D096_Correspondence-Relating-to-Project-Blue-Book_1955_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "nce through secret and a definite need-to-lmow. Final arrangements can be made with LCDR F. L. ntomas (extension 629h~) who is acting as Liaison Off'icer to the Air Force on this problem. :;. 'lhe cooperation or the Air Force in making ruch a briefing possible will be appreciated. I ua1>G Jlail tr1orisel 6 \" \u2022 .. \\ \" \u2022 \u2022 \u2022 --------------------"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "2. F-llyrs LAST NAME (Initial-,) RANK AND CORPS FILE No. N. A. CLASS PRESENT STATION OR-ffpG.(/J BAGR-CD hoto. Liaison NEf/HOUSE D. C. LT 17728.3 1 April 1946 OFFICIER'S DATA CARD' ' NAVPE RS-340 (Rev. 7--46) DATE OF PRESENT RANK: NOTICE: This card to be !.ubmittcd directly to Bureau of Naval Personnel annually (on 1 August), and when any sl"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "s.a\u00b7 r triot Headquart ers, Wr i ght-Patterson Air For ce Base, DaYton, Ohio, \u00b7 Lieutenant Newhouse served as Bureau of Aer onautics liaison officer with t he Air Materiel Command in matters relating to procurement of ' . ~ photographic items 1mder t he singl e-service purchase assignment which was awarded to the Ai r Force by t he Depart ment of Defense. J."
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "ntly ordered t o duty of ever i ncreasi ng responsibility from Photographic Officer of Naval Air Stations; through Photographic Liaison Off icer of Naval Aviati on Supply Depots ; Staff Photographic Officer, Commander Ut i lity Wings, Pacific; St aff Photographic Liaison Officer, Bureau of Aeronautics General Representative, Central Distr ict with t he U.S. "
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": " Liaison Off icer of Naval Aviati on Supply Depots ; Staff Photographic Officer, Commander Ut i lity Wings, Pacific; St aff Photographic Liaison Officer, Bureau of Aeronautics General Representative, Central Distr ict with t he U.S. Air Force at Wright-Patterson Air Force Base; to my present assignment as Head, Material Procurement Branch under the Director,"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "t \"C\" 19 August 1946 Admiral E. D. Foster,SC,USN 12. \"Satisfactory.\u2022 Lt. Newhouse has carried out his duties as Photogr aphic Liaison Officer i n a manner which has r efl ected credi t on this Depot. He.has a confident and quiet manner and excellent military conduct. His screening of photographic r equests and handling of photographic problems has dis\u00ad playe"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "949 Rear Admiral L.M.Grant, USN 120 \u2022satisfactory. \" Lt. Newhouse is a loyal, capable officer . He carries out the liaison work on Singl e Depar tment Procurement of photographic materials effectively and i n a manner r eflecting credit iDt he Navy. He is tactful, cooperative, and has effectivel y handled numerous problems arising in this joint departmen"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "S FILE NO. N. A . CLASS PRESENT STATION PRESENT DUTIES mmoUSE n. C. LT USN 177283 oRfJ.'f P\u00b70J BAGR-CD Da on Photo. Liaison OFFICER'S DATA CARD NAVPERS-340 (Rev. 7-46) Of.TE OF PRESENT R ANK : l April 194 NOTICE: This card to be subm itted~ to Bureau of Nnv.::il 0 Persennel annu ally (on 1 August) , and whon nny slgnlflcant ch .:mgo!. 1,11k a occu"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": " . 1 50- 47. (f) Reported 9 Sept ember 1946 to Aviation Suppl y Depot, Naval Suppl y Center, Pearl Harbor, for duty as Photogr aphic Liaison Of ficer wi t h t he collateral dut ies of : ::.S.litary Personnel Officer; Recr eation Officer; Training Of fice r; Voting Officer; Savings Bond Off icer; Examining Board; Survey Boar d and Summary Court Lartial Board."
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "l e and multiple lens cameras ~d motion picture pnotogr aphy . (h) (1) N. A. S.D., Philadel phia, Permsylvania . Photogr apni c Liaison Off i cer and Off i cer in Charge , Photogr aphi c katerials . 3ept ember 1944 t o Sept ember 1946. ( 2) NAS, Coco Solo, C. z. Phot ogr aphic Off icer. June 1943 to Sept ember 1944, (3) Co,._'!la.ndant l<'ift eent h l~aval D"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": ". I nclude periods of ,..... trnnsit, .,\u2022.. 0 110 lncludo employmont of 1hIp.) l\"ROM T O MO. Yll. MO. YR. P h o t o r a hie Liaison Officer -- - - Oct 7lr --=:...::.::..::...::....::..o::..= =-==r~M...i '-lJ.--. t.-:ary = :--.-s====-=,.,-->-<=.....--::-----.-r::a=v =m=-~ ,-,--.-\"\"\"\".....-:: c -= e =r -----\u00b7-- Oct 47 Collateral Recrea Surve ard ----"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "ien, i nsta2:a.tion of changes and oporation of pLotocra\"hie la.bora.t0rJ at .\u2022s, Coco Sol o, C. Z. (d) Dutj as P'\u00b7oto 'l'o.-Jric Liaison 0:'ficer rcuresent:ine t! e CLief, U. S . :\u00b7 va.l ' oto[;raphic Service, at i:ASD hiladol....,1 ia, Pa. .1. 3. hec01 \u2022 endation on reference (b) b~\u00b7 the Local Board \\7aS a 1pointr:ent as nert eJ1ent cour-i ssioned 1m..rra."
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "hi.rlston 25, D. C. Originated b7: LCDR F. C. Turner, USN \\ Copy tos Pera Blbcl, x.42075 Pere Bl.be I \\ Pera BUS Naval Liaison Office ~ cket NJ:NAL LIAISON OFFICE TO THE CONGRESS ROOM 313B OLD HOUSE OFFICE BLDG . WASHINGTON 25, D . C . 2 April 1959 MEMORANDUM FOR: Chief of Naval Personnel ATTENTION : SUBJECT: NEWHOUSE, Delbert Co, CWO, USN"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "b7: LCDR F. C. Turner, USN \\ Copy tos Pera Blbcl, x.42075 Pere Bl.be I \\ Pera BUS Naval Liaison Office ~ cket NJ:NAL LIAISON OFFICE TO THE CONGRESS ROOM 313B OLD HOUSE OFFICE BLDG . WASHINGTON 25, D . C . 2 April 1959 MEMORANDUM FOR: Chief of Naval Personnel ATTENTION : SUBJECT: NEWHOUSE, Delbert Co, CWO, USN; request for duty on the West Coas"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "THIRD_PARTY",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "E AIR GROUP X FINEST OPERATION I HAVE SEEN IN A LONG TIME X GOOD LUCK AND A PLEASANT TRIP HOME X RADM SOUTHERLAND\" r. From U.S. Navy Liaison Officer, Singapore .\u2022\u2022\u2022\"YOUR BRIEF VISIT TO SINGAPORE CONSID~rtED OUTSTANDING IN ALL RES\u00ad PECTS X FINE APPEARANCE OF SHIPS AND MEN CMM EXEMPLARY CON\u00ad DUCT ASHORE CMM ENTHUSIASTIC COOPERATION WITH ALL ORGANIZA\u00ad TIONS CMM"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "at, ly. Include periods of leavo. tran1it, etc.\u2022 al,o FROM T O Incl ude employment of 1hlJJ.) HO. YR. MO. YR. Photogra:ehic Liaison Officer ~{]_ 10/ '{L Military Personnel Officer RI ,'7 o / .'7 Recreation Of ficer R I :i.? 10/ :i.7 : Leave 2 days 10/ '.7 110/ '.J.7 Ha, ercsent dutl chnnecd alnco Inst fitness report wns submlttcd? 0 Vos f.llJ No"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": " and demlbo accurately. Include period, of leave, transit. etc.. also PROM ~ TO I nclude empl oyment of sh ip.) Photogr aghic Liaison Of ficer lliiitary Personnel Officer \u2022 : :~:: I Has present duty chnnped slnco Inst fitness report wos 1ubmlttcd? D Yes [X No Ara you t>hYt lcally QUDlJtlod for Se:1 Dutr1 (1J Yet \u25a1 No \u25a1 ~~~~~ 4. II Avlotor. ln"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": ":IS::-::H:-::E:-::-R=Ec=-=o=-=M\"\"'M\"\"E\"'N\"\"'D::-:E::-:D,.-:;?:-------- - ------------------ - - --- -------------- - AsHoRE Photo Liaison ASD, Pearl Harbor AFLOAT Photo Officer CV or squadron ~-on EACH FACTOR OBSERVE!) CJJECK Tiffi APPROPRIATE BOX TO INDICATE HOW THE OFFI CER COMPARES WITH ALL OTHERS OF THE SAME RANK, CLASSIFICATION AND 7\u2022 COltPS WHOSE PROFE"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "CONSIDER TlllS REPORT TO BE [Jg SATISFACTORY O UNFAVORABLE O UNSATISFACTORY Lieut. Newhouse has carri ed out duties as Photographic Liaison ;_..,,,o..,.ff...,1~\u00b7~c~e.... .... m\"\"'a...,nn~e 1..,,cu.h~h . e~~h~a~s~a~--- .... r~i n.......,a\"\"--:-.... .... ....r.,_wu...h... ..a~s!.__:!r~e~f,!,...!,l.s.e..!<cc.!,t~e!-\"d~c:o..:r,,_e\":-7d\"7i_,,t:.......,o,:..:n~t~h"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "cent flnt and desulbo aecurntely. Include period, at leavo. transit_, etc.\u2022 nt,o Include employment of 1bJp.) HO. PhotograQhic Liaison Officer1 NASD - CNOl OE 53 9 1,5 I \u20222 146 Hns uresent dutv chanoed since Inst fitness rcaort was submitted? n Yes ~ No lF COURSES OF INSTRUCTION WERE COMPLETED DURlNG PERIOD OF TRIS REPORT. LIST TITLE 0.8' COURSE. LOCATION OF"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": " --1------+------ ~~. r \u2022R~ce!tph:~rc~:~l(Lilt NO. OF HOURS \u2022 Offi er s. rJl:~~fRg~ii l su I KIND o B' DUTY Photographic Liaison / j LOCATION Pacific Area (NASD) 1s: s nonE KIND o F nm Photographic Officer LOCATION Any West Coast Air Station 6. SECTIONS 6 THROUGH 12 TO BE I NAM E OF REPORTING OFFICER ~175~ NO. OFFICIAL STATUS RELATIVE TO OB'B'ICEB m:PO"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "NSlDF.R THIS REPORT TO BE I] SATISFACTORY O UN.B'AVORABLE \u25a1 UNSATISFACTORY \u00b7Lt .(jg) Newhouse has performed duties as Photographic Liaison Officer in an excellent manner during the period of this report. nis experience with photography ~ and his knowledge of ,phatographic organization in the office of CNO coupled with his ; good judgment have enabl ed this D"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_06__DOW-UAP-D105_US-Air-Force-Flying-Discs-File-September-December-1952_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "y Congressman J . E. Van Znndt. Acknowledgments have been made to Congressuan Van Zandt and lfr. Yyers. Director of Legislation mid Liaison, this Hoad~uarter:,, has been fumished copies of entiro file. 3. P..e-1uest receipt of inclosure 3 be acknowledged by indor~ement direct to originator. 4\u2022 Inelosm-es 4, 5, 6 '.'.'.nd 7 were sutmitted by Uiss l!ary B. Ha,"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_06__DOW-UAP-D105_US-Air-Force-Flying-Discs-File-September-December-1952_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": ". !l.'he 1ncloeed correapondence i'rom Mr. Carr to the Prea14ent, with a copy ot the repl7 made by the Director of Legislation and Liaison. is for your information and retention. Further correspondence with J.1r. Carr 1a not neceasacy. ~ 2. It ie ancgested that these 40CW1Lenta be placed 1n the file with other \u2022 ndenoe from V.r. Carr\u2713 ><3d ~ , 7 R-T113 4 lne"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_06__DOW-UAP-D111_AAWSAP-Solicitation-and-Original-Order-September-22-2008_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "tions ) of the person#s products or services, condi tions or terms of sale, and service capabilities; or (1) Agency and legislative liaison by Contractor employees . (i ) Payment of reasonable compensat ion made to an offi cer or empl oyee of t he Contractor i f the payment is for agency and legislative l iaison activities not directly related to this contra"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_07__DOW-UAP-D156-Air_Intelligence_Information_Report_Guam-1956_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": " and leveled off or descended, it could possibly explain the reported UFOB . ,e&....~~~ ALAN G. POUND Captain, USAF Air Tech Intel Liaison Of~ic r COI'-' \u2022NTS OF THE APPROVTtG OFFICER : This report was prepar ed in its entirety by a member of the Air Technical Intell ence Li ison Office , HJK MOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL DE"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "bject should be addressed to that office. Both offices are at 9700 Page Ave., St. Louis, MO 63132. 0 ARPERCEN, Attn: DARP-VSE-A O Navy Liaison Office, Room 5409 D That portion of your request regarding Air Force or Army Air Corps medals will be answered under separate cover. D The medical records reques1ed D The documents requested pertaining to discharge ha"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "bject should be addressed to that office. Both offices are at 9700 Page Ave., St. Louis, MO 63132. 0 ARPERCEN, Attn: DARP-VSE-A O Navy Liaison Office, Room 5409 D That portion of your request regarding Air Force or Army Air Corps medals will be answered under separate cover. D The medical records requested D The documents requested pertaining to discharge ha"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": " the performance of its missi ons. 5. Each Service shall desig1l.?.te properly qualified personnel at appropriate echelons for\u00b7 liaison purposes. IRES'.fRIGi~RI 020469 Department of Defense Directive \u2022 SUBJECT Physical Security Equipment Agency Pursuant to the authority vested in me by the National. Security Act 0\u00a3 1947, as amended, there is hereby reco"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "the Policy Board. 3. In order to further the technical aspects or the Agency's programs, each military department shall designate a liaison ot.f'icer \\ representing its principal. research and development stat\u00a3. F.ach ; liaison officer, within hi s department, shall be responsible fort a. Arranging for the exchange of infomation concerning research and devel"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "military department shall designate a liaison ot.f'icer \\ representing its principal. research and development stat\u00a3. F.ach ; liaison officer, within hi s department, shall be responsible fort a. Arranging for the exchange of infomation concerning research and development programs being carried out i .n their Departments which may be pertinent to approved pr"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "loping security and intelligence equipment. 4. F.ach Service shall designate properly qualified personnel at appropriate echelons for liaison purposes consistent with detennina\u00ad tions made in accordance with paragraph 1 of this Section. 5. Exchange of infonnation by and with the Agency shall be governed by normal security practices. VI. DIRIDTIVES SUPERSEDED"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_ours",
+   "doc": "Release_08__DOW-UAP-D172-BAASS_Ten_Month_Report_July-2009.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "SS and corporate personnel. \u2022 Establish and maintai.n BAASS COMSEC accounts with US Government agency. \u2022 Maintaining director liaison and interact with US Government agencies ensuring compliance with regulations and ensuring positive relations with the different agencies. \u2022 Track security clearance investigations and perform administrative support funct"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_ours",
+   "doc": "Release_08__DOW-UAP-D172-BAASS_Ten_Month_Report_July-2009.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "n ity Pla n n i ng & Liaison) b y te lephone contact. On May 05, 2009, BAASS I nvestigators d rove to Phoe n ix AZ to meet with witnesses in reference to stra nge l ights a nd a possi ble land i ng of a craft nea r the Ak-Chin I n d i a n Rese rvation . Witn"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_ours",
+   "doc": "Release_08__DOW-UAP-D172-BAASS_Ten_Month_Report_July-2009.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "e have been detected or inferred, via interagency connections, BAASS will lobby for access to medical samples for evaluation by liaison with such laboratories as the Armed Forces Institute of Pathology (AFIP); the various commands housed at Fort Detrick, e.g., U.S. Army Medical Research and Materiel Command (USAMRMC} with its bio-defense agency, and the U.S."
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_ours",
+   "doc": "Release_08__DOW-UAP-D205_Air_Intelligence_Information_Report_Japan-1956.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "l Liaison Officer S OF T G OFFIC R: hi5 report e p p\"'red .in its entirety by '"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_ours",
+   "doc": "Release_08__DOW-UAP-D205_Air_Intelligence_Information_Report_Japan-1956.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "ison Officer S OF T G OFFIC R: hi5 report e p p\"'red .in its entirety by '9mbers oft T ch ic Intelligence Liaison O"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_ours",
+   "doc": "Release_08__DOW-UAP-D205_Air_Intelligence_Information_Report_Japan-1956.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "telligence Liaison Office. HJK NOTE: THIS DOCUMENT CONTAINS INFORMATION AFFECTING THE NATIONAL D\u00a3FENSEOF THE UNITED STATES WITHIN THE MEANING OF THE ESPIONAGE ACT. 50 U. S. C.-"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "geipan_pv",
+   "doc": "1964-03-01780__Temoignage direct-R3.pdf.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "me ou je quittais des yeux cet objet et sa trajectoire suppos\u00e9e, deux autres traces dans le ciel m\u2019apparurent sans que je puisse faire une liaison directe avec la pr\u00e9c\u00e9dente. Sur le moment je n\u2019en n\u2019ai pas saisi Pimportance, mais \u00e0 la r\u00e9flexion il est possible qu\u2019il s\u2019agissait d\u2019un rassemblement de plusieurs objets, d\u00e9collant simultan\u00e9ment de lieux diff\u00e9rent"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "geipan_pv",
+   "doc": "1989-05-01176__NEUVELLE-LES-LURE (LA) (70) 30.05.1989 _T-M PV T S_A_ 1989309787-905-89-R.pdf.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": " les gardes on et F se trouvaient dans une sapini\u00e8re \u00e0 environ 500 m de nous, sur la commune de s \u00e0 l'Est de notre position. Nous \u00e9tions en liaison r&dios VINVUITNNNNNENTINNIT MT Le ciel \u00e9tait \u00e9toil\u00e9, il n'y avait que quelques petits nuages transpasent! rents. \u00c0 23 Heures 15, notre attention a \u00e9t\u00e9 attir\u00e9e par trois projecteurs, juste au-dessus de nous, qui \u00e9"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "geipan_pv",
+   "doc": "1994-01-01345__Compte rendu enquete-R4.pdf.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "tiaux (SEPRA) du CNES-Toulouse SEPRA / RE-1 10.04.2001 Introduction Le 28 janvier 1994, l'\u00e9quipage d'un Airbus d'Air France assurant la liaison Nice - Londres observe un ph\u00e9nom\u00e8ne a\u00e9rien non-identifi\u00e9 au-dessus de la r\u00e9gion parisienne. Au m\u00eame moment, les radars militaires de la d\u00e9fense a\u00e9rienne enregistrent une piste non-identifi\u00e9e croisant la trajectoire d"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "geipan_pv",
+   "doc": "1994-01-01345__Compte rendu enquete-R4.pdf.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "rois ans. 1. Les faits Le 28 janvier 1994, le commandant et la copilote sont aux commandes de l\u2019Airbus A320-111 d\u2019Air France, assurant la liaison Nice-Londres, avec 24 passagers \u00e0 bord. \u00c0 13h14, le vol AF 3532 survole la r\u00e9gion de Coulommiers en Seine-et-Marne, \u00e0 une altitude de 39.000 pieds (11900 m) et \u00e0 une vitesse au sol de 350 noeuds (650 km/h). La visi"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "geipan_pv",
+   "doc": "1994-01-01345__Compte rendu enquete-R4.pdf.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "e surveillance atteint le niveau 660 (22000 m\u00e8tres d'altitude) et elle doit identifier tout appareil qui survole le pays. Nuit et jour, en liaison constante avec 250 aviateurs sp\u00e9cialis\u00e9s et 10 sites de veille radar de haute altitude, des op\u00e9- rateurs radar scrutent les cieux depuis le gigan: tesque bunker souterrain de Taverny, pr\u00e8s de Pa: ris. C\u2019est l\u00e0, \u00e0 "
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "geipan_pv",
+   "doc": "1994-01-01345__Compte rendu enquete-R4.pdf.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "ideenr transparent et disparaitrt \u00ab e jour l\u00e0, je suis commandant de bord de l\u2019A\u00efrbus A320-111 \u201cVille d'Amsterdam\u201d qui effec- tue la liaison Nice-Londres. Nous sommes en vol de croisi\u00e8re vers Coulom- miers, \u00e0 11 700 m d'altitude, par d'excellentes conditions m\u00e9t\u00e9orologiques, avec une visibili- t\u00e9 de 200 \u00e0 300 km er une couverture nuageuse d'alto cumulus reco"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "geipan_pv",
+   "doc": "1994-01-01345__PV n\u00b0351 (1994310452).pdf.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": " OVNI du 28 janvier 1994, dont il est question. J'\u00e9tais le Commandant de Bord de l\u2019Airbus A320, du vol Air France 3532. qui effectuait la liaison Nice- Londres du 28 janvier 1994; Vous pouvez trouver en annexe une copie de mon carnet de vol de janvier 1994, ainsi qu\u2019une copie du suivi de vol Octave, qui a \u00e9t\u00e9 rempli par moi-m\u00eame lors de cette navigation. Vou"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "geipan_pv",
+   "doc": "1994-01-01345__PV n\u00b0351 (1994310452).pdf.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": " surveillance atteint le niveau 660 (22000 m\u00e8tres d\u2019altitude) et elle doit identifier tout appareil qui survole le pays. Nuit et jour, en liaison constante avec 250 aviateurs sp\u00e9cialis\u00e9s et 10 sites de veille radar de haute altitude, des op\u00e9- rateurs radar scrutent les cieux depuis le gigan- tesque bunker souterrain de Taverny, pr\u00e8s de Pa- ris. C\u2019est l\u00e0, \u00e0 6"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "geipan_pv",
+   "doc": "1994-01-01345__PV n\u00b0351 (1994310452)1.pdf.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": " OVNI du 28 janvier 1994, dont il est question. J'\u00e9tais le Commandant de Bord de l\u2019Airbus A320, du vol Air France 3532. qui effectuait la liaison Nice- Londres du 28 janvier 1994; Vous pouvez trouver en annexe une copie de mon carnet de vol de janvier 1994, ainsi qu\u2019une copie du suivi de vol Octave, qui a \u00e9t\u00e9 rempli par moi-m\u00eame lors de cette navigation. Vou"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "geipan_pv",
+   "doc": "1994-01-01345__PV n\u00b0351 (1994310452)1.pdf.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": " surveillance atteint le niveau 660 (22000 m\u00e8tres d\u2019altitude) et elle doit identifier tout appareil qui survole le pays. Nuit et jour, en liaison constante avec 250 aviateurs sp\u00e9cialis\u00e9s et 10 sites de veille radar de haute altitude, des op\u00e9- rateurs radar scrutent les cieux depuis le gigan- tesque bunker souterrain de Taverny, pr\u00e8s de Pa- ris. C\u2019est l\u00e0, \u00e0 6"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "geipan_pv",
+   "doc": "1996-02-01658__PV n\u00b0101 (1996307953).pdf.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": " offrant la facilit\u00e9 d'utilisation que l\u2019on attend d\u2019un tel appareil. Cette construction permet d'\u00e9liminer l'encombrement des c\u00e2bles de liaison et de simplifier les r\u00e9glages. Possibilit\u00e9 de lecture et d'enregistrement Enregistrement \u2014 Votre camescope VM-E26E est capable d'enregistrer directement \u00e0 partir de sa cam\u00e9ra vid\u00e9o incorpor\u00e9e. Lecture \u2014 Le son et l'i"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "geipan_pv",
+   "doc": "2024-07-51544__Compte rendu enquete802.pdf.txt",
+   "kind": "B_maintained_contact||\\bliaison\\b",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": " de 30 m d'altitude \u2018 du t\u00e9moin servant de base \u00e0 plus loin l'utilisation de drones Vitesse app. Tr\u00e8s rapide, coh\u00e9rente 0.90 Utilisation en liaison avec les festivit\u00e9s du 14 juillet ? Pas d'information pr\u00e9cise Date/Heure : Interdiction formelle d'utilisation de nuit, 0.00 Spectacle de drones organis\u00e9 par mais certains utilisateurs passent outre. la commune v"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_03__CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974_djvu.txt",
+   "kind": "B_maintained_contact||joint program",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "etters between President Eisenhower and Prime Minister Macmillan in December, the President summarized the lines of au\u00ad thority for the joint program: \"Br itish missions are carried out on your authority and are your responsibility just as our activities are au\u00ad thorized and controlled here in accordance with the procedures I have established. In this sense,"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_06__DOW-UAP-D143_AAWSAP-DIRD-Laser-Lightcraft-Nanosatellites-November-1-2010_djvu.txt",
+   "kind": "B_maintained_contact||joint program",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "Program funded by the Strategic Defense Initiative Organization (SDIO) Laser Propulsion Program in the late 1980's. In the 1990's, a joint program involving the NASA-Marshall Space Flight Center and the Propulsion Sciences and Advanced Concepts Division of the AFRL Propulsion Directorate developed and tested an experiment to determine the feasibility of usin"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "aawsap_dirds",
+   "doc": "DOW-UAP-D143_AAWSAP-DIRD-Laser-Lightcraft-Nanosatellites-November-1-2010_djvu.txt",
+   "kind": "B_maintained_contact||joint program",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "Program funded by the Strategic Defense Initiative Organization (SDIO) Laser Propulsion Program in the late 1980's. In the 1990's, a joint program involving the NASA-Marshall Space Flight Center and the Propulsion Sciences and Advanced Concepts Division of the AFRL Propulsion Directorate developed and tested an experiment to determine the feasibility of usin"
+  },
+  {
+   "source": "deep_terms",
+   "corpus": "pursue_server",
+   "doc": "Release_03__FBI-UAP-D004_FD-1057-02_Northeastern-US_2024_djvu.txt",
+   "kind": "B_maintained_contact||ongoing (?:contact|dialogue)",
+   "auto_frame": "DIRECT",
+   "hand_code": "ORDINARY_USAGE",
+   "ctx": "osed an in-person meeting in 1kely not occur. This information was relayed to FBI - to establish local contact, and any potential ongoing contact with- in 3"
+  }
+ ]
+}

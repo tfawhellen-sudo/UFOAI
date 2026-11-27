@@ -1,0 +1,7862 @@
+{
+ "n_docs": 529,
+ "n_titles": 12234,
+ "acronyms": {
+  "expanded": {
+   "RWR": [
+    [
+     "Radar Warning Receiver",
+     27
+    ]
+   ],
+   "AAWSA": [
+    [
+     "Advanced Aerospace Weapon System Applications",
+     18
+    ],
+    [
+     "Advanced Aerospace Weapons System Applications",
+     4
+    ]
+   ],
+   "UAP": [
+    [
+     "Unidentified Aerial Phenomenon",
+     7
+    ],
+    [
+     "Unidentified Aerial Phenomena",
+     2
+    ],
+    [
+     "Unidentified Anomalous Phenomenon",
+     2
+    ]
+   ],
+   "NASA": [
+    [
+     "The National Aeronautics and Space Administration",
+     6
+    ],
+    [
+     "National Aeronautics and Space Administration",
+     5
+    ],
+    [
+     "National Aeronautics and Space Agency",
+     2
+    ]
+   ],
+   "SAC": [
+    [
+     "Strategic Air Command",
+     7
+    ],
+    [
+     "USAF Strategic Air Command",
+     2
+    ],
+    [
+     "Headquarters, Colorado Springs, CO and Strategic Air Command",
+     1
+    ]
+   ],
+   "BAASS": [
+    [
+     "Bigelow Aerospace Advanced Space Studies",
+     3
+    ],
+    [
+     "Report Bigelow Aerospace Advanced Space Studies",
+     3
+    ],
+    [
+     "Bigelow Aerospace Advanced Space Studies, LLC",
+     2
+    ]
+   ],
+   "DIA": [
+    [
+     "Defense Intelligence Agency",
+     5
+    ],
+    [
+     "Defonse Intelligence Agency",
+     1
+    ],
+    [
+     "Defense Warning Office of the Defense Intelligence Agency",
+     1
+    ]
+   ],
+   "DPD": [
+    [
+     "Development Projects Division",
+     8
+    ]
+   ],
+   "HATS": [
+    [
+     "Headquarters Action Tracking System",
+     6
+    ],
+    [
+     "UFO Headquarters Action Tracking System",
+     1
+    ],
+    [
+     "Administrator for Legislative Affairs Enclosure Headquarters Action Tracking System",
+     1
+    ]
+   ],
+   "AG": [
+    [
+     "IAW THE TARGET DECK IN THE ARABIAN GULF",
+     2
+    ],
+    [
+     "LAW THE TARGET DECK IN THE ARABIAN GULF",
+     1
+    ],
+    [
+     "TARGET DECK IN THE ARABIAN GULF",
+     1
+    ]
+   ],
+   "FAR": [
+    [
+     "Federal Acquisition Regulation",
+     6
+    ],
+    [
+     "Defense Federal Acquisiti on Regulation",
+     1
+    ]
+   ],
+   "AEC": [
+    [
+     "The Atomic Energy Commission",
+     7
+    ]
+   ],
+   "OSI": [
+    [
+     "Office of Scientific Intelligence",
+     3
+    ],
+    [
+     "Office of Special Investigations",
+     1
+    ],
+    [
+     "Philip Strong of the Office of Scientific Intelligence",
+     1
+    ]
+   ],
+   "UFO": [
+    [
+     "Unidentified Flying Objects",
+     2
+    ],
+    [
+     "Unidentified Flying Object",
+     1
+    ],
+    [
+     "UoldtutlClcd Flying Objects",
+     1
+    ]
+   ],
+   "EG&G": [
+    [
+     "Edgerton, Germeshausen & Grier",
+     6
+    ]
+   ],
+   "CLT": [
+    [
+     "Statistical Drake Equation By Virtue of the Central Limit Theorem",
+     2
+    ],
+    [
+     "Recall the Central Limit Theorem",
+     1
+    ],
+    [
+     "The Central Limit Theorem",
+     1
+    ]
+   ],
+   "ORR": [
+    [
+     "Office of Research and Reports",
+     4
+    ],
+    [
+     "Allen of the Office of Research and Reports",
+     1
+    ]
+   ],
+   "SEI": [
+    [
+     "Scientific Engineering Institute",
+     5
+    ]
+   ],
+   "CAS": [
+    [
+     "Covert Action Staff",
+     4
+    ],
+    [
+     "Central Alarm Station",
+     1
+    ]
+   ],
+   "SA": [
+    [
+     "Special Agent",
+     3
+    ],
+    [
+     "Special Agents",
+     2
+    ]
+   ],
+   "SQL": [
+    [
+     "Standard Quantum Limit",
+     2
+    ],
+    [
+     "Quantum Back-Action Limit The Standard Quantum Limit",
+     1
+    ],
+    [
+     "Review of the Standard Quantum Limit The Standard Quantum Limit",
+     1
+    ]
+   ],
+   "SPESIF": [
+    [
+     "Space, Propulsion and Energy Sciences International Forum",
+     5
+    ]
+   ],
+   "DPF": [
+    [
+     "Dense Plasma Focus",
+     3
+    ],
+    [
+     "Dense Plasma Focus Reactors The Dense Plasma Focus",
+     1
+    ],
+    [
+     "Propulsion and Power Density Capabilities of Dense Plasma Focus",
+     1
+    ]
+   ],
+   "AAV": [
+    [
+     "Advanced Aerospace Vehicle",
+     3
+    ],
+    [
+     "Anomalous Aerial Vehicle",
+     1
+    ],
+    [
+     "The Anomalous Aerial Vehicle",
+     1
+    ]
+   ],
+   "SAPCO": [
+    [
+     "Special Access Program Control Office",
+     3
+    ],
+    [
+     "SPECIAL ACCESS PROGRAM CONTROL OFFICE",
+     1
+    ],
+    [
+     "DHS Management, Chief, Special Access Programs Control Office",
+     1
+    ]
+   ],
+   "FLIR": [
+    [
+     "Forward Looking Infrared",
+     3
+    ],
+    [
+     "Forward Looking InfraRed",
+     1
+    ]
+   ],
+   "DRC": [
+    [
+     "Defector Reception Center",
+     2
+    ],
+    [
+     "CIA Detector Reception Center",
+     1
+    ],
+    [
+     "CIA Defector Reception Center",
+     1
+    ]
+   ],
+   "REG": [
+    [
+     "Returnee Exploitation Group",
+     4
+    ]
+   ],
+   "MIT": [
+    [
+     "Massachusetts Institute of Technology",
+     4
+    ]
+   ],
+   "ISP": [
+    [
+     "Intelligence Systems Panel",
+     4
+    ]
+   ],
+   "RAF": [
+    [
+     "Royal Air Force",
+     4
+    ]
+   ],
+   "DDCI": [
+    [
+     "Deputy Director of Central Intelligence",
+     4
+    ]
+   ],
+   "IAC": [
+    [
+     "International Astronautical Congress",
+     3
+    ],
+    [
+     "November, the Intelligence Advisory Committee",
+     1
+    ]
+   ],
+   "P-E": [
+    [
+     "Perkin of the Perkin-Elmer",
+     2
+    ],
+    [
+     "The Perkin-Elmer",
+     2
+    ]
+   ],
+   "NACA": [
+    [
+     "National Advisory Committee on Aeronautics",
+     2
+    ],
+    [
+     "May, the National Advisory Committee on Aeronautics",
+     2
+    ]
+   ],
+   "WRSP-1": [
+    [
+     "Weather Reconnaissance Squadron, Provisional",
+     2
+    ],
+    [
+     "First Weather Reconnaissance Squadron, Provisional",
+     2
+    ]
+   ],
+   "JCS": [
+    [
+     "Joint Chiefs of Staff",
+     4
+    ]
+   ],
+   "JRC": [
+    [
+     "Joint Reconnaissance Center",
+     4
+    ]
+   ],
+   "NSCID": [
+    [
+     "National Security Council Intelligence Directive",
+     4
+    ]
+   ],
+   "OSA": [
+    [
+     "Office of Special Activities",
+     2
+    ],
+    [
+     "The Office of Special Activities",
+     2
+    ]
+   ],
+   "SIGINT": [
+    [
+     "Signals Intelligence",
+     4
+    ]
+   ],
+   "NEFA": [
+    [
+     "North-East Frontier Agency",
+     4
+    ]
+   ],
+   "PID": [
+    [
+     "Photo-Intelligence Division",
+     3
+    ],
+    [
+     "Photo- Intelligence Division",
+     1
+    ]
+   ],
+   "IEC": [
+    [
+     "Inertial Electrostatic Confinement",
+     2
+    ],
+    [
+     "IEC BACKGROUND Inertial Electrostatic Confinement",
+     1
+    ],
+    [
+     "Discharge Characteristics of the Spherical Inertial Electrostatic Confinement",
+     1
+    ]
+   ],
+   "DEC": [
+    [
+     "Dominant Energy Condition",
+     4
+    ]
+   ],
+   "SEC": [
+    [
+     "Strong Energy Condition",
+     4
+    ]
+   ],
+   "AIAA": [
+    [
+     "American Institute of Aeronautics and Astronautics",
+     4
+    ]
+   ],
+   "IPM": [
+    [
+     "Multi-Detector Holography of Sub-Wavelength Objects Using Indefinite Permittivity Medium",
+     2
+    ],
+    [
+     "Indefinite Permittivity Medium",
+     1
+    ],
+    [
+     "Indefinite Permittivity Material",
+     1
+    ]
+   ],
+   "ACM": [
+    [
+     "Conference of Association for Computing Machinery",
+     2
+    ],
+    [
+     "Association for Computing Machinery",
+     2
+    ]
+   ],
+   "SAPOC": [
+    [
+     "Special Access Program Oversight Committee",
+     1
+    ],
+    [
+     "MEMORANDUM FOR SPECIAL ACCESS PROGRAM OVERSIGHT COMMITTEE",
+     1
+    ],
+    [
+     "DECISION BRIEFING for the SPECIAL ACCESS PROGRAM OVERSIGHT COMMITTEE",
+     1
+    ]
+   ],
+   "CSO": [
+    [
+     "AND COMBAT SYSTEMS OFFICER",
+     1
+    ],
+    [
+     "Combat Systems Officer",
+     1
+    ],
+    [
+     "Comba Systems Officer",
+     1
+    ]
+   ],
+   "NSA": [
+    [
+     "National Security Agency",
+     3
+    ]
+   ],
+   "UAV": [
+    [
+     "Unmanned Aerial Vehicles",
+     1
+    ],
+    [
+     "Unmanned Aerial Vehicle",
+     1
+    ],
+    [
+     "Unmanned Arial Vehicles",
+     1
+    ]
+   ],
+   "MGS": [
+    [
+     "Mars Global Surveyor",
+     3
+    ]
+   ],
+   "ICF": [
+    [
+     "For Inertia Confinement Fusion",
+     1
+    ],
+    [
+     "Inertial Confinement Fusion",
+     1
+    ],
+    [
+     "INERTIAL CONFINEMENT FUSION",
+     1
+    ]
+   ],
+   "MRI": [
+    [
+     "Magnetic Resonance Imaging",
+     2
+    ],
+    [
+     "MRI AND FMRI Magnetic Resonance Imaging",
+     1
+    ]
+   ],
+   "FSL": [
+    [
+     "Far-Field Super-lens",
+     1
+    ],
+    [
+     "Far-field Super-Lens",
+     1
+    ],
+    [
+     "Far-Field Super-Lens",
+     1
+    ]
+   ],
+   "SAP": [
+    [
+     "Special Access Program",
+     2
+    ],
+    [
+     "Restricted Special-Access-Program",
+     1
+    ]
+   ],
+   "PSAP": [
+    [
+     "Prospective Special Access Program",
+     2
+    ],
+    [
+     "Science & Technology Prospective Special Access Program",
+     1
+    ]
+   ],
+   "CDC": [
+    [
+     "Cinq-Mars-la-Pile Control and Detection Center",
+     1
+    ],
+    [
+     "Control and Detection Centers",
+     1
+    ]
+   ],
+   "NARCAP": [
+    [
+     "National Aviation Reporting Center for Anomalous Phenomena",
+     1
+    ],
+    [
+     "The National Aviation Reporting Center for Anomalous Phenomena",
+     1
+    ]
+   ],
+   "CP": [
+    [
+     "Communist Party",
+     1
+    ],
+    [
+     "OWlded the Communist Party",
+     1
+    ]
+   ],
+   "FBI": [
+    [
+     "Federal Bureau of Investigation",
+     2
+    ]
+   ],
+   "SLV": [
+    [
+     "The Standardized Launch Vehicle",
+     1
+    ],
+    [
+     "Design of the Titan II Space Launch Vehicle",
+     1
+    ]
+   ],
+   "WS": [
+    [
+     "Weaoons Svstem",
+     1
+    ],
+    [
+     "Weapons System",
+     1
+    ]
+   ],
+   "NVG": [
+    [
+     "Night Vision Goggles",
+     2
+    ]
+   ],
+   "WADC": [
+    [
+     "Wright Air Development Command",
+     2
+    ]
+   ],
+   "TCP": [
+    [
+     "The Technological Capabilities Panel",
+     2
+    ]
+   ],
+   "P&W": [
+    [
+     "Pratt & Whitney",
+     2
+    ]
+   ],
+   "MATS": [
+    [
+     "Military Air Transport Service",
+     2
+    ]
+   ],
+   "DS": [
+    [
+     "Directorate of Support",
+     2
+    ]
+   ],
+   "DPS": [
+    [
+     "Development Projects Staff",
+     2
+    ]
+   ],
+   "ATIC": [
+    [
+     "Air Technical Intelligence Center",
+     2
+    ]
+   ],
+   "NSC": [
+    [
+     "National Security Council",
+     2
+    ]
+   ],
+   "NPIC": [
+    [
+     "National Photographic Interpretation Center",
+     2
+    ]
+   ],
+   "DDS&T": [
+    [
+     "Deputy Directorate for Science and Technology",
+     2
+    ]
+   ],
+   "CIA": [
+    [
+     "Central Intelligence Agency",
+     2
+    ]
+   ],
+   "NATO": [
+    [
+     "North Atlantic Treaty Organization",
+     2
+    ]
+   ],
+   "TOPS": [
+    [
+     "NASA Towards Other Planetary Systems",
+     2
+    ]
+   ],
+   "PF": [
+    [
+     "The Protective Force",
+     1
+    ],
+    [
+     "The Penning Fusion",
+     1
+    ]
+   ],
+   "ADS": [
+    [
+     "The Active Denial System",
+     2
+    ]
+   ],
+   "RAM": [
+    [
+     "Ramjet-Assisted Missile",
+     1
+    ],
+    [
+     "RAMJET-ASSISTED MISSILE",
+     1
+    ]
+   ],
+   "SSRV": [
+    [
+     "Single-Stage Reusable Vehicle",
+     1
+    ],
+    [
+     "SINGLE-STAGE REUSABLE VEHICLE",
+     1
+    ]
+   ],
+   "AFRL": [
+    [
+     "Air Force Research Laboratory",
+     2
+    ]
+   ],
+   "AFFDL": [
+    [
+     "Air Force Flight Dynamics Laboratory",
+     2
+    ]
+   ],
+   "MOL": [
+    [
+     "Manned Orbiting Laboratory",
+     2
+    ]
+   ],
+   "LANL": [
+    [
+     "Los Alamos National Laboratory",
+     1
+    ],
+    [
+     "Los Alamos National Labs",
+     1
+    ]
+   ],
+   "SDI": [
+    [
+     "Strategic Defense Initiative",
+     2
+    ]
+   ],
+   "JHPSSL": [
+    [
+     "Joint High-Power Solid-State Laser",
+     1
+    ],
+    [
+     "Joint High Power Solid-State Laser",
+     1
+    ]
+   ],
+   "SRR": [
+    [
+     "The Magnetic Split Ring Resonator",
+     1
+    ],
+    [
+     "Split Ring Resonators",
+     1
+    ]
+   ],
+   "SPO": [
+    [
+     "USAF Sys Prgrm Office",
+     1
+    ],
+    [
+     "Director, Special Projects Office",
+     1
+    ]
+   ],
+   "VUE": [
+    [
+     "Visual Understanding Environment",
+     2
+    ]
+   ],
+   "MCF": [
+    [
+     "Magnetic Confinement Fusion",
+     1
+    ],
+    [
+     "MAGNETIC CONFINEMENT FUSION",
+     1
+    ]
+   ],
+   "ESA": [
+    [
+     "ESA Advanced Concepts Team The European Space Agency",
+     1
+    ],
+    [
+     "The European Space Agency",
+     1
+    ]
+   ],
+   "SDS": [
+    [
+     "Lucid Dimensions Spherical Detection System",
+     1
+    ],
+    [
+     "Lucid Dimensions Spherical Detection Systems",
+     1
+    ]
+   ],
+   "NEP": [
+    [
+     "Nuclear Electric Propulsion",
+     2
+    ]
+   ],
+   "NMR": [
+    [
+     "Nuclear Magnetic Resonance",
+     2
+    ]
+   ],
+   "NIDS": [
+    [
+     "National Institute for Discovery Science",
+     1
+    ],
+    [
+     "National Institute for Discovery Sciences",
+     1
+    ]
+   ],
+   "PMR": [
+    [
+     "SUMMARY This Project Manager Report",
+     1
+    ],
+    [
+     "Technical Area This Program Manager Report",
+     1
+    ]
+   ],
+   "BWI": [
+    [
+     "Baltimore Washington International Airport",
+     2
+    ]
+   ],
+   "NT": [
+    [
+     "Northern Tier",
+     2
+    ]
+   ],
+   "MAFB": [
+    [
+     "Malmstrom Air Force Base",
+     2
+    ]
+   ],
+   "RF": [
+    [
+     "Heat Transfer, Nuclear Engineering, Electromagnetics and Radio Frequencies",
+     2
+    ]
+   ],
+   "RE": [
+    [
+     "The Reenlistment Eligibility",
+     2
+    ]
+   ],
+   "VA": [
+    [
+     "Department of Veterans Affairs",
+     2
+    ]
+   ],
+   "AMD": [
+    [
+     "Directorate of Plans Air/Maritime Division",
+     1
+    ],
+    [
+     "Air/Maritime Division",
+     1
+    ]
+   ],
+   "TSD": [
+    [
+     "Technical Services Division",
+     2
+    ]
+   ],
+   "DHS": [
+    [
+     "The Department of Homeland Security",
+     1
+    ],
+    [
+     "Department of Homeland Security",
+     1
+    ]
+   ],
+   "S&T": [
+    [
+     "DHS Science & Technology",
+     1
+    ],
+    [
+     "DHS Under Secretary for Science and Technology",
+     1
+    ]
+   ],
+   "AATIP": [
+    [
+     "Advanced Aerospace Threat Identification Program",
+     2
+    ]
+   ],
+   "SSPC": [
+    [
+     "Security Secretariat",
+     1
+    ]
+   ],
+   "AA": [
+    [
+     "IHEDN Auditors Association",
+     1
+    ]
+   ],
+   "GAO": [
+    [
+     "General Accounting Office",
+     1
+    ]
+   ],
+   "FBIS": [
+    [
+     "Foreign Broadcast Information Service",
+     1
+    ]
+   ],
+   "SPC": [
+    [
+     "Security Patrol Clerk",
+     1
+    ]
+   ],
+   "GOC": [
+    [
+     "Ground Observer Corps",
+     1
+    ]
+   ],
+   "KAFB": [
+    [
+     "KING, OSI, Kirtland Air Force Base",
+     1
+    ]
+   ],
+   "NIO": [
+    [
+     "RECEIVED INFORMAL INQUIRY FROM PNG NATIONAL INTELLIGENCE ORGANIZATION",
+     1
+    ]
+   ],
+   "STA": [
+    [
+     "TF CHOSIN AND TF CHOSIN SENSOR TASKING AUTHORITY",
+     1
+    ]
+   ],
+   "ROZ": [
+    [
+     "RESTRICTED OPERATING ZONE",
+     1
+    ]
+   ],
+   "WSO": [
+    [
+     "AFTER WEAPONS RELEASE, THE WEAPONS SYSTEMS OFFICER",
+     1
+    ]
+   ],
+   "RAFIP": [
+    [
+     "Random-Attitude Failure Impact Point",
+     1
+    ]
+   ],
+   "GFDF": [
+    [
+     "Gross Flight Deviation Failure",
+     1
+    ]
+   ],
+   "PAM": [
+    [
+     "Payload Assist Module",
+     1
+    ]
+   ],
+   "LLV-1": [
+    [
+     "JOHN/NIKE/NIKE KIVA/HOPA LOCKHEED LAUNCH VEHICLE",
+     1
+    ]
+   ],
+   "I&C": [
+    [
+     "Installation and Checkout",
+     1
+    ]
+   ],
+   "DIW": [
+    [
+     "BOTII VESSELS WERE DEAD IN WATERl",
+     1
+    ]
+   ],
+   "JOC": [
+    [
+     "Joint Operations Center",
+     1
+    ]
+   ],
+   "OCI": [
+    [
+     "Office of Current Intelligence",
+     1
+    ]
+   ],
+   "ORD": [
+    [
+     "Office of Research and Development",
+     1
+    ]
+   ],
+   "UPI": [
+    [
+     "United Press International",
+     1
+    ]
+   ],
+   "AFNIN": [
+    [
+     "Air Force",
+     1
+    ]
+   ],
+   "ADS-B": [
+    [
+     "Automatic Dependent Surveillance-Broadcast",
+     1
+    ]
+   ],
+   "ECS": [
+    [
+     "Environmental Control Systems",
+     1
+    ]
+   ],
+   "OAMS": [
+    [
+     "Orbital Attitude and Maneuver System",
+     1
+    ]
+   ],
+   "MCC": [
+    [
+     "Mission Control Center",
+     1
+    ]
+   ],
+   "GLV": [
+    [
+     "LAUNCH VEHICLE DESCRIPTION The Gemini Launch Vehicle",
+     1
+    ]
+   ],
+   "MSFN": [
+    [
+     "Gemini Manned Space Flight Network",
+     1
+    ]
+   ],
+   "RSDP": [
+    [
+     "Remote Site Data Process",
+     1
+    ]
+   ],
+   "AFETR": [
+    [
+     "Air Force Eastern Test Range",
+     1
+    ]
+   ],
+   "GSFC": [
+    [
+     "MSFN, and Goddard Space Flight Center",
+     1
+    ]
+   ],
+   "DCS": [
+    [
+     "Digital Command System",
+     1
+    ]
+   ],
+   "S-7": [
+    [
+     "Cloud Top Spectrometer",
+     1
+    ]
+   ],
+   "USRD": [
+    [
+     "Underwater Sound Reference Division",
+     1
+    ]
+   ],
+   "S-28": [
+    [
+     "Goddard Space Flight Center",
+     1
+    ]
+   ],
+   "S-29": [
+    [
+     "Suitland, Maryland",
+     1
+    ]
+   ],
+   "HRMS": [
+    [
+     "High Resolution Microwave Survey",
+     1
+    ]
+   ],
+   "GSR": [
+    [
+     "Pantex Ground Surveillance Radar",
+     1
+    ]
+   ],
+   "SAS": [
+    [
+     "Secondary Alarm Station",
+     1
+    ]
+   ],
+   "CROWS": [
+    [
+     "Common Remotely Operated Weapon System",
+     1
+    ]
+   ],
+   "EO/IR": [
+    [
+     "EJectro Optical/Infrared",
+     1
+    ]
+   ],
+   "DVR": [
+    [
+     "Digital Video Recorder",
+     1
+    ]
+   ],
+   "DSS": [
+    [
+     "Defense Security Service",
+     1
+    ]
+   ],
+   "COR": [
+    [
+     "Contracting Officer Representative",
+     1
+    ]
+   ],
+   "DFARS": [
+    [
+     "Defense Federal Acquisition Regulation Supplement",
+     1
+    ]
+   ],
+   "ANC": [
+    [
+     "Alaska Native Corporation",
+     1
+    ]
+   ],
+   "ISR": [
+    [
+     "Submit the Individual Subcontract Report",
+     1
+    ]
+   ],
+   "SSR": [
+    [
+     "Summary Subcontract Report",
+     1
+    ]
+   ],
+   "ACO": [
+    [
+     "Administrative Contracting Officer",
+     1
+    ]
+   ],
+   "OFCCP": [
+    [
+     "Office of Federal Contract Compliance Programs",
+     1
+    ]
+   ],
+   "FTA": [
+    [
+     "Free Trade Agreement",
+     1
+    ]
+   ],
+   "LBNL": [
+    [
+     "Lawrence Berkeley National Laboratory",
+     1
+    ]
+   ],
+   "LVAD": [
+    [
+     "Left Ventricular Assist Device",
+     1
+    ]
+   ],
+   "TSM": [
+    [
+     "Textron Specialty Materials",
+     1
+    ]
+   ],
+   "HEML": [
+    [
+     "High-Energy Microwave Laboratory",
+     1
+    ]
+   ],
+   "SRG": [
+    [
+     "NASA Glenn Research Center Stirling Radioisotope Generator",
+     1
+    ]
+   ],
+   "ILC": [
+    [
+     "International Linear Collider",
+     1
+    ]
+   ],
+   "PEC": [
+    [
+     "Positron Energy Conversion",
+     1
+    ]
+   ],
+   "MDC": [
+    [
+     "Wright-Patterson Air Force Base, the McDonnell Douglas Corporation",
+     1
+    ]
+   ],
+   "LACE": [
+    [
+     "Liquid Air Cycle Engine",
+     1
+    ]
+   ],
+   "MORL": [
+    [
+     "Manned Orbiting Research Laboratory",
+     1
+    ]
+   ],
+   "LLNL": [
+    [
+     "Lawrence Livermore National Laboratory",
+     1
+    ]
+   ],
+   "RC-IEC": [
+    [
+     "Radial Converging IEC",
+     1
+    ]
+   ],
+   "CSI": [
+    [
+     "Compton Scattering Imaging",
+     1
+    ]
+   ],
+   "MCSA": [
+    [
+     "Magnetically-Channeled SIEC Array",
+     1
+    ]
+   ],
+   "DHHS": [
+    [
+     "Department of Health & Human Services",
+     1
+    ]
+   ],
+   "EIS": [
+    [
+     "Centers of Disease Control Epidemiology Intelligence Service",
+     1
+    ]
+   ],
+   "HP": [
+    [
+     "High Power",
+     1
+    ]
+   ],
+   "NCRP": [
+    [
+     "National Council on Radiation Protection and Measurements",
+     1
+    ]
+   ],
+   "UWB": [
+    [
+     "Ultra Wide Band",
+     1
+    ]
+   ],
+   "AGARD": [
+    [
+     "Advisory Group for Aerospace Research and Development",
+     1
+    ]
+   ],
+   "NCHS": [
+    [
+     "The National Center for Health Statistics",
+     1
+    ]
+   ],
+   "MEMS": [
+    [
+     "Micro Electro Mechanical Systems",
+     1
+    ]
+   ],
+   "GLM": [
+    [
+     "General Linear Model",
+     1
+    ]
+   ],
+   "ICA": [
+    [
+     "Independent Component Analysis",
+     1
+    ]
+   ],
+   "HFGW": [
+    [
+     "International High-Frequency Gravitational Waves",
+     1
+    ]
+   ],
+   "IQOQI": [
+    [
+     "Institute for Quantum Optics and Quantum Information",
+     1
+    ]
+   ],
+   "NIH": [
+    [
+     "Not Invented Here",
+     1
+    ]
+   ],
+   "ASU": [
+    [
+     "Arizona State University",
+     1
+    ]
+   ],
+   "FDA": [
+    [
+     "Food and Drug Administration",
+     1
+    ]
+   ],
+   "HEL": [
+    [
+     "High Energy Laser",
+     1
+    ]
+   ],
+   "USP": [
+    [
+     "ULTRA-SHORT PULSE LASERS Ultra-Short Pulse",
+     1
+    ]
+   ],
+   "IRU": [
+    [
+     "Inertial Reference Unit",
+     1
+    ]
+   ],
+   "MTU": [
+    [
+     "Mobile Tactical Unit",
+     1
+    ]
+   ],
+   "MPE": [
+    [
+     "Maximum Permissible Exposure",
+     1
+    ]
+   ],
+   "DEPS": [
+    [
+     "Directed Energy Professional Society",
+     1
+    ]
+   ],
+   "SR": [
+    [
+     "Special Relativity",
+     1
+    ]
+   ],
+   "KK": [
+    [
+     "Dimensional Object While Kaluza-Klein",
+     1
+    ]
+   ],
+   "GUT": [
+    [
+     "Grand Unification Theory",
+     1
+    ]
+   ],
+   "UED": [
+    [
+     "Universal Extra Dimensions",
+     1
+    ]
+   ],
+   "QI": [
+    [
+     "PHYSICAL CONSTRAINTS ON NEGATIVE ENERGY The Quantum Inequalities",
+     1
+    ]
+   ],
+   "GR": [
+    [
+     "General Relativity",
+     1
+    ]
+   ],
+   "CMB": [
+    [
+     "Cosmic Microwave Background",
+     1
+    ]
+   ],
+   "ECI": [
+    [
+     "Earth Centered Inertial",
+     1
+    ]
+   ],
+   "FDMA": [
+    [
+     "Frequency Division Multiple Access",
+     1
+    ]
+   ],
+   "FHSS": [
+    [
+     "Frequency Hopping Spread Spectrum",
+     1
+    ]
+   ],
+   "GWADW": [
+    [
+     "Gravitational Wave Advanced Detector Workshop",
+     1
+    ]
+   ],
+   "LSU": [
+    [
+     "Louisiana State University",
+     1
+    ]
+   ],
+   "TSC": [
+    [
+     "Transportation Sciences Corporation",
+     1
+    ]
+   ],
+   "DD": [
+    [
+     "Detector Design",
+     1
+    ]
+   ],
+   "UHV": [
+    [
+     "Ultra-High Vacuum",
+     1
+    ]
+   ],
+   "CPB": [
+    [
+     "Cooper Pair Box",
+     1
+    ]
+   ],
+   "ERR": [
+    [
+     "Electric Ring Resonator",
+     1
+    ]
+   ],
+   "P-NIM": [
+    [
+     "Plasmonic Negative Index Metamaterials",
+     1
+    ]
+   ],
+   "EIT": [
+    [
+     "Electromagnetically Induced Transparency",
+     1
+    ]
+   ],
+   "CF": [
+    [
+     "Chiral Fiber",
+     1
+    ]
+   ],
+   "ZPP": [
+    [
+     "Zero-Point Planck",
+     1
+    ]
+   ],
+   "QED": [
+    [
+     "Quantum Electrodynamics",
+     1
+    ]
+   ],
+   "C&DH": [
+    [
+     "Command and Data Handling",
+     1
+    ]
+   ],
+   "GN&C": [
+    [
+     "GUIDANCE, NAVIGATION AND CONTROL Guidance Navigation and Control",
+     1
+    ]
+   ],
+   "SDIO": [
+    [
+     "Strategic Defense Initiative Organization",
+     1
+    ]
+   ],
+   "WSMR": [
+    [
+     "White Sands Missile Range",
+     1
+    ]
+   ],
+   "HELSTF": [
+    [
+     "High Energy Laser Systems Test Facility",
+     1
+    ]
+   ],
+   "PLVTS": [
+    [
+     "Pulsed Laser Vulnerability Test System",
+     1
+    ]
+   ],
+   "BMD": [
+    [
+     "Lightcraft Air to Space Investigation One Ballistic Missile Defense",
+     1
+    ]
+   ],
+   "HF": [
+    [
+     "Hydrogen Fluoride",
+     1
+    ]
+   ],
+   "DF": [
+    [
+     "Deuterium Fluoride",
+     1
+    ]
+   ],
+   "COIL": [
+    [
+     "Chemical Oxygen-Iodine Laser",
+     1
+    ]
+   ],
+   "BSSSL": [
+    [
+     "Bulk Slab Solid-State Laser",
+     1
+    ]
+   ],
+   "HELLADS": [
+    [
+     "High Energy Liquid Laser Area Defense System",
+     1
+    ]
+   ],
+   "YAG": [
+    [
+     "Yttrium Aluminum Garnet",
+     1
+    ]
+   ],
+   "MOPA": [
+    [
+     "Lf Master Oscillator, Power Amplifier",
+     1
+    ]
+   ],
+   "SBS": [
+    [
+     "Stimulated Brillion Scattering",
+     1
+    ]
+   ],
+   "SRS": [
+    [
+     "Stimulated Raman Scattering",
+     1
+    ]
+   ],
+   "DE&EWS": [
+    [
+     "Directed Energy and Electric Weapon Systems",
+     1
+    ]
+   ],
+   "LR": [
+    [
+     "Increasing Laser Ramjet",
+     1
+    ]
+   ],
+   "NTS": [
+    [
+     "DOE Nevada Test Site",
+     1
+    ]
+   ],
+   "ACT": [
+    [
+     "Advanced Concepts Team",
+     1
+    ]
+   ],
+   "ANS": [
+    [
+     "Radiation Shielding, American Nuclear Society",
+     1
+    ]
+   ],
+   "POPS": [
+    [
+     "Periodically Oscillating Plasma Sphere",
+     1
+    ]
+   ],
+   "HCT": [
+    [
+     "High-power Hall Current Thrusters",
+     1
+    ]
+   ],
+   "HTPS": [
+    [
+     "Hall Thruster Propulsion System",
+     1
+    ]
+   ],
+   "HEDLPP": [
+    [
+     "The Advanced Concepts and High-Energy-Density Laboratory Plasma Physics",
+     1
+    ]
+   ],
+   "ITER": [
+    [
+     "INTERNATIONAL PROGRAMS The International Thermonuclear Experimental Reactor",
+     1
+    ]
+   ],
+   "MORP": [
+    [
+     "Meteorite Observation and Recovery Project",
+     1
+    ]
+   ],
+   "DSP": [
+    [
+     "Defense Support Program",
+     1
+    ]
+   ],
+   "OGS": [
+    [
+     "Overseas Ground Station",
+     1
+    ]
+   ],
+   "CGS": [
+    [
+     "Australia and the Continental Ground Station",
+     1
+    ]
+   ],
+   "MOS/PIM": [
+    [
+     "Multi-Orbit Satellite/Performance Improvement Modification",
+     1
+    ]
+   ],
+   "SED": [
+    [
+     "Sensor Evolutionary Development",
+     1
+    ]
+   ],
+   "LDV": [
+    [
+     "Laser Doppler Velocimetry",
+     1
+    ]
+   ],
+   "AYAK": [
+    [
+     "For AJAX",
+     1
+    ]
+   ],
+   "JIMO": [
+    [
+     "Jupiter Icy Moons Orbiter",
+     1
+    ]
+   ],
+   "PCR": [
+    [
+     "Polymerase Chain Reaction",
+     1
+    ]
+   ],
+   "PTM": [
+    [
+     "Protected Tile Mechanism",
+     1
+    ]
+   ],
+   "LTM": [
+    [
+     "Layered Tile Mechanism",
+     1
+    ]
+   ],
+   "SWAT": [
+    [
+     "Subjective Workload Assessment Technique",
+     1
+    ]
+   ],
+   "CNS": [
+    [
+     "Central Nervous System",
+     1
+    ]
+   ],
+   "PNS": [
+    [
+     "Peripheral Nervous System",
+     1
+    ]
+   ],
+   "BOLD": [
+    [
+     "The Blood Oxygen Level Dependent",
+     1
+    ]
+   ],
+   "MARC": [
+    [
+     "Method of Analysis of Relational Complexity",
+     1
+    ]
+   ],
+   "ETH": [
+    [
+     "Extra-Terrestrial Hypothesis",
+     1
+    ]
+   ],
+   "AFIP": [
+    [
+     "Armed Forces Institute of Pathology",
+     1
+    ]
+   ],
+   "ATEC": [
+    [
+     "Army Test and Evaluation Command",
+     1
+    ]
+   ],
+   "UNLV": [
+    [
+     "University Nevada Las Vegas",
+     1
+    ]
+   ],
+   "WAFB": [
+    [
+     "Wurtsmith AFB",
+     1
+    ]
+   ],
+   "LAFB": [
+    [
+     "Loring AFB",
+     1
+    ]
+   ],
+   "CFB": [
+    [
+     "Canadian Forces Base",
+     1
+    ]
+   ],
+   "WSA": [
+    [
+     "Weapons Storage Area",
+     1
+    ]
+   ],
+   "AFT": [
+    [
+     "Alert Fire Team",
+     1
+    ]
+   ],
+   "SRT": [
+    [
+     "Security Response Teams",
+     1
+    ]
+   ],
+   "USO": [
+    [
+     "Unidentified Submerged Objects",
+     1
+    ]
+   ],
+   "FEA": [
+    [
+     "ANSYS Multiphysics Finite Element Analysis",
+     1
+    ]
+   ],
+   "UTM": [
+    [
+     "Oasys Universal Thermal Monocular",
+     1
+    ]
+   ],
+   "TSCM": [
+    [
+     "Technical Surveillance Countermeasures",
+     1
+    ]
+   ],
+   "CSG": [
+    [
+     "Nimitz Carrier Strike Group",
+     1
+    ]
+   ],
+   "BRAA": [
+    [
+     "Bearing Range Altitude Aspect",
+     1
+    ]
+   ],
+   "CFD": [
+    [
+     "Computational Fluid Dynamics",
+     1
+    ]
+   ],
+   "PSEA": [
+    [
+     "Physical Security Equipment Agency",
+     1
+    ]
+   ],
+   "CLOSED": [
+    [
+     "AND CASE",
+     1
+    ]
+   ],
+   "BEA": [
+    [
+     "British European Airvays",
+     1
+    ]
+   ],
+   "FAA": [
+    [
+     "Tbs Federal Aviation Agency",
+     1
+    ]
+   ],
+   "BUORL": [
+    [
+     "Boston University Optical Research Laboratory",
+     1
+    ]
+   ],
+   "IC": [
+    [
+     "Intelligence Community",
+     1
+    ]
+   ],
+   "LEO": [
+    [
+     "Low Earth Orbit",
+     1
+    ]
+   ],
+   "CPI": [
+    [
+     "Critical Program Information",
+     1
+    ]
+   ],
+   "PM": [
+    [
+     "Program Manager",
+     1
+    ]
+   ],
+   "TM": [
+    [
+     "Technical Manager",
+     1
+    ]
+   ],
+   "SCIF": [
+    [
+     "Sensitive Compartmented Information Facility",
+     1
+    ]
+   ],
+   "P-SAP": [
+    [
+     "Prospective Special Access Program",
+     1
+    ]
+   ],
+   "AATI": [
+    [
+     "Advanced Aerospace Threat and Identification",
+     1
+    ]
+   ],
+   "FISS": [
+    [
+     "Foreign Intelligence Security Services",
+     1
+    ]
+   ],
+   "FY": [
+    [
+     "Fiscal Year",
+     1
+    ]
+   ]
+  },
+  "undefined_used_in_3plus_docs": [
+   [
+    "ATTN",
+    66
+   ],
+   [
+    "OVER",
+    65
+   ],
+   [
+    "USAF",
+    64
+   ],
+   [
+    "OFF",
+    60
+   ],
+   [
+    "III",
+    57
+   ],
+   [
+    "AFB",
+    53
+   ],
+   [
+    "SEE",
+    53
+   ],
+   [
+    "USA",
+    50
+   ],
+   [
+    "IAL",
+    50
+   ],
+   [
+    "SOURCE",
+    50
+   ],
+   [
+    "AAP",
+    49
+   ],
+   [
+    "ANY",
+    47
+   ],
+   [
+    "OTHER",
+    46
+   ],
+   [
+    "NOTE",
+    45
+   ],
+   [
+    "NND",
+    42
+   ],
+   [
+    "ONE",
+    41
+   ],
+   [
+    "OFFI",
+    40
+   ],
+   [
+    "AARO",
+    40
+   ],
+   [
+    "DATA",
+    39
+   ],
+   [
+    "AREA",
+    38
+   ],
+   [
+    "DTG",
+    37
+   ],
+   [
+    "SEP",
+    37
+   ],
+   [
+    "TIC",
+    37
+   ],
+   [
+    "SPACE",
+    36
+   ],
+   [
+    "ECM",
+    36
+   ],
+   [
+    "OUT",
+    35
+   ],
+   [
+    "USSR",
+    34
+   ],
+   [
+    "POC",
+    34
+   ],
+   [
+    "ITS",
+    33
+   ],
+   [
+    "ALL",
+    33
+   ],
+   [
+    "WHICH",
+    33
+   ],
+   [
+    "TION",
+    32
+   ],
+   [
+    "POI",
+    32
+   ],
+   [
+    "ANO",
+    31
+   ],
+   [
+    "NUMBER",
+    31
+   ],
+   [
+    "LANDED",
+    31
+   ],
+   [
+    "STATE",
+    31
+   ],
+   [
+    "BACK",
+    31
+   ],
+   [
+    "DID",
+    30
+   ],
+   [
+    "YOUR",
+    30
+   ],
+   [
+    "AFTER",
+    30
+   ],
+   [
+    "FOA",
+    30
+   ],
+   [
+    "JAN",
+    29
+   ],
+   [
+    "PART",
+    29
+   ],
+   [
+    "FLIGHT",
+    29
+   ],
+   [
+    "SPEED",
+    29
+   ],
+   [
+    "MADE",
+    29
+   ],
+   [
+    "WHO",
+    29
+   ],
+   [
+    "ATO",
+    29
+   ],
+   [
+    "LAST",
+    28
+   ],
+   [
+    "THEIR",
+    28
+   ],
+   [
+    "INFO",
+    28
+   ],
+   [
+    "THERE",
+    28
+   ],
+   [
+    "APR",
+    28
+   ],
+   [
+    "IVO",
+    28
+   ],
+   [
+    "DWO",
+    28
+   ],
+   [
+    "WSE",
+    28
+   ],
+   [
+    "GET",
+    27
+   ],
+   [
+    "HIGH",
+    27
+   ],
+   [
+    "UNDER",
+    27
+   ],
+   [
+    "ICAO",
+    27
+   ],
+   [
+    "INGEST",
+    27
+   ],
+   [
+    "JTAR",
+    27
+   ],
+   [
+    "CLAR",
+    27
+   ],
+   [
+    "HAD",
+    26
+   ],
+   [
+    "END",
+    26
+   ],
+   [
+    "ABOUT",
+    26
+   ],
+   [
+    "ION",
+    26
+   ],
+   [
+    "SEEN",
+    26
+   ],
+   [
+    "CODE",
+    26
+   ],
+   [
+    "PRI",
+    26
+   ],
+   [
+    "JTAC",
+    26
+   ],
+   [
+    "MISREP",
+    26
+   ],
+   [
+    "IFF",
+    26
+   ],
+   [
+    "COCOM",
+    26
+   ],
+   [
+    "AAM",
+    26
+   ],
+   [
+    "CHIEF",
+    25
+   ],
+   [
+    "BUT",
+    25
+   ],
+   [
+    "OCT",
+    25
+   ],
+   [
+    "THEY",
+    25
+   ],
+   [
+    "WHITE",
+    25
+   ],
+   [
+    "SOME",
+    25
+   ],
+   [
+    "POR",
+    25
+   ],
+   [
+    "WAR",
+    25
+   ],
+   [
+    "NAME",
+    25
+   ],
+   [
+    "HIS",
+    25
+   ],
+   [
+    "MSNID",
+    25
+   ],
+   [
+    "CMD",
+    25
+   ],
+   [
+    "IRCM",
+    25
+   ],
+   [
+    "MWS",
+    25
+   ],
+   [
+    "RTB",
+    25
+   ],
+   [
+    "MSGID",
+    25
+   ],
+   [
+    "MAJCOM",
+    25
+   ],
+   [
+    "TWO",
+    24
+   ],
+   [
+    "WHERE",
+    24
+   ],
+   [
+    "NOV",
+    24
+   ],
+   [
+    "RED",
+    24
+   ],
+   [
+    "TYPE",
+    24
+   ],
+   [
+    "WILL",
+    24
+   ],
+   [
+    "ING",
+    24
+   ],
+   [
+    "EAR",
+    24
+   ],
+   [
+    "TARGET",
+    24
+   ],
+   [
+    "FMV",
+    24
+   ],
+   [
+    "ISO",
+    24
+   ],
+   [
+    "ASSET",
+    24
+   ],
+   [
+    "WOULD",
+    23
+   ],
+   [
+    "STAFF",
+    23
+   ],
+   [
+    "ATION",
+    23
+   ],
+   [
+    "YOU",
+    23
+   ],
+   [
+    "LONG",
+    23
+   ],
+   [
+    "THREE",
+    23
+   ],
+   [
+    "FIRST",
+    23
+   ],
+   [
+    "RADIO",
+    23
+   ],
+   [
+    "ABOVE",
+    23
+   ],
+   [
+    "JUL",
+    23
+   ],
+   [
+    "TOOK",
+    23
+   ],
+   [
+    "CAOC",
+    23
+   ],
+   [
+    "MDR",
+    23
+   ],
+   [
+    "TGT",
+    23
+   ],
+   [
+    "PRIOR",
+    23
+   ]
+  ]
+ },
+ "codename_candidates": [
+  {
+   "pair": "COPYRIGHT WARNING",
+   "upper_count": 33,
+   "any_case": 33,
+   "upper_ratio": 1.0,
+   "docs": 33,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D118_AAWSAP-DIRD-Aerospace-Applications-of-Programmable-Matter-December-14-2009_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D119_AAWSAP-DIRD-Biomaterials-January-7-2010_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D120_AAWSAP-DIRD-Materials-for-Advanced-Aerospace-Platforms-January-12-2010_djvu.txt"
+   ]
+  },
+  {
+   "pair": "ASSET UTILIZATION",
+   "upper_count": 26,
+   "any_case": 26,
+   "upper_ratio": 1.0,
+   "docs": 22,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D10-Mission-Report-Middle-East-May-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D12-Mission-Report-Iraq-May-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D14-Mission-Report-Iraq-May-2022_djvu.txt"
+   ]
+  },
+  {
+   "pair": "FOA OFFI",
+   "upper_count": 79,
+   "any_case": 79,
+   "upper_ratio": 1.0,
+   "docs": 20,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D117_AAWSAP-DIRD-Metallic-Glasses-for-Aerospace-Applications-December-14-2009_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D119_AAWSAP-DIRD-Biomaterials-January-7-2010_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D120_AAWSAP-DIRD-Materials-for-Advanced-Aerospace-Platforms-January-12-2010_djvu.txt"
+   ]
+  },
+  {
+   "pair": "SEE ISR",
+   "upper_count": 26,
+   "any_case": 26,
+   "upper_ratio": 1.0,
+   "docs": 19,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D10-Mission-Report-Middle-East-May-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D12-Mission-Report-Iraq-May-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D14-Mission-Report-Iraq-May-2022_djvu.txt"
+   ]
+  },
+  {
+   "pair": "HANDED OVER",
+   "upper_count": 15,
+   "any_case": 16,
+   "upper_ratio": 0.94,
+   "docs": 14,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D10-Mission-Report-Middle-East-May-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D12-Mission-Report-Iraq-May-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D14-Mission-Report-Iraq-May-2022_djvu.txt"
+   ]
+  },
+  {
+   "pair": "MULTIPLE SOURCES",
+   "upper_count": 128,
+   "any_case": 135,
+   "upper_ratio": 0.95,
+   "docs": 13,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D12-Mission-Report-Iraq-May-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D14-Mission-Report-Iraq-May-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D16-Mission-Report-Syria-July-2022_djvu.txt"
+   ]
+  },
+  {
+   "pair": "INHERENT RESOLVE",
+   "upper_count": 21,
+   "any_case": 21,
+   "upper_ratio": 1.0,
+   "docs": 13,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D10-Mission-Report-Middle-East-May-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D12-Mission-Report-Iraq-May-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D16-Mission-Report-Syria-July-2022_djvu.txt"
+   ]
+  },
+  {
+   "pair": "ISR ASSET",
+   "upper_count": 16,
+   "any_case": 16,
+   "upper_ratio": 1.0,
+   "docs": 12,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D10-Mission-Report-Middle-East-May-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D12-Mission-Report-Iraq-May-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D25-Mission-Report-Greece-January-2024_djvu.txt"
+   ]
+  },
+  {
+   "pair": "REMOTE VIEWING",
+   "upper_count": 278,
+   "any_case": 287,
+   "upper_ratio": 0.97,
+   "docs": 11,
+   "in_index": false,
+   "example_docs": [
+    "stargate_et/CIA-RDP96-00789R001400640001-6__018_TRAINING_POSSIBLE_UFO_ENCOUNTER_JUNE_87.txt",
+    "stargate_et/CIA-RDP96-00789R001600610001-7__TRAINING__MARS__VIEWER_95_23_SEPT_87.txt",
+    "stargate_et/CIA-RDP96-00789R003800040001-6__238_MARS__TRAINING__27_4_87.txt"
+   ]
+  },
+  {
+   "pair": "VIEWING SESSION",
+   "upper_count": 203,
+   "any_case": 204,
+   "upper_ratio": 1.0,
+   "docs": 11,
+   "in_index": false,
+   "example_docs": [
+    "stargate_et/CIA-RDP96-00789R001400640001-6__018_TRAINING_POSSIBLE_UFO_ENCOUNTER_JUNE_87.txt",
+    "stargate_et/CIA-RDP96-00789R001600610001-7__TRAINING__MARS__VIEWER_95_23_SEPT_87.txt",
+    "stargate_et/CIA-RDP96-00789R003800040001-6__238_MARS__TRAINING__27_4_87.txt"
+   ]
+  },
+  {
+   "pair": "SESSION DATA",
+   "upper_count": 24,
+   "any_case": 24,
+   "upper_ratio": 1.0,
+   "docs": 11,
+   "in_index": false,
+   "example_docs": [
+    "stargate_et/CIA-RDP96-00789R001400640001-6__018_TRAINING_POSSIBLE_UFO_ENCOUNTER_JUNE_87.txt",
+    "stargate_et/CIA-RDP96-00789R001600610001-7__TRAINING__MARS__VIEWER_95_23_SEPT_87.txt",
+    "stargate_et/CIA-RDP96-00789R003800040001-6__238_MARS__TRAINING__27_4_87.txt"
+   ]
+  },
+  {
+   "pair": "HANDED BACK",
+   "upper_count": 12,
+   "any_case": 13,
+   "upper_ratio": 0.92,
+   "docs": 11,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D10-Mission-Report-Middle-East-May-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D12-Mission-Report-Iraq-May-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D14-Mission-Report-Iraq-May-2022_djvu.txt"
+   ]
+  },
+  {
+   "pair": "FULL MOTION",
+   "upper_count": 11,
+   "any_case": 11,
+   "upper_ratio": 1.0,
+   "docs": 10,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D10-Mission-Report-Middle-East-May-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D16-Mission-Report-Syria-July-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D25-Mission-Report-Greece-January-2024_djvu.txt"
+   ]
+  },
+  {
+   "pair": "ESPIONAGE ACT",
+   "upper_count": 28,
+   "any_case": 30,
+   "upper_ratio": 0.93,
+   "docs": 9,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_07__DOW-UAP-D155-Air_Intelligence_Information_Report_Saudi_Arabia-1957_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D156-Air_Intelligence_Information_Report_Guam-1956_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D157-Air-Intelligence_Information-Report-Italy-1953_djvu.txt"
+   ]
+  },
+  {
+   "pair": "UNAUTHORIZED PERSON",
+   "upper_count": 26,
+   "any_case": 30,
+   "upper_ratio": 0.87,
+   "docs": 9,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_07__DOW-UAP-D155-Air_Intelligence_Information_Report_Saudi_Arabia-1957_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D156-Air_Intelligence_Information_Report_Guam-1956_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D157-Air-Intelligence_Information-Report-Italy-1953_djvu.txt"
+   ]
+  },
+  {
+   "pair": "ITS TRANSMISSION",
+   "upper_count": 24,
+   "any_case": 28,
+   "upper_ratio": 0.86,
+   "docs": 9,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_07__DOW-UAP-D155-Air_Intelligence_Information_Report_Saudi_Arabia-1957_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D156-Air_Intelligence_Information_Report_Guam-1956_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D157-Air-Intelligence_Information-Report-Italy-1953_djvu.txt"
+   ]
+  },
+  {
+   "pair": "TARGET DEVELOPMENT",
+   "upper_count": 14,
+   "any_case": 15,
+   "upper_ratio": 0.93,
+   "docs": 9,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D10-Mission-Report-Middle-East-May-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D14-Mission-Report-Iraq-May-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D32-Mission-Report,-Syria-October-2024_djvu.txt"
+   ]
+  },
+  {
+   "pair": "MOTION VIDEO",
+   "upper_count": 10,
+   "any_case": 10,
+   "upper_ratio": 1.0,
+   "docs": 9,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D10-Mission-Report-Middle-East-May-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D16-Mission-Report-Syria-July-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D32-Mission-Report,-Syria-October-2024_djvu.txt"
+   ]
+  },
+  {
+   "pair": "CLEARED OFF",
+   "upper_count": 10,
+   "any_case": 11,
+   "upper_ratio": 0.91,
+   "docs": 9,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D14-Mission-Report-Iraq-May-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D18-Mission-Report-Iraq-December-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D28-Mission-Report-East-China-Sea-2024_djvu.txt"
+   ]
+  },
+  {
+   "pair": "OFF TASKING",
+   "upper_count": 9,
+   "any_case": 9,
+   "upper_ratio": 1.0,
+   "docs": 9,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D14-Mission-Report-Iraq-May-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D16-Mission-Report-Syria-July-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D18-Mission-Report-Iraq-December-2022_djvu.txt"
+   ]
+  },
+  {
+   "pair": "RADIO BROADCASTS",
+   "upper_count": 9,
+   "any_case": 11,
+   "upper_ratio": 0.82,
+   "docs": 9,
+   "in_index": false,
+   "example_docs": [
+    "cia_ufo/cia-ufo-fof-0000015470_djvu.txt",
+    "cia_ufo/cia-ufo-fof-0000015471_djvu.txt",
+    "cia_ufo/cia-ufo-fof-0000015472_djvu.txt"
+   ]
+  },
+  {
+   "pair": "COVER SHEET",
+   "upper_count": 66,
+   "any_case": 67,
+   "upper_ratio": 0.99,
+   "docs": 8,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__341_110448_Records_Relating_to_the_Collection_and_Dissemination_of_Intelligence_1948-1955-TS_CONT_No.2_2-5300-2-5399_djvu.txt",
+    "pursue/Release_04__CIA-UAP-D020_Memorandum-on-Unconventional-Aircraft-Sightings_1955_djvu.txt",
+    "pursue/Release_04__CIA-UAP-D021_Analysis-of-Unconventional-Aircraft-Sightings_1955_djvu.txt"
+   ]
+  },
+  {
+   "pair": "ROUTING SLIP",
+   "upper_count": 18,
+   "any_case": 20,
+   "upper_ratio": 0.9,
+   "docs": 8,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_4_djvu.txt",
+    "pursue/Release_03__NASA-UAP-D018_Gemini-4_Experiment-Debriefing_1967_djvu.txt",
+    "pursue/Release_03__NASA-UAP-D022_Gemini-9-Debriefing_1966_djvu.txt"
+   ]
+  },
+  {
+   "pair": "AREA REPORTED",
+   "upper_count": 9,
+   "any_case": 9,
+   "upper_ratio": 1.0,
+   "docs": 8,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__342_HS1-416511228_box186_319.1-Flying-Discs-1949_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D155-Air_Intelligence_Information_Report_Saudi_Arabia-1957_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D156-Air_Intelligence_Information_Report_Guam-1956_djvu.txt"
+   ]
+  },
+  {
+   "pair": "RELATED ACTIVITY",
+   "upper_count": 23,
+   "any_case": 23,
+   "upper_ratio": 1.0,
+   "docs": 7,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D16-Mission-Report-Syria-July-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D25-Mission-Report-Greece-January-2024_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D32-Mission-Report,-Syria-October-2024_djvu.txt"
+   ]
+  },
+  {
+   "pair": "EEI RELATED",
+   "upper_count": 19,
+   "any_case": 21,
+   "upper_ratio": 0.9,
+   "docs": 6,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D16-Mission-Report-Syria-July-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D25-Mission-Report-Greece-January-2024_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D32-Mission-Report,-Syria-October-2024_djvu.txt"
+   ]
+  },
+  {
+   "pair": "TARGET DECK",
+   "upper_count": 7,
+   "any_case": 7,
+   "upper_ratio": 1.0,
+   "docs": 6,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D60-Mission-Report-Persian-Gulf-August-2020_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D61-Mission-Report-Persian-Gulf-August-2020_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D62-Mission-Report-Strait-of-Hormuz-September-2020_djvu.txt"
+   ]
+  },
+  {
+   "pair": "UAS ACTIVITY",
+   "upper_count": 6,
+   "any_case": 6,
+   "upper_ratio": 1.0,
+   "docs": 6,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D60-Mission-Report-Persian-Gulf-August-2020_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D61-Mission-Report-Persian-Gulf-August-2020_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D62-Mission-Report-Strait-of-Hormuz-September-2020_djvu.txt"
+   ]
+  },
+  {
+   "pair": "ACTIVITY OUTSIDE",
+   "upper_count": 6,
+   "any_case": 6,
+   "upper_ratio": 1.0,
+   "docs": 6,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D60-Mission-Report-Persian-Gulf-August-2020_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D61-Mission-Report-Persian-Gulf-August-2020_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D62-Mission-Report-Strait-of-Hormuz-September-2020_djvu.txt"
+   ]
+  },
+  {
+   "pair": "AREA CODES",
+   "upper_count": 6,
+   "any_case": 6,
+   "upper_ratio": 1.0,
+   "docs": 6,
+   "in_index": false,
+   "example_docs": [
+    "cia_ufo/cia-ufo-fof-0000015474_djvu.txt",
+    "cia_ufo/cia-ufo-fof-0000015477_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D159-Air_Intelligence_Information_Report_Germany-1953_djvu.txt"
+   ]
+  },
+  {
+   "pair": "IAL WSE",
+   "upper_count": 47,
+   "any_case": 52,
+   "upper_ratio": 0.9,
+   "docs": 5,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D125_AAWSA-DIRD-Inertial-Electrostatic-Confinement-Fusion-March-10-2010_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D127_AAWSAP-DIRD-An-Introduction-to-the-Statistical-Drake-Equation-March-11-2010_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D133_AAWSAP-DIRD-The-Space-Communication-Implications-of-Quantum-Entanglement-and-Nonlocality-March-30-2010_djvu.txt"
+   ]
+  },
+  {
+   "pair": "GUARD CALL",
+   "upper_count": 24,
+   "any_case": 24,
+   "upper_ratio": 1.0,
+   "docs": 5,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D23-Mission-Report-United-Arab-Emirates-October-2023_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D61-Mission-Report-Persian-Gulf-August-2020_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D62-Mission-Report-Strait-of-Hormuz-September-2020_djvu.txt"
+   ]
+  },
+  {
+   "pair": "OBS LINE",
+   "upper_count": 11,
+   "any_case": 11,
+   "upper_ratio": 1.0,
+   "docs": 5,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D14-Mission-Report-Iraq-May-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D60-Mission-Report-Persian-Gulf-August-2020_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D62-Mission-Report-Strait-of-Hormuz-September-2020_djvu.txt"
+   ]
+  },
+  {
+   "pair": "ORDERS GIVEN",
+   "upper_count": 11,
+   "any_case": 11,
+   "upper_ratio": 1.0,
+   "docs": 5,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D60-Mission-Report-Persian-Gulf-August-2020_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D62-Mission-Report-Strait-of-Hormuz-September-2020_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D63-Mission-Report-Strait-of-Hormuz-October-2020_djvu.txt"
+   ]
+  },
+  {
+   "pair": "CONDUCTED TARGET",
+   "upper_count": 9,
+   "any_case": 9,
+   "upper_ratio": 1.0,
+   "docs": 5,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D10-Mission-Report-Middle-East-May-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D14-Mission-Report-Iraq-May-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D75-Mission-Report-Gulf-of-Aden-July-2024_djvu.txt"
+   ]
+  },
+  {
+   "pair": "MAILING ADDRESS",
+   "upper_count": 6,
+   "any_case": 7,
+   "upper_ratio": 0.86,
+   "docs": 5,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_SUB_A_djvu.txt",
+    "pursue/Release_04__DOW-UAP-D096_Correspondence-Relating-to-Project-Blue-Book_1955_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt"
+   ]
+  },
+  {
+   "pair": "OFTHE ESPIONAGE",
+   "upper_count": 6,
+   "any_case": 6,
+   "upper_ratio": 1.0,
+   "docs": 5,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_07__DOW-UAP-D155-Air_Intelligence_Information_Report_Saudi_Arabia-1957_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D157-Air-Intelligence_Information-Report-Italy-1953_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D159-Air_Intelligence_Information_Report_Germany-1953_djvu.txt"
+   ]
+  },
+  {
+   "pair": "UNTIL RTB",
+   "upper_count": 5,
+   "any_case": 5,
+   "upper_ratio": 1.0,
+   "docs": 5,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D10-Mission-Report-Middle-East-May-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D32-Mission-Report,-Syria-October-2024_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D33-Mission-Report-Greece-October-2023_djvu.txt"
+   ]
+  },
+  {
+   "pair": "TELETYPE UNIT",
+   "upper_count": 21,
+   "any_case": 22,
+   "upper_ratio": 0.95,
+   "docs": 4,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_4_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_5_djvu.txt"
+   ]
+  },
+  {
+   "pair": "SUPPORT DATA",
+   "upper_count": 14,
+   "any_case": 16,
+   "upper_ratio": 0.88,
+   "docs": 4,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D33-Mission-Report-Greece-October-2023_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D35-Mission-Report-Greece-October-2023_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D74-Mission-Report-Syria-November-2023_djvu.txt"
+   ]
+  },
+  {
+   "pair": "FIVE FOUR",
+   "upper_count": 10,
+   "any_case": 10,
+   "upper_ratio": 1.0,
+   "docs": 4,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__342_HS1-416511228_box186_319.1-Flying-Discs-1949_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_3_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_4_djvu.txt"
+   ]
+  },
+  {
+   "pair": "CALL LINE",
+   "upper_count": 10,
+   "any_case": 10,
+   "upper_ratio": 1.0,
+   "docs": 4,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D23-Mission-Report-United-Arab-Emirates-October-2023_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D62-Mission-Report-Strait-of-Hormuz-September-2020_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D63-Mission-Report-Strait-of-Hormuz-October-2020_djvu.txt"
+   ]
+  },
+  {
+   "pair": "SEE GUARD",
+   "upper_count": 9,
+   "any_case": 9,
+   "upper_ratio": 1.0,
+   "docs": 4,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D23-Mission-Report-United-Arab-Emirates-October-2023_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D62-Mission-Report-Strait-of-Hormuz-September-2020_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D63-Mission-Report-Strait-of-Hormuz-October-2020_djvu.txt"
+   ]
+  },
+  {
+   "pair": "SEE OBS",
+   "upper_count": 9,
+   "any_case": 9,
+   "upper_ratio": 1.0,
+   "docs": 4,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D60-Mission-Report-Persian-Gulf-August-2020_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D64-Mission-Report-Iran-November-2020_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D65-Mission-Report-Persian-Gulf-July-2020_djvu.txt"
+   ]
+  },
+  {
+   "pair": "ANO RETURN",
+   "upper_count": 8,
+   "any_case": 8,
+   "upper_ratio": 1.0,
+   "docs": 4,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_4_djvu.txt",
+    "pursue/Release_03__NASA-UAP-D018_Gemini-4_Experiment-Debriefing_1967_djvu.txt",
+    "pursue/Release_03__NASA-UAP-D022_Gemini-9-Debriefing_1966_djvu.txt"
+   ]
+  },
+  {
+   "pair": "NAME ANO",
+   "upper_count": 6,
+   "any_case": 6,
+   "upper_ratio": 1.0,
+   "docs": 4,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_03__NASA-UAP-D022_Gemini-9-Debriefing_1966_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D112_AAWSAP-Contract-Modification-P00001-September-2-2009_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D114_AAWSAP-Contract-Modification-P00003-May-18- 2010_djvu.txt"
+   ]
+  },
+  {
+   "pair": "ISSUED PURSUANT",
+   "upper_count": 5,
+   "any_case": 6,
+   "upper_ratio": 0.83,
+   "docs": 4,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D112_AAWSAP-Contract-Modification-P00001-September-2-2009_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D113_AAWSAP-Contract-Modification-P00002-February-2-2010_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D114_AAWSAP-Contract-Modification-P00003-May-18- 2010_djvu.txt"
+   ]
+  },
+  {
+   "pair": "MEANING OFTHE",
+   "upper_count": 5,
+   "any_case": 5,
+   "upper_ratio": 1.0,
+   "docs": 4,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_07__DOW-UAP-D157-Air-Intelligence_Information-Report-Italy-1953_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D159-Air_Intelligence_Information_Report_Germany-1953_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D162-Air_Intelligence_Information_Report_Alaska-1953_djvu.txt"
+   ]
+  },
+  {
+   "pair": "FLY ING",
+   "upper_count": 4,
+   "any_case": 5,
+   "upper_ratio": 0.8,
+   "docs": 4,
+   "in_index": false,
+   "example_docs": [
+    "cia_ufo/cia-ufo-fof-0000015243_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_5_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_9_djvu.txt"
+   ]
+  },
+  {
+   "pair": "SATISFACTORY DUE",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 4,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D12-Mission-Report-Iraq-May-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D16-Mission-Report-Syria-July-2022_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D106_Mission-Report-Iraq-2022_djvu.txt"
+   ]
+  },
+  {
+   "pair": "ISR LINE",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 4,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D14-Mission-Report-Iraq-May-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D18-Mission-Report-Iraq-December-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D60-Mission-Report-Persian-Gulf-August-2020_djvu.txt"
+   ]
+  },
+  {
+   "pair": "ESTABLISH PATTERN",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 4,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D60-Mission-Report-Persian-Gulf-August-2020_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D63-Mission-Report-Strait-of-Hormuz-October-2020_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D64-Mission-Report-Iran-November-2020_djvu.txt"
+   ]
+  },
+  {
+   "pair": "CONDUCTED SCANS",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 4,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D61-Mission-Report-Persian-Gulf-August-2020_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D62-Mission-Report-Strait-of-Hormuz-September-2020_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D63-Mission-Report-Strait-of-Hormuz-October-2020_djvu.txt"
+   ]
+  },
+  {
+   "pair": "ANO ADDRESS",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 4,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D112_AAWSAP-Contract-Modification-P00001-September-2-2009_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D114_AAWSAP-Contract-Modification-P00003-May-18- 2010_djvu.txt"
+   ]
+  },
+  {
+   "pair": "CONTRACT ORDER",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 4,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D112_AAWSAP-Contract-Modification-P00001-September-2-2009_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D113_AAWSAP-Contract-Modification-P00002-February-2-2010_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D114_AAWSAP-Contract-Modification-P00003-May-18- 2010_djvu.txt"
+   ]
+  },
+  {
+   "pair": "BEACON HILL",
+   "upper_count": 34,
+   "any_case": 41,
+   "upper_ratio": 0.83,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "cia_ufo/cia-ufo-fof-0000190094_djvu.txt",
+    "pursue/Release_03__CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974_djvu.txt",
+    "stargate_titles"
+   ]
+  },
+  {
+   "pair": "COORDINATES ACCURACY",
+   "upper_count": 18,
+   "any_case": 18,
+   "upper_ratio": 1.0,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_07__DOW-UAP-D170-BAASS_Montly_Report_April_2009_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D171-BAASS_Monthly_Report_June_2009_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D173-BAASS_Monthly_Report_November_2009_djvu.txt"
+   ]
+  },
+  {
+   "pair": "NOTE ANO",
+   "upper_count": 12,
+   "any_case": 12,
+   "upper_ratio": 1.0,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_4_djvu.txt",
+    "pursue/Release_03__NASA-UAP-D018_Gemini-4_Experiment-Debriefing_1967_djvu.txt",
+    "pursue/Release_03__NASA-UAP-D022_Gemini-9-Debriefing_1966_djvu.txt"
+   ]
+  },
+  {
+   "pair": "INSTRUCT IONS",
+   "upper_count": 11,
+   "any_case": 13,
+   "upper_ratio": 0.85,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_05__DOW-UAP-D100_Air-Materiel-Command-Report-on-UFOs_1947-1948_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D105_US-Air-Force-Flying-Discs-File-September-December-1952_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt"
+   ]
+  },
+  {
+   "pair": "GOLDEN GATE",
+   "upper_count": 10,
+   "any_case": 11,
+   "upper_ratio": 0.91,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Serial_449_djvu.txt",
+    "stargate_titles"
+   ]
+  },
+  {
+   "pair": "PER REQUEST",
+   "upper_count": 8,
+   "any_case": 8,
+   "upper_ratio": 1.0,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_03__NASA-UAP-D015_Astronaut-Scientific-Debriefings_1962-1963_djvu.txt",
+    "pursue/Release_03__NASA-UAP-D022_Gemini-9-Debriefing_1966_djvu.txt",
+    "pursue/Release_07__USG-UAP-D002-Interagency_Correspondence_Concerning_Space_Fragments-1962_1964_djvu.txt"
+   ]
+  },
+  {
+   "pair": "UNIT PRICE",
+   "upper_count": 8,
+   "any_case": 9,
+   "upper_ratio": 0.89,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D111_AAWSAP-Solicitation-and-Original-Order-September-22-2008_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D113_AAWSAP-Contract-Modification-P00002-February-2-2010_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D116_AAWSAP-Contract-Modification-P00005-September-28-2010_djvu.txt"
+   ]
+  },
+  {
+   "pair": "GRADE ANO",
+   "upper_count": 5,
+   "any_case": 5,
+   "upper_ratio": 1.0,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__18_6369445_General_1948_Vol_1_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt"
+   ]
+  },
+  {
+   "pair": "INCOMING CLASSIFIED",
+   "upper_count": 5,
+   "any_case": 5,
+   "upper_ratio": 1.0,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__342_HS1-416511228_box186_319.1-Flying-Discs-1949_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_6_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Serial_130_djvu.txt"
+   ]
+  },
+  {
+   "pair": "DECLASSIFIED NND",
+   "upper_count": 5,
+   "any_case": 5,
+   "upper_ratio": 1.0,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__59_64634_711.5612[7-2852_djvu.txt",
+    "pursue/Release_05__DOS-UAP-D001_Diplomatic-Cable_Brazil_November-14-1963_djvu.txt",
+    "pursue/Release_05__DOS-UAP-D002_Diplomatic-Cable_Brazil_November-20-1963_djvu.txt"
+   ]
+  },
+  {
+   "pair": "DAILY MAIL",
+   "upper_count": 5,
+   "any_case": 5,
+   "upper_ratio": 1.0,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_SUB_A_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "REGISTERED MAIL",
+   "upper_count": 5,
+   "any_case": 5,
+   "upper_ratio": 1.0,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_7_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_8_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt"
+   ]
+  },
+  {
+   "pair": "FINALLY EVALUATED",
+   "upper_count": 5,
+   "any_case": 5,
+   "upper_ratio": 1.0,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_02__CIA-UAP-D001_Intelligence_Information_Report_USSR_1973_djvu.txt",
+    "pursue/Release_03__CIA-UAP-017_Placement_on_High_Alert_Due_to_Perceived_Aggressive_Foreign_Posturing_djvu.txt",
+    "pursue/Release_05__DOW-UAP-D101_IIR_Unresolved-UAP-Report-Gulf-of-Oman_2021_djvu.txt"
+   ]
+  },
+  {
+   "pair": "FOA OFFICI",
+   "upper_count": 5,
+   "any_case": 6,
+   "upper_ratio": 0.83,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D117_AAWSAP-DIRD-Metallic-Glasses-for-Aerospace-Applications-December-14-2009_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D123_AAWSAP-DIRD-Positron-Aerospace-Propulsion-March-2-2010_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D125_AAWSA-DIRD-Inertial-Electrostatic-Confinement-Fusion-March-10-2010_djvu.txt"
+   ]
+  },
+  {
+   "pair": "TARGET DEV",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D14-Mission-Report-Iraq-May-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D18-Mission-Report-Iraq-December-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D32-Mission-Report,-Syria-October-2024_djvu.txt"
+   ]
+  },
+  {
+   "pair": "REPLACES NME",
+   "upper_count": 4,
+   "any_case": 5,
+   "upper_ratio": 0.8,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D102_Project-Blue-Book-File-on-Tremonton-Film-Utah-1952_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt"
+   ]
+  },
+  {
+   "pair": "CHANGE ORDER",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D112_AAWSAP-Contract-Modification-P00001-September-2-2009_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D113_AAWSAP-Contract-Modification-P00002-February-2-2010_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D114_AAWSAP-Contract-Modification-P00003-May-18- 2010_djvu.txt"
+   ]
+  },
+  {
+   "pair": "NUMBERED CONTRACT",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D112_AAWSAP-Contract-Modification-P00001-September-2-2009_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D113_AAWSAP-Contract-Modification-P00002-February-2-2010_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D114_AAWSAP-Contract-Modification-P00003-May-18- 2010_djvu.txt"
+   ]
+  },
+  {
+   "pair": "UNCLASSI FIED",
+   "upper_count": 4,
+   "any_case": 5,
+   "upper_ratio": 0.8,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D128_AAWSAP-DIRD-Anomalous-Acute-and-Subacute-Field-Effects-on-Human-Biological-Tissues-March-11-2010_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D135_ AAWSAP-DIRD-Antigravity-for-Aerospace-Applications-March-30-2010-V2_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D149_AAWSAP-DIRD-MHD-Air-Breathing-Propulsion-and-Power-for-Aerospace-Applications-November-21-2010_djvu.txt"
+   ]
+  },
+  {
+   "pair": "INTEL CEN",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "cia_ufo/cia-ufo-fof-0000098713_djvu.txt",
+    "cia_ufo/cia-ufo-fof-0000098714_djvu.txt",
+    "cia_ufo/cia-ufo-fof-0000098719_djvu.txt"
+   ]
+  },
+  {
+   "pair": "END ACK",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-101634279_100-DE-26505_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_2_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_5_djvu.txt"
+   ]
+  },
+  {
+   "pair": "HAD ACTUAL",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Serial_449_djvu.txt",
+    "pursue/Release_03__FBI-UAP-D012_Newark-Field-Office_1952-1967_djvu.txt"
+   ]
+  },
+  {
+   "pair": "ACTUAL CONTACTS",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Serial_449_djvu.txt",
+    "pursue/Release_03__FBI-UAP-D012_Newark-Field-Office_1952-1967_djvu.txt"
+   ]
+  },
+  {
+   "pair": "BRIGHT WORLD",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Serial_449_djvu.txt",
+    "pursue/Release_03__FBI-UAP-D012_Newark-Field-Office_1952-1967_djvu.txt"
+   ]
+  },
+  {
+   "pair": "MASSIVE DEPRESSION",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Serial_449_djvu.txt",
+    "pursue/Release_03__FBI-UAP-D012_Newark-Field-Office_1952-1967_djvu.txt"
+   ]
+  },
+  {
+   "pair": "VERY SURVIVAL",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Serial_449_djvu.txt",
+    "pursue/Release_03__FBI-UAP-D012_Newark-Field-Office_1952-1967_djvu.txt"
+   ]
+  },
+  {
+   "pair": "CHIEF FRANK",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Serial_449_djvu.txt",
+    "pursue/Release_03__FBI-UAP-D012_Newark-Field-Office_1952-1967_djvu.txt"
+   ]
+  },
+  {
+   "pair": "NFORMATION CONCERNING",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_8_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_9_djvu.txt"
+   ]
+  },
+  {
+   "pair": "TWO EIGHT",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_1_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_4_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt"
+   ]
+  },
+  {
+   "pair": "NINE THIRTY",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_2_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_3_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_7_djvu.txt"
+   ]
+  },
+  {
+   "pair": "FOLLOW ING",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_3_djvu.txt",
+    "pursue/Release_05__DOW-UAP-D100_Air-Materiel-Command-Report-on-UFOs_1947-1948_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt"
+   ]
+  },
+  {
+   "pair": "DEBRIEFING TRANSCRIPT",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_03__NASA-UAP-D017_Preliminary-Gemini-4-Crew-Debriefing_Part2_1965_djvu.txt",
+    "pursue/Release_03__NASA-UAP-D019_Gemini-5-Technical-Debriefing_Part1_1965_djvu.txt",
+    "pursue/Release_03__NASA-UAP-D020_Gemini-5-Technical-Debriefing_Part2_1965_djvu.txt"
+   ]
+  },
+  {
+   "pair": "PURCHASE REO",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D113_AAWSAP-Contract-Modification-P00002-February-2-2010_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D114_AAWSAP-Contract-Modification-P00003-May-18- 2010_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D116_AAWSAP-Contract-Modification-P00005-September-28-2010_djvu.txt"
+   ]
+  },
+  {
+   "pair": "INTO PURSUANT",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D113_AAWSAP-Contract-Modification-P00002-February-2-2010_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D114_AAWSAP-Contract-Modification-P00003-May-18- 2010_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D116_AAWSAP-Contract-Modification-P00005-September-28-2010_djvu.txt"
+   ]
+  },
+  {
+   "pair": "COPYRIGHT WARN",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D128_AAWSAP-DIRD-Anomalous-Acute-and-Subacute-Field-Effects-on-Human-Biological-Tissues-March-11-2010_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D130_AAWSAP-DIRD-Technological-Approaches-to-Controlling-External-Devices-March-23-2010_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D138_AAWSAP-DIRD-Warp-Drive-Dark-Energy-and-the-Manipulation-of-Extra-Dimensions-April-2-2010_djvu.txt"
+   ]
+  },
+  {
+   "pair": "WARN ING",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 3,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D128_AAWSAP-DIRD-Anomalous-Acute-and-Subacute-Field-Effects-on-Human-Biological-Tissues-March-11-2010_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D130_AAWSAP-DIRD-Technological-Approaches-to-Controlling-External-Devices-March-23-2010_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D138_AAWSAP-DIRD-Warp-Drive-Dark-Energy-and-the-Manipulation-of-Extra-Dimensions-April-2-2010_djvu.txt"
+   ]
+  },
+  {
+   "pair": "GLORY TRIP",
+   "upper_count": 348,
+   "any_case": 348,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "LAST NAME",
+   "upper_count": 67,
+   "any_case": 82,
+   "upper_ratio": 0.82,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt"
+   ]
+  },
+  {
+   "pair": "HUMAN SUBJECTS",
+   "upper_count": 45,
+   "any_case": 55,
+   "upper_ratio": 0.82,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D130_AAWSAP-DIRD-Technological-Approaches-to-Controlling-External-Devices-March-23-2010_djvu.txt",
+    "stargate_titles"
+   ]
+  },
+  {
+   "pair": "MIDDLE NAME",
+   "upper_count": 38,
+   "any_case": 44,
+   "upper_ratio": 0.86,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt"
+   ]
+  },
+  {
+   "pair": "DURING PERIOD",
+   "upper_count": 36,
+   "any_case": 40,
+   "upper_ratio": 0.9,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt"
+   ]
+  },
+  {
+   "pair": "DOD DIR",
+   "upper_count": 23,
+   "any_case": 23,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D102_Project-Blue-Book-File-on-Tremonton-Film-Utah-1952_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D178_Unresolved_UAP_Report_Catalina_Island-1953_djvu.txt"
+   ]
+  },
+  {
+   "pair": "MAIL ROOM",
+   "upper_count": 20,
+   "any_case": 21,
+   "upper_ratio": 0.95,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_9_djvu.txt"
+   ]
+  },
+  {
+   "pair": "BLACK SHIELD",
+   "upper_count": 20,
+   "any_case": 20,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "cia_ufo/cia-ufo-fof-0000190094_djvu.txt",
+    "pursue/Release_03__CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974_djvu.txt"
+   ]
+  },
+  {
+   "pair": "CITY NEWS",
+   "upper_count": 16,
+   "any_case": 16,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_SUB_A_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_8_djvu.txt"
+   ]
+  },
+  {
+   "pair": "TYPED NAME",
+   "upper_count": 15,
+   "any_case": 15,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt"
+   ]
+  },
+  {
+   "pair": "DIS PATCHED",
+   "upper_count": 12,
+   "any_case": 12,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__341_110448_Records_Relating_to_the_Collection_and_Dissemination_of_Intelligence_1948-1955-TS_CONT_No.2_2-5300-2-5399_djvu.txt",
+    "pursue/Release_05__DOW-UAP-D100_Air-Materiel-Command-Report-on-UFOs_1947-1948_djvu.txt"
+   ]
+  },
+  {
+   "pair": "SOFT TOUCH",
+   "upper_count": 12,
+   "any_case": 12,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "cia_ufo/cia-ufo-fof-0000190094_djvu.txt",
+    "pursue/Release_03__CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974_djvu.txt"
+   ]
+  },
+  {
+   "pair": "SQUARE DEAL",
+   "upper_count": 12,
+   "any_case": 12,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "cia_ufo/cia-ufo-fof-0000190094_djvu.txt",
+    "pursue/Release_03__CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974_djvu.txt"
+   ]
+  },
+  {
+   "pair": "FAN SONG",
+   "upper_count": 12,
+   "any_case": 12,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "cia_ufo/cia-ufo-fof-0000190094_djvu.txt",
+    "pursue/Release_03__CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974_djvu.txt"
+   ]
+  },
+  {
+   "pair": "WORKING PAPER",
+   "upper_count": 12,
+   "any_case": 12,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_03__CIA-UAP-015-Project_Blue_Book_Special_Report_No_14_djvu.txt",
+    "stargate_titles"
+   ]
+  },
+  {
+   "pair": "SERV ICE",
+   "upper_count": 12,
+   "any_case": 12,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt"
+   ]
+  },
+  {
+   "pair": "GLOWING BRIGHT",
+   "upper_count": 11,
+   "any_case": 12,
+   "upper_ratio": 0.92,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "SCOPE SHIELD",
+   "upper_count": 10,
+   "any_case": 10,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "cia_ufo/cia-ufo-fof-0000190094_djvu.txt",
+    "pursue/Release_03__CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974_djvu.txt"
+   ]
+  },
+  {
+   "pair": "CAP COM",
+   "upper_count": 10,
+   "any_case": 10,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_03__NASA-UAP-D016_Preliminary-Gemini-4-Crew-Debriefing_Part1_1965_djvu.txt",
+    "pursue/Release_03__NASA-UAP-D019_Gemini-5-Technical-Debriefing_Part1_1965_djvu.txt"
+   ]
+  },
+  {
+   "pair": "COLOR EYES",
+   "upper_count": 10,
+   "any_case": 10,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt"
+   ]
+  },
+  {
+   "pair": "OFFICER DURING",
+   "upper_count": 10,
+   "any_case": 12,
+   "upper_ratio": 0.83,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D105_US-Air-Force-Flying-Discs-File-September-December-1952_djvu.txt"
+   ]
+  },
+  {
+   "pair": "RECE IVED",
+   "upper_count": 9,
+   "any_case": 11,
+   "upper_ratio": 0.82,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_2_djvu.txt",
+    "pursue/Release_05__DOW-UAP-D100_Air-Materiel-Command-Report-on-UFOs_1947-1948_djvu.txt"
+   ]
+  },
+  {
+   "pair": "FIRST ENDORSEMENT",
+   "upper_count": 8,
+   "any_case": 9,
+   "upper_ratio": 0.89,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D102_Project-Blue-Book-File-on-Tremonton-Film-Utah-1952_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt"
+   ]
+  },
+  {
+   "pair": "DESIGNATION ANO",
+   "upper_count": 7,
+   "any_case": 7,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__18_100754_ General 1946-7_Vol_2_djvu.txt",
+    "pursue/Release_05__DOW-UAP-D100_Air-Materiel-Command-Report-on-UFOs_1947-1948_djvu.txt"
+   ]
+  },
+  {
+   "pair": "OLD FAITHFUL",
+   "upper_count": 7,
+   "any_case": 7,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt",
+    "stargate_titles"
+   ]
+  },
+  {
+   "pair": "TOTAL ACTIVE",
+   "upper_count": 7,
+   "any_case": 8,
+   "upper_ratio": 0.88,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt"
+   ]
+  },
+  {
+   "pair": "ONE FOUR",
+   "upper_count": 6,
+   "any_case": 7,
+   "upper_ratio": 0.86,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__342_HS1-416511228_box186_319.1-Flying-Discs-1949_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_5_djvu.txt"
+   ]
+  },
+  {
+   "pair": "RADAR JAMMING",
+   "upper_count": 6,
+   "any_case": 7,
+   "upper_ratio": 0.86,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_6_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D19-Mission-Report-Syria-February-21-2023_djvu.txt"
+   ]
+  },
+  {
+   "pair": "HUNDRED AREA",
+   "upper_count": 6,
+   "any_case": 7,
+   "upper_ratio": 0.86,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_6_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_7_djvu.txt"
+   ]
+  },
+  {
+   "pair": "KICK OFF",
+   "upper_count": 6,
+   "any_case": 6,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "cia_ufo/cia-ufo-fof-0000190094_djvu.txt",
+    "pursue/Release_03__CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974_djvu.txt"
+   ]
+  },
+  {
+   "pair": "PLEASE PRINT",
+   "upper_count": 6,
+   "any_case": 7,
+   "upper_ratio": 0.86,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt"
+   ]
+  },
+  {
+   "pair": "LEAVE CREDITED",
+   "upper_count": 6,
+   "any_case": 6,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt"
+   ]
+  },
+  {
+   "pair": "TOTAL DAYS",
+   "upper_count": 6,
+   "any_case": 6,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt"
+   ]
+  },
+  {
+   "pair": "CLOCK HIGH",
+   "upper_count": 5,
+   "any_case": 6,
+   "upper_ratio": 0.83,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__255_t_763_r1b_transcripts_djvu.txt",
+    "pursue/Release_03__USG-UAP-D001_Congress-WhiteHouse-UFO-Correspondence_1998_djvu.txt"
+   ]
+  },
+  {
+   "pair": "TWENTY FOUR",
+   "upper_count": 5,
+   "any_case": 5,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_2_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_9_djvu.txt"
+   ]
+  },
+  {
+   "pair": "TWENTY FIVE",
+   "upper_count": 5,
+   "any_case": 5,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_2_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_9_djvu.txt"
+   ]
+  },
+  {
+   "pair": "RIVER PLANT",
+   "upper_count": 5,
+   "any_case": 5,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_6_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_7_djvu.txt"
+   ]
+  },
+  {
+   "pair": "COMBINED TOTAL",
+   "upper_count": 5,
+   "any_case": 5,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D19-Mission-Report-Syria-February-21-2023_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt"
+   ]
+  },
+  {
+   "pair": "NAVAL OFF",
+   "upper_count": 5,
+   "any_case": 6,
+   "upper_ratio": 0.83,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_04__DOW-UAP-D096_Correspondence-Relating-to-Project-Blue-Book_1955_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D105_US-Air-Force-Flying-Discs-File-September-December-1952_djvu.txt"
+   ]
+  },
+  {
+   "pair": "ICE NUMBER",
+   "upper_count": 5,
+   "any_case": 5,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt"
+   ]
+  },
+  {
+   "pair": "PRIOR SERVICE",
+   "upper_count": 5,
+   "any_case": 5,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt"
+   ]
+  },
+  {
+   "pair": "COMMISSIONED SERVICE",
+   "upper_count": 5,
+   "any_case": 6,
+   "upper_ratio": 0.83,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt"
+   ]
+  },
+  {
+   "pair": "DUTIES PERFORMED",
+   "upper_count": 5,
+   "any_case": 5,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt"
+   ]
+  },
+  {
+   "pair": "OPTION NUMBER",
+   "upper_count": 5,
+   "any_case": 5,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt"
+   ]
+  },
+  {
+   "pair": "SILVER COLORED",
+   "upper_count": 4,
+   "any_case": 5,
+   "upper_ratio": 0.8,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_SUB_A_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_4_djvu.txt"
+   ]
+  },
+  {
+   "pair": "BACK ISSUES",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Serial_449_djvu.txt"
+   ]
+  },
+  {
+   "pair": "INDIVIDUAL PARAGRAPH",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_5_djvu.txt",
+    "pursue/Release_02__DOW-UAP-D017_General_Correspondence_Of_Sandia_djvu.txt"
+   ]
+  },
+  {
+   "pair": "TRUTH CANNOT",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_5_djvu.txt",
+    "pursue/Release_02__DOW-UAP-D017_General_Correspondence_Of_Sandia_djvu.txt"
+   ]
+  },
+  {
+   "pair": "ISO MAG",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D12-Mission-Report-Iraq-May-2022_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D106_Mission-Report-Iraq-2022_djvu.txt"
+   ]
+  },
+  {
+   "pair": "FLT CHECKED",
+   "upper_count": 4,
+   "any_case": 5,
+   "upper_ratio": 0.8,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D19-Mission-Report-Syria-February-21-2023_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D20-Mission-Report-Iraq-2023_djvu.txt"
+   ]
+  },
+  {
+   "pair": "CONDUCTED POL",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D32-Mission-Report,-Syria-October-2024_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D35-Mission-Report-Greece-October-2023_djvu.txt"
+   ]
+  },
+  {
+   "pair": "HOT SHOP",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "cia_ufo/cia-ufo-fof-0000190094_djvu.txt",
+    "pursue/Release_03__CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974_djvu.txt"
+   ]
+  },
+  {
+   "pair": "HIGH WIRE",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "cia_ufo/cia-ufo-fof-0000190094_djvu.txt",
+    "pursue/Release_03__CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974_djvu.txt"
+   ]
+  },
+  {
+   "pair": "SUN SPOT",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "cia_ufo/cia-ufo-fof-0000190094_djvu.txt",
+    "pursue/Release_03__CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974_djvu.txt"
+   ]
+  },
+  {
+   "pair": "LONG GREEN",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "cia_ufo/cia-ufo-fof-0000190094_djvu.txt",
+    "pursue/Release_03__CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974_djvu.txt"
+   ]
+  },
+  {
+   "pair": "MILL TOWN",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "cia_ufo/cia-ufo-fof-0000190094_djvu.txt",
+    "pursue/Release_03__CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974_djvu.txt"
+   ]
+  },
+  {
+   "pair": "QUICK KICK",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "cia_ufo/cia-ufo-fof-0000190094_djvu.txt",
+    "pursue/Release_03__CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974_djvu.txt"
+   ]
+  },
+  {
+   "pair": "LONG SHAFT",
+   "upper_count": 4,
+   "any_case": 5,
+   "upper_ratio": 0.8,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "cia_ufo/cia-ufo-fof-0000190094_djvu.txt",
+    "pursue/Release_03__CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974_djvu.txt"
+   ]
+  },
+  {
+   "pair": "RED DOT",
+   "upper_count": 4,
+   "any_case": 5,
+   "upper_ratio": 0.8,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "cia_ufo/cia-ufo-fof-0000190094_djvu.txt",
+    "pursue/Release_03__CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974_djvu.txt"
+   ]
+  },
+  {
+   "pair": "COMPASS TRIP",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "cia_ufo/cia-ufo-fof-0000190094_djvu.txt",
+    "pursue/Release_03__CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974_djvu.txt"
+   ]
+  },
+  {
+   "pair": "TALL KING",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "cia_ufo/cia-ufo-fof-0000190094_djvu.txt",
+    "pursue/Release_03__CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974_djvu.txt"
+   ]
+  },
+  {
+   "pair": "SCOPE LOGIC",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "cia_ufo/cia-ufo-fof-0000190094_djvu.txt",
+    "pursue/Release_03__CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974_djvu.txt"
+   ]
+  },
+  {
+   "pair": "SCOPE COTTON",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "cia_ufo/cia-ufo-fof-0000190094_djvu.txt",
+    "pursue/Release_03__CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974_djvu.txt"
+   ]
+  },
+  {
+   "pair": "NICE GIRL",
+   "upper_count": 4,
+   "any_case": 5,
+   "upper_ratio": 0.8,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "cia_ufo/cia-ufo-fof-0000190094_djvu.txt",
+    "pursue/Release_03__CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974_djvu.txt"
+   ]
+  },
+  {
+   "pair": "WORK SHEETS",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_03__CIA-UAP-015-Project_Blue_Book_Special_Report_No_14_djvu.txt",
+    "stargate_titles"
+   ]
+  },
+  {
+   "pair": "INVESTIGATE ANO",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_03__NASA-UAP-D018_Gemini-4_Experiment-Debriefing_1967_djvu.txt",
+    "pursue/Release_03__NASA-UAP-D022_Gemini-9-Debriefing_1966_djvu.txt"
+   ]
+  },
+  {
+   "pair": "ANO ADVISE",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_03__NASA-UAP-D018_Gemini-4_Experiment-Debriefing_1967_djvu.txt",
+    "pursue/Release_03__NASA-UAP-D022_Gemini-9-Debriefing_1966_djvu.txt"
+   ]
+  },
+  {
+   "pair": "PRI NTING",
+   "upper_count": 4,
+   "any_case": 5,
+   "upper_ratio": 0.8,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_03__NASA-UAP-D018_Gemini-4_Experiment-Debriefing_1967_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt"
+   ]
+  },
+  {
+   "pair": "CLASS IFI",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_05__DOW-UAP-D100_Air-Materiel-Command-Report-on-UFOs_1947-1948_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt"
+   ]
+  },
+  {
+   "pair": "SUP DEP",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D102_Project-Blue-Book-File-on-Tremonton-Film-Utah-1952_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D105_US-Air-Force-Flying-Discs-File-September-December-1952_djvu.txt"
+   ]
+  },
+  {
+   "pair": "REMA RKS",
+   "upper_count": 4,
+   "any_case": 5,
+   "upper_ratio": 0.8,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt"
+   ]
+  },
+  {
+   "pair": "PRINTED NAME",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D111_AAWSAP-Solicitation-and-Original-Order-September-22-2008_djvu.txt"
+   ]
+  },
+  {
+   "pair": "SURVIVING CHILD",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt"
+   ]
+  },
+  {
+   "pair": "DESIRE HIM",
+   "upper_count": 4,
+   "any_case": 4,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt"
+   ]
+  },
+  {
+   "pair": "INFO LOG",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__059UAP00011_djvu.txt",
+    "pursue/Release_01__DOS-UAP-D2-Cable-2-Kazakhstan-January-1994_djvu.txt"
+   ]
+  },
+  {
+   "pair": "ONE EIGHT",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__342_HS1-416511228_box186_319.1-Flying-Discs-1949_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_7_djvu.txt"
+   ]
+  },
+  {
+   "pair": "FOUR ZERO",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__342_HS1-416511228_box186_319.1-Flying-Discs-1949_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_4_djvu.txt"
+   ]
+  },
+  {
+   "pair": "TWO FIVE",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__342_HS1-416511228_box186_319.1-Flying-Discs-1949_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_3_djvu.txt"
+   ]
+  },
+  {
+   "pair": "THEY UERE",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_SUB_A_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_7_djvu.txt"
+   ]
+  },
+  {
+   "pair": "VIS ION",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_SUB_A_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt"
+   ]
+  },
+  {
+   "pair": "TEN LAST",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_2_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_6_djvu.txt"
+   ]
+  },
+  {
+   "pair": "FIVE TWO",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_2_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_4_djvu.txt"
+   ]
+  },
+  {
+   "pair": "FIFTH LAST",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_2_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_4_djvu.txt"
+   ]
+  },
+  {
+   "pair": "NINETEEN FORTY",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_3_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_8_djvu.txt"
+   ]
+  },
+  {
+   "pair": "ADVISED TODAY",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_5_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_9_djvu.txt"
+   ]
+  },
+  {
+   "pair": "CHECK MARK",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_5_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt"
+   ]
+  },
+  {
+   "pair": "ABOVE INFO",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_6_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_8_djvu.txt"
+   ]
+  },
+  {
+   "pair": "SRO TRACK",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D14-Mission-Report-Iraq-May-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D23-Mission-Report-United-Arab-Emirates-October-2023_djvu.txt"
+   ]
+  },
+  {
+   "pair": "SCANS IVO",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D16-Mission-Report-Syria-July-2022_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D27-Mission-Report-United-Arab-Emirates-October-2023_djvu.txt"
+   ]
+  },
+  {
+   "pair": "ISO OPERATION",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D19-Mission-Report-Syria-February-21-2023_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D20-Mission-Report-Iraq-2023_djvu.txt"
+   ]
+  },
+  {
+   "pair": "OPERATION INHERENT",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D19-Mission-Report-Syria-February-21-2023_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D20-Mission-Report-Iraq-2023_djvu.txt"
+   ]
+  },
+  {
+   "pair": "STOP FOLLOW",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D25-Mission-Report-Greece-January-2024_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D32-Mission-Report,-Syria-October-2024_djvu.txt"
+   ]
+  },
+  {
+   "pair": "DURING RTB",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D27-Mission-Report-United-Arab-Emirates-October-2023_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D54-Mission-Report-Mediterranean-Sea-NA_djvu.txt"
+   ]
+  },
+  {
+   "pair": "INTENT MET",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D27-Mission-Report-United-Arab-Emirates-October-2023_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D28-Mission-Report-East-China-Sea-2024_djvu.txt"
+   ]
+  },
+  {
+   "pair": "IMMEDIATELY BEFORE",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D28-Mission-Report-East-China-Sea-2024_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D105_US-Air-Force-Flying-Discs-File-September-December-1952_djvu.txt"
+   ]
+  },
+  {
+   "pair": "FAINT CLICK",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "KNIFE EDGE",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "cia_ufo/cia-ufo-fof-0000190094_djvu.txt",
+    "pursue/Release_03__CIA-UAP-003-THE_CENTRAL_INTELLIGENCE_AGENCY_AND_OVERHEAD_RECONNAISSANCE-THE_U-2_AND_OXCART_PROGRAMS_1954-1974_djvu.txt"
+   ]
+  },
+  {
+   "pair": "NASA ROUTING",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_03__NASA-UAP-D018_Gemini-4_Experiment-Debriefing_1967_djvu.txt",
+    "pursue/Release_03__NASA-UAP-D022_Gemini-9-Debriefing_1966_djvu.txt"
+   ]
+  },
+  {
+   "pair": "SEP ADAPT",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_03__NASA-UAP-D019_Gemini-5-Technical-Debriefing_Part1_1965_djvu.txt",
+    "pursue/Release_03__NASA-UAP-D020_Gemini-5-Technical-Debriefing_Part2_1965_djvu.txt"
+   ]
+  },
+  {
+   "pair": "SEP ELEC",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_03__NASA-UAP-D019_Gemini-5-Technical-Debriefing_Part1_1965_djvu.txt",
+    "pursue/Release_03__NASA-UAP-D020_Gemini-5-Technical-Debriefing_Part2_1965_djvu.txt"
+   ]
+  },
+  {
+   "pair": "ANO REFER",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_04__DOE-UAP-D004_Los-Alamos-Conference-on-Aerial-Phenomena_1949_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt"
+   ]
+  },
+  {
+   "pair": "SIGNATURE ANO",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_04__DOW-UAP-D096_Correspondence-Relating-to-Project-Blue-Book_1955_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt"
+   ]
+  },
+  {
+   "pair": "SUP CEN",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D102_Project-Blue-Book-File-on-Tremonton-Film-Utah-1952_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D105_US-Air-Force-Flying-Discs-File-September-December-1952_djvu.txt"
+   ]
+  },
+  {
+   "pair": "PHOTOGRAPH MOUNTAIN",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D102_Project-Blue-Book-File-on-Tremonton-Film-Utah-1952_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D105_US-Air-Force-Flying-Discs-File-September-December-1952_djvu.txt"
+   ]
+  },
+  {
+   "pair": "MOUNTAIN SCENE",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D102_Project-Blue-Book-File-on-Tremonton-Film-Utah-1952_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D105_US-Air-Force-Flying-Discs-File-September-December-1952_djvu.txt"
+   ]
+  },
+  {
+   "pair": "RST NAME",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt"
+   ]
+  },
+  {
+   "pair": "SELECTIVE SERVICE",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt"
+   ]
+  },
+  {
+   "pair": "SELECT OPTION",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt"
+   ]
+  },
+  {
+   "pair": "SERVICE ORGANIZATION",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+    "stargate_titles"
+   ]
+  },
+  {
+   "pair": "CLOSING DATA",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt"
+   ]
+  },
+  {
+   "pair": "FINAL COMPUTATION",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt"
+   ]
+  },
+  {
+   "pair": "BALANCE CARRIED",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt",
+    "pursue/Release_07__DOW-UAP-D180_Final-Personnel-Record-for-McCoy-Howard-M-US-Air-Force-1954_djvu.txt"
+   ]
+  },
+  {
+   "pair": "GOLF COURSE",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D105_US-Air-Force-Flying-Discs-File-September-December-1952_djvu.txt",
+    "stargate_titles"
+   ]
+  },
+  {
+   "pair": "PERIODICALLY OBSERVED",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D106_Mission-Report-Iraq-2022_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D109_Mission-Report-Middle-East-2022_djvu.txt"
+   ]
+  },
+  {
+   "pair": "DETERMINE ALTITUDE",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D106_Mission-Report-Iraq-2022_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D109_Mission-Report-Middle-East-2022_djvu.txt"
+   ]
+  },
+  {
+   "pair": "PLACE DESIGNATED",
+   "upper_count": 3,
+   "any_case": 3,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_06__DOW-UAP-D113_AAWSAP-Contract-Modification-P00002-February-2-2010_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D114_AAWSAP-Contract-Modification-P00003-May-18- 2010_djvu.txt"
+   ]
+  },
+  {
+   "pair": "NINE FIVE",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__342_HS1-416511228_box186_319.1-Flying-Discs-1949_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_7_djvu.txt"
+   ]
+  },
+  {
+   "pair": "ONE ZERO",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "cia_ufo/cia-ufo-fof-0000098713_djvu.txt",
+    "pursue/Release_01__342_HS1-416511228_box186_319.1-Flying-Discs-1949_djvu.txt"
+   ]
+  },
+  {
+   "pair": "EIGHT SEVEN",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__342_HS1-416511228_box186_319.1-Flying-Discs-1949_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_1_djvu.txt"
+   ]
+  },
+  {
+   "pair": "EIGHT FIVE",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__342_HS1-416511228_box186_319.1-Flying-Discs-1949_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_7_djvu.txt"
+   ]
+  },
+  {
+   "pair": "YOUR NEAREST",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_SUB_A_djvu.txt",
+    "pursue/Release_04__DOW-UAP-D096_Correspondence-Relating-to-Project-Blue-Book_1955_djvu.txt"
+   ]
+  },
+  {
+   "pair": "SECTI ONS",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_SUB_A_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt"
+   ]
+  },
+  {
+   "pair": "CONVENTION ADVANCE",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Serial_449_djvu.txt"
+   ]
+  },
+  {
+   "pair": "ADVANCE REGISTRATION",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Serial_449_djvu.txt"
+   ]
+  },
+  {
+   "pair": "CONVENTION ISSUE",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+    "pursue/Release_03__FBI-UAP-D012_Newark-Field-Office_1952-1967_djvu.txt"
+   ]
+  },
+  {
+   "pair": "ORIENTED INDUSTRIES",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Serial_449_djvu.txt"
+   ]
+  },
+  {
+   "pair": "PEACE BID",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Serial_449_djvu.txt"
+   ]
+  },
+  {
+   "pair": "BOOKS NOW",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Serial_449_djvu.txt"
+   ]
+  },
+  {
+   "pair": "COSMIC VIEWPOINT",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Serial_449_djvu.txt"
+   ]
+  },
+  {
+   "pair": "OTHER TONGUES",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Serial_449_djvu.txt"
+   ]
+  },
+  {
+   "pair": "OTHER FLESH",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Serial_449_djvu.txt"
+   ]
+  },
+  {
+   "pair": "PRICE CHANGE",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Serial_449_djvu.txt"
+   ]
+  },
+  {
+   "pair": "ZIP CODES",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Serial_449_djvu.txt"
+   ]
+  },
+  {
+   "pair": "BRILLIANTLY LIGHTED",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Serial_449_djvu.txt"
+   ]
+  },
+  {
+   "pair": "BURNS CON",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Serial_449_djvu.txt"
+   ]
+  },
+  {
+   "pair": "TOWNS SEE",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Serial_449_djvu.txt"
+   ]
+  },
+  {
+   "pair": "SEE MYSTERY",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Serial_449_djvu.txt"
+   ]
+  },
+  {
+   "pair": "THOSE SPACE",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Serial_449_djvu.txt"
+   ]
+  },
+  {
+   "pair": "NVESTI GATION",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_10_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_6_djvu.txt"
+   ]
+  },
+  {
+   "pair": "CENTS PER",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_1_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt"
+   ]
+  },
+  {
+   "pair": "ASSOCI ATED",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_1_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_9_djvu.txt"
+   ]
+  },
+  {
+   "pair": "FOUR EXP",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_1_djvu.txt",
+    "pursue/Release_03__NASA-UAP-D022_Gemini-9-Debriefing_1966_djvu.txt"
+   ]
+  },
+  {
+   "pair": "AVA ILABLE",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_1_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt"
+   ]
+  },
+  {
+   "pair": "INTERVIEW TODAY",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "cia_ufo/cia-ufo-fof-0000098713_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_2_djvu.txt"
+   ]
+  },
+  {
+   "pair": "ONE SIX",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_2_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_4_djvu.txt"
+   ]
+  },
+  {
+   "pair": "ORDER UNDER",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_2_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D111_AAWSAP-Solicitation-and-Original-Order-September-22-2008_djvu.txt"
+   ]
+  },
+  {
+   "pair": "PROMPTLY INFORMED",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_3_djvu.txt",
+    "pursue/Release_03__NASA-UAP-D022_Gemini-9-Debriefing_1966_djvu.txt"
+   ]
+  },
+  {
+   "pair": "ONE TWO",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_3_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt"
+   ]
+  },
+  {
+   "pair": "TWO NINE",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_3_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_4_djvu.txt"
+   ]
+  },
+  {
+   "pair": "TWENTY MILES",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_4_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_8_djvu.txt"
+   ]
+  },
+  {
+   "pair": "FOUR FIVE",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_5_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_8_djvu.txt"
+   ]
+  },
+  {
+   "pair": "FIVE SIX",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_5_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_7_djvu.txt"
+   ]
+  },
+  {
+   "pair": "INFO CONCERNING",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_5_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_8_djvu.txt"
+   ]
+  },
+  {
+   "pair": "DASH ONE",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_5_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_6_djvu.txt"
+   ]
+  },
+  {
+   "pair": "FOUR LAST",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_6_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_9_djvu.txt"
+   ]
+  },
+  {
+   "pair": "UFO NEAR",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "cia_ufo/cia-ufo-fof-0000098713_djvu.txt",
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_8_djvu.txt"
+   ]
+  },
+  {
+   "pair": "REPLY REF",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__65_HS1-834228961_62-HQ-83894_Section_8_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D104_Final-Personnel-Record-for-Newhouse-Delbert-C-US-Navy-1957_djvu.txt"
+   ]
+  },
+  {
+   "pair": "FULLY MISSION",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D10-Mission-Report-Middle-East-May-2022_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D109_Mission-Report-Middle-East-2022_djvu.txt"
+   ]
+  },
+  {
+   "pair": "MISSION CAPABLE",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D10-Mission-Report-Middle-East-May-2022_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D109_Mission-Report-Middle-East-2022_djvu.txt"
+   ]
+  },
+  {
+   "pair": "CAPABLE SENSORS",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D10-Mission-Report-Middle-East-May-2022_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D109_Mission-Report-Middle-East-2022_djvu.txt"
+   ]
+  },
+  {
+   "pair": "MISSION INTENT",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D10-Mission-Report-Middle-East-May-2022_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D109_Mission-Report-Middle-East-2022_djvu.txt"
+   ]
+  },
+  {
+   "pair": "PROVIDING ADEQUATE",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D12-Mission-Report-Iraq-May-2022_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D106_Mission-Report-Iraq-2022_djvu.txt"
+   ]
+  },
+  {
+   "pair": "ADEQUATE MISSION",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D12-Mission-Report-Iraq-May-2022_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D106_Mission-Report-Iraq-2022_djvu.txt"
+   ]
+  },
+  {
+   "pair": "MISSION ESSENTIAL",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D16-Mission-Report-Syria-July-2022_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D107_Mission-Report-Middle-East-2025_djvu.txt"
+   ]
+  },
+  {
+   "pair": "STA CLEARED",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D16-Mission-Report-Syria-July-2022_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D107_Mission-Report-Middle-East-2025_djvu.txt"
+   ]
+  },
+  {
+   "pair": "CONDUCT POL",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D18-Mission-Report-Iraq-December-2022_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D109_Mission-Report-Middle-East-2022_djvu.txt"
+   ]
+  },
+  {
+   "pair": "POST MISSION",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D23-Mission-Report-United-Arab-Emirates-October-2023_djvu.txt",
+    "pursue/Release_06__DOW-UAP-D107_Mission-Report-Middle-East-2025_djvu.txt"
+   ]
+  },
+  {
+   "pair": "OUT DETAILS",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D33-Mission-Report-Greece-October-2023_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D35-Mission-Report-Greece-October-2023_djvu.txt"
+   ]
+  },
+  {
+   "pair": "OCEAN WATER",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D33-Mission-Report-Greece-October-2023_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D35-Mission-Report-Greece-October-2023_djvu.txt"
+   ]
+  },
+  {
+   "pair": "INCREASED SPEED",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D4-Mission-Report-Arabian-Gulf-2020_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D5-Mission-Report-Arabian-Gulf-2020_djvu.txt"
+   ]
+  },
+  {
+   "pair": "DIRECTION TOWARDS",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D4-Mission-Report-Arabian-Gulf-2020_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D5-Mission-Report-Arabian-Gulf-2020_djvu.txt"
+   ]
+  },
+  {
+   "pair": "DESERT HEAT",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "QUICK START",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "HOT SHOT",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "BIG PUSH",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "BIG CHIEF",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "LONG LADY",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "CLOSED CIRCUITS",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "DEER PARK",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "FLAG RACE",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "DOCK HAND",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "PIPE DREAM",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "LENS COVER",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "KNOCK WOOD",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "BUZZING BEE",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "OPERA GLASS",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "STEP OVER",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "PILOT LIGHT",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "DRAG BAR",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "FLIP SIDE",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "LEA RING",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "STOCK BOY",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "BLIND SPOT",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "PIANO WIRE",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "WATER SNAKE",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "TAG DAY",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "SUPPLY ROOM",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "HEAVY ARTILLERY",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "BUSY NIECE",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "LITTLE CHURCH",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "BUSY SUNRISE",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "BREAD HOOK",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "BIG SAM",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "TEN MEN",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "YOUNG BLOOD",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "DINNER PARTY",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "HIGH RIVER",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "USEFUL TASK",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  },
+  {
+   "pair": "RED SAILS",
+   "upper_count": 2,
+   "any_case": 2,
+   "upper_ratio": 1.0,
+   "docs": 2,
+   "in_index": false,
+   "example_docs": [
+    "pursue/Release_01__DOW-UAP-D48-Report-September-1996_djvu.txt",
+    "pursue/Release_01__DOW-UAP-D49-Launch-Summary-February-2000_djvu.txt"
+   ]
+  }
+ ],
+ "project_operation_names": [
+  [
+   "Blue",
+   95
+  ],
+  [
+   "BOOSTER \nCOMMAND",
+   56
+  ],
+  [
+   "Manager",
+   56
+  ],
+  [
+   "TACKLE",
+   53
+  ],
+  [
+   "Three",
+   49
+  ],
+  [
+   "AQUATONE",
+   31
+  ],
+  [
+   "REGARDING AIRCRAFT",
+   28
+  ],
+  [
+   "GENETRIX",
+   21
+  ],
+  [
+   "STAR GATE",
+   21
+  ],
+  [
+   "FEEDBACK",
+   19
+  ],
+  [
+   "SUMMARIES",
+   17
+  ],
+  [
+   "BLUE BOOK",
+   16
+  ],
+  [
+   "FEEDBACKS",
+   16
+  ],
+  [
+   "SUMMARY",
+   15
+  ],
+  [
+   "GRAND SLAM",
+   14
+  ],
+  [
+   "OXCART",
+   14
+  ],
+  [
+   "Overflight",
+   13
+  ],
+  [
+   "REVIEW BIBLIOGRAPHIES",
+   13
+  ],
+  [
+   "EXAMINES PSYCHOLOGICAL",
+   13
+  ],
+  [
+   "CENTER LANE",
+   13
+  ],
+  [
+   "STARGATE",
+   12
+  ],
+  [
+   "SESSION",
+   12
+  ],
+  [
+   "CUM",
+   11
+  ],
+  [
+   "TARGETED",
+   11
+  ],
+  [
+   "EVALUATION",
+   11
+  ],
+  [
+   "FOLDER",
+   11
+  ],
+  [
+   "Saucer",
+   10
+  ],
+  [
+   "Management",
+   10
+  ],
+  [
+   "MUDLARK",
+   10
+  ],
+  [
+   "Bluebook",
+   9
+  ],
+  [
+   "PROTOCOL",
+   9
+  ],
+  [
+   "GRILL FLAME",
+   9
+  ],
+  [
+   "HTAUTOMAT",
+   8
+  ],
+  [
+   "RAINBOW",
+   8
+  ],
+  [
+   "SQUARE DEAL",
+   8
+  ],
+  [
+   "Manager \nAAP",
+   8
+  ],
+  [
+   "LINCOLN",
+   7
+  ],
+  [
+   "Director",
+   7
+  ],
+  [
+   "IDEALIST",
+   7
+  ],
+  [
+   "Northern",
+   7
+  ],
+  [
+   "PROCEDURES",
+   7
+  ],
+  [
+   "INFO FORM",
+   7
+  ],
+  [
+   "BOOSTBR \nCOMMAND",
+   6
+  ],
+  [
+   "SCOPE SHIELD",
+   6
+  ],
+  [
+   "BLACK SHIELD",
+   6
+  ],
+  [
+   "Staff",
+   6
+  ],
+  [
+   "Officer",
+   6
+  ],
+  [
+   "Sign",
+   6
+  ],
+  [
+   "INFO FORMS",
+   6
+  ],
+  [
+   "OUTLINE",
+   6
+  ],
+  [
+   "Security",
+   5
+  ],
+  [
+   "SOFT TOUCH",
+   5
+  ],
+  [
+   "AQUILINE",
+   5
+  ],
+  [
+   "Grudge",
+   5
+  ],
+  [
+   "Coordinator",
+   5
+  ],
+  [
+   "Physics",
+   5
+  ],
+  [
+   "Control",
+   5
+  ],
+  [
+   "OFFICER",
+   5
+  ],
+  [
+   "RESULTS",
+   5
+  ],
+  [
+   "Engineer",
+   4
+  ],
+  [
+   "COM",
+   4
+  ],
+  [
+   "OILSTONE",
+   4
+  ],
+  [
+   "HTNAMABLE",
+   4
+  ],
+  [
+   "Headquarters",
+   4
+  ],
+  [
+   "KICK OFF",
+   4
+  ],
+  [
+   "STPOLLY",
+   4
+  ],
+  [
+   "FISH HAWK",
+   4
+  ],
+  [
+   "Report",
+   4
+  ],
+  [
+   "Daedalus",
+   4
+  ],
+  [
+   "Orion",
+   4
+  ],
+  [
+   "Rover",
+   4
+  ],
+  [
+   "Cooperation",
+   4
+  ],
+  [
+   "OVERSIGHT COMMITTEE",
+   4
+  ],
+  [
+   "DOCUMENTS",
+   4
+  ],
+  [
+   "OVERSIGHT PANEL",
+   4
+  ],
+  [
+   "LOG DBASE",
+   4
+  ],
+  [
+   "SUN STREAK",
+   4
+  ],
+  [
+   "REPORT",
+   4
+  ],
+  [
+   "VIEWER",
+   4
+  ],
+  [
+   "Mogul",
+   3
+  ],
+  [
+   "INHERENT RESOLVE",
+   3
+  ],
+  [
+   "MANAGEMENT",
+   3
+  ],
+  [
+   "GRUDGE",
+   3
+  ],
+  [
+   "McDivitt",
+   3
+  ],
+  [
+   "Borman",
+   3
+  ],
+  [
+   "CAPELLA",
+   3
+  ],
+  [
+   "Implementation",
+   3
+  ],
+  [
+   "OFFICE CONTRACTOR",
+   3
+  ],
+  [
+   "ARCHITECTURE",
+   3
+  ],
+  [
+   "SCANATE",
+   3
+  ],
+  [
+   "Rpt DTD",
+   3
+  ],
+  [
+   "P-TRAINING TASK",
+   3
+  ],
+  [
+   "STATUS",
+   3
+  ],
+  [
+   "ACQUISITION",
+   3
+  ],
+  [
+   "LOG",
+   3
+  ],
+  [
+   "INDEXER",
+   2
+  ],
+  [
+   "Twinkle",
+   2
+  ],
+  [
+   "KNOWN",
+   2
+  ],
+  [
+   "DEPARTMENT",
+   2
+  ],
+  [
+   "DAMP",
+   2
+  ],
+  [
+   "Flight",
+   2
+  ],
+  [
+   "Summary",
+   2
+  ],
+  [
+   "FIRE",
+   2
+  ],
+  [
+   "Space",
+   2
+  ],
+  [
+   "BOOSTRR \nCOMMAND",
+   2
+  ],
+  [
+   "BOOSTER",
+   2
+  ],
+  [
+   "BWE BOOK",
+   2
+  ],
+  [
+   "DRAGON",
+   2
+  ],
+  [
+   "WRINGER",
+   2
+  ],
+  [
+   "ROBIN",
+   2
+  ],
+  [
+   "AOUATONE",
+   2
+  ],
+  [
+   "MKNAOMI",
+   2
+  ],
+  [
+   "DRAGON LADY",
+   2
+  ],
+  [
+   "EQUINE",
+   2
+  ],
+  [
+   "GENETRIX BALLOONS",
+   2
+  ],
+  [
+   "KNIFE EDGE",
+   2
+  ],
+  [
+   "BLACK KNIGHT",
+   2
+  ],
+  [
+   "BLACK \nKNIGHT",
+   2
+  ],
+  [
+   "Shortly",
+   2
+  ],
+  [
+   "HOT SHOP",
+   2
+  ],
+  [
+   "TOUCHDOWN",
+   2
+  ],
+  [
+   "HIGH WIRE",
+   2
+  ],
+  [
+   "KNIFE \nEDGE",
+   2
+  ],
+  [
+   "TIME STEP",
+   2
+  ],
+  [
+   "GRAND \nSLAM",
+   2
+  ],
+  [
+   "TIME \nSTEP",
+   2
+  ],
+  [
+   "CHALICE",
+   2
+  ],
+  [
+   "GREEN EYES",
+   2
+  ],
+  [
+   "LONG GREEN",
+   2
+  ],
+  [
+   "FLIP TOP",
+   2
+  ],
+  [
+   "ROBIN HOOD",
+   2
+  ],
+  [
+   "MILL TOWN",
+   2
+  ],
+  [
+   "QUICK KICK",
+   2
+  ],
+  [
+   "TOPPER",
+   2
+  ],
+  [
+   "POLECAT",
+   2
+  ],
+  [
+   "EBONY",
+   2
+  ],
+  [
+   "WHALE TALE",
+   2
+  ],
+  [
+   "EVEN STEVEN",
+   2
+  ],
+  [
+   "OLIVE HARVEST",
+   2
+  ],
+  [
+   "GUSTO",
+   2
+  ],
+  [
+   "KEDLOCK",
+   2
+  ],
+  [
+   "SKYLARK",
+   2
+  ],
+  [
+   "KEMPSTER",
+   2
+  ],
+  [
+   "SCOPE LOGIC",
+   2
+  ],
+  [
+   "UPWIND",
+   2
+  ],
+  [
+   "Almost",
+   2
+  ],
+  [
+   "SCOPE COTTON",
+   2
+  ],
+  [
+   "ISINGLASS",
+   2
+  ],
+  [
+   "RHEINBERRY",
+   2
+  ],
+  [
+   "From",
+   2
+  ]
+ ],
+ "embedding": {
+  "vocab": 11710,
+  "tokens": 2596703,
+  "dim": 150,
+  "neighbours": {
+   "kona": [
+    [
+     "dhs",
+     0.891,
+     94
+    ],
+    [
+     "psap",
+     0.857,
+     19
+    ],
+    [
+     "sap",
+     0.826,
+     39
+    ],
+    [
+     "sapco",
+     0.803,
+     21
+    ],
+    [
+     "access",
+     0.798,
+     201
+    ],
+    [
+     "prospective",
+     0.781,
+     24
+    ],
+    [
+     "dhs-",
+     0.685,
+     24
+    ],
+    [
+     "homeland",
+     0.658,
+     46
+    ],
+    [
+     "documentation",
+     0.629,
+     55
+    ],
+    [
+     "clearance",
+     0.554,
+     49
+    ],
+    [
+     "program",
+     0.535,
+     1353
+    ],
+    [
+     "blue",
+     0.535,
+     600
+    ]
+   ],
+   "crash": [
+    [
+     "crashed",
+     0.629,
+     87
+    ],
+    [
+     "killed",
+     0.527,
+     53
+    ],
+    [
+     "pilot",
+     0.493,
+     918
+    ],
+    [
+     "died",
+     0.479,
+     46
+    ],
+    [
+     "helicopter",
+     0.462,
+     85
+    ],
+    [
+     "plane",
+     0.458,
+     701
+    ],
+    [
+     "killing",
+     0.456,
+     27
+    ],
+    [
+     "accident",
+     0.452,
+     49
+    ],
+    [
+     "revealed",
+     0.444,
+     115
+    ],
+    [
+     "flameout",
+     0.442,
+     15
+    ],
+    [
+     "overflew",
+     0.435,
+     24
+    ],
+    [
+     "struck",
+     0.426,
+     37
+    ]
+   ],
+   "reverse": [
+    [
+     "bypass",
+     0.49,
+     45
+    ],
+    [
+     "reversal",
+     0.431,
+     15
+    ],
+    [
+     "mhd",
+     0.41,
+     148
+    ],
+    [
+     "enter",
+     0.4,
+     180
+    ],
+    [
+     "previous",
+     0.399,
+     289
+    ],
+    [
+     "subsequent",
+     0.397,
+     120
+    ],
+    [
+     "upstream",
+     0.395,
+     21
+    ],
+    [
+     "dependents",
+     0.39,
+     89
+    ],
+    [
+     "certify",
+     0.385,
+     93
+    ],
+    [
+     "form",
+     0.385,
+     1266
+    ],
+    [
+     "uae",
+     0.378,
+     27
+    ],
+    [
+     "certificate",
+     0.377,
+     35
+    ]
+   ],
+   "exploitation": [
+    [
+     "support",
+     0.512,
+     577
+    ],
+    [
+     "challenges",
+     0.454,
+     60
+    ],
+    [
+     "technological",
+     0.452,
+     158
+    ],
+    [
+     "justification",
+     0.442,
+     37
+    ],
+    [
+     "threat",
+     0.422,
+     196
+    ],
+    [
+     "opportunities",
+     0.422,
+     69
+    ],
+    [
+     "resources",
+     0.422,
+     94
+    ],
+    [
+     "continuing",
+     0.422,
+     93
+    ],
+    [
+     "assessment",
+     0.42,
+     111
+    ],
+    [
+     "overhead",
+     0.418,
+     214
+    ],
+    [
+     "budget",
+     0.416,
+     83
+    ],
+    [
+     "future",
+     0.413,
+     499
+    ]
+   ],
+   "consciousness": [
+    [
+     "implications",
+     0.487,
+     72
+    ],
+    [
+     "physiological",
+     0.482,
+     82
+    ],
+    [
+     "assessment",
+     0.46,
+     111
+    ],
+    [
+     "psychology",
+     0.458,
+     54
+    ],
+    [
+     "armament",
+     0.452,
+     18
+    ],
+    [
+     "aav",
+     0.424,
+     55
+    ],
+    [
+     "nervous",
+     0.416,
+     57
+    ],
+    [
+     "countermeasures",
+     0.415,
+     38
+    ],
+    [
+     "comprehensive",
+     0.413,
+     51
+    ],
+    [
+     "psychic",
+     0.411,
+     24
+    ],
+    [
+     "education",
+     0.405,
+     70
+    ],
+    [
+     "cognitive",
+     0.397,
+     55
+    ]
+   ],
+   "telepathy": [
+    [
+     "yev",
+     0.688,
+     17
+    ],
+    [
+     "nauka",
+     0.652,
+     27
+    ],
+    [
+     "mysteries",
+     0.583,
+     24
+    ],
+    [
+     "dermal",
+     0.552,
+     18
+    ],
+    [
+     "psychology",
+     0.526,
+     54
+    ],
+    [
+     "issue",
+     0.515,
+     341
+    ],
+    [
+     "moscow",
+     0.508,
+     241
+    ],
+    [
+     "ko",
+     0.497,
+     77
+    ],
+    [
+     "ye",
+     0.474,
+     125
+    ],
+    [
+     "biophysical",
+     0.469,
+     26
+    ],
+    [
+     "theses",
+     0.467,
+     19
+    ],
+    [
+     "bpe",
+     0.464,
+     16
+    ]
+   ],
+   "contact": [
+    [
+     "attempt",
+     0.507,
+     212
+    ],
+    [
+     "contacts",
+     0.494,
+     135
+    ],
+    [
+     "observation",
+     0.436,
+     567
+    ],
+    [
+     "emi",
+     0.435,
+     26
+    ],
+    [
+     "instructed",
+     0.415,
+     77
+    ],
+    [
+     "location",
+     0.415,
+     700
+    ],
+    [
+     "longitude",
+     0.407,
+     81
+    ],
+    [
+     "ufo",
+     0.406,
+     1070
+    ],
+    [
+     "arrange",
+     0.4,
+     30
+    ],
+    [
+     "stent",
+     0.398,
+     25
+    ],
+    [
+     "attempted",
+     0.397,
+     95
+    ],
+    [
+     "details",
+     0.391,
+     364
+    ]
+   ],
+   "communication": [
+    [
+     "nonlocal",
+     0.804,
+     97
+    ],
+    [
+     "superluminal",
+     0.699,
+     34
+    ],
+    [
+     "signaling",
+     0.695,
+     38
+    ],
+    [
+     "entanglement",
+     0.675,
+     42
+    ],
+    [
+     "epr",
+     0.642,
+     29
+    ],
+    [
+     "nonlocality",
+     0.63,
+     28
+    ],
+    [
+     "demonstrating",
+     0.595,
+     37
+    ],
+    [
+     "theorems",
+     0.562,
+     21
+    ],
+    [
+     "connections",
+     0.55,
+     23
+    ],
+    [
+     "interference",
+     0.538,
+     139
+    ],
+    [
+     "mechanics",
+     0.526,
+     100
+    ],
+    [
+     "signal",
+     0.519,
+     342
+    ]
+   ],
+   "liaison": [
+    [
+     "ficer",
+     0.561,
+     43
+    ],
+    [
+     "deloach",
+     0.475,
+     24
+    ],
+    [
+     "casper",
+     0.467,
+     18
+    ],
+    [
+     "callahan",
+     0.467,
+     24
+    ],
+    [
+     "afloat",
+     0.443,
+     19
+    ],
+    [
+     "icer",
+     0.44,
+     66
+    ],
+    [
+     "gale",
+     0.431,
+     20
+    ],
+    [
+     "photographic",
+     0.431,
+     276
+    ],
+    [
+     "personnel",
+     0.43,
+     904
+    ],
+    [
+     "enclosure",
+     0.428,
+     141
+    ],
+    [
+     "bureau",
+     0.427,
+     1233
+    ],
+    [
+     "belmont",
+     0.427,
+     87
+    ]
+   ],
+   "compartment": [
+    [
+     "passenger",
+     0.531,
+     28
+    ],
+    [
+     "rear",
+     0.504,
+     124
+    ],
+    [
+     "chamber",
+     0.48,
+     150
+    ],
+    [
+     "tank",
+     0.458,
+     82
+    ],
+    [
+     "turbopump",
+     0.449,
+     16
+    ],
+    [
+     "tanks",
+     0.438,
+     58
+    ],
+    [
+     "pressurized",
+     0.437,
+     26
+    ],
+    [
+     "oxidizer",
+     0.427,
+     34
+    ],
+    [
+     "positioned",
+     0.423,
+     34
+    ],
+    [
+     "side",
+     0.423,
+     756
+    ],
+    [
+     "transtage",
+     0.414,
+     15
+    ],
+    [
+     "leak",
+     0.413,
+     42
+    ]
+   ],
+   "codeword": [
+    [
+     "chap",
+     0.945,
+     303
+    ],
+    [
+     "minnich",
+     0.924,
+     25
+    ],
+    [
+     "ts",
+     0.918,
+     1161
+    ],
+    [
+     "osa",
+     0.909,
+     364
+    ],
+    [
+     "annex",
+     0.884,
+     40
+    ],
+    [
+     "folder",
+     0.868,
+     78
+    ],
+    [
+     "ibid",
+     0.861,
+     123
+    ],
+    [
+     "mayday",
+     0.861,
+     48
+    ],
+    [
+     "ddel",
+     0.86,
+     54
+    ],
+    [
+     "history",
+     0.847,
+     469
+    ],
+    [
+     "beschloss",
+     0.807,
+     51
+    ],
+    [
+     "welzenbach",
+     0.794,
+     103
+    ]
+   ],
+   "nickname": [
+    [
+     "typb",
+     0.961,
+     45
+    ],
+    [
+     "seq",
+     0.931,
+     72
+    ],
+    [
+     "cum",
+     0.916,
+     132
+    ],
+    [
+     "seo",
+     0.858,
+     61
+    ],
+    [
+     "facility",
+     0.824,
+     244
+    ],
+    [
+     "datb",
+     0.732,
+     37
+    ],
+    [
+     "ql",
+     0.641,
+     109
+    ],
+    [
+     "pagb",
+     0.636,
+     17
+    ],
+    [
+     "nic",
+     0.595,
+     18
+    ],
+    [
+     "ility",
+     0.59,
+     17
+    ],
+    [
+     "program",
+     0.555,
+     1353
+    ],
+    [
+     "fac",
+     0.548,
+     36
+    ]
+   ],
+   "implants": [
+    [
+     "implant",
+     0.766,
+     64
+    ],
+    [
+     "tissue",
+     0.692,
+     132
+    ],
+    [
+     "implanted",
+     0.677,
+     48
+    ],
+    [
+     "chronic",
+     0.661,
+     31
+    ],
+    [
+     "implantable",
+     0.637,
+     26
+    ],
+    [
+     "arrays",
+     0.636,
+     53
+    ],
+    [
+     "cochlear",
+     0.63,
+     15
+    ],
+    [
+     "biomaterial",
+     0.618,
+     18
+    ],
+    [
+     "biomedical",
+     0.616,
+     35
+    ],
+    [
+     "biomaterials",
+     0.605,
+     62
+    ],
+    [
+     "silicone",
+     0.6,
+     36
+    ],
+    [
+     "surgery",
+     0.6,
+     34
+    ]
+   ],
+   "anomalous": [
+    [
+     "aav",
+     0.677,
+     55
+    ],
+    [
+     "encounters",
+     0.672,
+     57
+    ],
+    [
+     "events",
+     0.671,
+     292
+    ],
+    [
+     "anomalies",
+     0.634,
+     57
+    ],
+    [
+     "injuries",
+     0.624,
+     46
+    ],
+    [
+     "entities",
+     0.622,
+     46
+    ],
+    [
+     "encounter",
+     0.598,
+     83
+    ],
+    [
+     "unexplained",
+     0.597,
+     97
+    ],
+    [
+     "phenomena",
+     0.587,
+     744
+    ],
+    [
+     "behavior",
+     0.578,
+     165
+    ],
+    [
+     "physiological",
+     0.558,
+     82
+    ],
+    [
+     "effects",
+     0.553,
+     719
+    ]
+   ],
+   "ufo": [
+    [
+     "ufos",
+     0.758,
+     328
+    ],
+    [
+     "unidentified",
+     0.593,
+     765
+    ],
+    [
+     "reports",
+     0.588,
+     1517
+    ],
+    [
+     "sightings",
+     0.577,
+     1256
+    ],
+    [
+     "cases",
+     0.567,
+     620
+    ],
+    [
+     "book",
+     0.526,
+     546
+    ],
+    [
+     "sighting",
+     0.525,
+     811
+    ],
+    [
+     "ofthe",
+     0.519,
+     512
+    ],
+    [
+     "author",
+     0.515,
+     201
+    ],
+    [
+     "study",
+     0.503,
+     874
+    ],
+    [
+     "public",
+     0.492,
+     559
+    ],
+    [
+     "phenomena",
+     0.491,
+     744
+    ]
+   ],
+   "uap": [
+    [
+     "unk",
+     0.727,
+     90
+    ],
+    [
+     "engagement",
+     0.689,
+     39
+    ],
+    [
+     "description",
+     0.638,
+     319
+    ],
+    [
+     "friendly",
+     0.601,
+     119
+    ],
+    [
+     "describe",
+     0.597,
+     242
+    ],
+    [
+     "recognizable",
+     0.587,
+     21
+    ],
+    [
+     "uaps",
+     0.572,
+     72
+    ],
+    [
+     "signatures",
+     0.566,
+     31
+    ],
+    [
+     "observation",
+     0.556,
+     567
+    ],
+    [
+     "mds",
+     0.556,
+     20
+    ],
+    [
+     "gentext",
+     0.544,
+     283
+    ],
+    [
+     "behaviors",
+     0.539,
+     25
+    ]
+   ]
+  }
+ }
+}
