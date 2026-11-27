@@ -336,6 +336,33 @@ Newest-technology share, vehicle-framed reports 1700-1946 (n = 1012): observed 5
 | formation | 128 | 74.2 (66.0-81.0) | 1.6 (0.4-5.5) |
 | flashing | 347 | 70.0 (65.0-74.6) | 3.5 (2.0-5.9) |
 
+## T10b. Before 1800: reports naming a natural phenomenon (n = 87) vs the rest (n = 651), % (95% CI)
+
+| feature | names a natural phenomenon | unexplained |
+|---|---|---|
+| sphere | 12.6 (7.2-21.2) | 14.1 (11.7-17.0) |
+| glow | 35.6 (26.4-46.1) | 20.9 (17.9-24.2) |
+| light | 28.7 (20.3-39.0) | 20.0 (17.1-23.2) |
+| cigar | 3.4 (1.2-9.7) | 3.8 (2.6-5.6) |
+| erratic | 2.3 (0.6-8.0) | 1.8 (1.1-3.2) |
+| vanish | 6.9 (3.2-14.2) | 6.9 (5.2-9.1) |
+| size_large | 4.6 (1.8-11.2) | 4.9 (3.5-6.9) |
+| size_small | 5.7 (2.5-12.8) | 6.5 (4.8-8.6) |
+| red_orange | 21.8 (14.5-31.6) | 9.7 (7.6-12.2) |
+| white | 4.6 (1.8-11.2) | 7.7 (5.9-10.0) |
+| fast | 5.7 (2.5-12.8) | 3.2 (2.1-4.9) |
+| hover | 8.0 (4.0-15.7) | 8.6 (6.7-11.0) |
+| disc | 1.1 (0.2-6.2) | 4.6 (3.2-6.5) |
+| triangle | 3.4 (1.2-9.7) | 0.6 (0.2-1.6) |
+| metallic | 1.1 (0.2-6.2) | 1.7 (0.9-3.0) |
+| landing | 0.0 (0.0-4.2) | 3.7 (2.5-5.4) |
+| formation | 2.3 (0.6-8.0) | 1.7 (0.9-3.0) |
+| flashing | 2.3 (0.6-8.0) | 2.0 (1.2-3.4) |
+| beam | 14.9 (8.9-23.9) | 6.9 (5.2-9.1) |
+| f_martial | 18.4 (11.6-27.8) | 14.7 (12.2-17.7) |
+| f_religious | 20.7 (13.5-30.4) | 18.7 (15.9-21.9) |
+| e_occupant | 18.4 (11.6-27.8) | 13.7 (11.2-16.5) |
+
 ## T11. Ancient-astronaut predictions
 
 AA1 structured craft seen close (shape term + landing or occupants): before 1800 1.8 (1.1-3.2)%, after 1947 11.3 (11.0-11.7)%, within-catalog MH OR 0.07 (0.03-0.15); before 1800 without the LLM-paraphrased catalogs 1.6 (0.7-3.5)%.

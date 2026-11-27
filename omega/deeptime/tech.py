@@ -213,6 +213,16 @@ out['D_primitives_vs_identified'] = dict(base=dict(n=NG, AB=(gc['A'] + gc['B']) 
 print(f"\nD  GEIPAN (n={NG}): base A+B {100 * (gc['A'] + gc['B']) / NG:.0f}%, D {100 * gc['D'] / NG:.1f}%. Per feature A+B% / D%:")
 print('   ' + ', '.join(f"{f}:{100 * D[f]['AB'][0]:.0f}/{100 * D[f]['D'][0]:.1f}" for f in PRIM if D[f]['n'] >= 20))
 
+# D2: before 1800, the same primitives in reports that name a natural phenomenon vs the rest (same catalogs, same era)
+ANC = [r for r in R if r['cat'] in CATALOGS and r['year'] < 1800]
+an, au = [r for r in ANC if r['natural']], [r for r in ANC if not r['natural']]
+out['D2_pre1800_natural_vs_unexplained'] = dict(n=[len(an), len(au)], per_feature={
+    f: dict(natural=wilson(sum(f in r['fs'] for r in an), len(an)), unexplained=wilson(sum(f in r['fs'] for r in au), len(au)))
+    for f in PRIM + ['beam', 'f_martial', 'f_religious', 'e_occupant']})
+print(f'\nD2 before 1800, natural-named (n={len(an)}) vs unexplained (n={len(au)}), %:')
+print('   ' + ', '.join(f"{f}:{100 * v['natural'][0]:.1f}/{100 * v['unexplained'][0]:.1f}"
+                        for f, v in out['D2_pre1800_natural_vs_unexplained']['per_feature'].items()))
+
 # E ---------------------------------------------------------------- ancient-astronaut hypotheses
 E = {}
 CRAFT = {'disc', 'cigar', 'oval', 'triangle', 'rectangle', 'cone', 'diamond', 'metallic'}

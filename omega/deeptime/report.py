@@ -120,6 +120,13 @@ for f, v in Dd['per_feature'].items():
     if v['n'] >= 20:
         w(f"| {f} | {v['n']} | {pct(v['AB'])} | {pct(v['D'])} |")
 
+D2 = t['D2_pre1800_natural_vs_unexplained']
+w(f"\n## T10b. Before 1800: reports naming a natural phenomenon (n = {D2['n'][0]}) vs the rest (n = {D2['n'][1]}), % (95% CI)\n")
+w('| feature | names a natural phenomenon | unexplained |')
+w('|---|---|---|')
+for f, v in D2['per_feature'].items():
+    w(f"| {f} | {pct(v['natural'])} | {pct(v['unexplained'])} |")
+
 E = t['E_ancient_astronaut']
 w('\n## T11. Ancient-astronaut predictions\n')
 a1 = E['AA1_structured_craft_close']
