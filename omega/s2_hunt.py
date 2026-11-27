@@ -51,23 +51,51 @@ def masks(A, win):
     return badw, badl, float((scl == 6).mean())
 
 
+def _amp(HP, b, y, x):
+    H, W = HP[b].shape
+    y = int(round(min(max(y, 1), H - 2))); x = int(round(min(max(x, 1), W - 2)))
+    return float(HP[b][y - 1:y + 2, x - 1:x + 2].max())
+
+
+def _clean(HP, m):
+    """Geometry and colour consistency: band-time fractions within 0.03 of the
+    nominal ratios, and the three visible copies within a factor 2 in brightness
+    (an aircraft is roughly grey; glint and whitecap triples are not)."""
+    out = []
+    for k in m:
+        if abs(k["f3"] - M.R3) > 0.05 or abs(k["f8"] - M.R8) > 0.06:
+            continue
+        y0, x0, dy, dx = k["y0"], k["x0"], k["dy"], k["dx"]
+        a = [_amp(HP, "B02", y0, x0), _amp(HP, "B03", y0 + M.R3 * dy, x0 + M.R3 * dx),
+             _amp(HP, "B04", y0 + dy, x0 + dx)]
+        if max(a) / max(min(a), 1.0) > 3.0:
+            continue
+        k["amp"] = [round(v) for v in a]
+        out.append(k)
+    return out
+
+
 def detect(HP, bad, mode):
     P = {}
-    thr = 100 if mode == "water" else 250
+    base = 100 if mode == "water" else 250
     vis = ("B02", "B03", "B04")
+    sig = {}
+    for b in ("B02", "B03", "B04", "B08"):
+        smp = HP[b][::5, ::5][~bad[::5, ::5]]
+        sig[b] = float(1.4826 * np.median(np.abs(smp - np.median(smp)))) if smp.size > 1000 else 0.0
+    thr = {b: max(base, 7 * sig[b]) for b in sig}
     for b in vis:
-        if mode == "water" and b == "B04":
-            P["B04"] = M.subpix(HP[b], M._peaks(HP[b], bad, thr)); continue
         o = np.maximum.reduce([HP[j] for j in vis if j != b])
         E = HP[b] - ndimage.maximum_filter(o, 3); del o
-        P[b if b == "B04" else b + "x"] = M.subpix(HP[b], M._peaks(E, bad, thr)); del E
-    P["B08"] = M.subpix(HP["B08"], M._peaks(HP["B08"], bad, thr))
-    m = M.match(P)
+        P[b if b == "B04" else b + "x"] = M.subpix(HP[b], M._peaks(E if b != "B04" or mode != "water" else HP[b], bad, thr[b])); del E
+    P["B08"] = M.subpix(HP["B08"], M._peaks(HP["B08"], bad, thr["B08"]))
+    m = _clean(HP, M.match(P, tol=1.5))
     rng = np.random.default_rng(0); fa = []
     for _ in range(10):
         Q = dict(P); Q["B04"] = P["B04"] + rng.uniform(-400, 400, 2).astype(np.float32)
-        fa.append(len(M.match(Q)))
-    return m, fa, {k: len(v) for k, v in P.items()}
+        fa.append(len(_clean(HP, M.match(Q, tol=1.5))))
+    npk = {k: len(v) for k, v in P.items()}; npk["thr"] = {k: round(v) for k, v in thr.items()}
+    return m, fa, npk
 
 
 def chip(HP, y, x, path):
