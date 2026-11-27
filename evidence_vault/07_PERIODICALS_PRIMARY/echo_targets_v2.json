@@ -1,7 +1,7 @@
 {
  "corpus": {
   "A": 844,
-  "B": 6310
+  "B": 6315
  },
  "targets": {
   "galesburg_1967": {
@@ -69,15 +69,15 @@
     }
    },
    "B": {
-    "place_hits": 5576,
-    "place_issues": 1984,
+    "place_hits": 5583,
+    "place_issues": 1987,
     "strict_issues": 8,
     "recall_only_issues": 1,
     "strict": [
      {
       "issue": "B/FSR__the-flying-saucer-review-ultimate-collection__74.FSR.txt",
-      "issue_date": "1966-03",
-      "lag_months": -6,
+      "issue_date": "1967-02",
+      "lag_months": 5,
       "offset": 119695,
       "context": "away to a place among the stars and in a few seconds was hid beyond the darkness of the night.” References Charles Fort, New Lands, 1923. Donald E. Keyhoe, The Flying Saucers Are Real, 1950, Edward J. Ruppelt, The Report on Unidentified Flying Objects, 1956. Donald B. Hanlon and Jacques Vallée, Airships over Texas: FSR, January/February 1967. Hanlon, Texas Odyssey of 1897: FSR, September/October 1966. Lucius Farish, "
      },
@@ -103,13 +103,6 @@
       "context": "liar to our generation? Postscript: In addition to the mystery airship sightings, the paraglider reminds me of the weird objects observed by Vauriat, France, on August 29, 1962 (FLYING SAUCER REVIEW July-August 1963). NOTES Clark, J. The Strange Case of the 1897 Airship, FSR July/August 1966 Hanlon, D. B. Texas Odyssey of 1897, FSR September/October 1966. Also, in collaboration with Vallée, J., Airships over Texas, F"
      },
      {
-      "issue": "B/FSR__the-flying-saucer-review-ultimate-collection__84.FSR.txt",
-      "issue_date": "1968-06",
-      "lag_months": 21,
-      "offset": 76086,
-      "context": "The Strange Case of the 1897 Airship, FSR, July/August 1966. More on 1897, FSR, July/August 1967. Gordon W. Creighton, Saucers and South Africa, October 1962. Lucius Farish, An 1880 UFO, FSR, May/June 1965. Donald B. Pinson, Teras Od) of 1897, FSR, September/October 966. , and Jacques Vallée, Airships over Texas, FSR, January/February 1967. W. H. Watson, 19th Century Paraglider? FSR, November/December 1967. FSR, Sept"
-     },
-     {
       "issue": "B/UFO_Nyt__UFO_Nyt_No_1_jan-feb_1968.txt",
       "issue_date": "1968-06",
       "lag_months": 21,
@@ -117,9 +110,16 @@
       "context": "for en afstand på 150 fod (45 meter) fra deres patruljebil, mellem Damon og West Columbia, den 3. september 1965 ved 23-tiden (altså min¬ dre end 24 timer efter Exeter-observationen. Også denne observation er udførligere omtalt i McDonald-rapporten o.a.). (PROBE, Vol. IV, nr. 1, 67). Fra „Houston Tribune 44 , Texas, for 19. januar 1967, kommer følgende beretning om en UFO- forfølgelse i Houston-området. I september 1"
      },
      {
+      "issue": "B/FSR__the-flying-saucer-review-ultimate-collection__84.FSR.txt",
+      "issue_date": "1968-10",
+      "lag_months": 25,
+      "offset": 76086,
+      "context": "The Strange Case of the 1897 Airship, FSR, July/August 1966. More on 1897, FSR, July/August 1967. Gordon W. Creighton, Saucers and South Africa, October 1962. Lucius Farish, An 1880 UFO, FSR, May/June 1965. Donald B. Pinson, Teras Od) of 1897, FSR, September/October 966. , and Jacques Vallée, Airships over Texas, FSR, January/February 1967. W. H. Watson, 19th Century Paraglider? FSR, November/December 1967. FSR, Sept"
+     },
+     {
       "issue": "B/FSR__the-flying-saucer-review-ultimate-collection__90.FSR.txt",
-      "issue_date": "1970-06",
-      "lag_months": 45,
+      "issue_date": "1970-02",
+      "lag_months": 41,
       "offset": 135831,
       "context": "Texas, U.S.A. (April 1897) The Dallas News of April 28, 1897, had a report of an anonymous witness (a lawyer) who was driving his horse and buggy at night when the “Airship” passed overhead. The horse snorted, reared, plunged madly, nearly overturned the buggy, and stood trembling like a leaf. Donald B. Hanlon: Texas Odyssey of 1897, FSR, September/October 1966, p. 8. 13. Hot Springs, Arkansas, U.S.A. (night of May 6"
      },
@@ -164,8 +164,8 @@
     "by_source": {}
    },
    "B": {
-    "place_hits": 1115,
-    "place_issues": 554,
+    "place_hits": 1116,
+    "place_issues": 555,
     "strict_issues": 1,
     "recall_only_issues": 1,
     "strict": [
@@ -207,8 +207,8 @@
     "by_source": {}
    },
    "B": {
-    "place_hits": 847,
-    "place_issues": 452,
+    "place_hits": 848,
+    "place_issues": 453,
     "strict_issues": 0,
     "recall_only_issues": 0,
     "strict": [],
@@ -454,9 +454,9 @@
     }
    },
    "B": {
-    "place_hits": 1048,
-    "place_issues": 416,
-    "strict_issues": 86,
+    "place_hits": 1051,
+    "place_issues": 418,
+    "strict_issues": 88,
     "recall_only_issues": 27,
     "strict": [
      {
@@ -778,8 +778,8 @@
      },
      {
       "issue": "B/LDLN__LDLN_No_126.txt",
-      "issue_date": "1973-03",
-      "lag_months": 107,
+      "issue_date": "1973-07",
+      "lag_months": 111,
       "offset": 19818,
       "context": "ence. Et, maintenant, on arrive triomphalement à ce qui doit être la culmination et la clef de toute la devinette : le cas américain de Gary Wilcox, le jeune fermier de Tiogq^City (Etat de New-York). Si ma mémoire ne me trompe pas, ce cas eut lieu le matin du 24 avril 1964, peu d’heures avant le fameux cas de Socorro, au Nouveau Mexique, qui eut pour protagoniste le policier Lonnie Zamo- ra. Je me souviens que, me tr"
      },
@@ -933,7 +933,7 @@
     ],
     "by_source": {
      "UFO_Nyt_Sept_Okt": 1,
-     "FSR": 8,
+     "FSR": 10,
      "Flying_Saucer_News": 2,
      "UFO_Nyt": 18,
      "UFO_Magazine_Annual": 1,
@@ -1071,8 +1071,8 @@
      },
      {
       "issue": "B/FSR__the-flying-saucer-review-ultimate-collection__78.FSR.txt",
-      "issue_date": "1967-06",
-      "lag_months": 21,
+      "issue_date": "1968-02",
+      "lag_months": 29,
       "offset": 116030,
       "context": "he UFO problem. Mr. Fuller interviewed some sixty witnesses before writing his book, and described some twenty-one of these cases in detail. I have made a summary of these twenty-one cases, and I imagine readers of the REVIEW might be interested in the results. Most of the sightings were made in the vicinity of Exeter, New Hampshire, in the late summer and the fall of 1965, Muscarello Sighting September 3. A huge red"
      },
@@ -1170,18 +1170,18 @@
       "context": "692) 3 Septembre 1965 01 :20, San Justo (Argentine): J. Fernandez fut éveillé par un fort bourdonne¬ ment et vit un objet ovale, lumineux, s'élevant de son toit. Sa couleur variait du blanc au rouge et il laissa des marques sur le toit de la maison du té¬ moin. (Humanoïds 41) O 693) 3 Septembre 1965 02:00, Exeter (New Hamps- hire) : Un jeune homme et deux officiers de police ob¬ servèrent cinq lumières en formation s"
      },
      {
-      "issue": "B/LDLN__LDLN_No_136.txt",
-      "issue_date": "1974-06",
-      "lag_months": 105,
-      "offset": 125108,
-      "context": "e maison voisine, au même moment, un chien devint ex¬ trêmement effrayé et pendant dix minutes personne ne put le faire sortir de la maison. Réf. : F.S.R. Novembre-décembre 1965. — 28 — 103. Kensingtori, New-Hampshire, U.S.A. — nuit du 3 septembre 1965. Pendant le fameux cas Muscarello (voir Incident at Exeter). Des chiens hurlaient frénétiquement et des chevaux dans une grange ruaient et hennissaient, tan¬ dis qu’un"
-     },
-     {
       "issue": "B/misc__Notiziario_UFO_1974_07-12_No_63-64.txt",
       "issue_date": "1974-07",
       "lag_months": 106,
       "offset": 26554,
       "context": "battito televisivo sui dischi volanti insieme ad auto¬ revoli personalità del mondo scientifico fra cui il dr. MenzeI, celebre astronomo di Har¬ vard e non meno celebre negatore della real¬ tà degli Ufo. Ad un certo momento la discus¬ sione affrontò l’argomento dei clamorosi av¬ vistamenti del settembre 1965 ad Exeter, New Hampshire, con particolare riguardo al¬ l’osservazione testimoniata, fra gli altri, da due agen"
+     },
+     {
+      "issue": "B/LDLN__LDLN_No_136.txt",
+      "issue_date": "1974-07",
+      "lag_months": 106,
+      "offset": 125108,
+      "context": "e maison voisine, au même moment, un chien devint ex¬ trêmement effrayé et pendant dix minutes personne ne put le faire sortir de la maison. Réf. : F.S.R. Novembre-décembre 1965. — 28 — 103. Kensingtori, New-Hampshire, U.S.A. — nuit du 3 septembre 1965. Pendant le fameux cas Muscarello (voir Incident at Exeter). Des chiens hurlaient frénétiquement et des chevaux dans une grange ruaient et hennissaient, tan¬ dis qu’un"
      },
      {
       "issue": "B/misc__Notiziario_UFO_1984_01-02_Vol_18_No_102.txt",
@@ -1721,8 +1721,8 @@
     }
    },
    "B": {
-    "place_hits": 354,
-    "place_issues": 173,
+    "place_hits": 352,
+    "place_issues": 172,
     "strict_issues": 9,
     "recall_only_issues": 28,
     "strict": [
