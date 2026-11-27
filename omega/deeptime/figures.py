@@ -33,6 +33,11 @@ def lab(f):
     return LABEL.get(f, f)
 
 
+FEATS, R = load()
+CAT = [r for r in R if r['cat'] in CATALOGS and not r['natural']]
+NUF = [r for r in R if r['cat'] == 'NUFORC_MODERN']
+NERA = collections.Counter(r['era'] for r in CAT)
+
 # 1 ---------------------------------------------------------------- temporal convergence map
 rows = (['f_celestial', 'f_religious', 'f_martial', 'f_creature', 'f_maritime', 'f_torch', 'f_wheel', 'fireball'] +
         ['f_balloon', 'f_airship', 'f_aircraft', 'f_saucer', 'f_space'] +
@@ -50,7 +55,7 @@ for i in range(len(rows)):
         ax.text(j, i, f'{v:.0f}' if v >= 1 else f'{v:.1f}', ha='center', va='center', fontsize=6.5,
                 color='#ffffff' if Mn[i, j] > 0.6 else INK)
 ax.set_xticks(range(len(eras)))
-ax.set_xticklabels([e.replace(' ', '\n', 1) for e in eras], fontsize=7)
+ax.set_xticklabels([e.replace(' ', '\n', 1) + f'\nn={NERA[e]:,}' for e in eras], fontsize=7)
 ax.set_yticks(range(len(rows)))
 ax.set_yticklabels([lab(f) for f in rows], fontsize=7.5)
 for y in (7.5, 12.5, 19.5):
@@ -97,9 +102,7 @@ fig.savefig(os.path.join(FIG, 'deeptime_ancient_vs_modern.png'), dpi=150)
 plt.close(fig)
 
 # 3 ---------------------------------------------------------------- technology words vs the year the technology appeared
-FEATS, R = load()
-CAT = [r for r in R if r['cat'] in CATALOGS and not r['natural']]
-NUF = [r for r in R if r['cat'] == 'NUFORC_MODERN']
+# balloon (1783) is left out: ~100 catalog records before 1783 and the 1780s hits are balloon-ascent context entries.
 
 
 def series(rs, f, y0, y1, step):
@@ -112,26 +115,28 @@ def series(rs, f, y0, y1, step):
     return xs, [1000 * by[x][1] / by[x][0] for x in xs]
 
 
-panels = [('f_balloon', 1700, 1950, 10), ('f_airship', 1800, 1960, 10), ('f_aircraft', 1850, 2010, 10), ('f_saucer', 1900, 2010, 5),
-          ('f_satellite', 1930, 2024, 5), ('f_drone', 1995, 2024, 1), ('f_starlink', 2005, 2024, 1)]
-fig, axs = plt.subplots(len(panels), 1, figsize=(6.4, 1.45 * len(panels) + 0.6))
-for ax, (f, y0, y1, st) in zip(axs, panels):
+panels = [('f_airship', 1800, 1960, 10, 'C'), ('f_aircraft', 1850, 2010, 10, 'C'), ('f_saucer', 1900, 2010, 5, 'C'),
+          ('f_satellite', 1930, 2024, 5, 'CN'), ('f_drone', 2000, 2023, 1, 'N'), ('f_starlink', 2008, 2023, 1, 'N')]
+fig, axs = plt.subplots(len(panels), 1, figsize=(6.4, 1.5 * len(panels) + 0.6))
+for ax, (f, y0, y1, st, which) in zip(axs, panels):
     t0 = tech['A_tech_frames'][f]['t0']
-    x, y = series(CAT, f, y0, y1, st)
-    ax.plot([v + st / 2 for v in x], y, '-', color=BLUE, lw=2, label='compiled catalogs')
-    if y0 >= 1930:
+    if 'C' in which:
+        x, y = series(CAT, f, y0, y1, st)
+        ax.plot([v + st / 2 for v in x], y, '-', color=BLUE, lw=2, label='compiled catalogs')
+    if 'N' in which:
         x2, y2 = series(NUF, f, max(y0, 1950), y1, st)
         ax.plot([v + st / 2 for v in x2], y2, '-', color=ORANGE, lw=2, label='NUFORC witness reports')
     ax.axvline(t0, color=INK, lw=0.9, ls='--')
-    ax.text(t0, ax.get_ylim()[1] * 0.92, f' {t0}', fontsize=7, color=INK, va='top')
+    ax.text(t0, ax.get_ylim()[1] * 0.95, f' {t0}', fontsize=7, color=INK, va='top')
     ax.set_ylabel('per 1,000', fontsize=7)
-    ax.set_title(f'"{lab(f)}": first public appearance {t0} ({tech["A_tech_frames"][f]["event"].split(";")[0].split("(")[0].strip()})',
-                 loc='left', fontsize=8)
+    src = {'C': 'compiled catalogs', 'N': 'NUFORC witness reports', 'CN': 'both'}[which]
+    ax.set_title(f'"{lab(f)}" ({src}): first public appearance {t0}, '
+                 f'{tech["A_tech_frames"][f]["event"].split(";")[0].split("(")[0].split(",")[0].strip()}', loc='left', fontsize=8)
     ax.grid(axis='y', color=GRID, lw=0.6)
-    for s in ('top', 'right'):
-        ax.spines[s].set_visible(False)
-axs[0].legend(loc='upper left', fontsize=7)
-axs[-2].legend(loc='upper left', fontsize=7)
+    for sp in ('top', 'right'):
+        ax.spines[sp].set_visible(False)
+    if which == 'CN':
+        ax.legend(loc='upper left', fontsize=7)
 fig.suptitle('Technology words in UAP reports switch on when the technology appears', x=0.02, ha='left', fontsize=10)
 fig.tight_layout()
 fig.savefig(os.path.join(FIG, 'deeptime_tech_frames.png'), dpi=150)
