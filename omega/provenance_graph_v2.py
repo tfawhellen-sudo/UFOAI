@@ -198,16 +198,21 @@ def _interpolate(rows):
     months between the nearest anchors (month_known False). Returns key -> date."""
     rows = sorted(rows)
     mon = lambda d: d[0] * 12 + d[1] - 1
-    anc = [(i, mon(r[2])) for i, r in enumerate(rows) if r[2]]
-    good = []
-    for j, (i, v) in enumerate(anc):
-        pv = anc[j - 1][1] if j > 0 else None
-        nv = anc[j + 1][1] if j + 1 < len(anc) else None
-        bad_p = pv is not None and v < pv - 3
-        bad_n = nv is not None and v > nv + 3
-        if (bad_p and (bad_n or nv is None)) or (bad_n and pv is None):
-            continue
-        good.append((i, v))
+    good = [(i, mon(r[2])) for i, r in enumerate(rows) if r[2]]
+    while True:                          # drop outliers until the anchors are consistent
+        keep = []
+        for j, (i, v) in enumerate(good):
+            pv = good[j - 1][1] if j > 0 else None
+            nv = good[j + 1][1] if j + 1 < len(good) else None
+            if pv is not None and nv is not None:
+                bad = (v < pv - 3 and v < nv - 3) or (v > pv + 3 and v > nv + 3)
+            else:
+                bad = abs(v - (pv if pv is not None else nv)) > 24 if (pv is not None or nv is not None) else False
+            if not bad:
+                keep.append((i, v))
+        if len(keep) == len(good):
+            break
+        good = keep
     out = {}
     gi = dict(good)
     for i, r in enumerate(rows):

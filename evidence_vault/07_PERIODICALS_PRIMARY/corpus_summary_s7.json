@@ -1,8 +1,29 @@
 {
  "skipped": {
-  "undated": 111,
+  "undated": 106,
   "no_text": 69,
   "duplicate_of_A": 254
+ },
+ "issues": {
+  "A": 844,
+  "B": 6315
+ },
+ "chars": {
+  "A": 69983283,
+  "B": 537573847
+ },
+ "month_known": {
+  "A": 834,
+  "B": 3275
+ },
+ "series_count_B": 421,
+ "B_by_decade": {
+  "1950": 260,
+  "1960": 676,
+  "1970": 1309,
+  "1980": 1257,
+  "1990": 1683,
+  "2000": 1130
  },
  "series": [
   {
@@ -39,19 +60,19 @@
   },
   {
    "series": "LDLN",
-   "issues": 258,
-   "chars": 34217087,
-   "first": "1958-02",
-   "last": "1989-08",
-   "month_known": 198
+   "issues": 255,
+   "chars": 33745269,
+   "first": "1953-05",
+   "last": "1989-06",
+   "month_known": 171
   },
   {
    "series": "FSR",
-   "issues": 235,
-   "chars": 35138415,
+   "issues": 243,
+   "chars": 36267945,
    "first": "1955-04",
-   "last": "2003-04",
-   "month_known": 205
+   "last": "2003-10",
+   "month_known": 221
   },
   {
    "series": "UFO_Nyt",
