@@ -11,7 +11,7 @@
 7. primary text: Obsequens (191-12 BC, no ufologist in between) vs catalog antiquity
 Writes drift.json.
 """
-import collections, itertools, math, random, sys, os
+import collections, itertools, math, random, re, sys, os
 import numpy as np
 import statsmodels.api as sm
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -104,11 +104,30 @@ def stable(o):
     return o[1] >= 0.5 and o[2] <= 2.0
 
 
+# length-adjusted version: logistic regression per feature, ancient (<1800) vs modern (1947+), with
+# catalog fixed effects and log(words) - ancient entries could simply be shorter and so carry fewer features
+BOTH = [c for c in CATALOGS if any(r['cat'] == c and r['year'] < 1800 for r in UNX) and any(r['cat'] == c and r['year'] >= 1947 for r in UNX)]
+AM = [r for r in UNX if r['cat'] in BOTH and (r['year'] < 1800 or r['year'] >= 1947)]
+Xa = np.array([[1.0, float(r['year'] < 1800), math.log1p(len((r['text'] or '').split()))] + [float(r['cat'] == c) for c in BOTH[1:]]
+               for r in AM])
+ADJ = {}
+for f in FEATS:
+    y = np.array([float(f in r['fs']) for r in AM])
+    if y[Xa[:, 1] == 1].sum() < 3 or y[Xa[:, 1] == 0].sum() < 3:
+        ADJ[f] = (float('nan'),) * 3
+        continue
+    try:
+        m = sm.GLM(y, Xa, family=sm.families.Binomial()).fit()
+        b, se = m.params[1], m.bse[1]
+        ADJ[f] = (math.exp(b), math.exp(b - 1.96 * se), math.exp(b + 1.96 * se))
+    except Exception:
+        ADJ[f] = (float('nan'),) * 3
+out['ancient_vs_modern_adjusted_OR'] = dict(catalogs=BOTH, n_ancient=int(Xa[:, 1].sum()), n_modern=int((1 - Xa[:, 1]).sum()), OR=ADJ)
 out['stable_unexplained'] = [f for f in FEATS if not math.isnan(ORS['unexplained'][f][0]) and stable(ORS['unexplained'][f])]
-print('\nfeature            OR unexpl (95% CI)        OR natural (95% CI)')
+print('\nfeature        MH OR unexpl (95% CI)  length-adj OR unexpl     MH OR natural (95% CI)')
 for f in PHYS + OLD_FRAMES + TECH_FRAMES + ENTITY_F + VOICE_F:
-    u, n = ORS['unexplained'][f], ORS['natural'][f]
-    print(f'{f:14s} {u[0]:7.2f} ({u[1]:.2f}-{u[2]:.2f})   {n[0]:7.2f} ({n[1]:.2f}-{n[2]:.2f})')
+    u, n, a = ORS['unexplained'][f], ORS['natural'][f], ADJ[f]
+    print(f'{f:14s} {u[0]:6.2f} ({u[1]:.2f}-{u[2]:.2f})   {a[0]:6.2f} ({a[1]:.2f}-{a[2]:.2f})   {n[0]:6.2f} ({n[1]:.2f}-{n[2]:.2f})')
 # does the unexplained drift pattern track the mundane drift pattern?
 fs_cmp = [f for f in PHYS + ENTITY_F if f not in NAMING and all(np.isfinite(ORS[c][f][0]) and ORS[c][f][0] > 0 for c in ORS)]
 lu = np.log([ORS['unexplained'][f][0] for f in fs_cmp]); ln = np.log([ORS['natural'][f][0] for f in fs_cmp])
@@ -119,50 +138,74 @@ print('\nlog-OR pattern r(unexplained, natural) =', round(out['drift_pattern_cor
       '| mean |logOR| unexpl', round(float(np.mean(np.abs(lu))), 3), 'natural', round(float(np.mean(np.abs(ln))), 3))
 
 # 4 ---------------------------------------------------------------- era boundaries inside one compiler
+# divergence grows with nothing but sample size if raw n is used, so every era is subsampled to the same n
+# (NB records, 200 draws) and compared with the split-half null at that n.
 DESC = [f for f in PHYS + OLD_FRAMES + TECH_FRAMES + ENTITY_F]
+NB = 40
 bound = {}
 for c in ('HATCH', 'EBERHART', 'OVERMEIRE', 'JOHNSON', 'NICAP', 'RR0'):
     rs = [r for r in UNX if r['cat'] == c]
     by = collections.defaultdict(list)
     for r in rs:
         by[r['era']].append(r)
-    es = [e for e in ERA_NAMES if len(by[e]) >= 30]
+    es = [e for e in ERA_NAMES if len(by[e]) >= NB]
     res = []
     for e1, e2 in zip(es, es[1:]):
-        obs = jsd(prev(by[e1], DESC), prev(by[e2], DESC))
-        # null: split the pooled pair at random into the same sizes, 200 times
-        pool = by[e1] + by[e2]; n1 = len(by[e1]); nul = []
+        obs, nul = [], []
         for _ in range(200):
-            rng.shuffle(pool)
-            nul.append(jsd(prev(pool[:n1], DESC), prev(pool[n1:], DESC)))
-        res.append(dict(pair=[e1, e2], n=[len(by[e1]), len(by[e2])], jsd=obs, null_mean=float(np.mean(nul)),
-                        null_p99=float(np.percentile(nul, 99)), excess=obs / float(np.mean(nul))))
+            a = rng.sample(by[e1], NB); b = rng.sample(by[e2], NB)
+            obs.append(jsd(prev(a, DESC), prev(b, DESC)))
+            pool = a + b; rng.shuffle(pool)
+            nul.append(jsd(prev(pool[:NB], DESC), prev(pool[NB:], DESC)))
+        res.append(dict(pair=[e1, e2], n=[len(by[e1]), len(by[e2])], jsd=float(np.mean(obs)), null_mean=float(np.mean(nul)),
+                        excess=float(np.mean(obs) / np.mean(nul)), p_gt_null=float(np.mean(np.array(obs) > np.percentile(nul, 95)))))
     bound[c] = res
-out['era_boundaries'] = bound
-print('\nadjacent-era divergence / split-half null (x times noise):')
+out['era_boundaries'] = dict(n_per_era=NB, by_catalog=bound)
+print(f'\nadjacent-era divergence at n={NB} per era / split-half null at the same n (x times noise):')
 for c, res in bound.items():
-    print(' ', c, ' | '.join(f"{x['pair'][1].split()[0]}:{x['excess']:.1f}" for x in res))
+    print(' ', c, ' | '.join(f"{x['pair'][0].split()[0]}>{x['pair'][1].split()[0]}:{x['excess']:.2f}" for x in res))
 
 # 5 ---------------------------------------------------------------- compiler effect on the same event
+# Only firm links: same full date (year, month, day all given), different catalogs, word overlap >= 0.2.
+# (Union-find events chain loosely; kappa on those pairs was 0.08, on firm links it is far higher.)
+_W = re.compile(r"[a-z]{4,}")
+_ST = set('that this with from were they their there which when what have been into over then them than also about '
+          'object objects light lights seen saw observed appeared sky witnesses event'.split())
+
+
+def _w(t):
+    return {w for w in _W.findall((t or '').lower()) if w not in _ST}
+
+
 ev = collections.defaultdict(list)
 for r in CAT:
     if r['year'] < 1947:
         ev[r['event']].append(r)
-pairs = [(a, b) for v in ev.values() if len(v) >= 2 for a, b in itertools.combinations(v, 2)]
+byd = collections.defaultdict(list)
+for r in CAT:
+    if r['year'] < 1947 and r['month'] and r['day']:
+        byd[(r['year'], r['month'], r['day'])].append(r)
+pairs = []
+for v in byd.values():
+    for a, b in itertools.combinations(v, 2):
+        if a['cat'] != b['cat']:
+            wa, wb = _w(a['raw']), _w(b['raw'])
+            if len(wa & wb) / max(1, len(wa | wb)) >= 0.2:
+                pairs.append((a, b))
 kap = {}
 for f in DESC + VOICE_F:
+    N = len(pairs)
     n11 = sum(1 for a, b in pairs if f in a['fs'] and f in b['fs'])
     n10 = sum(1 for a, b in pairs if (f in a['fs']) != (f in b['fs']))
-    n00 = len(pairs) - n11 - n10
-    N = len(pairs)
     pa = sum((f in a['fs']) + (f in b['fs']) for a, b in pairs) / (2 * N)
-    po = (n11 + n00) / N
+    po = 1 - n10 / N
     pe = pa * pa + (1 - pa) * (1 - pa)
     kap[f] = dict(any=n11 + n10, both=n11, kappa=(po - pe) / (1 - pe) if pe < 1 else float('nan'))
-out['compiler_agreement'] = dict(n_pairs=len(pairs), n_events=sum(1 for v in ev.values() if len(v) >= 2), per_feature=kap)
-good = [f for f in DESC if kap[f]['any'] >= 30]
-print(f'\nsame-event pairs: {len(pairs)} from {out["compiler_agreement"]["n_events"]} events; median kappa over',
-      len(good), 'features =', round(float(np.median([kap[f]['kappa'] for f in good])), 2))
+out['compiler_agreement'] = dict(n_pairs=len(pairs), catalog_pairs=collections.Counter('|'.join(sorted((a['cat'], b['cat']))) for a, b in pairs),
+                                 per_feature=kap)
+good = [f for f in DESC + VOICE_F if kap[f]['any'] >= 20]
+print(f'\nfirm same-event pairs: {len(pairs)}; median kappa over', len(good), 'features =',
+      round(float(np.median([kap[f]['kappa'] for f in good])), 2))
 print('  ', ', '.join(f"{f}:{kap[f]['kappa']:.2f}" for f in sorted(good, key=lambda f: -kap[f]['kappa'])))
 
 # 6 ---------------------------------------------------------------- LLM paraphrase vs other catalogs, same events
