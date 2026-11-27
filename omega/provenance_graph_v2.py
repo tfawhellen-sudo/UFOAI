@@ -254,6 +254,24 @@ def build_fsr_dates(recs, xd):
             m0 = NAMEDATE.search(t[:300])
             if m0:
                 anchor = (int(m0.group(2)), EN[m0.group(1).lower()[:3]])
+        if anchor is None:
+            # derive from Vol/No where FSR's schedule was regular (read off the
+            # dated covers in this collection): bimonthly vol 1-19 (vol 1 started
+            # Mar-Apr 1955, vol v>=2 No k = month 2k-1 of 1954+v); quarterly from
+            # vol 33 (1988), No k = month 3k of 1955+v. Vol 20-32 ran late and
+            # irregular, so those are left to interpolation.
+            for v in FSR_VOL.finditer(t):
+                vol, no = _ocr_int(v.group(1)), _ocr_int(v.group(2))
+                if not vol or not no:
+                    continue
+                if vol == 1 and 1 <= no <= 6:
+                    anchor = (1955, min(12, 2 * no + 1))
+                elif 2 <= vol <= 19 and 1 <= no <= 6:
+                    anchor = (1954 + vol, 2 * no - 1)
+                elif 33 <= vol <= 60 and 1 <= no <= 4:
+                    anchor = (1955 + vol, 3 * no)
+                if anchor:
+                    break
         rows.append([n, r["file"], anchor])
     FSR_DATES.update(_interpolate(rows))
 
