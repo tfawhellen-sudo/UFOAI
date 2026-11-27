@@ -72,3 +72,14 @@ text as it is, with no OCR correction.
   committed here before coding. The key itself is committed with the results.
 - Masked text, median 399 characters. Masking is regex-only. Some OCR
   variants of month names and source names will survive.
+
+## D7 (2026-11-27, coders started, no output seen).
+The coder instructions are `omega/reports/a1_claim_drift/coder_instructions.md`.
+They expand the protocol §4.2 item labels with inclusion examples and two
+rules the protocol didn't state:
+- An explicitly negated claim scores 0.
+- Item 4 scores 1 only for an elevated or abnormal reading, or radioactivity
+  stated as found. A reading reported as normal scores 0.
+
+Coders are two separate model runs with no shared context. Coder B works
+through the list in reverse order, to break any order effect common to both.
