@@ -59,3 +59,16 @@ for "claim present" in both texts and so neutral between b and c.
 ## D5 (2026-11-27, before A1 coding). OCR quality.
 Bulletin texts are OCR (djvu text layers). Masking and coding operate on the
 text as it is, with no OCR correction.
+
+## D6 (2026-11-27, after building the package, before any coding).
+- Seeds were not in the protocol commit. They are fixed in
+  `omega/a1_claim_drift.py`: `SEED = 4340` drives the item IDs and the shuffle.
+  The calibration set is the 20 events with the lowest sha256(event_id + seed).
+- The package has **240 texts**, not 160: for each of the 80 events, R (full
+  earliest-issue windows), R_SA1 (the 400-character root for D3) and C. All
+  three are shuffled together, so coders can't pair them by position.
+- Key file `key.json`: sha256
+  `48bf6d3c3b8219a73eb190ef679f709e3fbdaa69cd11898dacc03cd28b611190`,
+  committed here before coding. The key itself is committed with the results.
+- Masked text, median 399 characters. Masking is regex-only. Some OCR
+  variants of month names and source names will survive.
