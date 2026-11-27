@@ -2,256 +2,835 @@
  "OMEGA-000474": {
   "verdict": "GENUINE",
   "note": "Luce Fontaine, Plaine des Cafres, 31 Jul 1968, 9 a.m.",
-  "upstream": "LDLN Nov 1968 (FSR says it translates it)"
+  "upstream": "LDLN Nov 1968 (FSR says it translates it)",
+  "cell": "A+B|recall",
+  "kind": [
+   "bulletin"
+  ]
  },
  "OMEGA-000271": {
   "verdict": "GENUINE",
   "note": "Enquête de M. Julien, délégué régional; Thursday 8 Jan 1981 c.17h; witness M. Nicolai; gendarmerie Draguignan sampled, samples to GEPAN",
-  "upstream": "LDLN investigator M. Julien; gendarmerie"
+  "upstream": "LDLN investigator M. Julien; gendarmerie",
+  "cell": "A+B|recall",
+  "kind": [
+   "investigator",
+   "official"
+  ]
  },
  "OMEGA-000046": {
   "verdict": "GENUINE",
   "note": "Police Officer Schirmer, Ashland NE, 2.30 a.m. 3 Dec 1967; hypnotised by the Colorado Project",
-  "upstream": "NICAP UFO Investigator, March 1968"
+  "upstream": "NICAP UFO Investigator, March 1968",
+  "cell": "A+B|recall",
+  "kind": [
+   "bulletin"
+  ]
  },
  "OMEGA-000132": {
   "verdict": "GENUINE",
   "note": "Horace Burns, Fishersville VA, 21 Dec 1964; Dr E.G. Gehman measured radioactivity 30 Dec 1964",
-  "upstream": "Roanoke World News 14 Jan 1965; WOBJ-TV 14 Jan 1965"
+  "upstream": "Roanoke World News 14 Jan 1965; WOBJ-TV 14 Jan 1965",
+  "cell": "A+B|recall",
+  "kind": [
+   "press"
+  ]
  },
  "OMEGA-002435": {
   "verdict": "GENUINE",
   "note": "Everett Clark, 12, Dante TN pasture, dawn 6 Nov 1957, 'imprint' found",
-  "upstream": "Knoxville News-Sentinel 6 Nov 1957 (Carson Brewer)"
+  "upstream": "Knoxville News-Sentinel 6 Nov 1957 (Carson Brewer)",
+  "cell": "A+B|recall",
+  "kind": [
+   "press"
+  ]
  },
  "OMEGA-001607": {
   "verdict": "GENUINE",
   "note": "landing near Jabreilles-les-Bordes, 'fin juillet 1970'; enquiry 21 Mar 1971",
-  "upstream": "investigators Caille, J. Gorce, J.F. Gorce (Cercle LDLN Riom-Clermont)"
+  "upstream": "investigators Caille, J. Gorce, J.F. Gorce (Cercle LDLN Riom-Clermont)",
+  "cell": "A+B|recall",
+  "kind": [
+   "investigator"
+  ]
  },
  "OMEGA-000836": {
   "verdict": "GENUINE",
   "note": "Mme Fourneret, Poncey-sur-l'Ignon (Côte d'Or), 4 Oct 1954, 8 p.m., landing traces",
-  "upstream": "investigator Charles Garreau (CIEO)"
+  "upstream": "investigator Charles Garreau (CIEO)",
+  "cell": "A+B|recall",
+  "kind": [
+   "investigator"
+  ]
  },
  "OMEGA-000459": {
   "verdict": "DATE_CONFLICT",
   "note": "FSR reprints the Boston Record American of 13 Apr 1966: Dorchester UFO over a school 'last night' = 12 Apr 1966; catalogue date is 23 Apr",
-  "upstream": "Record American (Boston) 13 Apr 1966"
+  "upstream": "Record American (Boston) 13 Apr 1966",
+  "cell": "A+B|recall",
+  "kind": [
+   "press"
+  ]
  },
  "OMEGA-001697": {
   "verdict": "GENUINE",
   "note": "17 Sep 1978 c.21h, barber's car stopped at Torrita di Siena, two small beings",
-  "upstream": "Notiziario UFO Dec 1978 / Jan 1979"
+  "upstream": "Notiziario UFO Dec 1978 / Jan 1979",
+  "cell": "A+B|recall",
+  "kind": [
+   "bulletin"
+  ]
  },
  "OMEGA-001653": {
   "verdict": "GENUINE_DAY",
   "note": "Mrs Florida Malboeuf, Montreal, evening of 5 Jan 1977, 15-ft circle of melted snow on a roof; catalogue says 6 Jan",
-  "upstream": "Montreal Sunday Express 9 Jan 1977"
+  "upstream": "Montreal Sunday Express 9 Jan 1977",
+  "cell": "A+B|recall",
+  "kind": [
+   "press"
+  ]
  },
  "OMEGA-001716": {
   "verdict": "GENUINE",
   "note": "Robert Taylor, Dechmont Woods, Friday 9 Nov 1979",
-  "upstream": "Livingston police / FSR investigators"
+  "upstream": "Livingston police / FSR investigators",
+  "cell": "A+B|recall",
+  "kind": [
+   "official",
+   "investigator"
+  ]
  },
  "OMEGA-000929": {
   "verdict": "GENUINE",
   "note": "François and Anne-Marie Delpeuch, Cussac, 10.30 a.m. 29 Aug 1967",
-  "upstream": "Phénomènes Spatiaux June 1968 (Mesnard & Pavy)"
+  "upstream": "Phénomènes Spatiaux June 1968 (Mesnard & Pavy)",
+  "cell": "A+B|recall",
+  "kind": [
+   "bulletin"
+  ]
  },
  "OMEGA-000253": {
   "verdict": "GENUINE",
   "note": "landing 27 Aug 1968 at the Clemente Ferreira sanatorium near Lins, SP",
-  "upstream": ""
+  "upstream": "",
+  "cell": "A+B|recall",
+  "kind": [
+   "none"
+  ]
  },
  "OMEGA-000263": {
   "verdict": "GENUINE",
   "note": "Antoine Séverin, 21, Île de la Réunion, 14 Feb 1975 13:00",
-  "upstream": "press, condensed by I. Tahon"
+  "upstream": "press, condensed by I. Tahon",
+  "cell": "A+B|recall",
+  "kind": [
+   "press"
+  ]
  },
  "OMEGA-004699": {
   "verdict": "GENUINE",
   "note": "Saapunki (Finland) landing; news broke 6 Jan 1971",
-  "upstream": "Helsingin Sanomat ('Oulu (HS)')"
+  "upstream": "Helsingin Sanomat ('Oulu (HS)')",
+  "cell": "A+B|recall",
+  "kind": [
+   "press"
+  ]
  },
  "OMEGA-000017": {
   "verdict": "COINCIDENCE",
   "note": "token is the state 'Colorado'; hit is an Aspen, Colorado Times dateline of 25 Sep 1975 about Oil City PA",
-  "upstream": ""
+  "upstream": "",
+  "cell": "A+B|recall",
+  "kind": []
  },
  "OMEGA-001936": {
   "verdict": "GENUINE",
   "note": "Laulne (Manche), January 1975, boy sees landed saucer on 3 legs",
-  "upstream": "Midi Libre (press)"
+  "upstream": "Midi Libre (press)",
+  "cell": "A+B|recall",
+  "kind": [
+   "press"
+  ]
  },
  "OMEGA-000916": {
   "verdict": "GENUINE",
   "note": "Hilliard, Ohio, evening of 5 Feb 1967, landed egg-shaped craft and beings",
-  "upstream": "NICAP (under investigation); newspaper reports"
+  "upstream": "NICAP (under investigation); newspaper reports",
+  "cell": "A+B|recall",
+  "kind": [
+   "bulletin",
+   "press"
+  ]
  },
  "OMEGA-004437": {
   "verdict": "GENUINE",
   "note": "Wardle, Friday 15 Feb 1957 10 p.m., object near Birch Hill",
-  "upstream": "Rochdale Observer 23 Feb 1957"
+  "upstream": "Rochdale Observer 23 Feb 1957",
+  "cell": "A+B|recall",
+  "kind": [
+   "press"
+  ]
  },
  "OMEGA-020132": {
   "verdict": "COINCIDENCE",
   "note": "'York' matched 'State University of New York at Albany'",
-  "upstream": ""
+  "upstream": "",
+  "cell": "A+B|recall",
+  "kind": []
  },
  "OMEGA-003919": {
   "verdict": "GENUINE",
   "note": "18/5/1964 Hubbard, Oregon: Mike Bizon, 10, silver object in wheat field",
-  "upstream": ""
+  "upstream": "",
+  "cell": "A+B|recall",
+  "kind": [
+   "none"
+  ]
  },
  "OMEGA-003238": {
   "verdict": "GENUINE",
   "note": "Mme X, Dannes (Pas-de-Calais), Whit Sunday 30 May 1971 14:05",
-  "upstream": "investigator R. Bazin (CEPS)"
+  "upstream": "investigator R. Bazin (CEPS)",
+  "cell": "A+B|recall",
+  "kind": [
+   "investigator"
+  ]
  },
  "OMEGA-022243": {
   "verdict": "GENUINE",
   "note": "San Luis, Argentina, Aug 30 (OCR '76' in a 1978 clipping); rally drivers' sighting",
-  "upstream": "Crónica (Buenos Aires) 27 Sep 1978"
+  "upstream": "Crónica (Buenos Aires) 27 Sep 1978",
+  "cell": "A+B|recall",
+  "kind": [
+   "press"
+  ]
  },
  "OMEGA-007664": {
   "verdict": "GENUINE",
   "note": "Adolfo Zerate, 74, Torriente (Cuba), Sunday 15 Oct 1995 21:30, landing and beings",
-  "upstream": "Cuban government statement; CNN"
+  "upstream": "Cuban government statement; CNN",
+  "cell": "A+B|recall",
+  "kind": [
+   "official",
+   "press"
+  ]
  },
  "OMEGA-019993": {
   "verdict": "GENUINE",
   "note": "La Longueville (Nord), Tuesday 25 Jan 1972 c.22:45",
-  "upstream": "LDLN investigators"
+  "upstream": "LDLN investigators",
+  "cell": "A+B|recall",
+  "kind": [
+   "investigator"
+  ]
  },
  "OMEGA-020682": {
   "verdict": "GENUINE",
   "note": "Daniel Botton, Salvetat; source says 'fin novembre 1973, date exacte imprécise': the catalogue's exact day is not in the primary",
-  "upstream": "investigator Roger Gayral"
+  "upstream": "investigator Roger Gayral",
+  "cell": "A+B|recall",
+  "kind": [
+   "investigator"
+  ]
  },
  "OMEGA-021239": {
   "verdict": "GENUINE",
   "note": "Antioch CA, 27 Mar 1975, depression in field, tree limbs missing",
-  "upstream": "Antioch Daily Ledger 29 Mar 1975 (Ben Reed)"
+  "upstream": "Antioch Daily Ledger 29 Mar 1975 (Ben Reed)",
+  "cell": "A+B|recall",
+  "kind": [
+   "press"
+  ]
  },
  "OMEGA-004811": {
   "verdict": "DATE_CONFLICT",
   "note": "Awareness: 27 Jan 1977 16.45, Bridlington woodyard, machinery failed, watches stopped; catalogue date 21 Jan",
-  "upstream": "Northern UFO News 35-36 (1977) pp.8-9"
+  "upstream": "Northern UFO News 35-36 (1977) pp.8-9",
+  "cell": "A+B|recall",
+  "kind": [
+   "bulletin"
+  ]
  },
  "OMEGA-019780": {
   "verdict": "GENUINE",
   "note": "two girls, Portneuf county (Québec), night of 27-28 Aug 1970, landing",
-  "upstream": "correspondent C. Mac Duff"
+  "upstream": "correspondent C. Mac Duff",
+  "cell": "A+B|recall",
+  "kind": [
+   "investigator"
+  ]
  },
  "OMEGA-019827": {
   "verdict": "GENUINE",
   "note": "Newbury, morning of 7 Dec 1970, 20-ft grey disc in a field",
-  "upstream": "Newbury Weekly News, 19 Aug [1971]"
+  "upstream": "Newbury Weekly News, 19 Aug [1971]",
+  "cell": "A+B|recall",
+  "kind": [
+   "press"
+  ]
  },
  "OMEGA-020892": {
   "verdict": "GENUINE",
   "note": "Maximiliano Iglesias, 21, near Valdehijaderos (Spain), landed plate, two beings; source says 'no exact date'",
-  "upstream": "APRO Bulletin Mar-Apr 1974 v22 n5; El Correo"
+  "upstream": "APRO Bulletin Mar-Apr 1974 v22 n5; El Correo",
+  "cell": "A+B|recall",
+  "kind": [
+   "bulletin",
+   "press"
+  ]
  },
  "OMEGA-024382": {
   "verdict": "PLAUSIBLE",
   "note": "heifer mutilated 'in August' near Mount Sterling, Cache County (Logan)",
-  "upstream": "Herald Journal (Logan UT) 15 Nov 1993"
+  "upstream": "Herald Journal (Logan UT) 15 Nov 1993",
+  "cell": "A+B|recall",
+  "kind": [
+   "press"
+  ]
  },
  "OMEGA-001805": {
   "verdict": "GENUINE",
   "note": "titanium miners John Q. Blade and John Van Allen, Brush Creek CA, 20 Jun 1953",
-  "upstream": "local sheriff's office"
+  "upstream": "local sheriff's office",
+  "cell": "A+B|recall",
+  "kind": [
+   "official"
+  ]
  },
  "OMEGA-000966": {
   "verdict": "COINCIDENCE",
   "note": "token 'Union' matched 'l'Union des Groupements...'",
-  "upstream": ""
+  "upstream": "",
+  "cell": "A+B|recall",
+  "kind": []
  },
  "OMEGA-001959": {
   "verdict": "GENUINE",
   "note": "Case 36, 5 Jul 1980 23:50, Lake Navsjön near Navekvarn, three anglers",
-  "upstream": "UFO-Nyköping investigation"
+  "upstream": "UFO-Nyköping investigation",
+  "cell": "A+B|recall",
+  "kind": [
+   "investigator"
+  ]
  },
  "OMEGA-018091": {
   "verdict": "GENUINE_DAY",
   "note": "Diamantina: 12-year-old son witnessed his father taken by a saucer; UFO Nyt gives 12 Aug 1962, catalogue 19 Aug",
-  "upstream": "Walter Buhler (Brazil); police lieutenant's telegram"
+  "upstream": "Walter Buhler (Brazil); police lieutenant's telegram",
+  "cell": "A+B|recall",
+  "kind": [
+   "investigator",
+   "official"
+  ]
  },
  "OMEGA-018700": {
   "verdict": "COINCIDENCE",
   "note": "back-numbers advert: 'Saucers over Southampton', FSR Jan/Feb 1964",
-  "upstream": ""
+  "upstream": "",
+  "cell": "A+B|recall",
+  "kind": []
  },
  "OMEGA-020156": {
   "verdict": "GENUINE",
   "note": "Gilberto Gregorio Coccioli, Burzaco (Buenos Aires), 4-10-72; interview taped 14-10-1972",
-  "upstream": "Servicio Argentino de Investigaciones Extraterrestres (SAIE), taped interview 14 Oct 1972"
+  "upstream": "Servicio Argentino de Investigaciones Extraterrestres (SAIE), taped interview 14 Oct 1972",
+  "cell": "A+B|recall",
+  "kind": [
+   "investigator"
+  ]
  },
  "OMEGA-020157": {
   "verdict": "GENUINE",
   "note": "Mrs R. Rennie, Colwood BC, early morning 5 Oct 1972",
-  "upstream": ""
+  "upstream": "",
+  "cell": "A+B|recall",
+  "kind": [
+   "none"
+  ]
  },
  "OMEGA-020189": {
   "verdict": "COINCIDENCE",
   "note": "'Anderson' is witness John A. Anderson, Superior MT, 19 Nov 1972",
-  "upstream": ""
+  "upstream": "",
+  "cell": "A+B|recall",
+  "kind": []
  },
  "OMEGA-020443": {
   "verdict": "GENUINE",
   "note": "Gosselin family, Outreau, 10 Sep 1973 20:45, red sphere",
-  "upstream": "LDLN investigators (M. Monnerie)"
+  "upstream": "LDLN investigators (M. Monnerie)",
+  "cell": "A+B|recall",
+  "kind": [
+   "investigator"
+  ]
  },
  "OMEGA-020645": {
   "verdict": "COINCIDENCE",
   "note": "'Uden' matched the Danish word 'uden' (without)",
-  "upstream": ""
+  "upstream": "",
+  "cell": "A+B|recall",
+  "kind": []
  },
  "OMEGA-020727": {
   "verdict": "GENUINE",
   "note": "pupil Zoran Tomac near Podvinje (Slavonia), Thursday [20 Dec 1973?] 15:30",
-  "upstream": "Vecernji List 24-12-1973 p.3"
+  "upstream": "Vecernji List 24-12-1973 p.3",
+  "cell": "A+B|recall",
+  "kind": [
+   "press"
+  ]
  },
  "OMEGA-021925": {
   "verdict": "PLAUSIBLE",
   "note": "'Etres étranges à Almonaster la Réal (Espagne)'; press note of 10 Aug 1977; event day not checked",
-  "upstream": "Spanish press 10 Aug 1977; radio 'No estamos solos' 14 Aug 1977"
+  "upstream": "Spanish press 10 Aug 1977; radio 'No estamos solos' 14 Aug 1977",
+  "cell": "A+B|recall",
+  "kind": [
+   "press"
+  ]
  },
  "OMEGA-022291": {
   "verdict": "COINCIDENCE",
   "note": "'Dayton' is the 1978 MUFON Symposium city",
-  "upstream": ""
+  "upstream": "",
+  "cell": "A+B|recall",
+  "kind": []
  },
  "OMEGA-018489": {
   "verdict": "COINCIDENCE",
   "note": "FSR's Exeter is the 3 Sep 1965 New Hampshire case; the month hit is a Sunday Telegraph date (3 Oct 1965)",
-  "upstream": ""
+  "upstream": "",
+  "cell": "A+B|recall",
+  "kind": []
  },
  "OMEGA-020945": {
   "verdict": "DATE_CONFLICT",
   "note": "Inforespace 21 tabulates the Charleroi-area wave of 20-21 Apr 1974 incl. Gosselies; catalogue date 24 Apr",
-  "upstream": ""
+  "upstream": "",
+  "cell": "A+B|recall",
+  "kind": []
  },
  "OMEGA-022133": {
   "verdict": "PLAUSIBLE",
   "note": "mysterious pit at the Sherlock residence, Fremont NY; OCR gives 'March .11' (catalogue 31 Mar)",
-  "upstream": "Post-Standard (Syracuse) 10 Apr 1978"
+  "upstream": "Post-Standard (Syracuse) 10 Apr 1978",
+  "cell": "A+B|recall",
+  "kind": [
+   "press"
+  ]
  },
  "OMEGA-024174": {
   "verdict": "GENUINE",
   "note": "rancher Manuel Sanchez, Chama CO, pregnant cow found mutilated, 24 Nov 1992",
-  "upstream": "Valley Courier 25 Nov 1992; Costilla County Sheriff"
+  "upstream": "Valley Courier 25 Nov 1992; Costilla County Sheriff",
+  "cell": "A+B|recall",
+  "kind": [
+   "press",
+   "official"
+  ]
  },
  "OMEGA-024844": {
   "verdict": "GENUINE",
   "note": "Karen Conlon, 31, Runcorn, evening of Monday 27 Feb 1995: machine descended and sucked up water from the Mersey",
-  "upstream": "The World (Widnes newspaper) 2 Mar 1995; Runcorn/Widnes Weekly News Mar 1995"
+  "upstream": "The World (Widnes newspaper) 2 Mar 1995; Runcorn/Widnes Weekly News Mar 1995",
+  "cell": "A+B|recall",
+  "kind": [
+   "press"
+  ]
  },
  "OMEGA-019718": {
   "verdict": "GENUINE",
   "note": "Max Krauss, 65, road from Aufhofen to Langenschemmern (Kreis Biberach), 9 Apr 1970 c.4 p.m.; FSR 103 is Vol 18 No 4 = Jul/Aug 1972, so the edge is 27 months, LATE not ROOTED, once dated by Vol/No",
-  "upstream": "investigator Hubert Malthaner (Munich), texts dated March 1972"
+  "upstream": "investigator Hubert Malthaner (Munich), texts dated March 1972",
+  "cell": "A+B|recall",
+  "kind": [
+   "investigator"
+  ]
+ },
+ "OMEGA-000074": {
+  "verdict": "GENUINE",
+  "note": "Patrolman Lonnie Zamora, Socorro NM police, 6.50 p.m. Friday 24 Apr 1964",
+  "upstream": "APRO investigation (day-by-day account)",
+  "kind": [
+   "investigator"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-000259": {
+  "verdict": "GENUINE",
+  "note": "three-witness landing near Delphos, Kansas, 2 Nov 1971; soil and control samples sent to two geochemists",
+  "upstream": "APRO investigation",
+  "kind": [
+   "investigator"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-000230": {
+  "verdict": "GENUINE",
+  "note": "Joe Simonton, 60, chicken farmer, Eagle River WI, 11 a.m. 18 Apr 1961",
+  "upstream": "",
+  "kind": [
+   "none"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-000075": {
+  "verdict": "GENUINE",
+  "note": "Harold Butcher, 16, father's dairy farm, Cherry Creek NY, c.8.20 p.m. 19 Aug 1965",
+  "upstream": "",
+  "kind": [
+   "none"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-000138": {
+  "verdict": "GENUINE",
+  "note": "Steve Michalak, burned in a landing near Falcon Lake, Manitoba, c.12 noon 20 May 1967",
+  "upstream": "",
+  "kind": [
+   "none"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-000227": {
+  "verdict": "GENUINE",
+  "note": "15-year-old boy, saucer landing in a corn-stubble field near Galt, Ontario, Tuesday 30 Jul 1957; 30-ft circle",
+  "upstream": "Toronto Telegram; Toronto Daily Star",
+  "kind": [
+   "press"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-000970": {
+  "verdict": "COINCIDENCE",
+  "note": "the catalogue's London is London, Ontario; the hit is a BUFORA conference at the University of London (UK)",
+  "upstream": "",
+  "kind": [],
+  "cell": "A|strict"
+ },
+ "OMEGA-001636": {
+  "verdict": "GENUINE",
+  "note": "dated case list: 10 Feb 1975 19:00, Annadale NY, glowing orange light, thin trees broken and charred",
+  "upstream": "",
+  "kind": [
+   "none"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-004772": {
+  "verdict": "GENUINE",
+  "note": "dated case list: 2 Nov 1975 21:30, Medford MN, orange-red light descending",
+  "upstream": "",
+  "kind": [
+   "none"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-000968": {
+  "verdict": "GENUINE",
+  "note": "George O'Barski, North Hudson Park, North Bergen NJ, 'January 1975'; holes in the ground",
+  "upstream": "",
+  "kind": [
+   "none"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-000494": {
+  "verdict": "GENUINE",
+  "note": "mass sighting, Morenci AZ, evening of 23 Oct 1980",
+  "upstream": "",
+  "kind": [
+   "none"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-000236": {
+  "verdict": "GENUINE",
+  "note": "Maurice Masse, 41, lavender field outside Valensole, 5 a.m. 1 Jul 1965",
+  "upstream": "",
+  "kind": [
+   "none"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-001520": {
+  "verdict": "GENUINE_DAY",
+  "note": "farmer Roy Blanchard's crater at Charlton; APRO gives 20 Jul 1963 and 'Dorset', the catalogue 16 Jul and Wiltshire",
+  "upstream": "world press coverage",
+  "kind": [
+   "press"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-000270": {
+  "verdict": "GENUINE",
+  "note": "CE-II, 1 a.m. 30 Sep 1980, Rosedale, Victoria (Australia), farmhand-caretaker, 45 minutes",
+  "upstream": "foreign investigation reported to CUFOS",
+  "kind": [
+   "investigator"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-001513": {
+  "verdict": "PLAUSIBLE",
+  "note": "APRO reports an Argentine wave of 12-25 May 1962 incl. Bahia Blanca (Miguel Thome's photos); the catalogue's Jacinto Arauz trace and vegetation analysis are not in the issue",
+  "upstream": "Argentine Navy and military aviation enquiries",
+  "kind": [
+   "official"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-000486": {
+  "verdict": "GENUINE",
+  "note": "Belmont family sighting near Louisville, 10.30 p.m. 26 Jan 1977, and the Prospect KY abduction (Parrish case) the same night; interviewed 2 Feb 1977",
+  "upstream": "investigators Burt L. Monroe Jr (Univ. of Louisville), Don Elkins",
+  "kind": [
+   "investigator"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-000045": {
+  "verdict": "GENUINE",
+  "note": "Betty and Barney Hill, a Portsmouth couple, US Route 3, night of 19-20 Sep 1961",
+  "upstream": "interviewed 21 Oct 1961 by Walter N. Webb (Hayden Planetarium)",
+  "kind": [
+   "investigator"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-000470": {
+  "verdict": "GENUINE_DAY",
+  "note": "Dr Luis Sanchez Vega, Caracas, visited by a small being on 7 Aug 1967; catalogue says 3 Aug",
+  "upstream": "Venezuelan press ('leaked out to the press')",
+  "kind": [
+   "press"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-000846": {
+  "verdict": "GENUINE",
+  "note": "Gustavo Gonzales and Jose Ponce, Petare, 2 a.m. 28 Nov 1954; the issue's masthead says 15 Nov 1954, so it appeared late",
+  "upstream": "letters from Mr Gonzales and Mr Rolas of Caracas",
+  "kind": [
+   "investigator"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-000881": {
+  "verdict": "GENUINE",
+  "note": "three boys, Oradell NJ reservoir, 7.55 p.m. Saturday 15 Sep 1962",
+  "upstream": "",
+  "kind": [
+   "none"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-000989": {
+  "verdict": "GENUINE",
+  "note": "Zanfretta abduction, Torriglia, 6 Dec 1978; regression 23 Dec",
+  "upstream": "Massimo Greco",
+  "kind": [
+   "investigator"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-007418": {
+  "verdict": "GENUINE",
+  "note": "dark circle on pasture ice, horse farm near Dundee OH, 7.30 a.m. 20 Mar 1992 (MUFON log 921203E)",
+  "upstream": "investigators Ted Spickler, Greg Knight; sheriff",
+  "kind": [
+   "investigator",
+   "official"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-001524": {
+  "verdict": "GENUINE",
+  "note": "Rute de Souza, 8, near Iguape (Brazil), 31 Oct 1963",
+  "upstream": "",
+  "kind": [
+   "none"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-018897": {
+  "verdict": "GENUINE",
+  "note": "Richardson and Quay, collision with an object near Maumee OH, July 1967; Maumee police and State Highway Patrol",
+  "upstream": "Maumee police; Ohio State Highway Patrol",
+  "kind": [
+   "official"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-003493": {
+  "verdict": "GENUINE",
+  "note": "two men on Route 53 near Romeoville IL, c.9.30 p.m. 15 Jun 1982",
+  "upstream": "",
+  "kind": [
+   "none"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-001703": {
+  "verdict": "GENUINE",
+  "note": "CUFOS case 3-22-119, 7 a.m. 8 Oct 1978, Marlett Sturgell farm, Jenkins MO, six witnesses",
+  "upstream": "CUFOS investigation",
+  "kind": [
+   "investigator"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-001933": {
+  "verdict": "GENUINE",
+  "note": "swimmer at Hampton Beach NH, midnight Monday 20 May 1974, landed disc",
+  "upstream": "",
+  "kind": [
+   "none"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-002611": {
+  "verdict": "GENUINE",
+  "note": "dated case list: 12 May 1975 23:30, Peesane, Sask., 5-ft circle",
+  "upstream": "",
+  "kind": [
+   "none"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-004816": {
+  "verdict": "GENUINE",
+  "note": "Slavka Gorsek, 26, Gaberke near Sostanj, 8.40 p.m. Feb 1977, landing traces",
+  "upstream": "UFO section of the SOLT Union, Ljubljana",
+  "kind": [
+   "investigator"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-001075": {
+  "verdict": "GENUINE",
+  "note": "'Megan Elliott' (pseudonym), night drive in East Texas, 21 Aug 1980, regression hypnosis",
+  "upstream": "MUFON investigators Jennie Willis, Jean Fuller; Lew Willis",
+  "kind": [
+   "investigator"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-001964": {
+  "verdict": "GENUINE",
+  "note": "Robert Gomez, vacuum truck driver, FR 665 toward Alice TX, 12 Jun 1981, vehicle effects",
+  "upstream": "Mr Hill's investigation reports to MUFON",
+  "kind": [
+   "investigator"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-021736": {
+  "verdict": "GENUINE",
+  "note": "about 10 people, Kolsva (central Sweden), 4.15 p.m. 14 Nov 1976",
+  "upstream": "",
+  "kind": [
+   "none"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-021960": {
+  "verdict": "DATE_CONFLICT",
+  "note": "the Paciencia (Brazil) abduction the issue names is dated 30 Sep 1977 (Case 54, probably La Rubia); catalogue date 15 Sep",
+  "upstream": "",
+  "kind": [],
+  "cell": "A|strict"
+ },
+ "OMEGA-022981": {
+  "verdict": "GENUINE",
+  "note": "Julio Platner, farm worker, Winifreda (Argentina), 7 Aug 1983, possible abduction",
+  "upstream": "La Reforma (Buenos Aires)",
+  "kind": [
+   "press"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-002589": {
+  "verdict": "GENUINE",
+  "note": "'Goffstown, N.H., the scene of two important humanoid reports in early November, 1973'",
+  "upstream": "",
+  "kind": [
+   "none"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-003285": {
+  "verdict": "GENUINE",
+  "note": "dated case list: 13 Dec 1973, Bradenton FL, low UFO, car damaged by dropped material",
+  "upstream": "",
+  "kind": [
+   "none"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-018946": {
+  "verdict": "GENUINE",
+  "note": "'Snippy', the Lewis family's Appaloosa, ranch 20 miles NE of Alamosa CO, Sep 1967",
+  "upstream": "wire press",
+  "kind": [
+   "press"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-020721": {
+  "verdict": "GENUINE",
+  "note": "investigator credit list: Idabel Epperson, San Ardo CA, 14 Dec 1973",
+  "upstream": "investigator Idabel Epperson",
+  "kind": [
+   "investigator"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-022277": {
+  "verdict": "GENUINE",
+  "note": "humanoids in the Groendal Reserve near Uitenhage; investigator arrived 25 Oct 1978",
+  "upstream": "Port Elizabeth Week-End Post; Uitenhage police",
+  "kind": [
+   "press",
+   "official"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-022935": {
+  "verdict": "GENUINE",
+  "note": "Joao Valerio da Silva, Botucatu SP, c.1.50 a.m. 29 Nov 1982",
+  "upstream": "reporter Dr Luciano Stancka e Silva",
+  "kind": [
+   "investigator"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-023888": {
+  "verdict": "GENUINE",
+  "note": "delivery truck driver's backyard abduction claim, Centerville IN, night of 8 Jun 1991",
+  "upstream": "investigator Don Worley; law enforcement",
+  "kind": [
+   "investigator",
+   "official"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-024546": {
+  "verdict": "GENUINE",
+  "note": "two witnesses on SR 375, Rachel NV, 19 May 1994 (MUFON log 941110B)",
+  "upstream": "MUFON field investigator Cinde Costello",
+  "kind": [
+   "investigator"
+  ],
+  "cell": "A|strict"
+ },
+ "OMEGA-007289": {
+  "verdict": "GENUINE_DAY",
+  "note": "Voronezh city park landing; the issue gives 6.30 p.m. 27 Sep 1989, the catalogue 21 Sep",
+  "upstream": "TASS releases of 9-10 Oct 1989; Sovetskaya Kultura",
+  "kind": [
+   "press"
+  ],
+  "cell": "A|strict"
  }
 }
