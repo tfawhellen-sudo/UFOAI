@@ -1,0 +1,61 @@
+uid,link_uid,link_type,dt_days,km
+RU_CH#0060,Hatch_UDB_1302,hatch:date±1(no geo),0,
+RU_CH#0061,Hatch_UDB_1383,hatch:date±1&<=800km,0,142.0
+RU_CH#0078,Hatch_UDB_7079,hatch:date±1(no geo),0,
+RU_CH#0089,Hatch_UDB_8317,hatch:date±1&<=800km,-1,606.2
+RU_CH#0089,Hatch_UDB_8321,hatch:date±1&<=800km,0,33.5
+RU_CH#0091,Hatch_UDB_8396,hatch:date±1&<=800km,0,27.5
+RU_CH#0093,Hatch_UDB_8537,hatch:date±1(no geo),0,
+RU_CH#0095,Hatch_UDB_8562,hatch:date±1(no geo),-1,
+RU_CH#0095,Hatch_UDB_8566,hatch:date±1(no geo),0,
+RU_CH#0100,Hatch_UDB_8852,hatch:date±1(no geo),1,
+RU_CH#0142,Hatch_UDB_12803,hatch:date±1(no geo),0,
+RU_CH#0143,Hatch_UDB_12803,hatch:date±1&<=800km,0,12.3
+RU_CH#0144,Hatch_UDB_12803,hatch:date±1&<=800km,0,12.3
+RU_CH#0145,Hatch_UDB_12803,hatch:date±1&<=800km,0,12.3
+RU_CH#0167,Hatch_UDB_13067,hatch:date±1&<=800km,0,3.2
+RU_CH#0198,Hatch_UDB_13279,hatch:date±1(no geo),-1,
+RU_CH#0207,Hatch_UDB_13368,hatch:date±1&<=800km,0,300.8
+RU_CH#0301,Hatch_UDB_15236,hatch:date±1&<=800km,0,2.8
+RU_CH#0307,Hatch_UDB_15295,hatch:date±1&<=800km,0,27.6
+RU_CH#0309,Hatch_UDB_15303,hatch:date±1&<=800km,-1,430.0
+RU_CH#0315,Hatch_UDB_15342,hatch:date±1&<=800km,1,726.4
+RU_CH#0316,Hatch_UDB_15342,hatch:date±1(no geo),0,
+RU_CH#0317,Hatch_UDB_15342,hatch:date±1&<=800km,-1,715.7
+RU_CH#0319,Hatch_UDB_15347,hatch:date±1&<=800km,0,11.9
+RU_CH#0319,Hatch_UDB_15348,hatch:date±1&<=800km,0,12.4
+RU_CH#0319,Hatch_UDB_15349,hatch:date±1&<=800km,1,15.4
+RU_CH#0321,Hatch_UDB_15351,hatch:date±1(no geo),-1,
+RU_CH#0344,Hatch_UDB_15455,hatch:date±1(no geo),1,
+RU_CH#0374,Hatch_UDB_15508,hatch:date±1(no geo),-1,
+RU_CH#0380,Hatch_UDB_15518,hatch:date±1&<=800km,0,612.0
+RU_CH#0399,Hatch_UDB_15570,hatch:date±1(no geo),-1,
+RU_CH#0399,Hatch_UDB_15571,hatch:date±1(no geo),-1,
+RU_CH#0399,Hatch_UDB_15572,hatch:date±1(no geo),0,
+RU_CH#0400,Hatch_UDB_15573,hatch:date±1&<=800km,-1,774.5
+RU_CH#0402,Hatch_UDB_15582,hatch:date±1(no geo),1,
+RU_CH#0416,Hatch_UDB_15629,hatch:date±1&<=800km,1,623.2
+RU_CH#0419,Hatch_UDB_15637,hatch:date±1(no geo),-1,
+RU_CH#0421,Hatch_UDB_15637,hatch:date±1(no geo),-1,
+RU_CH#0422,Hatch_UDB_15653,hatch:date±1&<=800km,0,4.7
+RU_CH#0428,Hatch_UDB_15667,hatch:date±1&<=800km,0,199.5
+RU_CH#0428,Hatch_UDB_15668,hatch:date±1&<=800km,0,3.1
+RU_CH#0455,Hatch_UDB_15911,hatch:date±1(no geo),0,
+RU_CH#0487,Hatch_UDB_17089,hatch:date±1&<=800km,0,1.4
+PLATOV2000#01,Hatch_UDB_12803,hatch:date±1&<=3000km,0,4.6
+PLATOV2000#01,RU_CH#0142,ru_ch:date±1,0,
+PLATOV2000#01,RU_CH#0143,ru_ch:date±1,0,
+PLATOV2000#01,RU_CH#0144,ru_ch:date±1,0,
+PLATOV2000#01,RU_CH#0145,ru_ch:date±1,0,
+PLATOV2000#02,Hatch_UDB_13939,hatch:date±1(no geo),0,
+PLATOV2000#02,Hatch_UDB_13940,hatch:date±1(no geo),1,
+JPRS77236#01,Hatch_UDB_13393,hatch:date±1 (CN),0,
+JPRS77236#02,Hatch_UDB_12327,hatch:date±1 (CN),0,
+JPRS77236#02,Hatch_UDB_12328,hatch:date±1 (CN),0,
+JPRS77236#03,Hatch_UDB_13745,hatch:date±1 (CN),0,
+JPRS77236#03,Hatch_UDB_13746,hatch:date±1 (CN),0,
+JPRS77236#04,Hatch_UDB_13745,hatch:date±1 (CN),0,
+JPRS77236#04,Hatch_UDB_13746,hatch:date±1 (CN),0,
+JPRS77236#05,Hatch_UDB_13354,hatch:date±1 (CN),0,
+JPRS77236#06,Hatch_UDB_12719,hatch:date±1 (CN),0,
+JPRS77236#06,Hatch_UDB_12720,hatch:date±1 (CN),0,

@@ -435,13 +435,9 @@ def t3b_primary_shape(ru, hatch, nuforc, reps=5000):
     return out
 
 
-def t4_nuclear(ru, hatch):
-    """Time-aware nuclear proximity. A reactor counts from its construction-start year, a test
-    site from its first test, a weapons/nuclear-science city from 1946. For each report i of year
-    y_i the null probability p_i is the population-weighted share of Natural Earth places (same
-    country group) lying within R km of a site existing in y_i. Observed count k is compared with
-    the Poisson-binomial sum of p_i (Monte Carlo). Primary radius R = 30 km, as in GEIPAN Phase 2."""
-    places = C.load_places()
+def nuclear_sites():
+    """Time-aware SU/CN nuclear sites: reactors from construction-start year, test sites from the
+    first test there, weapons/nuclear-science cities (Natural Earth matches only) from 1946."""
     reactors = C.load_reactors()
     tests = C.load_tests()
     idx = C.ru_index()
@@ -467,6 +463,17 @@ def t4_nuclear(ru, hatch):
     for (g, la, lo), y in first.items():
         sites[g].append(dict(name="test", lat=la, lon=lo, year=y, kind="test"))
     sites["SU"] += weapons
+    return sites, weapons
+
+
+def t4_nuclear(ru, hatch):
+    """Time-aware nuclear proximity. A reactor counts from its construction-start year, a test
+    site from its first test, a weapons/nuclear-science city from 1946. For each report i of year
+    y_i the null probability p_i is the population-weighted share of Natural Earth places (same
+    country group) lying within R km of a site existing in y_i. Observed count k is compared with
+    the Poisson-binomial sum of p_i (Monte Carlo). Primary radius R = 30 km, as in GEIPAN Phase 2."""
+    places = C.load_places()
+    sites, weapons = nuclear_sites()
     pools = {"SU": [p for p in places if p["iso2"] in C.SU_ISO2], "CN": [p for p in places if p["iso2"] == "CN"]}
     rng = np.random.default_rng(20261127)
     res = {"n_sites": {g: collections.Counter(x["kind"] for x in v) for g, v in sites.items()},

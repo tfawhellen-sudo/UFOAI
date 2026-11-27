@@ -1,0 +1,303 @@
+{
+ "events": {
+  "RU_CH": 624,
+  "PLATOV2000": 10,
+  "JPRS77236": 6
+ },
+ "ru_su_with_english": 419,
+ "links": 60,
+ "flags": {
+  "parser_merge": 27,
+  "compiler_witness": 9,
+  "duplicate_of": 6,
+  "aircrew": 48,
+  "radar": 22,
+  "cosmonaut_word": 9
+ },
+ "platov": [
+  [
+   "PLATOV2000#01",
+   "1977-09-20",
+   "ally the same time | SATCAT: 1977-09-20 SU_PLESETSK 1977-091",
+   1
+  ],
+  [
+   "PLATOV2000#02",
+   "1980-06-14",
+   "1188 from Plesetsk | SATCAT: 1980-06-14 SU_PLESETSK 1980-050",
+   2
+  ],
+  [
+   "PLATOV2000#03",
+   "1981-05-15",
+   "Meteor-2 satellite | SATCAT: 1981-05-14 SU_PLESETSK 1981-043",
+   0
+  ],
+  [
+   "PLATOV2000#04",
+   "1982-08-28",
+   "a as MOLNIYA 3-19) | SATCAT: 1982-08-27 SU_PLESETSK 1982-083",
+   0
+  ],
+  [
+   "PLATOV2000#05",
+   "1984-07-03",
+   "aunch: Kosmos-1581 | SATCAT: 1984-07-03 SU_PLESETSK 1984-071",
+   0
+  ],
+  [
+   "PLATOV2000#06",
+   "1982-06-03",
+   "the nearby weather station (last telemetered altitude 16 km)",
+   0
+  ],
+  [
+   "PLATOV2000#07",
+   "1982-09-13",
+   "balloon (telemetry failed at launch)",
+   0
+  ],
+  [
+   "PLATOV2000#08",
+   "1983-10-05",
+   "t ~10 km over a 26th Air Army range in Polesye, ~400 km away",
+   0
+  ],
+  [
+   "PLATOV2000#09",
+   "1984",
+   "ned: 'these events will have to be regarded as unidentified'",
+   0
+  ],
+  [
+   "PLATOV2000#10",
+   "1977",
+   "balloon: high-altitude tetrahedral balloon",
+   0
+  ]
+ ],
+ "platov_to_ru": [
+  [
+   "PLATOV2000#01",
+   "RU_CH#0142",
+   0
+  ],
+  [
+   "PLATOV2000#01",
+   "RU_CH#0143",
+   0
+  ],
+  [
+   "PLATOV2000#01",
+   "RU_CH#0144",
+   0
+  ],
+  [
+   "PLATOV2000#01",
+   "RU_CH#0145",
+   0
+  ]
+ ],
+ "jprs": [
+  [
+   "JPRS77236#01",
+   "1978-11-13",
+   1,
+   null,
+   null,
+   2471.8
+  ],
+  [
+   "JPRS77236#02",
+   "1976-09-09",
+   2,
+   null,
+   null,
+   2652.4
+  ],
+  [
+   "JPRS77236#03",
+   "1979-09-09",
+   2,
+   null,
+   null,
+   2400.2
+  ],
+  [
+   "JPRS77236#04",
+   "1979-09-09",
+   2,
+   null,
+   null,
+   2362.2
+  ],
+  [
+   "JPRS77236#05",
+   "1978-10-23",
+   1,
+   null,
+   null,
+   null
+  ],
+  [
+   "JPRS77236#06",
+   "1977-07-26",
+   2,
+   null,
+   null,
+   1688.0
+  ]
+ ],
+ "lexicon": [
+  [
+   "ru",
+   "НЛО",
+   "{\"RU_CH chronicle\": 764, \"RU ufological periodicals + books (whole texts)\": 3543}"
+  ],
+  [
+   "ru",
+   "летающая тарелка",
+   "{\"RU_CH chronicle\": 15, \"RU ufological periodicals + books (whole texts)\": 160}"
+  ],
+  [
+   "ru",
+   "тарелка",
+   "{\"RU_CH chronicle\": 109, \"RU ufological periodicals + books (whole texts)\": 510}"
+  ],
+  [
+   "ru",
+   "АЯ / аномальные явления",
+   "{\"RU_CH chronicle\": 18, \"RU ufological periodicals + books (whole texts)\": 553}"
+  ],
+  [
+   "ru",
+   "шар",
+   "{\"RU_CH chronicle\": 686, \"RU ufological periodicals + books (whole texts)\": 1914}"
+  ],
+  [
+   "ru",
+   "медуза",
+   "{\"RU_CH chronicle\": 5, \"RU ufological periodicals + books (whole texts)\": 19}"
+  ],
+  [
+   "ru",
+   "серп / полумесяц",
+   "{\"RU_CH chronicle\": 17, \"RU ufological periodicals + books (whole texts)\": 49}"
+  ],
+  [
+   "ru",
+   "сигара",
+   "{\"RU_CH chronicle\": 95, \"RU ufological periodicals + books (whole texts)\": 200}"
+  ],
+  [
+   "ru",
+   "трехзвездник",
+   "{\"RU_CH chronicle\": 117, \"RU ufological periodicals + books (whole texts)\": 117}"
+  ],
+  [
+   "ru",
+   "гантель",
+   "{\"RU_CH chronicle\": 4, \"RU ufological periodicals + books (whole texts)\": 7}"
+  ],
+  [
+   "ru",
+   "аномальная зона",
+   "{\"RU_CH chronicle\": 4, \"RU ufological periodicals + books (whole texts)\": 75}"
+  ],
+  [
+   "ru",
+   "гуманоид",
+   "{\"RU_CH chronicle\": 14, \"RU ufological periodicals + books (whole texts)\": 219}"
+  ],
+  [
+   "ru",
+   "инопланетянин",
+   "{\"RU_CH chronicle\": 21, \"RU ufological periodicals + books (whole texts)\": 596}"
+  ],
+  [
+   "ru",
+   "контактер",
+   "{\"RU_CH chronicle\": 8, \"RU ufological periodicals + books (whole texts)\": 239}"
+  ],
+  [
+   "zh",
+   "飛碟 / 飞碟",
+   "{\"ZH books/newspapers (OCR)\": 16}"
+  ],
+  [
+   "zh",
+   "不明飛行物 / 不明飞行物",
+   "{\"ZH books/newspapers (OCR)\": 0}"
+  ],
+  [
+   "zh",
+   "幽浮",
+   "{\"ZH books/newspapers (OCR)\": 0}"
+  ],
+  [
+   "zh",
+   "外星人",
+   "{\"ZH books/newspapers (OCR)\": 0}"
+  ],
+  [
+   "zh",
+   "宇宙人",
+   "{\"ZH books/newspapers (OCR)\": 0}"
+  ],
+  [
+   "ar",
+   "الأطباق الطائرة",
+   "{\"AR book copy 1 (BBib-Alex-12868)\": 85, \"AR book copy 2 (mind-library)\": 89}"
+  ],
+  [
+   "ar",
+   "أطباق (any context)",
+   "{\"AR book copy 1 (BBib-Alex-12868)\": 114, \"AR book copy 2 (mind-library)\": 108}"
+  ],
+  [
+   "ar",
+   "طبق طائر",
+   "{\"AR book copy 1 (BBib-Alex-12868)\": 4, \"AR book copy 2 (mind-library)\": 5}"
+  ],
+  [
+   "ar",
+   "الأجسام الطائرة المجهولة",
+   "{\"AR book copy 1 (BBib-Alex-12868)\": 1, \"AR book copy 2 (mind-library)\": 1}"
+  ],
+  [
+   "ar",
+   "مخلوقات / كائنات فضائية",
+   "{\"AR book copy 1 (BBib-Alex-12868)\": 0, \"AR book copy 2 (mind-library)\": 0}"
+  ],
+  [
+   "ar",
+   "أمريكا / أمريكي",
+   "{\"AR book copy 1 (BBib-Alex-12868)\": 39, \"AR book copy 2 (mind-library)\": 38}"
+  ],
+  [
+   "ar",
+   "روسيا / السوفيت",
+   "{\"AR book copy 1 (BBib-Alex-12868)\": 11, \"AR book copy 2 (mind-library)\": 8}"
+  ],
+  [
+   "ar",
+   "مصر",
+   "{\"AR book copy 1 (BBib-Alex-12868)\": 0, \"AR book copy 2 (mind-library)\": 0}"
+  ],
+  [
+   "ar",
+   "الجزائر",
+   "{\"AR book copy 1 (BBib-Alex-12868)\": 1, \"AR book copy 2 (mind-library)\": 2}"
+  ],
+  [
+   "sa",
+   "विमान",
+   "{\"Vyamaanika Shastra 1973 (OCR)\": 261}"
+  ],
+  [
+   "sa",
+   "पुष्पक",
+   "{\"Vyamaanika Shastra 1973 (OCR)\": 4}"
+  ]
+ ]
+}
