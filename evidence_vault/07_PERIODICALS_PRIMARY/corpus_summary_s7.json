@@ -1,0 +1,3401 @@
+{
+ "skipped": {
+  "undated": 111,
+  "no_text": 69,
+  "duplicate_of_A": 254
+ },
+ "series": [
+  {
+   "series": "A:MUFON",
+   "issues": 485,
+   "chars": 48747533,
+   "first": "1967-09",
+   "last": "2008-12",
+   "month_known": 484
+  },
+  {
+   "series": "UFO_Newsclipping_Service",
+   "issues": 472,
+   "chars": 80924889,
+   "first": "1969-05",
+   "last": "2009-12",
+   "month_known": 472
+  },
+  {
+   "series": "misc",
+   "issues": 265,
+   "chars": 28173047,
+   "first": "1962-06",
+   "last": "2008-06",
+   "month_known": 116
+  },
+  {
+   "series": "A:APRO",
+   "issues": 260,
+   "chars": 12966506,
+   "first": "1952-07",
+   "last": "1987-09",
+   "month_known": 259
+  },
+  {
+   "series": "LDLN",
+   "issues": 258,
+   "chars": 34217087,
+   "first": "1958-02",
+   "last": "1989-08",
+   "month_known": 198
+  },
+  {
+   "series": "FSR",
+   "issues": 235,
+   "chars": 35138415,
+   "first": "1955-04",
+   "last": "2003-04",
+   "month_known": 205
+  },
+  {
+   "series": "UFO_Nyt",
+   "issues": 229,
+   "chars": 29551082,
+   "first": "1958-06",
+   "last": "2009-06",
+   "month_known": 0
+  },
+  {
+   "series": "JUFOF",
+   "issues": 182,
+   "chars": 18674313,
+   "first": "1980-01",
+   "last": "2009-06",
+   "month_known": 182
+  },
+  {
+   "series": "Australian_UFO_Bulletin",
+   "issues": 151,
+   "chars": 10249939,
+   "first": "1957-12",
+   "last": "2007-09",
+   "month_known": 150
+  },
+  {
+   "series": "OVNI",
+   "issues": 148,
+   "chars": 4542720,
+   "first": "1991-07",
+   "last": "2009-11",
+   "month_known": 148
+  },
+  {
+   "series": "False_Memory_Syndrome_Foundation",
+   "issues": 134,
+   "chars": 11701661,
+   "first": "1992-03",
+   "last": "2009-06",
+   "month_known": 122
+  },
+  {
+   "series": "Awareness",
+   "issues": 116,
+   "chars": 8858170,
+   "first": "1967-06",
+   "last": "2009-10",
+   "month_known": 26
+  },
+  {
+   "series": "UFO_Mail",
+   "issues": 113,
+   "chars": 1950948,
+   "first": "2002-06",
+   "last": "2009-06",
+   "month_known": 0
+  },
+  {
+   "series": "A:IUR",
+   "issues": 99,
+   "chars": 8269244,
+   "first": "1976-11",
+   "last": "2004-06",
+   "month_known": 91
+  },
+  {
+   "series": "Magonia",
+   "issues": 99,
+   "chars": 10985631,
+   "first": "1979-06",
+   "last": "2009-04",
+   "month_known": 85
+  },
+  {
+   "series": "TUFOIC_Newsletter",
+   "issues": 88,
+   "chars": 2149622,
+   "first": "1971-06",
+   "last": "2009-06",
+   "month_known": 0
+  },
+  {
+   "series": "Touchstone",
+   "issues": 85,
+   "chars": 2320012,
+   "first": "1983-07",
+   "last": "2009-10",
+   "month_known": 85
+  },
+  {
+   "series": "Inforespace",
+   "issues": 81,
+   "chars": 13732245,
+   "first": "1972-06",
+   "last": "2006-06",
+   "month_known": 0
+  },
+  {
+   "series": "Bilk",
+   "issues": 80,
+   "chars": 782521,
+   "first": "1985-03",
+   "last": "1998-11",
+   "month_known": 80
+  },
+  {
+   "series": "The_UFO_Enigma",
+   "issues": 79,
+   "chars": 2529797,
+   "first": "1982-04",
+   "last": "2002-06",
+   "month_known": 79
+  },
+  {
+   "series": "Amskaya",
+   "issues": 79,
+   "chars": 1991852,
+   "first": "1986-01",
+   "last": "2009-10",
+   "month_known": 79
+  },
+  {
+   "series": "UFO_Information",
+   "issues": 74,
+   "chars": 6735569,
+   "first": "1969-06",
+   "last": "1980-06",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Arizona",
+   "issues": 74,
+   "chars": 2753791,
+   "first": "1993-08",
+   "last": "2001-08",
+   "month_known": 74
+  },
+  {
+   "series": "UFO_Research_Newsletter",
+   "issues": 71,
+   "chars": 2206586,
+   "first": "1971-04",
+   "last": "1980-12",
+   "month_known": 71
+  },
+  {
+   "series": "BUFORA_Journal",
+   "issues": 67,
+   "chars": 5086417,
+   "first": "1964-06",
+   "last": "1981-06",
+   "month_known": 0
+  },
+  {
+   "series": "FUFOR",
+   "issues": 66,
+   "chars": 536963,
+   "first": "1982-06",
+   "last": "2001-06",
+   "month_known": 4
+  },
+  {
+   "series": "Deguforum",
+   "issues": 64,
+   "chars": 11078982,
+   "first": "1994-06",
+   "last": "2009-06",
+   "month_known": 0
+  },
+  {
+   "series": "Magonia_Supplement",
+   "issues": 62,
+   "chars": 1711570,
+   "first": "1998-03",
+   "last": "2006-08",
+   "month_known": 62
+  },
+  {
+   "series": "BUFORA_Newsfile",
+   "issues": 58,
+   "chars": 3132753,
+   "first": "1991-06",
+   "last": "2007-06",
+   "month_known": 0
+  },
+  {
+   "series": "Ouranos",
+   "issues": 57,
+   "chars": 5980897,
+   "first": "1952-06",
+   "last": "1980-06",
+   "month_known": 6
+  },
+  {
+   "series": "Panorama",
+   "issues": 53,
+   "chars": 3132027,
+   "first": "1962-06",
+   "last": "1971-06",
+   "month_known": 0
+  },
+  {
+   "series": "Flying_Saucer_Digest",
+   "issues": 52,
+   "chars": 1455159,
+   "first": "1967-06",
+   "last": "2005-06",
+   "month_known": 0
+  },
+  {
+   "series": "Phenomena",
+   "issues": 49,
+   "chars": 5622394,
+   "first": "1991-01",
+   "last": "2009-12",
+   "month_known": 48
+  },
+  {
+   "series": "Mysteria",
+   "issues": 46,
+   "chars": 3454063,
+   "first": "1979-01",
+   "last": "1983-03",
+   "month_known": 46
+  },
+  {
+   "series": "Swamp_Gas_Journal",
+   "issues": 46,
+   "chars": 1117827,
+   "first": "1978-06",
+   "last": "2003-06",
+   "month_known": 0
+  },
+  {
+   "series": "Ufologia",
+   "issues": 45,
+   "chars": 4540535,
+   "first": "1975-06",
+   "last": "1984-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Times",
+   "issues": 44,
+   "chars": 4850627,
+   "first": "1989-06",
+   "last": "1997-06",
+   "month_known": 0
+  },
+  {
+   "series": "Flying_Saucer_News",
+   "issues": 43,
+   "chars": 2022449,
+   "first": "1953-06",
+   "last": "1982-05",
+   "month_known": 32
+  },
+  {
+   "series": "Stendek",
+   "issues": 40,
+   "chars": 5267683,
+   "first": "1970-06",
+   "last": "1981-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Informations",
+   "issues": 37,
+   "chars": 3619855,
+   "first": "1974-06",
+   "last": "1983-06",
+   "month_known": 0
+  },
+  {
+   "series": "Ghost_Trackers_Newsletter",
+   "issues": 37,
+   "chars": 2376795,
+   "first": "1987-06",
+   "last": "2000-10",
+   "month_known": 37
+  },
+  {
+   "series": "SUFOI_Intern",
+   "issues": 37,
+   "chars": 1941005,
+   "first": "1996-05",
+   "last": "2000-08",
+   "month_known": 37
+  },
+  {
+   "series": "UFOmania",
+   "issues": 35,
+   "chars": 3295114,
+   "first": "1993-04",
+   "last": "2004-07",
+   "month_known": 33
+  },
+  {
+   "series": "Merseyside_UFO_Bulletin",
+   "issues": 34,
+   "chars": 1376702,
+   "first": "1968-06",
+   "last": "1974-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFORA_Research_Digest",
+   "issues": 33,
+   "chars": 495213,
+   "first": "1989-06",
+   "last": "1993-06",
+   "month_known": 0
+  },
+  {
+   "series": "LUFORO_Bulletin",
+   "issues": 32,
+   "chars": 964980,
+   "first": "1959-06",
+   "last": "1963-06",
+   "month_known": 0
+  },
+  {
+   "series": "MUFON_Massachusetts_PIPEline",
+   "issues": 32,
+   "chars": 252673,
+   "first": "1984-10",
+   "last": "1987-11",
+   "month_known": 32
+  },
+  {
+   "series": "Disclosure_Australia_AURA",
+   "issues": 31,
+   "chars": 757015,
+   "first": "2003-06",
+   "last": "2006-06",
+   "month_known": 0
+  },
+  {
+   "series": "GEPO",
+   "issues": 31,
+   "chars": 1493141,
+   "first": "1976-06",
+   "last": "1983-06",
+   "month_known": 0
+  },
+  {
+   "series": "SUFOI_Maneds_Nyt",
+   "issues": 31,
+   "chars": 159582,
+   "first": "1961-06",
+   "last": "1975-05",
+   "month_known": 31
+  },
+  {
+   "series": "Weltraumbote",
+   "issues": 31,
+   "chars": 3058983,
+   "first": "1955-06",
+   "last": "1961-06",
+   "month_known": 0
+  },
+  {
+   "series": "Australian_Saucer_Record",
+   "issues": 30,
+   "chars": 1562855,
+   "first": "1955-06",
+   "last": "1963-06",
+   "month_known": 0
+  },
+  {
+   "series": "La_ligne_bleue_survolee",
+   "issues": 30,
+   "chars": 2341902,
+   "first": "1979-06",
+   "last": "1994-06",
+   "month_known": 0
+  },
+  {
+   "series": "CERPI",
+   "issues": 29,
+   "chars": 1362140,
+   "first": "1976-06",
+   "last": "1980-06",
+   "month_known": 0
+  },
+  {
+   "series": "NM_MUFON_News",
+   "issues": 29,
+   "chars": 984402,
+   "first": "1993-04",
+   "last": "1996-04",
+   "month_known": 29
+  },
+  {
+   "series": "BUFORA_Bulletin",
+   "issues": 28,
+   "chars": 2494936,
+   "first": "1981-06",
+   "last": "1989-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFOIC_Newsletter",
+   "issues": 28,
+   "chars": 643409,
+   "first": "1964-06",
+   "last": "1977-06",
+   "month_known": 0
+  },
+  {
+   "series": "CUFORG",
+   "issues": 28,
+   "chars": 3595986,
+   "first": "1980-09",
+   "last": "1994-09",
+   "month_known": 28
+  },
+  {
+   "series": "Delve_Report",
+   "issues": 27,
+   "chars": 1046257,
+   "first": "1993-12",
+   "last": "2006-10",
+   "month_known": 27
+  },
+  {
+   "series": "New_England_UFO_Newsletter",
+   "issues": 26,
+   "chars": 836019,
+   "first": "1976-07",
+   "last": "1982-09",
+   "month_known": 26
+  },
+  {
+   "series": "BUFORA_Bulletin2",
+   "issues": 25,
+   "chars": 2206440,
+   "first": "1998-06",
+   "last": "2001-06",
+   "month_known": 1
+  },
+  {
+   "series": "Topside",
+   "issues": 25,
+   "chars": 726086,
+   "first": "1960-03",
+   "last": "1967-06",
+   "month_known": 7
+  },
+  {
+   "series": "Repas_Ufologiques",
+   "issues": 25,
+   "chars": 862140,
+   "first": "2008-10",
+   "last": "2009-12",
+   "month_known": 13
+  },
+  {
+   "series": "SIGAP_Newsletter",
+   "issues": 25,
+   "chars": 338127,
+   "first": "1967-06",
+   "last": "1969-06",
+   "month_known": 25
+  },
+  {
+   "series": "UFO_PRESS",
+   "issues": 25,
+   "chars": 2489549,
+   "first": "1976-06",
+   "last": "1986-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Quebec",
+   "issues": 25,
+   "chars": 2346624,
+   "first": "1975-05",
+   "last": "1981-06",
+   "month_known": 4
+  },
+  {
+   "series": "LDLN_Contact_Lecteurs",
+   "issues": 24,
+   "chars": 2058117,
+   "first": "1968-06",
+   "last": "1973-06",
+   "month_known": 0
+  },
+  {
+   "series": "Approach",
+   "issues": 24,
+   "chars": 593679,
+   "first": "1958-04",
+   "last": "1960-03",
+   "month_known": 24
+  },
+  {
+   "series": "RIAP_bulletin",
+   "issues": 24,
+   "chars": 1777475,
+   "first": "1994-06",
+   "last": "2006-06",
+   "month_known": 0
+  },
+  {
+   "series": "Australian_Flying_Saucer_Review",
+   "issues": 23,
+   "chars": 1886932,
+   "first": "1960-01",
+   "last": "1972-12",
+   "month_known": 22
+  },
+  {
+   "series": "El_Ojo_Critico",
+   "issues": 23,
+   "chars": 5223386,
+   "first": "2001-06",
+   "last": "2009-06",
+   "month_known": 0
+  },
+  {
+   "series": "MUFON_of_Ohio_Newsletter",
+   "issues": 23,
+   "chars": 1151156,
+   "first": "1992-11",
+   "last": "2009-11",
+   "month_known": 7
+  },
+  {
+   "series": "New_Hampshire_MUFON_Newsletter",
+   "issues": 23,
+   "chars": 238093,
+   "first": "1986-10",
+   "last": "1997-12",
+   "month_known": 23
+  },
+  {
+   "series": "MUFON_Michigan_Newsletter",
+   "issues": 22,
+   "chars": 1542591,
+   "first": "1995-06",
+   "last": "2009-11",
+   "month_known": 22
+  },
+  {
+   "series": "MUFON_Pennsylvania_newsletter",
+   "issues": 22,
+   "chars": 58454,
+   "first": "2008-01",
+   "last": "2009-11",
+   "month_known": 22
+  },
+  {
+   "series": "ULI",
+   "issues": 22,
+   "chars": 678371,
+   "first": "1985-06",
+   "last": "1990-06",
+   "month_known": 0
+  },
+  {
+   "series": "Approche",
+   "issues": 21,
+   "chars": 1605297,
+   "first": "1973-06",
+   "last": "1980-06",
+   "month_known": 0
+  },
+  {
+   "series": "SUFOI_Nyhedsbrev",
+   "issues": 21,
+   "chars": 1695273,
+   "first": "1996-07",
+   "last": "1999-11",
+   "month_known": 21
+  },
+  {
+   "series": "UFO_Newsletter_Richard",
+   "issues": 21,
+   "chars": 559756,
+   "first": "1996-06",
+   "last": "1999-06",
+   "month_known": 0
+  },
+  {
+   "series": "Vaucluse_Ufologie",
+   "issues": 21,
+   "chars": 1196628,
+   "first": "1977-06",
+   "last": "1981-06",
+   "month_known": 0
+  },
+  {
+   "series": "Ovni_Presence",
+   "issues": 20,
+   "chars": 2833902,
+   "first": "1982-06",
+   "last": "1995-06",
+   "month_known": 0
+  },
+  {
+   "series": "Spacecrafter",
+   "issues": 20,
+   "chars": 1011225,
+   "first": "1958-10",
+   "last": "1961-08",
+   "month_known": 20
+  },
+  {
+   "series": "Vimana_21",
+   "issues": 20,
+   "chars": 2125163,
+   "first": "1981-06",
+   "last": "1988-06",
+   "month_known": 0
+  },
+  {
+   "series": "JTAP",
+   "issues": 19,
+   "chars": 1703009,
+   "first": "1979-06",
+   "last": "1989-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Forum",
+   "issues": 19,
+   "chars": 4538502,
+   "first": "1995-06",
+   "last": "2001-06",
+   "month_known": 0
+  },
+  {
+   "series": "La_Circulaire",
+   "issues": 18,
+   "chars": 1034852,
+   "first": "1994-03",
+   "last": "1995-10",
+   "month_known": 7
+  },
+  {
+   "series": "Studiekreds_Bladet",
+   "issues": 18,
+   "chars": 707509,
+   "first": "1974-06",
+   "last": "1976-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Register",
+   "issues": 18,
+   "chars": 1245888,
+   "first": "1970-06",
+   "last": "1995-06",
+   "month_known": 0
+  },
+  {
+   "series": "MUFON_New_Jersey_Chronicle",
+   "issues": 16,
+   "chars": 1151130,
+   "first": "1990-09",
+   "last": "1994-04",
+   "month_known": 16
+  },
+  {
+   "series": "Phenomenes_Inconnus",
+   "issues": 16,
+   "chars": 1172845,
+   "first": "1967-06",
+   "last": "1972-06",
+   "month_known": 1
+  },
+  {
+   "series": "New_BUFORA_Journal",
+   "issues": 15,
+   "chars": 1985363,
+   "first": "2002-06",
+   "last": "2005-06",
+   "month_known": 0
+  },
+  {
+   "series": "Cuadernos_de_Ufologia",
+   "issues": 15,
+   "chars": 1757705,
+   "first": "1983-06",
+   "last": "1986-06",
+   "month_known": 0
+  },
+  {
+   "series": "Enigma",
+   "issues": 15,
+   "chars": 1028512,
+   "first": "1967-03",
+   "last": "2000-06",
+   "month_known": 1
+  },
+  {
+   "series": "Flying_Saucers",
+   "issues": 14,
+   "chars": 1757452,
+   "first": "1953-05",
+   "last": "1961-02",
+   "month_known": 12
+  },
+  {
+   "series": "CISU_Sicilia",
+   "issues": 14,
+   "chars": 648835,
+   "first": "1995-06",
+   "last": "2003-06",
+   "month_known": 0
+  },
+  {
+   "series": "Georgia_Sky_Watch",
+   "issues": 14,
+   "chars": 442181,
+   "first": "1995-12",
+   "last": "2001-06",
+   "month_known": 10
+  },
+  {
+   "series": "Insolite",
+   "issues": 14,
+   "chars": 1403034,
+   "first": "1975-06",
+   "last": "1982-06",
+   "month_known": 0
+  },
+  {
+   "series": "Realite_ou_Fiction",
+   "issues": 14,
+   "chars": 341886,
+   "first": "1975-06",
+   "last": "1987-06",
+   "month_known": 0
+  },
+  {
+   "series": "SPICA",
+   "issues": 14,
+   "chars": 983097,
+   "first": "2002-01",
+   "last": "2009-01",
+   "month_known": 10
+  },
+  {
+   "series": "UFO_PSI_Magazine",
+   "issues": 13,
+   "chars": 1023624,
+   "first": "1999-06",
+   "last": "2000-06",
+   "month_known": 0
+  },
+  {
+   "series": "Ufologen",
+   "issues": 13,
+   "chars": 893427,
+   "first": "1972-06",
+   "last": "1974-06",
+   "month_known": 3
+  },
+  {
+   "series": "Ufologie_Contact_Series_1",
+   "issues": 13,
+   "chars": 290952,
+   "first": "1976-06",
+   "last": "1979-06",
+   "month_known": 0
+  },
+  {
+   "series": "CdU_Suplemento_Internacional",
+   "issues": 12,
+   "chars": 1465514,
+   "first": "1995-06",
+   "last": "2006-06",
+   "month_known": 0
+  },
+  {
+   "series": "Extraterrestres_Les_Series_2",
+   "issues": 12,
+   "chars": 1141730,
+   "first": "1977-06",
+   "last": "1979-06",
+   "month_known": 0
+  },
+  {
+   "series": "IUFOPRA_Newsletter",
+   "issues": 12,
+   "chars": 156139,
+   "first": "1994-03",
+   "last": "1995-07",
+   "month_known": 12
+  },
+  {
+   "series": "MUFORG_Bulletin",
+   "issues": 12,
+   "chars": 288768,
+   "first": "1965-06",
+   "last": "1967-10",
+   "month_known": 12
+  },
+  {
+   "series": "Ovni_43",
+   "issues": 12,
+   "chars": 770503,
+   "first": "1978-06",
+   "last": "1980-06",
+   "month_known": 0
+  },
+  {
+   "series": "Rassegna_Casistica",
+   "issues": 12,
+   "chars": 435783,
+   "first": "1988-07",
+   "last": "1991-12",
+   "month_known": 12
+  },
+  {
+   "series": "Teknisk_Studiehefte",
+   "issues": 12,
+   "chars": 286207,
+   "first": "1960-04",
+   "last": "1961-03",
+   "month_known": 12
+  },
+  {
+   "series": "Houston_Sky",
+   "issues": 11,
+   "chars": 655784,
+   "first": "1994-01",
+   "last": "1996-06",
+   "month_known": 2
+  },
+  {
+   "series": "Kosmologi",
+   "issues": 11,
+   "chars": 283801,
+   "first": "1960-04",
+   "last": "1961-02",
+   "month_known": 11
+  },
+  {
+   "series": "Mysteres_De_L_Est",
+   "issues": 11,
+   "chars": 3766269,
+   "first": "1995-06",
+   "last": "2007-06",
+   "month_known": 0
+  },
+  {
+   "series": "SCEAU_Bulletin",
+   "issues": 11,
+   "chars": 3159639,
+   "first": "1991-06",
+   "last": "2007-06",
+   "month_known": 0
+  },
+  {
+   "series": "SUFOI_Disketteservice",
+   "issues": 11,
+   "chars": 60555,
+   "first": "1996-06",
+   "last": "1998-06",
+   "month_known": 0
+  },
+  {
+   "series": "At_The_Edge",
+   "issues": 10,
+   "chars": 2093397,
+   "first": "1996-03",
+   "last": "1998-06",
+   "month_known": 10
+  },
+  {
+   "series": "MUFON_Ontario_Newsletter",
+   "issues": 10,
+   "chars": 683110,
+   "first": "1994-03",
+   "last": "1995-10",
+   "month_known": 10
+  },
+  {
+   "series": "Quaderni_UFO",
+   "issues": 10,
+   "chars": 849927,
+   "first": "1981-03",
+   "last": "1983-05",
+   "month_known": 10
+  },
+  {
+   "series": "Saucer_Smear",
+   "issues": 10,
+   "chars": 370219,
+   "first": "2009-06",
+   "last": "2009-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Log",
+   "issues": 10,
+   "chars": 1984090,
+   "first": "1997-09",
+   "last": "2000-09",
+   "month_known": 9
+  },
+  {
+   "series": "UFOdata_Magazine",
+   "issues": 10,
+   "chars": 2527767,
+   "first": "2007-06",
+   "last": "2008-06",
+   "month_known": 0
+  },
+  {
+   "series": "Anomalous_Phenomena",
+   "issues": 9,
+   "chars": 385933,
+   "first": "1993-06",
+   "last": "1994-06",
+   "month_known": 0
+  },
+  {
+   "series": "Anomalia_2a_Epoca",
+   "issues": 9,
+   "chars": 2370095,
+   "first": "2002-06",
+   "last": "2009-06",
+   "month_known": 0
+  },
+  {
+   "series": "Extraterrestres_Les_Series_1",
+   "issues": 9,
+   "chars": 548272,
+   "first": "1970-06",
+   "last": "1973-06",
+   "month_known": 0
+  },
+  {
+   "series": "Lettre_d_Information_Ufologique",
+   "issues": 9,
+   "chars": 166541,
+   "first": "1989-06",
+   "last": "1993-06",
+   "month_known": 0
+  },
+  {
+   "series": "MUFON_Colorado_News",
+   "issues": 9,
+   "chars": 221950,
+   "first": "2004-01",
+   "last": "2005-07",
+   "month_known": 9
+  },
+  {
+   "series": "Space_Drive",
+   "issues": 9,
+   "chars": 416404,
+   "first": "1970-06",
+   "last": "1972-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Vision",
+   "issues": 9,
+   "chars": 1561183,
+   "first": "1987-06",
+   "last": "2007-06",
+   "month_known": 0
+  },
+  {
+   "series": "AMA",
+   "issues": 8,
+   "chars": 675711,
+   "first": "1990-06",
+   "last": "1994-09",
+   "month_known": 4
+  },
+  {
+   "series": "Alpha",
+   "issues": 8,
+   "chars": 1755957,
+   "first": "1979-03",
+   "last": "1980-10",
+   "month_known": 8
+  },
+  {
+   "series": "MUFON_NYC_Newsletter_Magick_Mirror",
+   "issues": 8,
+   "chars": 248040,
+   "first": "1995-04",
+   "last": "1998-01",
+   "month_known": 2
+  },
+  {
+   "series": "NARO_Minded",
+   "issues": 8,
+   "chars": 688782,
+   "first": "1996-01",
+   "last": "1998-02",
+   "month_known": 8
+  },
+  {
+   "series": "Space_Review",
+   "issues": 8,
+   "chars": 209395,
+   "first": "1952-10",
+   "last": "1954-08",
+   "month_known": 8
+  },
+  {
+   "series": "The_Canadian_Ufologist",
+   "issues": 8,
+   "chars": 639319,
+   "first": "1996-05",
+   "last": "1997-07",
+   "month_known": 8
+  },
+  {
+   "series": "The_Ufologer",
+   "issues": 8,
+   "chars": 231697,
+   "first": "1957-06",
+   "last": "1959-03",
+   "month_known": 8
+  },
+  {
+   "series": "Ufologie_Contact_Series",
+   "issues": 8,
+   "chars": 601989,
+   "first": "1979-06",
+   "last": "1981-06",
+   "month_known": 0
+  },
+  {
+   "series": "Baton_Rouge_UFO_Bulletin",
+   "issues": 7,
+   "chars": 162833,
+   "first": "1957-07",
+   "last": "1958-04",
+   "month_known": 7
+  },
+  {
+   "series": "Circulaire_CIGU",
+   "issues": 7,
+   "chars": 316425,
+   "first": "1988-09",
+   "last": "1989-06",
+   "month_known": 5
+  },
+  {
+   "series": "GEOS_International",
+   "issues": 7,
+   "chars": 362561,
+   "first": "1969-06",
+   "last": "1970-06",
+   "month_known": 0
+  },
+  {
+   "series": "NJAAP_Bulletin",
+   "issues": 7,
+   "chars": 507369,
+   "first": "1962-07",
+   "last": "1964-07",
+   "month_known": 7
+  },
+  {
+   "series": "PEGAP",
+   "issues": 7,
+   "chars": 225524,
+   "first": "1980-06",
+   "last": "1982-06",
+   "month_known": 0
+  },
+  {
+   "series": "Perspectivas",
+   "issues": 7,
+   "chars": 1697986,
+   "first": "1993-06",
+   "last": "1996-06",
+   "month_known": 0
+  },
+  {
+   "series": "Sign",
+   "issues": 7,
+   "chars": 178910,
+   "first": "1992-01",
+   "last": "1993-01",
+   "month_known": 7
+  },
+  {
+   "series": "The_New_SIGAP_Bulletin",
+   "issues": 7,
+   "chars": 81197,
+   "first": "1977-07",
+   "last": "1979-01",
+   "month_known": 7
+  },
+  {
+   "series": "UFO_Magazine_News_Bulletin",
+   "issues": 7,
+   "chars": 128648,
+   "first": "1976-06",
+   "last": "1978-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Nyt_Junior",
+   "issues": 7,
+   "chars": 194945,
+   "first": "1964-07",
+   "last": "1965-05",
+   "month_known": 7
+  },
+  {
+   "series": "19690000_Vimana",
+   "issues": 6,
+   "chars": 201445,
+   "first": "1969-06",
+   "last": "1969-06",
+   "month_known": 0
+  },
+  {
+   "series": "19700000_Vimana",
+   "issues": 6,
+   "chars": 203728,
+   "first": "1970-06",
+   "last": "1970-06",
+   "month_known": 0
+  },
+  {
+   "series": "19710000_Vimana",
+   "issues": 6,
+   "chars": 233840,
+   "first": "1971-06",
+   "last": "1971-06",
+   "month_known": 0
+  },
+  {
+   "series": "Akualele_Research_Group_Bulletin",
+   "issues": 6,
+   "chars": 77141,
+   "first": "1956-12",
+   "last": "1957-08",
+   "month_known": 6
+  },
+  {
+   "series": "American_UFO_Committee_Review",
+   "issues": 6,
+   "chars": 194259,
+   "first": "1964-03",
+   "last": "1966-06",
+   "month_known": 3
+  },
+  {
+   "series": "Computer_UFO_Newsletter",
+   "issues": 6,
+   "chars": 342366,
+   "first": "1985-08",
+   "last": "1989-09",
+   "month_known": 6
+  },
+  {
+   "series": "Gold_Sector_1",
+   "issues": 6,
+   "chars": 176822,
+   "first": "1978-06",
+   "last": "1986-05",
+   "month_known": 6
+  },
+  {
+   "series": "Hypotheses_Extraterrestres",
+   "issues": 6,
+   "chars": 531996,
+   "first": "1980-06",
+   "last": "1981-06",
+   "month_known": 0
+  },
+  {
+   "series": "Info_OVNI_Series_2",
+   "issues": 6,
+   "chars": 637681,
+   "first": "1978-06",
+   "last": "1981-06",
+   "month_known": 0
+  },
+  {
+   "series": "Lo",
+   "issues": 6,
+   "chars": 82755,
+   "first": "1995-02",
+   "last": "1996-06",
+   "month_known": 6
+  },
+  {
+   "series": "MUFON_Michigan_Annual_Report",
+   "issues": 6,
+   "chars": 68338,
+   "first": "2004-06",
+   "last": "2009-06",
+   "month_known": 0
+  },
+  {
+   "series": "Pentagram",
+   "issues": 6,
+   "chars": 1151354,
+   "first": "1995-06",
+   "last": "1996-06",
+   "month_known": 0
+  },
+  {
+   "series": "SUFOI_News",
+   "issues": 6,
+   "chars": 732628,
+   "first": "1992-06",
+   "last": "1999-06",
+   "month_known": 0
+  },
+  {
+   "series": "The_Hawk_Researcher",
+   "issues": 6,
+   "chars": 105083,
+   "first": "1962-01",
+   "last": "1962-11",
+   "month_known": 6
+  },
+  {
+   "series": "UFO_Nyt_December",
+   "issues": 6,
+   "chars": 447891,
+   "first": "1958-06",
+   "last": "1963-06",
+   "month_known": 0
+  },
+  {
+   "series": "inforespace_hors_serie",
+   "issues": 6,
+   "chars": 1123397,
+   "first": "1977-06",
+   "last": "1984-06",
+   "month_known": 0
+  },
+  {
+   "series": "19720000_Vimana",
+   "issues": 5,
+   "chars": 163664,
+   "first": "1972-06",
+   "last": "1972-06",
+   "month_known": 0
+  },
+  {
+   "series": "Anomalies",
+   "issues": 5,
+   "chars": 942419,
+   "first": "1996-06",
+   "last": "1999-06",
+   "month_known": 0
+  },
+  {
+   "series": "Bulletin_d_Information_Ufologique",
+   "issues": 5,
+   "chars": 148747,
+   "first": "1984-06",
+   "last": "1986-06",
+   "month_known": 0
+  },
+  {
+   "series": "Kontakt_Programmet",
+   "issues": 5,
+   "chars": 99975,
+   "first": "1960-04",
+   "last": "1960-11",
+   "month_known": 5
+  },
+  {
+   "series": "Para_Info",
+   "issues": 5,
+   "chars": 73303,
+   "first": "1977-06",
+   "last": "1977-06",
+   "month_known": 0
+  },
+  {
+   "series": "Saucer_Forum",
+   "issues": 5,
+   "chars": 82101,
+   "first": "1965-01",
+   "last": "1966-10",
+   "month_known": 5
+  },
+  {
+   "series": "The_Shaman",
+   "issues": 5,
+   "chars": 253131,
+   "first": "1984-06",
+   "last": "1985-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Nyt_April",
+   "issues": 5,
+   "chars": 370053,
+   "first": "1959-06",
+   "last": "1963-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Nyt_August",
+   "issues": 5,
+   "chars": 395321,
+   "first": "1959-06",
+   "last": "1963-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Nyt_Februar",
+   "issues": 5,
+   "chars": 399790,
+   "first": "1959-06",
+   "last": "1963-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Nyt_Januar",
+   "issues": 5,
+   "chars": 388728,
+   "first": "1959-06",
+   "last": "1963-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Nyt_Juli",
+   "issues": 5,
+   "chars": 414817,
+   "first": "1959-06",
+   "last": "1963-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Nyt_Juni",
+   "issues": 5,
+   "chars": 394644,
+   "first": "1959-06",
+   "last": "1963-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Nyt_Maj",
+   "issues": 5,
+   "chars": 388213,
+   "first": "1959-06",
+   "last": "1963-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Nyt_Marts",
+   "issues": 5,
+   "chars": 374167,
+   "first": "1959-06",
+   "last": "1963-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Nyt_Oktober",
+   "issues": 5,
+   "chars": 400143,
+   "first": "1959-06",
+   "last": "1963-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Nyt_September",
+   "issues": 5,
+   "chars": 404462,
+   "first": "1959-06",
+   "last": "1963-06",
+   "month_known": 0
+  },
+  {
+   "series": "Vimana",
+   "issues": 5,
+   "chars": 160915,
+   "first": "1969-06",
+   "last": "1970-06",
+   "month_known": 0
+  },
+  {
+   "series": "Space_Probe",
+   "issues": 4,
+   "chars": 709191,
+   "first": "1958-01",
+   "last": "1959-09",
+   "month_known": 4
+  },
+  {
+   "series": "Abstracts_from_UFO_Nyt",
+   "issues": 4,
+   "chars": 14095,
+   "first": "1983-06",
+   "last": "1984-06",
+   "month_known": 0
+  },
+  {
+   "series": "Arkiv_X",
+   "issues": 4,
+   "chars": 624663,
+   "first": "1996-06",
+   "last": "1996-06",
+   "month_known": 0
+  },
+  {
+   "series": "CSI_Quarterly",
+   "issues": 4,
+   "chars": 168186,
+   "first": "1952-06",
+   "last": "1954-06",
+   "month_known": 1
+  },
+  {
+   "series": "Finnish_UFOlogical_Bulletin",
+   "issues": 4,
+   "chars": 62641,
+   "first": "1993-06",
+   "last": "1994-06",
+   "month_known": 0
+  },
+  {
+   "series": "Groupe_5255",
+   "issues": 4,
+   "chars": 399936,
+   "first": "1980-06",
+   "last": "1982-06",
+   "month_known": 1
+  },
+  {
+   "series": "INH_Contact",
+   "issues": 4,
+   "chars": 238050,
+   "first": "1997-03",
+   "last": "1999-01",
+   "month_known": 2
+  },
+  {
+   "series": "IUFOPRA_Information_Network_Newsletter",
+   "issues": 4,
+   "chars": 101410,
+   "first": "1996-08",
+   "last": "1997-07",
+   "month_known": 4
+  },
+  {
+   "series": "IUFOPRA_UFO_Newsletter",
+   "issues": 4,
+   "chars": 291516,
+   "first": "2001-06",
+   "last": "2003-06",
+   "month_known": 0
+  },
+  {
+   "series": "Infinity_Newsletter",
+   "issues": 4,
+   "chars": 141422,
+   "first": "1956-10",
+   "last": "1957-09",
+   "month_known": 4
+  },
+  {
+   "series": "MUFON_CES_Bericht",
+   "issues": 4,
+   "chars": 3441160,
+   "first": "1978-06",
+   "last": "1983-06",
+   "month_known": 0
+  },
+  {
+   "series": "MUFON_Massachusetts_Annual_Report",
+   "issues": 4,
+   "chars": 183415,
+   "first": "1982-06",
+   "last": "1985-06",
+   "month_known": 0
+  },
+  {
+   "series": "SUFOI_Reporter",
+   "issues": 4,
+   "chars": 59175,
+   "first": "1969-06",
+   "last": "1969-06",
+   "month_known": 0
+  },
+  {
+   "series": "SVL_Tijdschrift_Jaargang_2",
+   "issues": 4,
+   "chars": 300397,
+   "first": "1983-06",
+   "last": "1983-06",
+   "month_known": 0
+  },
+  {
+   "series": "SVL_Tijdschrift_Jaargang_3",
+   "issues": 4,
+   "chars": 361291,
+   "first": "1984-06",
+   "last": "1984-06",
+   "month_known": 0
+  },
+  {
+   "series": "SVL_Tijdschrift_Jaargang_4",
+   "issues": 4,
+   "chars": 325177,
+   "first": "1985-06",
+   "last": "1985-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Sweden_Special_Report",
+   "issues": 4,
+   "chars": 76899,
+   "first": "1973-06",
+   "last": "1974-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Magazine",
+   "issues": 4,
+   "chars": 1030360,
+   "first": "1992-03",
+   "last": "2004-03",
+   "month_known": 4
+  },
+  {
+   "series": "UFO_Research_of_Finland_Annual_Report",
+   "issues": 4,
+   "chars": 83499,
+   "first": "1981-06",
+   "last": "1985-06",
+   "month_known": 0
+  },
+  {
+   "series": "Ufologie_Contact_Special",
+   "issues": 3,
+   "chars": 310546,
+   "first": "1979-06",
+   "last": "1980-06",
+   "month_known": 0
+  },
+  {
+   "series": "19670000_Vimana",
+   "issues": 3,
+   "chars": 242004,
+   "first": "1967-06",
+   "last": "1967-06",
+   "month_known": 0
+  },
+  {
+   "series": "19680000_Vimana",
+   "issues": 3,
+   "chars": 206903,
+   "first": "1968-06",
+   "last": "1968-06",
+   "month_known": 0
+  },
+  {
+   "series": "Alien_Optimum",
+   "issues": 3,
+   "chars": 35890,
+   "first": "1996-06",
+   "last": "1997-06",
+   "month_known": 0
+  },
+  {
+   "series": "CEFANC_Boletin_Informativo",
+   "issues": 3,
+   "chars": 193154,
+   "first": "1980-06",
+   "last": "1980-06",
+   "month_known": 0
+  },
+  {
+   "series": "Info_OVNI_Special",
+   "issues": 3,
+   "chars": 309001,
+   "first": "1975-12",
+   "last": "1977-06",
+   "month_known": 2
+  },
+  {
+   "series": "Marcen_Journal",
+   "issues": 3,
+   "chars": 541427,
+   "first": "1979-01",
+   "last": "1979-03",
+   "month_known": 3
+  },
+  {
+   "series": "SVL_Tijdschrift_Jaargang_1",
+   "issues": 3,
+   "chars": 162337,
+   "first": "1982-06",
+   "last": "1982-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Rama",
+   "issues": 3,
+   "chars": 31306,
+   "first": "2008-06",
+   "last": "2009-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Research_of_Finland_Quarterly_Report",
+   "issues": 3,
+   "chars": 24829,
+   "first": "1974-06",
+   "last": "1979-06",
+   "month_known": 0
+  },
+  {
+   "series": "Univers_et_ses_Phenomenes",
+   "issues": 3,
+   "chars": 45727,
+   "first": "1989-06",
+   "last": "1989-06",
+   "month_known": 0
+  },
+  {
+   "series": "Vimana_1a_epoca",
+   "issues": 3,
+   "chars": 213818,
+   "first": "1976-06",
+   "last": "1977-06",
+   "month_known": 0
+  },
+  {
+   "series": "Flying_Saucer_News_Service_Research_Bull",
+   "issues": 2,
+   "chars": 69670,
+   "first": "1955-07",
+   "last": "1955-08",
+   "month_known": 2
+  },
+  {
+   "series": "Ouranos_Actualites",
+   "issues": 2,
+   "chars": 62645,
+   "first": "1953-06",
+   "last": "1954-06",
+   "month_known": 0
+  },
+  {
+   "series": "Interplanetary_News_Scope",
+   "issues": 2,
+   "chars": 15076,
+   "first": "1956-10",
+   "last": "1956-12",
+   "month_known": 2
+  },
+  {
+   "series": "1960s_UFO_Handbook",
+   "issues": 2,
+   "chars": 113760,
+   "first": "1960-06",
+   "last": "1960-06",
+   "month_known": 0
+  },
+  {
+   "series": "Annual_Report",
+   "issues": 2,
+   "chars": 64819,
+   "first": "1975-06",
+   "last": "1976-06",
+   "month_known": 0
+  },
+  {
+   "series": "Anomaly_07",
+   "issues": 2,
+   "chars": 136431,
+   "first": "1971-06",
+   "last": "1971-06",
+   "month_known": 0
+  },
+  {
+   "series": "Australian_Annual_Flying_Saucer_Review",
+   "issues": 2,
+   "chars": 167671,
+   "first": "1981-06",
+   "last": "1983-06",
+   "month_known": 1
+  },
+  {
+   "series": "BUFOA_Journal",
+   "issues": 2,
+   "chars": 85629,
+   "first": "1963-06",
+   "last": "1963-06",
+   "month_known": 0
+  },
+  {
+   "series": "Contact_USA",
+   "issues": 2,
+   "chars": 57580,
+   "first": "1970-06",
+   "last": "1970-06",
+   "month_known": 0
+  },
+  {
+   "series": "Frontieres_de_la_Science",
+   "issues": 2,
+   "chars": 43631,
+   "first": "1977-06",
+   "last": "1977-06",
+   "month_known": 0
+  },
+  {
+   "series": "Info_CERPA",
+   "issues": 2,
+   "chars": 25415,
+   "first": "1996-06",
+   "last": "1997-06",
+   "month_known": 0
+  },
+  {
+   "series": "Info_OVNI_Series_1",
+   "issues": 2,
+   "chars": 130561,
+   "first": "1975-06",
+   "last": "1975-06",
+   "month_known": 0
+  },
+  {
+   "series": "Long_Island_UFO_Update",
+   "issues": 2,
+   "chars": 104030,
+   "first": "1990-06",
+   "last": "1991-02",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Journal",
+   "issues": 2,
+   "chars": 66108,
+   "first": "2001-01",
+   "last": "2001-02",
+   "month_known": 2
+  },
+  {
+   "series": "Mystic",
+   "issues": 2,
+   "chars": 639210,
+   "first": "1954-08",
+   "last": "1954-12",
+   "month_known": 2
+  },
+  {
+   "series": "Prince_George_Cosmic_Observer",
+   "issues": 2,
+   "chars": 27928,
+   "first": "1958-06",
+   "last": "1958-08",
+   "month_known": 2
+  },
+  {
+   "series": "SUFOG_Magazine_March",
+   "issues": 2,
+   "chars": 260774,
+   "first": "2007-06",
+   "last": "2008-06",
+   "month_known": 0
+  },
+  {
+   "series": "SVL_Tijdschrift_Jaargang_5",
+   "issues": 2,
+   "chars": 228140,
+   "first": "1986-06",
+   "last": "1986-06",
+   "month_known": 0
+  },
+  {
+   "series": "SVL_Tijdschrift_Jaargang_6",
+   "issues": 2,
+   "chars": 179260,
+   "first": "1987-06",
+   "last": "1987-06",
+   "month_known": 0
+  },
+  {
+   "series": "Saucer_Sentinel",
+   "issues": 2,
+   "chars": 339267,
+   "first": "1954-10",
+   "last": "1955-06",
+   "month_known": 1
+  },
+  {
+   "series": "Slidings",
+   "issues": 2,
+   "chars": 49832,
+   "first": "1990-02",
+   "last": "1991-01",
+   "month_known": 2
+  },
+  {
+   "series": "UFO_Magazine_Annual",
+   "issues": 2,
+   "chars": 114585,
+   "first": "1965-06",
+   "last": "1967-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Rivista_di_Informazione_Ufologica_Nu",
+   "issues": 2,
+   "chars": 134481,
+   "first": "1992-12",
+   "last": "1994-12",
+   "month_known": 2
+  },
+  {
+   "series": "Ufologisk_Tidsskrift",
+   "issues": 2,
+   "chars": 324825,
+   "first": "1996-12",
+   "last": "1997-09",
+   "month_known": 2
+  },
+  {
+   "series": "Univers_OVNI",
+   "issues": 2,
+   "chars": 664161,
+   "first": "1996-03",
+   "last": "1997-10",
+   "month_known": 2
+  },
+  {
+   "series": "1970s_BUFORA_NIC_First_Edition",
+   "issues": 1,
+   "chars": 21182,
+   "first": "1970-06",
+   "last": "1970-06",
+   "month_known": 0
+  },
+  {
+   "series": "Flying_Saucer_News_Bulletin",
+   "issues": 1,
+   "chars": 12863,
+   "first": "1955-02",
+   "last": "1955-02",
+   "month_known": 1
+  },
+  {
+   "series": "Inforespace_hors_serie",
+   "issues": 1,
+   "chars": 140983,
+   "first": "1982-06",
+   "last": "1982-06",
+   "month_known": 0
+  },
+  {
+   "series": "01bis_UFO_Information_Belgique_Bulletin_",
+   "issues": 1,
+   "chars": 92832,
+   "first": "1964-01",
+   "last": "1964-01",
+   "month_known": 1
+  },
+  {
+   "series": "UFO_Informations_Special_CECRU_3e_sessio",
+   "issues": 1,
+   "chars": 45966,
+   "first": "1978-06",
+   "last": "1978-06",
+   "month_known": 0
+  },
+  {
+   "series": "Aerial_Phenomena_Hot_Wire",
+   "issues": 1,
+   "chars": 45014,
+   "first": "1965-09",
+   "last": "1965-09",
+   "month_known": 1
+  },
+  {
+   "series": "ParaPhenomena",
+   "issues": 1,
+   "chars": 72825,
+   "first": "1995-06",
+   "last": "1995-06",
+   "month_known": 0
+  },
+  {
+   "series": "1990s_UFO_Times_Santilli_Autopsy_info_sh",
+   "issues": 1,
+   "chars": 7149,
+   "first": "1990-06",
+   "last": "1990-06",
+   "month_known": 0
+  },
+  {
+   "series": "Flying_Saucers_Comics_Dell",
+   "issues": 1,
+   "chars": 20591,
+   "first": "1967-04",
+   "last": "1967-04",
+   "month_known": 1
+  },
+  {
+   "series": "00_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 49065,
+   "first": "1954-06",
+   "last": "1954-06",
+   "month_known": 0
+  },
+  {
+   "series": "01_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 99404,
+   "first": "1964-01",
+   "last": "1964-01",
+   "month_known": 1
+  },
+  {
+   "series": "02_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 118274,
+   "first": "1964-02",
+   "last": "1964-02",
+   "month_known": 1
+  },
+  {
+   "series": "03_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 114429,
+   "first": "1965-03",
+   "last": "1965-03",
+   "month_known": 1
+  },
+  {
+   "series": "04_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 159808,
+   "first": "1965-04",
+   "last": "1965-04",
+   "month_known": 1
+  },
+  {
+   "series": "05_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 141098,
+   "first": "1965-05",
+   "last": "1965-05",
+   "month_known": 1
+  },
+  {
+   "series": "06_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 156685,
+   "first": "1965-06",
+   "last": "1965-06",
+   "month_known": 1
+  },
+  {
+   "series": "07_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 173791,
+   "first": "1965-07",
+   "last": "1965-07",
+   "month_known": 1
+  },
+  {
+   "series": "08_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 160909,
+   "first": "1966-08",
+   "last": "1966-08",
+   "month_known": 1
+  },
+  {
+   "series": "09_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 192435,
+   "first": "1966-09",
+   "last": "1966-09",
+   "month_known": 1
+  },
+  {
+   "series": "0_Papers_d_Ovnis_Indices",
+   "issues": 1,
+   "chars": 25216,
+   "first": "1997-06",
+   "last": "1997-06",
+   "month_known": 0
+  },
+  {
+   "series": "0_Papers_d_Ovnis_Indices_Primera_epoca",
+   "issues": 1,
+   "chars": 57647,
+   "first": "1994-06",
+   "last": "1994-06",
+   "month_known": 0
+  },
+  {
+   "series": "10_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 157976,
+   "first": "1966-10",
+   "last": "1966-10",
+   "month_known": 1
+  },
+  {
+   "series": "11_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 146512,
+   "first": "1966-11",
+   "last": "1966-11",
+   "month_known": 1
+  },
+  {
+   "series": "12_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 182458,
+   "first": "1966-12",
+   "last": "1966-12",
+   "month_known": 1
+  },
+  {
+   "series": "13_UFO_Contact_BUFOI",
+   "issues": 1,
+   "chars": 170635,
+   "first": "1967-06",
+   "last": "1967-06",
+   "month_known": 0
+  },
+  {
+   "series": "14_UFO_Contact_BUFOI",
+   "issues": 1,
+   "chars": 115325,
+   "first": "1967-06",
+   "last": "1967-06",
+   "month_known": 0
+  },
+  {
+   "series": "15_UFO_Contact_BUFOI",
+   "issues": 1,
+   "chars": 69998,
+   "first": "1967-06",
+   "last": "1967-06",
+   "month_known": 0
+  },
+  {
+   "series": "16_UFO_Contact_BUFOI",
+   "issues": 1,
+   "chars": 92123,
+   "first": "1968-06",
+   "last": "1968-06",
+   "month_known": 0
+  },
+  {
+   "series": "17_UFO_Contact_BUFOI",
+   "issues": 1,
+   "chars": 89609,
+   "first": "1968-06",
+   "last": "1968-06",
+   "month_known": 0
+  },
+  {
+   "series": "18_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 83449,
+   "first": "1969-06",
+   "last": "1969-06",
+   "month_known": 0
+  },
+  {
+   "series": "19_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 83459,
+   "first": "1969-06",
+   "last": "1969-06",
+   "month_known": 0
+  },
+  {
+   "series": "20_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 93573,
+   "first": "1969-06",
+   "last": "1969-06",
+   "month_known": 0
+  },
+  {
+   "series": "21_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 96277,
+   "first": "1970-06",
+   "last": "1970-06",
+   "month_known": 0
+  },
+  {
+   "series": "22_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 71543,
+   "first": "1970-06",
+   "last": "1970-06",
+   "month_known": 0
+  },
+  {
+   "series": "23_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 67045,
+   "first": "1970-06",
+   "last": "1970-06",
+   "month_known": 0
+  },
+  {
+   "series": "24_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 73795,
+   "first": "1971-06",
+   "last": "1971-06",
+   "month_known": 0
+  },
+  {
+   "series": "25_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 73618,
+   "first": "1971-06",
+   "last": "1971-06",
+   "month_known": 0
+  },
+  {
+   "series": "26_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 88324,
+   "first": "1971-12",
+   "last": "1971-12",
+   "month_known": 1
+  },
+  {
+   "series": "27_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 43243,
+   "first": "1972-06",
+   "last": "1972-06",
+   "month_known": 0
+  },
+  {
+   "series": "28_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 64356,
+   "first": "1972-06",
+   "last": "1972-06",
+   "month_known": 0
+  },
+  {
+   "series": "29_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 69253,
+   "first": "1972-06",
+   "last": "1972-06",
+   "month_known": 0
+  },
+  {
+   "series": "30_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 169620,
+   "first": "1972-06",
+   "last": "1972-06",
+   "month_known": 0
+  },
+  {
+   "series": "31_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 72255,
+   "first": "1973-06",
+   "last": "1973-06",
+   "month_known": 0
+  },
+  {
+   "series": "32_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 63193,
+   "first": "1973-06",
+   "last": "1973-06",
+   "month_known": 0
+  },
+  {
+   "series": "34_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 64533,
+   "first": "1973-06",
+   "last": "1973-06",
+   "month_known": 0
+  },
+  {
+   "series": "35_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 70322,
+   "first": "1973-06",
+   "last": "1973-06",
+   "month_known": 0
+  },
+  {
+   "series": "36_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 64850,
+   "first": "1974-06",
+   "last": "1974-06",
+   "month_known": 0
+  },
+  {
+   "series": "37_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 101494,
+   "first": "1974-06",
+   "last": "1974-06",
+   "month_known": 0
+  },
+  {
+   "series": "38_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 71850,
+   "first": "1975-06",
+   "last": "1975-06",
+   "month_known": 0
+  },
+  {
+   "series": "39_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 72901,
+   "first": "1975-01",
+   "last": "1975-01",
+   "month_known": 1
+  },
+  {
+   "series": "40SEP2007",
+   "issues": 1,
+   "chars": 103559,
+   "first": "2007-06",
+   "last": "2007-06",
+   "month_known": 0
+  },
+  {
+   "series": "40_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 51249,
+   "first": "1976-06",
+   "last": "1976-06",
+   "month_known": 0
+  },
+  {
+   "series": "41_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 63869,
+   "first": "1976-06",
+   "last": "1976-06",
+   "month_known": 0
+  },
+  {
+   "series": "42_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 84380,
+   "first": "1976-06",
+   "last": "1976-06",
+   "month_known": 0
+  },
+  {
+   "series": "43_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 79460,
+   "first": "1977-06",
+   "last": "1977-06",
+   "month_known": 0
+  },
+  {
+   "series": "44_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 59994,
+   "first": "1977-06",
+   "last": "1977-06",
+   "month_known": 0
+  },
+  {
+   "series": "45_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 60915,
+   "first": "1977-06",
+   "last": "1977-06",
+   "month_known": 0
+  },
+  {
+   "series": "46_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 53347,
+   "first": "1977-06",
+   "last": "1977-06",
+   "month_known": 0
+  },
+  {
+   "series": "47_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 55544,
+   "first": "1978-06",
+   "last": "1978-06",
+   "month_known": 0
+  },
+  {
+   "series": "48_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 55851,
+   "first": "1978-06",
+   "last": "1978-06",
+   "month_known": 0
+  },
+  {
+   "series": "49_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 58940,
+   "first": "1978-06",
+   "last": "1978-06",
+   "month_known": 0
+  },
+  {
+   "series": "50_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 74166,
+   "first": "1978-06",
+   "last": "1978-06",
+   "month_known": 0
+  },
+  {
+   "series": "51_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 66212,
+   "first": "1978-01",
+   "last": "1978-01",
+   "month_known": 1
+  },
+  {
+   "series": "52_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 66026,
+   "first": "1979-06",
+   "last": "1979-06",
+   "month_known": 0
+  },
+  {
+   "series": "53_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 60351,
+   "first": "1979-06",
+   "last": "1979-06",
+   "month_known": 0
+  },
+  {
+   "series": "54_BUFOI_Magazine",
+   "issues": 1,
+   "chars": 58332,
+   "first": "1979-06",
+   "last": "1979-06",
+   "month_known": 0
+  },
+  {
+   "series": "19670400_APRO_Newsletter_April",
+   "issues": 1,
+   "chars": 11174,
+   "first": "1967-04",
+   "last": "1967-04",
+   "month_known": 1
+  },
+  {
+   "series": "19670700_APRO_Newsletter_July",
+   "issues": 1,
+   "chars": 13191,
+   "first": "1967-07",
+   "last": "1967-07",
+   "month_known": 1
+  },
+  {
+   "series": "19680400_APRO_Newsletter_April",
+   "issues": 1,
+   "chars": 15452,
+   "first": "1968-04",
+   "last": "1968-04",
+   "month_known": 1
+  },
+  {
+   "series": "19700919_APRO_Press_release_on_Ubatuba",
+   "issues": 1,
+   "chars": 5972,
+   "first": "1970-09",
+   "last": "1970-09",
+   "month_known": 1
+  },
+  {
+   "series": "19740000_APRO_Invitation_to_join",
+   "issues": 1,
+   "chars": 9641,
+   "first": "1974-06",
+   "last": "1974-06",
+   "month_known": 0
+  },
+  {
+   "series": "Sponsornytt_sept",
+   "issues": 1,
+   "chars": 4513,
+   "first": "1998-06",
+   "last": "1998-06",
+   "month_known": 0
+  },
+  {
+   "series": "Anomaly_01",
+   "issues": 1,
+   "chars": 37237,
+   "first": "1969-05",
+   "last": "1969-05",
+   "month_known": 1
+  },
+  {
+   "series": "Anomaly_02",
+   "issues": 1,
+   "chars": 55925,
+   "first": "1969-09",
+   "last": "1969-09",
+   "month_known": 1
+  },
+  {
+   "series": "Anomaly_03",
+   "issues": 1,
+   "chars": 53277,
+   "first": "1969-12",
+   "last": "1969-12",
+   "month_known": 1
+  },
+  {
+   "series": "Anomaly_04",
+   "issues": 1,
+   "chars": 20243,
+   "first": "1970-07",
+   "last": "1970-07",
+   "month_known": 1
+  },
+  {
+   "series": "Anomaly_05",
+   "issues": 1,
+   "chars": 60819,
+   "first": "1970-10",
+   "last": "1970-10",
+   "month_known": 1
+  },
+  {
+   "series": "Anomaly_06",
+   "issues": 1,
+   "chars": 62487,
+   "first": "1971-02",
+   "last": "1971-02",
+   "month_known": 1
+  },
+  {
+   "series": "Anomaly_08",
+   "issues": 1,
+   "chars": 125052,
+   "first": "1972-06",
+   "last": "1972-06",
+   "month_known": 0
+  },
+  {
+   "series": "Anomaly_09",
+   "issues": 1,
+   "chars": 98894,
+   "first": "1973-06",
+   "last": "1973-06",
+   "month_known": 1
+  },
+  {
+   "series": "Anomaly_10",
+   "issues": 1,
+   "chars": 58249,
+   "first": "1973-11",
+   "last": "1973-11",
+   "month_known": 1
+  },
+  {
+   "series": "Anomaly_11",
+   "issues": 1,
+   "chars": 62767,
+   "first": "1974-04",
+   "last": "1974-04",
+   "month_known": 1
+  },
+  {
+   "series": "Australian_Saucer_Record_Special_Edition",
+   "issues": 1,
+   "chars": 49525,
+   "first": "1962-06",
+   "last": "1962-06",
+   "month_known": 0
+  },
+  {
+   "series": "Believe_It",
+   "issues": 1,
+   "chars": 209129,
+   "first": "1978-11",
+   "last": "1978-11",
+   "month_known": 1
+  },
+  {
+   "series": "Bolide_Announcement",
+   "issues": 1,
+   "chars": 4282,
+   "first": "1986-02",
+   "last": "1986-02",
+   "month_known": 1
+  },
+  {
+   "series": "CENAP_Sonderband",
+   "issues": 1,
+   "chars": 114389,
+   "first": "1981-06",
+   "last": "1981-06",
+   "month_known": 0
+  },
+  {
+   "series": "Circulaire_du_CERPI",
+   "issues": 1,
+   "chars": 42021,
+   "first": "1981-06",
+   "last": "1981-06",
+   "month_known": 0
+  },
+  {
+   "series": "CisuFlash1996_01",
+   "issues": 1,
+   "chars": 3636,
+   "first": "1996-06",
+   "last": "1996-06",
+   "month_known": 0
+  },
+  {
+   "series": "CisuFlash1996_02",
+   "issues": 1,
+   "chars": 3153,
+   "first": "1996-06",
+   "last": "1996-06",
+   "month_known": 0
+  },
+  {
+   "series": "CisuFlash1996_03",
+   "issues": 1,
+   "chars": 3550,
+   "first": "1996-06",
+   "last": "1996-06",
+   "month_known": 0
+  },
+  {
+   "series": "CisuFlash1996_04",
+   "issues": 1,
+   "chars": 4969,
+   "first": "1996-06",
+   "last": "1996-06",
+   "month_known": 0
+  },
+  {
+   "series": "Computer_UFO_Newsletter_Experimental",
+   "issues": 1,
+   "chars": 9969,
+   "first": "1985-05",
+   "last": "1985-05",
+   "month_known": 1
+  },
+  {
+   "series": "Dragon_Watch",
+   "issues": 1,
+   "chars": 170372,
+   "first": "1997-12",
+   "last": "1997-12",
+   "month_known": 1
+  },
+  {
+   "series": "Echo_du_CERPA",
+   "issues": 1,
+   "chars": 63130,
+   "first": "1998-06",
+   "last": "1998-06",
+   "month_known": 0
+  },
+  {
+   "series": "IUFOPRA_Information_Network_Newsletter_X",
+   "issues": 1,
+   "chars": 38903,
+   "first": "1999-06",
+   "last": "1999-06",
+   "month_known": 0
+  },
+  {
+   "series": "IUFOPRA_Journal_Summer_Edition",
+   "issues": 1,
+   "chars": 86548,
+   "first": "1998-06",
+   "last": "1998-06",
+   "month_known": 0
+  },
+  {
+   "series": "Info_OVNI_Series_Hors_Journees_de_Montlu",
+   "issues": 1,
+   "chars": 32422,
+   "first": "1978-06",
+   "last": "1978-06",
+   "month_known": 0
+  },
+  {
+   "series": "Informationsblad",
+   "issues": 1,
+   "chars": 14629,
+   "first": "1985-06",
+   "last": "1985-06",
+   "month_known": 0
+  },
+  {
+   "series": "Itufor1996",
+   "issues": 1,
+   "chars": 40731,
+   "first": "1996-06",
+   "last": "1996-06",
+   "month_known": 0
+  },
+  {
+   "series": "Itufor2009",
+   "issues": 1,
+   "chars": 34603,
+   "first": "2009-06",
+   "last": "2009-06",
+   "month_known": 0
+  },
+  {
+   "series": "Journal_of_the_National_UFO_Conference",
+   "issues": 1,
+   "chars": 31897,
+   "first": "1972-06",
+   "last": "1972-06",
+   "month_known": 0
+  },
+  {
+   "series": "La_ligne_bleue_survolee_Special_CNEGU",
+   "issues": 1,
+   "chars": 90871,
+   "first": "1991-06",
+   "last": "1991-06",
+   "month_known": 0
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_01",
+   "issues": 1,
+   "chars": 5887,
+   "first": "1982-06",
+   "last": "1982-06",
+   "month_known": 0
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_02",
+   "issues": 1,
+   "chars": 8003,
+   "first": "1982-06",
+   "last": "1982-06",
+   "month_known": 0
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_03",
+   "issues": 1,
+   "chars": 4773,
+   "first": "1982-01",
+   "last": "1982-01",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_04",
+   "issues": 1,
+   "chars": 6692,
+   "first": "1982-02",
+   "last": "1982-02",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_05",
+   "issues": 1,
+   "chars": 6534,
+   "first": "1983-01",
+   "last": "1983-01",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_06",
+   "issues": 1,
+   "chars": 7498,
+   "first": "1983-02",
+   "last": "1983-02",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_07",
+   "issues": 1,
+   "chars": 5864,
+   "first": "1983-03",
+   "last": "1983-03",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_08",
+   "issues": 1,
+   "chars": 16251,
+   "first": "1983-04",
+   "last": "1983-04",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_09",
+   "issues": 1,
+   "chars": 6097,
+   "first": "1983-05",
+   "last": "1983-05",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_10",
+   "issues": 1,
+   "chars": 7301,
+   "first": "1983-06",
+   "last": "1983-06",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_11",
+   "issues": 1,
+   "chars": 6500,
+   "first": "1983-07",
+   "last": "1983-07",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_12",
+   "issues": 1,
+   "chars": 6882,
+   "first": "1983-09",
+   "last": "1983-09",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_13",
+   "issues": 1,
+   "chars": 6072,
+   "first": "1983-06",
+   "last": "1983-06",
+   "month_known": 0
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_14",
+   "issues": 1,
+   "chars": 5732,
+   "first": "1983-01",
+   "last": "1983-01",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_15",
+   "issues": 1,
+   "chars": 7516,
+   "first": "1983-02",
+   "last": "1983-02",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_17",
+   "issues": 1,
+   "chars": 4464,
+   "first": "1984-02",
+   "last": "1984-02",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_18",
+   "issues": 1,
+   "chars": 6833,
+   "first": "1984-04",
+   "last": "1984-04",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_19",
+   "issues": 1,
+   "chars": 5481,
+   "first": "1984-06",
+   "last": "1984-06",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_20",
+   "issues": 1,
+   "chars": 7256,
+   "first": "1984-09",
+   "last": "1984-09",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_21",
+   "issues": 1,
+   "chars": 11180,
+   "first": "1984-01",
+   "last": "1984-01",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_22",
+   "issues": 1,
+   "chars": 7668,
+   "first": "1984-02",
+   "last": "1984-02",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_24",
+   "issues": 1,
+   "chars": 8488,
+   "first": "1985-02",
+   "last": "1985-02",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_25",
+   "issues": 1,
+   "chars": 7776,
+   "first": "1985-04",
+   "last": "1985-04",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_26",
+   "issues": 1,
+   "chars": 8177,
+   "first": "1985-05",
+   "last": "1985-05",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_27",
+   "issues": 1,
+   "chars": 7244,
+   "first": "1985-06",
+   "last": "1985-06",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_28",
+   "issues": 1,
+   "chars": 8097,
+   "first": "1985-09",
+   "last": "1985-09",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_29",
+   "issues": 1,
+   "chars": 7912,
+   "first": "1985-01",
+   "last": "1985-01",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_30",
+   "issues": 1,
+   "chars": 7728,
+   "first": "1986-01",
+   "last": "1986-01",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_31",
+   "issues": 1,
+   "chars": 5503,
+   "first": "1986-04",
+   "last": "1986-04",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_32",
+   "issues": 1,
+   "chars": 5589,
+   "first": "1986-05",
+   "last": "1986-05",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_33",
+   "issues": 1,
+   "chars": 6754,
+   "first": "1986-06",
+   "last": "1986-06",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_34",
+   "issues": 1,
+   "chars": 8463,
+   "first": "1986-09",
+   "last": "1986-09",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_35",
+   "issues": 1,
+   "chars": 9236,
+   "first": "1986-10",
+   "last": "1986-10",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_36",
+   "issues": 1,
+   "chars": 8557,
+   "first": "1986-11",
+   "last": "1986-11",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_37",
+   "issues": 1,
+   "chars": 18013,
+   "first": "1986-12",
+   "last": "1986-12",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_38",
+   "issues": 1,
+   "chars": 46188,
+   "first": "1987-01",
+   "last": "1987-01",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_39",
+   "issues": 1,
+   "chars": 21023,
+   "first": "1987-02",
+   "last": "1987-02",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_40",
+   "issues": 1,
+   "chars": 26290,
+   "first": "1987-03",
+   "last": "1987-03",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_41",
+   "issues": 1,
+   "chars": 29440,
+   "first": "1987-04",
+   "last": "1987-04",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_42",
+   "issues": 1,
+   "chars": 36738,
+   "first": "1987-05",
+   "last": "1987-05",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_43",
+   "issues": 1,
+   "chars": 31644,
+   "first": "1987-06",
+   "last": "1987-06",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_44",
+   "issues": 1,
+   "chars": 37309,
+   "first": "1987-07",
+   "last": "1987-07",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_45",
+   "issues": 1,
+   "chars": 26838,
+   "first": "1987-08",
+   "last": "1987-08",
+   "month_known": 1
+  },
+  {
+   "series": "MUFON_Massachusetts_Newsletter_46",
+   "issues": 1,
+   "chars": 31319,
+   "first": "1987-09",
+   "last": "1987-09",
+   "month_known": 1
+  },
+  {
+   "series": "NUFON_Report",
+   "issues": 1,
+   "chars": 42717,
+   "first": "1970-06",
+   "last": "1970-06",
+   "month_known": 0
+  },
+  {
+   "series": "SUFOG",
+   "issues": 1,
+   "chars": 67869,
+   "first": "1990-06",
+   "last": "1990-06",
+   "month_known": 0
+  },
+  {
+   "series": "SUFOG_Magazine_December",
+   "issues": 1,
+   "chars": 133005,
+   "first": "2007-06",
+   "last": "2007-06",
+   "month_known": 0
+  },
+  {
+   "series": "SUFOG_Magazine_June",
+   "issues": 1,
+   "chars": 138227,
+   "first": "2007-06",
+   "last": "2007-06",
+   "month_known": 0
+  },
+  {
+   "series": "SUFOG_Magazine_September",
+   "issues": 1,
+   "chars": 155368,
+   "first": "2007-06",
+   "last": "2007-06",
+   "month_known": 0
+  },
+  {
+   "series": "SVL_Newsletter",
+   "issues": 1,
+   "chars": 27579,
+   "first": "1989-03",
+   "last": "1989-03",
+   "month_known": 1
+  },
+  {
+   "series": "Scandian_Newsletter",
+   "issues": 1,
+   "chars": 47388,
+   "first": "1971-06",
+   "last": "1971-06",
+   "month_known": 0
+  },
+  {
+   "series": "Sky_Scouts_National_Newsletter",
+   "issues": 1,
+   "chars": 11014,
+   "first": "1967-01",
+   "last": "1967-01",
+   "month_known": 1
+  },
+  {
+   "series": "Strange_Daze_Newsletter_winter",
+   "issues": 1,
+   "chars": 62239,
+   "first": "1999-06",
+   "last": "1999-06",
+   "month_known": 0
+  },
+  {
+   "series": "The_Research_Magazine_s_Look_See_Apr",
+   "issues": 1,
+   "chars": 5959,
+   "first": "1964-06",
+   "last": "1964-06",
+   "month_known": 0
+  },
+  {
+   "series": "The_Research_Magazine_s_Look_See_Feb",
+   "issues": 1,
+   "chars": 7012,
+   "first": "1964-06",
+   "last": "1964-06",
+   "month_known": 0
+  },
+  {
+   "series": "The_Research_Magazine_s_Look_See_May",
+   "issues": 1,
+   "chars": 7935,
+   "first": "1964-06",
+   "last": "1964-06",
+   "month_known": 0
+  },
+  {
+   "series": "The_Research_Magazine_s_Look_See_Oct",
+   "issues": 1,
+   "chars": 2897,
+   "first": "1963-06",
+   "last": "1963-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Contactee_10_February",
+   "issues": 1,
+   "chars": 45206,
+   "first": "1995-06",
+   "last": "1995-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Contactee_11_March",
+   "issues": 1,
+   "chars": 35313,
+   "first": "1996-06",
+   "last": "1996-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Contactee_12_April",
+   "issues": 1,
+   "chars": 37192,
+   "first": "1997-06",
+   "last": "1997-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Contactee_13",
+   "issues": 1,
+   "chars": 34505,
+   "first": "1998-06",
+   "last": "1998-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Contactee_1_May",
+   "issues": 1,
+   "chars": 33261,
+   "first": "1985-06",
+   "last": "1985-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Contactee_2_February",
+   "issues": 1,
+   "chars": 28927,
+   "first": "1986-06",
+   "last": "1986-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Contactee_3_January",
+   "issues": 1,
+   "chars": 50974,
+   "first": "1987-06",
+   "last": "1987-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Contactee_4_January",
+   "issues": 1,
+   "chars": 51103,
+   "first": "1988-06",
+   "last": "1988-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Contactee_5_March",
+   "issues": 1,
+   "chars": 61800,
+   "first": "1989-06",
+   "last": "1989-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Contactee_6_July",
+   "issues": 1,
+   "chars": 49305,
+   "first": "1990-06",
+   "last": "1990-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Contactee_7_August",
+   "issues": 1,
+   "chars": 50811,
+   "first": "1991-06",
+   "last": "1991-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Contactee_8",
+   "issues": 1,
+   "chars": 43299,
+   "first": "1992-06",
+   "last": "1992-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Contactee_9_February",
+   "issues": 1,
+   "chars": 35172,
+   "first": "1994-06",
+   "last": "1994-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Forum_Speciale_aprile",
+   "issues": 1,
+   "chars": 129569,
+   "first": "1997-06",
+   "last": "1997-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Nyt_Jan_Feb",
+   "issues": 1,
+   "chars": 158662,
+   "first": "1964-06",
+   "last": "1964-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Nyt_Juli_Aug",
+   "issues": 1,
+   "chars": 160793,
+   "first": "1964-06",
+   "last": "1964-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Nyt_Maj_Juni",
+   "issues": 1,
+   "chars": 159546,
+   "first": "1964-06",
+   "last": "1964-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Nyt_Marts_April",
+   "issues": 1,
+   "chars": 164679,
+   "first": "1964-06",
+   "last": "1964-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Nyt_Sept_Okt",
+   "issues": 1,
+   "chars": 147212,
+   "first": "1964-06",
+   "last": "1964-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Nyt_jan_feb",
+   "issues": 1,
+   "chars": 176834,
+   "first": "1965-06",
+   "last": "1965-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Nyt_provenummer_februar",
+   "issues": 1,
+   "chars": 47908,
+   "first": "1966-06",
+   "last": "1966-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Research_Australia_Dec",
+   "issues": 1,
+   "chars": 4119,
+   "first": "1987-06",
+   "last": "1987-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Research_Australia_Jan",
+   "issues": 1,
+   "chars": 18463,
+   "first": "1988-06",
+   "last": "1988-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Sighter_Jun",
+   "issues": 1,
+   "chars": 19620,
+   "first": "1969-06",
+   "last": "1969-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Sighter_May",
+   "issues": 1,
+   "chars": 20543,
+   "first": "1970-06",
+   "last": "1970-06",
+   "month_known": 0
+  },
+  {
+   "series": "UFO_Sighter",
+   "issues": 1,
+   "chars": 20214,
+   "first": "1969-06",
+   "last": "1969-06",
+   "month_known": 0
+  },
+  {
+   "series": "UNB2008",
+   "issues": 1,
+   "chars": 134831,
+   "first": "2008-06",
+   "last": "2008-06",
+   "month_known": 0
+  },
+  {
+   "series": "Vimana_21_Serie_Hors_special_Jeanne_d_Ar",
+   "issues": 1,
+   "chars": 82064,
+   "first": "1987-06",
+   "last": "1987-06",
+   "month_known": 0
+  },
+  {
+   "series": "Vimana_Special",
+   "issues": 1,
+   "chars": 47570,
+   "first": "1970-01",
+   "last": "1970-01",
+   "month_known": 1
+  },
+  {
+   "series": "mystic_magazine_august",
+   "issues": 1,
+   "chars": 324476,
+   "first": "1955-06",
+   "last": "1955-06",
+   "month_known": 0
+  }
+ ]
+}

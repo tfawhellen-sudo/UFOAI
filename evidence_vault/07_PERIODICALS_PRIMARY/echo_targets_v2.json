@@ -1,0 +1,2017 @@
+{
+ "corpus": {
+  "A": 844,
+  "B": 6310
+ },
+ "targets": {
+  "galesburg_1967": {
+   "kind": "TARGET",
+   "note": "6 catalogues, zero upstream roots",
+   "year": 1967,
+   "month": 3,
+   "A": {
+    "place_hits": 8,
+    "place_issues": 8,
+    "strict_issues": 0,
+    "recall_only_issues": 0,
+    "strict": [],
+    "recall_only": [],
+    "by_source": {}
+   },
+   "B": {
+    "place_hits": 28,
+    "place_issues": 23,
+    "strict_issues": 0,
+    "recall_only_issues": 0,
+    "strict": [],
+    "recall_only": [],
+    "by_source": {}
+   }
+  },
+  "texas_town_1966": {
+   "kind": "TARGET",
+   "note": "'a small town in Texas', 6 catalogues",
+   "year": 1966,
+   "month": 9,
+   "A": {
+    "place_hits": 3897,
+    "place_issues": 649,
+    "strict_issues": 3,
+    "recall_only_issues": 0,
+    "strict": [
+     {
+      "issue": "A/APRO__APRO_Bulletin_-_1975_06_00_-_Vol_23_No_8_djvu.txt",
+      "issue_date": "1975-06",
+      "lag_months": 105,
+      "offset": 13661,
+      "context": "July-September 1973 and January-June 1974 and forensic pathology, Coroner’s Office, San Francisco City and County, July-September 1971 and January 1972-December 1974. Dr. Daugherty’s military service includes General Medical Officer, U.S. Army, Major, July 1966-June 1969, William Beaumont Hospital, El Paso, Texas, July 1966-November 1967; Vietnam December 1967-December 1968 and Fort Meade, Maryland, January 1969-June"
+     },
+     {
+      "issue": "A/IUR__Frontiers_of_Science_3_4__May_June_1981_djvu.txt",
+      "issue_date": "1981-05",
+      "lag_months": 176,
+      "offset": 31912,
+      "context": "ve the lie to the cliché that “no interesting cases are reliable, and no reliable cases are in- teresting.” No one has come up with a viable explanation for any of these ten, let alone the hundreds of others one July 14, 1952 USAF-RAF Bentwaters-Lakenheath, England Aug. 13-14, 1956 Salaz, et al. Levelland, Texas Nov. 2-3, 1957 Father Gill Boianai, Papua June 26, 1959 Betty and Barney Hill Whitefield, New Hampshire Se"
+     },
+     {
+      "issue": "A/MUFON__2007_04_djvu.txt",
+      "issue_date": "2007-04",
+      "lag_months": 487,
+      "offset": 72838,
+      "context": "technician from August 1965 through September 1966. He remembers the area quite well. earlbeal@yahoo.com April 2007 Field Investigator’s Corner by Chuck Reever MUFON Director of Investigations Each month we publish the CMS Ranking Report for all State Directors. Congratulations to Kenneth E. Cherry (Texas), Bland Pugh (Florida), Donald R. Burleson (New Mexico) for being Ist, 2nd and 3rd respectively in the month of M"
+     }
+    ],
+    "recall_only": [],
+    "by_source": {
+     "APRO": 1,
+     "IUR": 1,
+     "MUFON": 1
+    }
+   },
+   "B": {
+    "place_hits": 5576,
+    "place_issues": 1984,
+    "strict_issues": 8,
+    "recall_only_issues": 1,
+    "strict": [
+     {
+      "issue": "B/FSR__the-flying-saucer-review-ultimate-collection__74.FSR.txt",
+      "issue_date": "1966-03",
+      "lag_months": -6,
+      "offset": 119695,
+      "context": "away to a place among the stars and in a few seconds was hid beyond the darkness of the night.” References Charles Fort, New Lands, 1923. Donald E. Keyhoe, The Flying Saucers Are Real, 1950, Edward J. Ruppelt, The Report on Unidentified Flying Objects, 1956. Donald B. Hanlon and Jacques Vallée, Airships over Texas: FSR, January/February 1967. Hanlon, Texas Odyssey of 1897: FSR, September/October 1966. Lucius Farish, "
+     },
+     {
+      "issue": "B/UFOIC_Newsletter__UFOIC_Newsletter_No_17_December_1967.txt",
+      "issue_date": "1967-06",
+      "lag_months": 9,
+      "offset": 1801,
+      "context": "that some revealing announcement uiill be made in the not too distant future® Ufologists throughout the uiorld are auaiting impatiently this moment with confidence that their views will finally be recognised and the hypothesis of UFO’s extra-terrestrial origin and technological nature confirmed® UFO OVER DALLAS, TEXAS - On the night of September 28, 1966 at about 11*30 pom®, fyir® Fred Loven noticed from his kitchen "
+     },
+     {
+      "issue": "B/UFO_Nyt__UFO_Nyt_No_3_maj-juni_1967.txt",
+      "issue_date": "1967-06",
+      "lag_months": 9,
+      "offset": 16185,
+      "context": "rstyrrelser\", bedst illustreret ved de berømte Washington Airport observa¬ tioner den 19. og 26. juli 1952, 3) ,,kuglely ns¬ forklaringen\" i tilfældet ved Leveiland, Texas, den 2.-3. november 1957, 4) „astronomiske\" for¬ klaringer, som ved observationen i Exeter, New Hampshire, den 3. september 1965 og i Damon, Texas, samme nat. (Begge forklaringer blev trukket tilbage, efter at der var sat et spørgs¬ målstegn ved de"
+     },
+     {
+      "issue": "B/FSR__the-flying-saucer-review-ultimate-collection__77.FSR.txt",
+      "issue_date": "1967-11",
+      "lag_months": 14,
+      "offset": 110963,
+      "context": "liar to our generation? Postscript: In addition to the mystery airship sightings, the paraglider reminds me of the weird objects observed by Vauriat, France, on August 29, 1962 (FLYING SAUCER REVIEW July-August 1963). NOTES Clark, J. The Strange Case of the 1897 Airship, FSR July/August 1966 Hanlon, D. B. Texas Odyssey of 1897, FSR September/October 1966. Also, in collaboration with Vallée, J., Airships over Texas, F"
+     },
+     {
+      "issue": "B/FSR__the-flying-saucer-review-ultimate-collection__84.FSR.txt",
+      "issue_date": "1968-06",
+      "lag_months": 21,
+      "offset": 76086,
+      "context": "The Strange Case of the 1897 Airship, FSR, July/August 1966. More on 1897, FSR, July/August 1967. Gordon W. Creighton, Saucers and South Africa, October 1962. Lucius Farish, An 1880 UFO, FSR, May/June 1965. Donald B. Pinson, Teras Od) of 1897, FSR, September/October 966. , and Jacques Vallée, Airships over Texas, FSR, January/February 1967. W. H. Watson, 19th Century Paraglider? FSR, November/December 1967. FSR, Sept"
+     },
+     {
+      "issue": "B/UFO_Nyt__UFO_Nyt_No_1_jan-feb_1968.txt",
+      "issue_date": "1968-06",
+      "lag_months": 21,
+      "offset": 107743,
+      "context": "for en afstand på 150 fod (45 meter) fra deres patruljebil, mellem Damon og West Columbia, den 3. september 1965 ved 23-tiden (altså min¬ dre end 24 timer efter Exeter-observationen. Også denne observation er udførligere omtalt i McDonald-rapporten o.a.). (PROBE, Vol. IV, nr. 1, 67). Fra „Houston Tribune 44 , Texas, for 19. januar 1967, kommer følgende beretning om en UFO- forfølgelse i Houston-området. I september 1"
+     },
+     {
+      "issue": "B/FSR__the-flying-saucer-review-ultimate-collection__90.FSR.txt",
+      "issue_date": "1970-06",
+      "lag_months": 45,
+      "offset": 135831,
+      "context": "Texas, U.S.A. (April 1897) The Dallas News of April 28, 1897, had a report of an anonymous witness (a lawyer) who was driving his horse and buggy at night when the “Airship” passed overhead. The horse snorted, reared, plunged madly, nearly overturned the buggy, and stood trembling like a leaf. Donald B. Hanlon: Texas Odyssey of 1897, FSR, September/October 1966, p. 8. 13. Hot Springs, Arkansas, U.S.A. (night of May 6"
+     },
+     {
+      "issue": "B/Australian_UFO_Bulletin__Australian_UFO_Bulletin_2004_06_June.txt",
+      "issue_date": "2004-06",
+      "lag_months": 453,
+      "offset": 52407,
+      "context": "a. April 8, 1956 - the American Airlines sighting of a glowing orange UFO, over central New York, by Capt. Raymond Ryan. August 1, 1966 - a sighting, by physicist Dr Vasil Uzunoglu, of a lighted low-flying UFO near Andrews Air Force Base, Maryland. January 21, 1967 - a boomerang-shaped object, over Houston, Texas, observed by Dr Albert Kuntz, University of Houston psychologist. September 23, 1967 - geology professor,"
+     }
+    ],
+    "recall_only": [
+     {
+      "issue": "B/LDLN__LDLN_No_109.txt",
+      "issue_date": "1970-12",
+      "lag_months": 51,
+      "offset": 30225,
+      "context": "trace. Les obser¬ vations durèrent pendant près de quatre heures et furent confirmées par trois bases de missiles diffé¬ rentes. Des interférences radio furent remarquées par les équipes envoyées sur les lieux où l'objet fut nar- fois décrit flanant au ras du sol (Atic). 792) Septembre 1966 03 : 30, El Campo (Texas) : Un officier de police roulait à près de 200 km/heure vers le Nord sur la route 71 lorsqu'il vit tout"
+     }
+    ],
+    "by_source": {
+     "FSR": 4,
+     "UFOIC_Newsletter": 1,
+     "UFO_Nyt": 2,
+     "Australian_UFO_Bulletin": 1,
+     "LDLN": 1
+    }
+   }
+  },
+  "dallas_1965": {
+   "kind": "TARGET",
+   "note": "5 catalogues",
+   "year": 1965,
+   "month": 8,
+   "A": {
+    "place_hits": 398,
+    "place_issues": 218,
+    "strict_issues": 0,
+    "recall_only_issues": 0,
+    "strict": [],
+    "recall_only": [],
+    "by_source": {}
+   },
+   "B": {
+    "place_hits": 1115,
+    "place_issues": 554,
+    "strict_issues": 1,
+    "recall_only_issues": 1,
+    "strict": [
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_2008_05_no_466.txt",
+      "issue_date": "2008-05",
+      "lag_months": 513,
+      "offset": 44610,
+      "context": "ought it resembled.. .a balloon.” But at some point, someone ran onto this story and inducted it into UFO lore. An even more careful review of the facts sur¬ rounding this 1878 story reveals the distinct possibil¬ ity of a long-ago misunderstanding on someone’s part: It appears the UFO sighting occurred near Dallas, not Denison. True, the story ran in the Denison newspaper, but according to the first-ever printed ref"
+     }
+    ],
+    "recall_only": [
+     {
+      "issue": "B/LDLN__LDLN_No_108.txt",
+      "issue_date": "1970-10",
+      "lag_months": 62,
+      "offset": 17670,
+      "context": "eant de l'orange au vert fluorescent ; il s'envola à grande vitesse. (NICAP) • 671) 4 Août 1965, Chena (Chili) : Un objet brillant ,argenté, atterrit sur une colline pendant 45 minutes. Il y eut de nombreux témoins, dont des militaires. Enquête officielle. (Nachrichten, Oct. 65) O 672) 4 Août 1965 01:30, Dallas (Texas) : Un homme en voiture vit une lumière rouge et bleue ; il pensait qu'elle venait d'une voiture de l"
+     }
+    ],
+    "by_source": {
+     "UFO_Newsclipping_Service": 1,
+     "LDLN": 1
+    }
+   }
+  },
+  "wpafb_1951": {
+   "kind": "TARGET",
+   "note": "5 catalogues; APRO begins 1952",
+   "year": 1951,
+   "month": 6,
+   "A": {
+    "place_hits": 278,
+    "place_issues": 141,
+    "strict_issues": 0,
+    "recall_only_issues": 0,
+    "strict": [],
+    "recall_only": [],
+    "by_source": {}
+   },
+   "B": {
+    "place_hits": 847,
+    "place_issues": 452,
+    "strict_issues": 0,
+    "recall_only_issues": 0,
+    "strict": [],
+    "recall_only": [],
+    "by_source": {}
+   }
+  },
+  "socorro_1964": {
+   "kind": "CONTROL",
+   "note": "control: Zamora, heavily documented",
+   "year": 1964,
+   "month": 4,
+   "A": {
+    "place_hits": 349,
+    "place_issues": 113,
+    "strict_issues": 30,
+    "recall_only_issues": 1,
+    "strict": [
+     {
+      "issue": "A/APRO__APRO_Bulletin_-_1964_05_00_-_May_djvu.txt",
+      "issue_date": "1964-05",
+      "lag_months": 1,
+      "offset": 5256,
+      "context": "f the Zamora sighting, which brought the UFO into sharp focus in the latter part of April, and the day-by-day, blow- by-blow account of the entire investiga- tion, which is as interesting, in some ways, as the sightings themselves. At 6:50 p.m. on Friday evening, 24 April, 1964, Patrolman Lonnie Zamora ot the Socorro, New Mexico City Police, was proceeding south at high speed on South Park Street in pursuit of a spee"
+     },
+     {
+      "issue": "A/APRO__APRO_Bulletin_-_1964_07_00_-_July_djvu.txt",
+      "issue_date": "1964-07",
+      "lag_months": 3,
+      "offset": 33125,
+      "context": "case— if she could give the information or not. 5. To date, nothing has been heard from Mrs. Rust. APRO has no member close enough to Canyon Ferry to make a personal in- vestigation and the cost of telephone interviews is prohibitive. Because of the Rust’s and Davis’ lack of specific information on the Socorro incident, including the indentations, it is reasonable to assume the indentations at Canyon Ferry were genui"
+     },
+     {
+      "issue": "A/APRO__APRO_Bulletin_-_1965_09_00_-_September-October_djvu.txt",
+      "issue_date": "1965-09",
+      "lag_months": 17,
+      "offset": 38432,
+      "context": "it went out of sight. Spokes- men for the Scottsbluff weather bureau said that their radar tracked nothing. UAO Photo... (Continued from page 4) ly a public relations tool, and is unclassi- fied. This thesis has been borne out in many incidents investigated by APRO in the past several years. The famous Socorro, New Mexico incident of April 1964 was investigated by Army Intelligence, and their investigation preceded t"
+     },
+     {
+      "issue": "A/APRO__APRO_Bulletin_-_1966_09_00_-_September-October_djvu.txt",
+      "issue_date": "1966-09",
+      "lag_months": 29,
+      "offset": 39624,
+      "context": "RO members and others concern- ing the reliability and authenticity of certain information contained in Frank Edwards’ book, “Flying Saucers—Serious Business” (Lyle Stuart and Bantam pa- perbacks) has prompted the following rather than presenting a formal book review: All in all, Edwards’ presentation of the Socorro (24 April 1964) case contained at least 12 errors. Some of the things which did not happen but which E"
+     },
+     {
+      "issue": "A/APRO__APRO_Bulletin_-_1967_09_00_-_September-October_djvu.txt",
+      "issue_date": "1967-09",
+      "lag_months": 41,
+      "offset": 14912,
+      "context": "ed to a potential military threat.” (Dr. Sawyer is referring to Chapter 9, “The Censorship Situation” which was written by the Director, Mr. L. J. Loren- zen). Unquote. We have received a total of nine let- ters pointing out an error in the text of “F. S. Occupants” on page 26 in which the date of the famous Socorro landing was given as April 24, 1966 instead of April 24, 1964, which is the actual date. Ironically, t"
+     },
+     {
+      "issue": "A/APRO__APRO_Bulletin_-_1968_03_00_-_March-April_djvu.txt",
+      "issue_date": "1968-03",
+      "lag_months": 47,
+      "offset": 20531,
+      "context": "ranted in view of the high degree of inaccuracy displayed in Mr. Frank Edwards’ book, “Flying PAGE 3 Saucers, Serious Business” which was not criticized (in fact it was not even reviewed) by the editor of the Investi- gator. It is a matter of record that Mr. Edwards’ account of the Lonnie Zamora sighting (Socorro, April 1964) contained no less than 13 errors, the most glaring of which was his insinuation that Zamora "
+     },
+     {
+      "issue": "A/APRO__APRO_Bulletin_-_1969_09_00_-_September-October_djvu.txt",
+      "issue_date": "1969-09",
+      "lag_months": 65,
+      "offset": 25082,
+      "context": "el San- tiago, conducted an investigation into the observations. The above is a con- densation of their findings. As already pointed out by Colonel de Leon, the object and occupants observed are not too different from those described by State Patrolman Lonnie Zamora in the April 24, 1964 landing case outside Socorro, N. M. In both incidents (New Mexico and SEPTEMBER-OCTOBER, 1969 Philippines) the objects were white, "
+     },
+     {
+      "issue": "A/APRO__APRO_Bulletin_-_1974_05_00_-_May-June_djvu.txt",
+      "issue_date": "1974-05",
+      "lag_months": 121,
+      "offset": 23444,
+      "context": "ptember 11, 12 and 13 at about 3:40 p.m. coincidental with the sightings on September 12 and 13. : Landing (Continued from Page One} In viewing the drawings made by Mr. T., one cannot help but note the similari- ties between this object and the occupants and those sighted by Patrol- man Lonnie Zamora at Socorro, New Mexico in April, 1964. Mr. T.’s craft sports only three legs, however, and Zamora described four (and "
+     },
+     {
+      "issue": "A/MUFON__1975_08_djvu.txt",
+      "issue_date": "1975-08",
+      "lag_months": 136,
+      "offset": 26726,
+      "context": "ce and hasty departure, - ‘ upon ‘exposure, - (usually) ‘unusual appearance and behavior. of two or three smallish figures of An linidentified flying. object is optional, often than not, ~ The diligent researcher ‘is a- case of this type, of course, is the report by Patrolman. Lonnie Zamora at Socorro, | N. M., on April 24, “1964, (See J. Hynek ''s THE UFO EXPE RIENCE (Reg- 1972), pp. 144-45.) though it occurred duri"
+     },
+     {
+      "issue": "A/MUFON__1976_11_djvu.txt",
+      "issue_date": "1976-11",
+      "lag_months": 151,
+      "offset": 39479,
+      "context": "’s Nazca Science Boosters Club, entitling you to both Sketchbooks and a quarterly Nazca Newsletter. Al- so available are 38 blueprint- size charts of the Nazca region, with each chart. covering an area of 3 x 4% miles. These are ptices at $6.50 each. The ad- dress is: P.O. Box 9635, se Village, OH 44140. Socorro, New Mexico, April 24, 1964. Most of us know — roughly at least — what is alleged to have occurred in that"
+     },
+     {
+      "issue": "A/APRO__APRO_Bulletin_-_1976_12_00_-_Vol_25_No_6_djvu.txt",
+      "issue_date": "1976-12",
+      "lag_months": 152,
+      "offset": 10510,
+      "context": "passe to call a UFO a “saucer,” but Ray Stanford fittingly revives the word in the catchy title of his new book, and it is a blockbuster. This is one of those all-too rare books which take an in-depth look at a single UFO case — in this instance the famous April 24, 1964, sighting by Patrolman Lonnie Zamora at Socorro, New Mexico, which involved occupants and physical traces. Despite what the title might imply, howev"
+     },
+     {
+      "issue": "A/IUR__Volume_3__number_9__September_1978_djvu.txt",
+      "issue_date": "1978-09",
+      "lag_months": 173,
+      "offset": 75315,
+      "context": "p the excellent work. THOMAS BURCH Poolesville, MD Have just received and read the latest issue of IUR (july 1978), and want to write to congratulate you on the new format. The IUR improves with age (as | have noted while cataloguing the back issues)! TOM LIND Gloucester, MA IN CURRENT JOURNALS THE SOCORRO, NEW MEXICO LANDING - ADDITIONAL WITNESSES? One of the most celebrated American UFO landings was the story of po"
+     },
+     {
+      "issue": "A/MUFON__1978_10_djvu.txt",
+      "issue_date": "1978-10",
+      "lag_months": 174,
+      "offset": 59161,
+      "context": "September 1978, Route #1, Hazelton, IA 50641. Editor Ralph DeGraw notes: that there are discrepancies between the witness descriptions and with the original account by Lonnie Zamora, but in broad detail the testimony appears to support Zamora’s report.--Editor)} Most readers.are familiar with the famous Socorro, New Mexico landing case which occurred about 5:45 P.M. on Friday, April 24, 1964. Socorro Police Officer, "
+     },
+     {
+      "issue": "A/MUFON__1980_02_djvu.txt",
+      "issue_date": "1980-02",
+      "lag_months": 190,
+      "offset": 86983,
+      "context": "ilations. Paul, who worked for a radio station in Alamosa, Colorado, at . the time of the first publicized animal mutilation, participated in the’ investigation. Remember Snippy, the horse, back in 1967? Paul told us that the famous UFO landing of April 24, 1964, remains a topic of conversation in the Socorro area. Lonnie Zamora, the chief witness, still lives in Socorro but is no longer with: the police force. Paul "
+     },
+     {
+      "issue": "A/IUR__Volume_7__number_2__March_1982_djvu.txt",
+      "issue_date": "1982-03",
+      "lag_months": 215,
+      "offset": 62421,
+      "context": "bservers at a distance of at most a few miles. What will you have: a missile or a UFO? The Lady or the Tiger? IUR FOOTNOTE: *There is a reference in the NICAP files to a case on this same date as the La Madera but filed under Edgewood, N.M. Edgewood is the closest “major” town to Golden. FOOTNOTE: **The Socorro sighting occur- red on April 24, 1964. TE a a SE SS ES AE EE INTERNATIONAL UFO REPORTER, MARCH 1982 14 PROF"
+     },
+     {
+      "issue": "A/IUR__Volume_8__number_1__January_February_1983_djvu.txt",
+      "issue_date": "1983-01",
+      "lag_months": 225,
+      "offset": 78388,
+      "context": "y reasonable explanation. Older reports continue to arrive at CUFOS, and these “oldies but good- ies” were given broad coverage in IUR. We can refer to the January 18, 1966 report from China Lake, California, observed by two surveyors, the April, 1964 events in New Mexico at about the same time as the famous Socorro, New Mexico case, the intriguing event at Logrono, Spain on June 22, 1972, and last, but certainly not"
+     },
+     {
+      "issue": "A/IUR__Volume_8__number_3__May_June_1983_djvu.txt",
+      "issue_date": "1983-05",
+      "lag_months": 229,
+      "offset": 33534,
+      "context": "ere foiled by a snowfall. On Dec. 3, nine days later, they and some townspeople (Continued on Page 10) Angelo D’Ambros, left, shows Antonio Chiumiento the pruning knife one of the humanoids tried to take away from him during the encounter. The encircled landing craft pod marks are similar to those of the Socorro, N.M. case on April 24, 1964. INTERNATIONAL UFO REPORTER, MAY/JUNE 1983 attempted to locate the markings b"
+     },
+     {
+      "issue": "A/APRO__APRO_Bulletin_-_1983_08_00_-_Vol_31_No_8_djvu.txt",
+      "issue_date": "1983-08",
+      "lag_months": 232,
+      "offset": 10166,
+      "context": "cuments in question (including the writers) agrees with Bill but that is of no consequence to him for he was outlining the new concept before he had seen the documents on which it is purportedly based. Again his opinions fly in the face of evidence. To give one example, he explains the Lonnie Zamora sighting at Socorro, New Mexico (April 24, 1964) as being of the LEM (Lunar Expeditionary Module) being VOL. 31, NO. 8 "
+     },
+     {
+      "issue": "A/MUFON__1985_06_djvu.txt",
+      "issue_date": "1985-06",
+      "lag_months": 254,
+      "offset": 30486,
+      "context": "tage and handling on mail orders; the book is priced at $2.95. Dr. Brue Maccabee's series of UFO articles continues in FATE. The May issue contains two “classic” cases of daylight discs, while the article in the June issue deals with UFO landings in the Southwest (the Levelland, Texas, cases from 1957 and the Socorro, N.M., case of 1964). The “Anti-Matter/UFO Update” column in April OMNI is devoted to the research co"
+     },
+     {
+      "issue": "A/MUFON__1987_01_djvu.txt",
+      "issue_date": "1987-01",
+      "lag_months": 273,
+      "offset": 12482,
+      "context": "which ‘parallels many witnesses’ reports of strange ‘colors fromm UFOs. Besides mentioning a number of well known cases like that of M. Maurice Masse who found a UFO and occupants in his lavender field at Valensole, France, 1 July, 1965, and the UFO and beings sighted by police patrolman Lonnie Zamora at Socorro, New Mexico, 24 April, 1964, Dr. Vallee delved into some of the off-beat aspects of UFOs and related how t"
+     },
+     {
+      "issue": "A/MUFON__1990_07_djvu.txt",
+      "issue_date": "1990-07",
+      "lag_months": 315,
+      "offset": 32549,
+      "context": "arch and Development (OSRD). One of the most “black” aircraft projects is known variously as “Pro- ject 100” or “Model 100.” Test flights Ko} Some of the most significant UFO sightings and reports have occurred in New Mexico and the Southwestern United States: the UFO crash at Roswell on July 2, 1947, the Socorro landing of April 24, 1964, the alleged deliberate contact with aliens at Holloman AFB the following day, "
+     },
+     {
+      "issue": "A/MUFON__1991_07_djvu.txt",
+      "issue_date": "1991-07",
+      "lag_months": 327,
+      "offset": 61785,
+      "context": "r, Good cannot decide whether an alleged UFO landing at Holloman AFB, NM occurred in April 1964 or May 1971 (p. 102). The following page has Good relating the same story from no less a source than Richard C. Doty (via Linda M. Howe’s 1989 book, An Alien Harvest), who includes the touching, homey part about the Socorro, NM lan- ding witnessed by policeman Lonnie Zamora being a mistake of some sort. Apparently the UFOn"
+     },
+     {
+      "issue": "A/IUR__Volume_16__number_5__September_October_1991_djvu.txt",
+      "issue_date": "1991-09",
+      "lag_months": 329,
+      "offset": 11054,
+      "context": "daylight sightings in which no conventional explanation seems possible. In discussing one such case in a then-classified article in the CIA’s house organ Studies in Intelligence (Fall 1966), Maj. Hector Quintanilla, Blue Book’s last director, admitted that the sighting defied explanation; he was referring to the Socorro, New Mexico, CE3 of April 24, 1964. Yet the public posture of the Air Force was that UFO sightings"
+     },
+     {
+      "issue": "A/IUR__Volume_17__number_3__May_June_1992_djvu.txt",
+      "issue_date": "1992-05",
+      "lag_months": 337,
+      "offset": 78169,
+      "context": "ly inves- tigating them). But the first allegation was totally puzzling tome. Knowing that it simply was untrue, I dug out my files of NICAP publications for the 1960-69 period and imme- diately found numerous “low altitude” sighting reports and landing cases, including detailed coverage of the April 24, 1964, Socorro, New Mexico, landing, physical-trace, and humanoid-occupant case. See, for example, NICAP Spe- cial "
+     },
+     {
+      "issue": "A/MUFON__1998_05_djvu.txt",
+      "issue_date": "1998-05",
+      "lag_months": 409,
+      "offset": 51655,
+      "context": "tact: Chris Rutkowski through UFOROM at 204-269-7553. Instant archives: http://www.ufomind.com/ufo/updates Updates: Toronto updates@globalserve.net MUFON UFO Journal May 1998 Ufology profile Lonnie Zamora remembers By Joseph R. Calamia One of the classic UFO cases took place on April 24, 1964, at Socorro, NM, witnessed by Lonnie Zamora, a Socorro policeman. At the time of the Socorro incident I was 17 years old. [ ha"
+     },
+     {
+      "issue": "A/MUFON__2000_07_djvu.txt",
+      "issue_date": "2000-07",
+      "lag_months": 435,
+      "offset": 73922,
+      "context": "ld that some AF officers were “seriously considering the possibil- ity of interplanetary ships.” Fact 10: In 1956 an FBI employee and an employee of the National Security agency saw and reported to the FBI a UFO. Fact 11: The FBI file contains several reports by the agent who investigated the Lonnie Zamorra/ Socorro, New Mexico case of April 24, 1964. Fact 12: The FBI file has a memorandum which indicates that when J"
+     },
+     {
+      "issue": "A/IUR__IUR_Vol._28_No._3_Fall_2003_djvu.txt",
+      "issue_date": "2003-06",
+      "lag_months": 470,
+      "offset": 42640,
+      "context": "cifies small humanoids. These cases all occurred in the United States, and all in the last part of the month of April. This is the only catena that seems to be tied to a single flap (April 1964). With only three reports, Catena I is the least compelling of the five catenas. Catena I cases. April 24, 1964 (1745), Socorro, New Mexico. Police officer saw a landed oval object, the size of an auto, resting on legs. Red in"
+     },
+     {
+      "issue": "A/MUFON__2008_05_djvu.txt",
+      "issue_date": "2008-05",
+      "lag_months": 529,
+      "offset": 45928,
+      "context": "mail.com Volunteer of the Month The Volunteer of the Month column will return next month. If you know of someone you would like to nominate for this honor, please send an email to Sally Petersen at Editor@mufon.com with the person’s name and a description of why you think he or she should be honored. The Socorro, New Mexico site of the Lonnie Zamora UFO event of April 24, 1964. Photo by Don Burleson. City recognizes "
+     },
+     {
+      "issue": "A/MUFON__2008_06_djvu.txt",
+      "issue_date": "2008-06",
+      "lag_months": 530,
+      "offset": 56891,
+      "context": "uman psyche and emotion. To launch an interview with character Jack Webb’s Dragnet approach—” All we want are the facts Ma’am...just the facts!”—will probably destroy a potentially good interview. In 1998, as a MUFON Field Investigator Trainee (FIA), I had the great opportunity to interview Mr. Lonnie Zamora of Socorro, New Mexico. You may recall Mr. Zamora as a police officer who reported the touch down and landing "
+     },
+     {
+      "issue": "A/MUFON__2008_11_djvu.txt",
+      "issue_date": "2008-11",
+      "lag_months": 535,
+      "offset": 933,
+      "context": "UFOs over Westem Pennsylvania Test Prep Seminar for Field Investigators 12 Book review The Other Roswell 13 Regular Features Director's Message Calendar Stan Friedman: SETI Surprise Filer's Files CMSRankings Night Sky November 2008 No. 487 $4.00 The 24 April 1964 UFO landing site near Socorro, New Mexico, as seen from the exact spot at which policeman Lonnie Zamora was standing after he exited his patrol car some 50 "
+     }
+    ],
+    "recall_only": [
+     {
+      "issue": "A/MUFON__2000_07_djvu.txt",
+      "issue_date": "2000-07",
+      "lag_months": 435,
+      "offset": 47611,
+      "context": "rd CE-3- * £2/11/96 72 30 Yukon Territory giant UFO - 03/13/97 75 18 Huge UFO{s) over Arizona 12/03/67 120 80 Herbert Schirmer abduction 01/20/96 70-72 0 Varginha CE-3, Brazil 10/11/73 70 0 Pascagoula (Hickson/Parker) abduction 09/03/65 78 21 Exeter, New Hampshire CE-1 04/24/64 71 23 Lonnie Zamora CE-3, Socorro, NM 05/20/67 150 80 Steven Michalak CE-2, Falcon Lake, Canada 10/16/57 © 270 Villas Boas abduction, Brazil "
+     }
+    ],
+    "by_source": {
+     "APRO": 10,
+     "MUFON": 14,
+     "IUR": 7
+    }
+   },
+   "B": {
+    "place_hits": 1048,
+    "place_issues": 416,
+    "strict_issues": 86,
+    "recall_only_issues": 27,
+    "strict": [
+     {
+      "issue": "B/UFO_Nyt_Sept_Okt__UFO_Nyt_Sept-Okt_1964.txt",
+      "issue_date": "1964-06",
+      "lag_months": 2,
+      "offset": 47565,
+      "context": "et, der ligner en skorsten med en røg- eller damp¬ ring? Hr. Pedersen har en gang tidligere fotograferet UFO - NYT 157 noget, som vi ikke umiddelbart kunne se, hvad var. Billedet blev bragt i UFO-NYT, april 1961. Kan De hjælpe os, hører vi gerne fra Dem. Red. Astronomer udersøger »flyvende æg« SOCORRO, New Mexico. 30. april 1964. En astronom fra Dearborn observatoriet ved North¬ western University er her i dag for at"
+     },
+     {
+      "issue": "B/FSR__the-flying-saucer-review-ultimate-collection__57.FSR.txt",
+      "issue_date": "1964-07",
+      "lag_months": 3,
+      "offset": 127180,
+      "context": ".. about FLYING SAUCER REVIEW. Until the subject becomes more orthodoxit is only by word of mouth recom- mendation that we can hope to maintain and to increase our circulation. 29 GHOST ROCKETS: A moment of history by Jacques Vallee ON Friday, April 24, 1964, the alleged landing of a flying saucer in Socorro, New Mexico, shows that the UFO phenomenon is still with us. The Socorro incident was no hoax and no weather b"
+     },
+     {
+      "issue": "B/FSR__the-flying-saucer-review-ultimate-collection__60.FSR.txt",
+      "issue_date": "1964-11",
+      "lag_months": 7,
+      "offset": 43879,
+      "context": "arles Fort, Fortean Society. Henry Holt & Co., New York, 1959. ‘Sheila in the Wind, by Adrian Hayter, Hodder & Stoughton, London. P aola by Thor Heyerdahl. Translated by F. H. Lyon, New York, 1953. The Mysterious Templeton Photograph By Gordon W. Creighton \"THE land?of a large UFO on 26th April 1964 at Socorro in New Mexico, at a spot only a few miles from the scene of the first A-Bomb Test, was proof enough that our"
+     },
+     {
+      "issue": "B/Flying_Saucer_News__Flying_Saucer_News_1965_01_January.txt",
+      "issue_date": "1965-01",
+      "lag_months": 9,
+      "offset": 79779,
+      "context": "w! Just Out! OUTER SPACE MONEY ROLLS IN FROM EVERYWHERE (except outer-space) No merchandise to handle. Inst¬ ructions $1.00 Write Charles Company, 42-SRM. Norwood, Ohio Satisfaction guaranteed. 38 A4ore Flying Objects Reported What Has 4 Legs, Bums Grass, Is Round and Shiny ? Socorro, New Mexico. April 25th 1964 This particular sighting is the most important and most authentic since the great saucer flap of the 1950'"
+     },
+     {
+      "issue": "B/UFO_Nyt__UFO_Nyt_No_5_september-oktober_1965.txt",
+      "issue_date": "1965-06",
+      "lag_months": 14,
+      "offset": 2824,
+      "context": "-nyt.190 Nyt fra videnskaben.200 Landinger og kontakter.202 Brevkassen.210 Diverse.214 Rapportcentralen meddeler.215 UFO-NYT 177 Begyndelsen til enden... Et halvt år er gået, siden vi på dette sted hæv¬ dede, at en »Ny Epoke« i tallerkenaktiviteten var blevet indledt med landingen i Socorro, New Me¬ xico, i april 1964, og det forløbne halve år har kun yderligere bekræftet de fremførte synspunkter. Socorro-episoden va"
+     },
+     {
+      "issue": "B/UFO_Nyt__UFO_Nyt_No_6_november-december_1965.txt",
+      "issue_date": "1965-06",
+      "lag_months": 14,
+      "offset": 12492,
+      "context": "og hvor langt er DE nået? Børge Jensen. TALLERKEN-STATUS Tilbageblik. Som tidligere omtalt har en fantastisk bølge af observationer, landinger og „ufilosofiske“ kon¬ takter fejet hen over Nordamerika, Sydamerika, New Zealand, Australien og Japan, — begyndende med den særdeles veldokumenterede landing i Socorro den 24. april 1964, der kom som et lyn fra en klar himmel efter en længere, ret stille periode. Alle de nævn"
+     },
+     {
+      "issue": "B/UFO_Magazine_Annual__UFO_Magazine_Annual_1965.txt",
+      "issue_date": "1965-06",
+      "lag_months": 14,
+      "offset": 15114,
+      "context": "down in the north sky. (Grass Valley, Calif., The Union, April 18, 1964) N, M, Officer Reports 'Unidentified Object ' It's a good place for a flying saucer. Right on the edge of White Sands Missle Range on the wide open New Mexico desert, just 30 miles northwest of the site of the world's first atomic blast. Socorro policeman Lonnie Zamora says ho saw it, and police and military men seem inclined to believe him. - 10"
+     },
+     {
+      "issue": "B/FSR__the-flying-saucer-review-ultimate-collection__63.FSR.txt",
+      "issue_date": "1965-07",
+      "lag_months": 15,
+      "offset": 40310,
+      "context": "ere mistaken for UFOs, an obviously phony claim. If my guess is correct it would not be the first time the United States government has ruined individual reputations in the interest of ‘national security’. (See David Wise and Thomas B. Ross, The Invisible Government).”” Notes *The Zamora story is told in The Socorro Classic in the November/Decem- ber, 1964 number of FLYING SAUCER REVIEW. *See Two New Contact Claims b"
+     },
+     {
+      "issue": "B/FSR__the-flying-saucer-review-ultimate-collection__70.FSR.txt",
+      "issue_date": "1966-05",
+      "lag_months": 25,
+      "offset": 3286,
+      "context": "f the items edited out of the recordings. For example, the Editor’s contribution included a brief statement of the policy of this REVIEW, and citing of significant and well-authenticated cases. Cases like that of the captain, crew and passengers of a BOAC airliner over the Atlantic Ocean in June 1954, the classic Socorro incident of April 1964 and the story of Valensole. All of these, for which no acceptable conventi"
+     },
+     {
+      "issue": "B/UFO_Nyt__UFO_Nyt_No_5_september-oktober_1966.txt",
+      "issue_date": "1966-06",
+      "lag_months": 26,
+      "offset": 55183,
+      "context": "ystem, som er viet til undergang, gør uvilkårligt meget, der fremmer undergan¬ gen. Jean-Paul Sartre. 182 UFO-NYT UFOLOGI Atomforsøgs-områderne og de flyvende tallerkener af Kenneth L. Larson West Coast Branch Officer Dir. En af de interessanteste tallerkenrapporter i læn¬ gere tid foregik i Socorro, New Mexico, fredag d. 24. april 1964. Denne observation fandt sted 30 miles NV for stedet for verdens første atom-prøv"
+     },
+     {
+      "issue": "B/UFO_Nyt__UFO_Nyt_No_4_juli-aug_1970.txt",
+      "issue_date": "1970-06",
+      "lag_months": 74,
+      "offset": 7774,
+      "context": "gøre godt for; et mærke, som formentlig kun kunne ses fra ydersiden af maskinen? Eftersom vi nu giver os i kast med dette spørgsmål, har jeg kun kunnet finde én detalje, der kan sammenlignes hermed, blandt observationer, der med en vis sikkerhed er autentiske. Den 24. april 1964, under den be¬ rømte hændels-e i Socorro, New Mexico, bemær¬ kede politimanden Lonnie Zamora et besynderligt rødt kendemærke på siden af det"
+     },
+     {
+      "issue": "B/UFO_Nyt__UFO_Nyt_No_1_jan-feb_1970.txt",
+      "issue_date": "1970-06",
+      "lag_months": 74,
+      "offset": 102942,
+      "context": "ikke modtaget svar. Denne interessante rapport har APRO mod¬ taget gennem mr. Charles Upp, som er far til mr. Flack’s veninde. Mr. Upp henvendte sig til Mr. og Mrs. Trenholm, som leder APRO’s Colo- radoafdeling, og gav dem alle oplysninger om sagen. Overensstemmelsen mellem denne rapport og Lonnie Zamora’s fra Socorro i 1964 er slåen¬ de. Desværre ser det ud til, at der ikke i øjeblik¬ ket er bekræftelser fra andre v"
+     },
+     {
+      "issue": "B/UFO_Research_Newsletter__UFO_Research_Newsletter_1971_04_Vol_01_No_01.txt",
+      "issue_date": "1971-04",
+      "lag_months": 84,
+      "offset": 2590,
+      "context": "Near Portsmouth, N.H. Betty and Barney Hill saw a huge UFO, then had a two-hour mental blackout. More than two years later, while undergoing hypnoanalysis, both related a remarkable, science fiction-like experi¬ ence of being abducted on board a spacecraft and minutely examined by its occupants. • April 24, 1964. Socorro, N.M. Police Officer Lonnie Zamora saw a UFO rest¬ ing on four stilt-like legs in a gulley. Besid"
+     },
+     {
+      "issue": "B/UFO_Register__UFO_Register_Vol_02_part_2_1971.txt",
+      "issue_date": "1971-06",
+      "lag_months": 86,
+      "offset": 30049,
+      "context": "eb.1967 Nr. Rabat, Morocco. Dec.1966 i A. Edmonton, Alberta. May 1967 Brazil Parr, Lancashire. Jul.1963 Pirassununga. Brazil. Nov. 1969 Bridgenorth, Shropshire.Apr. 1969 Sao Paulo, Sep. 1965 Fort Lamy, Chad. Mar. 1955 Bolvice, Czechoslovakia. 1944 Socorro, New Mexico. Apr. 1964 - 11 - St ranraer, Scotland. Hardyston, New Jersey, U.S.A. Apr.1966 v V/i/j |t| i u\\'\"' v ' X Sunnyvale, Ca lifornia,U.S.A. Jun.1964 Oct.19 6"
+     },
+     {
+      "issue": "B/FSR__the-flying-saucer-review-ultimate-collection__97.FSR.txt",
+      "issue_date": "1971-07",
+      "lag_months": 87,
+      "offset": 126314,
+      "context": "ts- mouth, N.H. Betty and Barney Hill saw a huge UFO, then had a two-hour mental blackout. More than two years later, while undergoing hypnoanalysis, both related a remarkable, science fiction-like experience of being ab- ducted on board a spacecraft and minutely examined by its occupants. @ April 24, 1964. Socorro, N.M. Police Officer Lonnie Zamora saw a UFO resting on four stilt-like legs in a gulley. Beside the cr"
+     },
+     {
+      "issue": "B/Flying_Saucer_News__Flying_Saucer_News_1971_08_August.txt",
+      "issue_date": "1971-08",
+      "lag_months": 88,
+      "offset": 13145,
+      "context": "ork, N. Y. 10036 'Please send my copy of EVERY DEVIL’S DICTIONARY. I enclose □ CASH Q CHECK □ MONEY ORDER FOR $1.00. Name Address . City State total of about 50 rounds) over the next *20 minutes and the creatures finally left.” The textbook also cites the case of Police Sergeant Lonnie Zamora at Socorro, N. Mex., who was on patrol April 24, 1964, when he was startled by a loud roar that sounded like an explosion. He "
+     },
+     {
+      "issue": "B/UFO_Research_Newsletter__UFO_Research_Newsletter_1972_04_05_Vol_02_No_01.txt",
+      "issue_date": "1972-04",
+      "lag_months": 96,
+      "offset": 22094,
+      "context": "ld be using this system is, of course, pure speculation on UFOR's part, but it is an exciting possibility worth considering. It oould be a significant answer. NEW RADIO TELESCOPE RATED BEST FOR PICKING UP ET SIGNALS -r-——— The world's largest radio telescope, to be built on 3,000 desert acres 50 miles west of Socorro, N.M. (site of the classic Zamora sighting of April 24, 1964), has been described by scientists as ou"
+     },
+     {
+      "issue": "B/UFO_Research_Newsletter__UFO_Research_Newsletter_1973_01_02_Vol_02_No_10.txt",
+      "issue_date": "1973-01",
+      "lag_months": 105,
+      "offset": 16134,
+      "context": "red planet. Early that same month, the U.S. launched Pioneer \"F\" with its pictorial message to ETs. The craft is expected to study Jupiter and continue onto the outer reaches of space, beyond our own solar system. It was announced — also during March -- that the world's largest radio telescope would be built near Socorro, N.M., site of the famed UFO sighting by policeman Lonnie Zamora on April 24, 1964. Besides the U"
+     },
+     {
+      "issue": "B/UFO_Research_Newsletter__UFO_Research_Newsletter_1975_02_03_Vol_04_No_04.txt",
+      "issue_date": "1975-02",
+      "lag_months": 130,
+      "offset": 26966,
+      "context": "ched the balloons. What Klass does not say is that, more than a few times after such a sighting, would-be hoaxers have claimed leir earthly \"inventions\" caused a particular sighting even if their particular \"inventions\" in no way fitted the physical characteristics of the sightings. Regarding the highly-acclaimed Socorro, N.M., sighting of April 24, 1964, involving Police Officer Lonnie Zamora, the aviation writer hy"
+     },
+     {
+      "issue": "B/FSR__the-flying-saucer-review-ultimate-collection__117.FSR.txt",
+      "issue_date": "1975-04",
+      "lag_months": 132,
+      "offset": 18369,
+      "context": "ssistance of researchers Oscar Galindez, Nigel Rimes and Walter Buhler revealed that the “Dark Ages\" of the early sixties were nowhere as dark as had been imagined, because there had been vast waves of reports in South America during the period 1962 — 1964. Then the 1964 wave burst on the world, with cases like Socorro+ and Newark Valley** occurring on the same day, April 24, 1964. E The 1964 wave merged into the gre"
+     },
+     {
+      "issue": "B/misc__1975_2003_History_of_BUFORA_Lionel_Beer.txt",
+      "issue_date": "1975-06",
+      "lag_months": 134,
+      "offset": 12303,
+      "context": "er. The first BUFORA JOURNAL AND BULLETIN (BJ&B) dated Summer 1964 was edited by Charles Stickland and records that BUFORA had eleven member-societies and two branches. It reported a landing that left marks on the ground at Ivy Chimneys, Essex on 27 December 1963, and the Socorro, New Mexico case of 24 April 1964. BJ&B No.2, Autumn 1964 records a meeting in London to discuss investigation, attended by no less than ni"
+     },
+     {
+      "issue": "B/UFO_Nyt__UFO_Nyt_No_2_marts-apr_1975.txt",
+      "issue_date": "1975-06",
+      "lag_months": 134,
+      "offset": 80887,
+      "context": "været landet, men vegetationen så ud som om den var blevet blæst flad af meget kraftige vindstød. Objektet ansloges til at være om¬ kring til 6 meter højt. De tegninger, som mr. T lavede af objek¬ tet, får én til at sammenligne det med det ægformede objekt, som betjent Lonnie Za- mora så lande i april 1964 ved Socorro, New Mexico. Dog er der øjensynlig den forskel, at mr. T’s objekt havde et landingsstel med tre ben,"
+     },
+     {
+      "issue": "B/UFO_Research_Newsletter__UFO_Research_Newsletter_1976_06_07_Vol_04_No_12.txt",
+      "issue_date": "1976-06",
+      "lag_months": 146,
+      "offset": 14942,
+      "context": "d a UFO and seduced by an alien woman; a Brazilian farmer who apparently died from radiation poisoning after being struck in the chest by a light from a disc; a man from Colombia who died after a UFO sighting; and a car that struck an alien object. The Lorenzens take UFO debunker Philip J. Klass to task: i, re the Socorro, N.M., incident involving Police Officer Lonnie Zamora on April 24, 1964, \"the best [Klass] can "
+     },
+     {
+      "issue": "B/misc__1976_A_Guide_to_the_UFO_Phenomenon_plus_original_1972_covers.txt",
+      "issue_date": "1976-06",
+      "lag_months": 146,
+      "offset": 24093,
+      "context": "researcher Ted Phillips, having made. an exhaustive study of this aspect of UFO manifestations has produced a book devoted to phyaical traces associated with UFO sittings. Diagram 1, shows a sketch of depressions, bum marks and \"foot prints\" at the site of a UFO landing at Socorro, New Mexico on April 24tb, 1964. (H.T. Powers report in \"Tbe Humanoids\" by Charles Bowen), A police officer witnessed the cake off of an u"
+     },
+     {
+      "issue": "B/misc__1976_2nd_Conference_Birmingham_Various_prominent_researchers_papers.txt",
+      "issue_date": "1976-06",
+      "lag_months": 146,
+      "offset": 88410,
+      "context": "ugh taken by surprise when, at the last minute, the lights of -the car fall upon them implies that they damn well wanted to be seen, despite their hasty departure. A classic example of this \"discover and escape\" scenario (although a daylight sighting) is the encounter at Socorro, New Mexico, in April 1964 by Police . 18 Officer Lonnie Zamora. ACTP/ITIES - There are a nunber o± distinctive activities engaged in by ent"
+     },
+     {
+      "issue": "B/UFO_Research_Newsletter__UFO_Research_Newsletter_1976_12_1977_01_Vol_05_No_03.txt",
+      "issue_date": "1976-12",
+      "lag_months": 152,
+      "offset": 16315,
+      "context": "investigations on such \"classic\" cases as the Kenneth Arnold sighting of June 24, 1947; the Mantell tragedy of January 7, 1948; the Lt. George F. Gor¬ man encounter with a UFO over Fargo, N.D., on October 1, 1948; the Lubbock (Texas) Lights of August 30, 1951; the Washington, D.C., sightings of July, 1952; and the Socorro, N.M., experience of Police Officer Lonnie Zamora on April 24, 1964. Dr. J. Allen Hynek, then sc"
+     },
+     {
+      "issue": "B/UFO_Nyt__UFO_Nyt_No_5_sep-okt_1977.txt",
+      "issue_date": "1977-06",
+      "lag_months": 158,
+      "offset": 79290,
+      "context": "ans Lauritzen. Den sidstnævnte vil være kendt blandt »garvede« Ufo-NYT-læsere, idet han for en del år siden skrev artikler til UFO-NYT. Det sidst udkomne nummer indeholder arti¬ kler om: Fremtidens energikilder; MIGMA prin¬ cippet, en bedre metode for kontrolleret fusion, - Socorro, 24. april 1964, en arti¬ kel der bygger på Ray Stanfords bog »Socorro saucer in a Pentagon pantry« (Zamora’s observation) - Rumfærgen - "
+     },
+     {
+      "issue": "B/Australian_UFO_Bulletin__Australian_UFO_Bulletin_1977_11_November.txt",
+      "issue_date": "1977-11",
+      "lag_months": 163,
+      "offset": 46736,
+      "context": "tin, Texas, 78763) Ray Stanford, a veteran of 23 years of UFO research in the U.S„, is director of Project Starlight International, the world's only full time facility employing a broad array of scientific equipment for UFO data monitoring, and editor of the \"Journal For Instrumented UFO Research\". In his book, \"Socorro 'Saucer' in a Pentagon Pantry\", Ray Stanford has presented us with a most detailed account of his "
+     },
+     {
+      "issue": "B/Marcen_Journal__Marcen_Journal_Vol_2_No_1_1979_01.txt",
+      "issue_date": "1979-01",
+      "lag_months": 177,
+      "offset": 147941,
+      "context": "appeared behind the mesa, he saw a police car driving up the mesa in the same direction the craft had come down in. The April 24, 1964 issue of the Dubuque^ Iowa Telegraph-Herald carried a story with a five-column banner headline that two Dubuque residents had seen the Socorro Saucer. The article was filled with errors and ommissions and for fourteen years ufologists were unable to contact the additional witnesses. O"
+     },
+     {
+      "issue": "B/PEGAP__PEGAP_1980_no_04.txt",
+      "issue_date": "1980-06",
+      "lag_months": 194,
+      "offset": 6160,
+      "context": "tzliche Einstellung dazu: das Objekt wurde von einem höchst-glaub- ürdigen Zeugen gesehen, es kann nicht als ein bekanntes Ding oder Phänomen ein¬ gestuft werden. Dr. J. Allen Hynek, ziviler Cheffeer®ter des Air-Force Project Bluebook, gab gegenüber der Associated Press nach der Beendigung seiner Unter¬ suchung in Socorro zu: \"Ich bin jetzt noch mehr verwirrt als zuvor.\" Der gut publizierte Vorfall begann kurz vor \"1"
+     },
+     {
+      "issue": "B/UFO_Information__UFO_Information_1980-2.txt",
+      "issue_date": "1980-06",
+      "lag_months": 194,
+      "offset": 25694,
+      "context": "vatska. Kemiforetaget Kawecki Chemical Company utforde senare en kemisk analys och fann att vats- kan bestod av kisel, aluminium och jam. Ett annat populart UFO-utslapp ar en saregen sil- versand. Den har hittats i England (1965) och i Iowa (1972). Den upptacktes ocksa pa platsen for den be- romda landningen i Socorro i New Mexico i april 1964 och naturligtvis awisar experterna fran flyg- vapnet den som vanlig kisel."
+     },
+     {
+      "issue": "B/UFO_Nyt__UFO_Nyt_No_3_maj-juni_1980.txt",
+      "issue_date": "1980-06",
+      "lag_months": 194,
+      "offset": 118878,
+      "context": "der¬ bevidsthed. Der er en kuriøs efterskrift: Da balladen om observationen var døet hen, fik Masse besøg af den franske ufolog Aimé Michel. Da han havde krudsforhørt Masse og opgivet at få mere ud af ham, viste han ham et foto af en model af et UFO, som politi¬ manden Lonnie Zamorra så flyve op fra jorden i Socorro, USA, den 24. april 1964. — Det havde en fantastisk virkning, skri¬ ver Michel. Hr. Masse gav et gisp,"
+     },
+     {
+      "issue": "B/UFO_Nyt__UFO_Nyt_No_4_juli-aug_1981.txt",
+      "issue_date": "1981-06",
+      "lag_months": 206,
+      "offset": 9068,
+      "context": "åske en dag i stand til at få startet en seriøs dialog med vi¬ denskaben. Det er naivt at tro, at vi »alene« er i stand til at løse UFO- gåden! □ UFO-NYT 4/81 3 UFO-KLASSIKER af Kim Møller Hansen Den 24. april 1964 klokken 17.45 så politibetjent Lonnie Zamora et ægformet fartøj uden for byen Socorro i staten New Mexico. Ved siden af fartøjet stod 2 små væsner i hvide dragter! — En nærobservation af 3. grad, som det a"
+     },
+     {
+      "issue": "B/BUFORA_Bulletin__BUFORA_Bulletin_No_01_Sep_1981.txt",
+      "issue_date": "1981-06",
+      "lag_months": 206,
+      "offset": 27148,
+      "context": "es NO EYES VISIBLE SOUNDS SINISTER. KINNULA ENTITY JUST ALLUDED TO, JAN 5, 1971 APPEARED TO BE CLOTHED IN COVERALL. HELMET A PART OF THIS, HAD APERTURE. NO EYE(S) REPORTED SEEN There has been another aspect of this \"no eyes\" business:- GARY WILCOX OF NEWARK VALLEY N.Y. 10.00 a.m. APRIL 24, 1964 (Same day as Socorro case) FARMER OUT MUCK SPREADING ENCOUNTERED ALUMINIUM HUED EGG-SHAPED 10 OBJECT. 2 CREATURES WITH TRAYS"
+     },
+     {
+      "issue": "B/Awareness__Awareness_1982-83_Vol_11_No_3.txt",
+      "issue_date": "1982-06",
+      "lag_months": 218,
+      "offset": 55646,
+      "context": "Research group would subsequently appreciate return of the response form at the eno of this section, from as many readers as possible. he wish to analyse your Opinions on .the sightings ano will publish a sunopsis of the views expressed in due course. Please do participate in this project. April 24th 1964. Socorro,New Ivexico 5.45 p.m. This case involved a police officer, Lonnie Lamora, in a state patrol car No. 2. P"
+     },
+     {
+      "issue": "B/UFO_Nyt__UFO_Nyt_No_2_mar-apr_1983.txt",
+      "issue_date": "1983-06",
+      "lag_months": 230,
+      "offset": 20910,
+      "context": "evæge sig, råbte han: »Hvad så med mig. Er jeg så ikke osse blevet ramt af noget? Af stråling?« Masse blev oprevet anden gang, da Michel — efter at Masse havde givet ham alle tilgængelige oplys¬ ninger om hændelsen — viste Masse et farvefoto af en model af det objekt, som politibetjent Len¬ nie Zamora så ved Socorro, Ne\\« Mexico, den 24. april 1964. (Se UFO¬ NYT 4/81). Masse’s reaktion var fan¬ tastisk. Han snappede "
+     },
+     {
+      "issue": "B/SVL_Tijdschrift_Jaargang_2__SVL_Tijdschrift_Jaargang_2_No_05_jan_1983.txt",
+      "issue_date": "1983-06",
+      "lag_months": 230,
+      "offset": 46381,
+      "context": "otaal niks. Daardoor hadden de getuige en de. onderzoeker op een avond ook zo'n moeite om de plaats op een kaart te kunner. aanduiden! 11 . SUPPLEMAIMTAIRE INF ORNAT IE De uaargenomen voim, \"Zeppelin-vorm\", \"vliegend ei\" of hoe je zoiets ook moogt noemen, is gemeengoed in de IJFOlogie. De bekendste is uel het \"Socorro\"-geval van 24 april 1964. Vergelijk ook met de \"Valensole\"-uaarneming. Voor de volledigheid dient hi"
+     },
+     {
+      "issue": "B/Awareness__Awareness_1983-84_Vol_12_No_1.txt",
+      "issue_date": "1983-06",
+      "lag_months": 230,
+      "offset": 55233,
+      "context": "nnot be guaranteed, but the Vatican have not denied the existance of such messages. The sightings were officially recognised by the Vatican as a visit from the Virgin Mary and a pilgrimage is held to Fatima each year on the anniversary of the sightings. Assessment of Previous Cases. Case 1 . April 24th 1964. Socorro, New' Mexico. (a) Genuine UFO 61% (B) Possible'UFO 33% (d) Hoax''6% Case 2. June 26th 1959. Boianai, N"
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_1983_06_no_167.txt",
+      "issue_date": "1983-06",
+      "lag_months": 230,
+      "offset": 64230,
+      "context": "ee bodies of human shape but only J feet tall, dressed in metal¬ lic cloth of a very fine texture. Each body was bandaged in a manner similar to the blackout suits used by speed flyers and test pilots.” — U.S. document There is little mention of UFO activity in New Mexico again until April 24,1964, when Socorro police¬ man Lonnie Zamora reported seeing an “oval-shaped” craft with a red insignia, 30 inches high and 2 "
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_1983_08_no_169.txt",
+      "issue_date": "1983-08",
+      "lag_months": 232,
+      "offset": 48335,
+      "context": "metery once or twice, the inquisitive frequently give up and ask, though not at the graveyard, “Where does that guy who saw the flying saucer live?\" A few neighbors who know Zamora well occasional¬ ly pretend they have no idea where he lives. Sometimes the curious are even sent on wild-goose chases. Folks in Socorro do these things because they know that Zamora doesn't like to talk about what happened in the early ev"
+     }
+    ],
+    "recall_only": [
+     {
+      "issue": "B/BUFORA_Journal__BUFORA_Journal_Volume_01_No_02_Autumn_1964.txt",
+      "issue_date": "1964-06",
+      "lag_months": 2,
+      "offset": 31979,
+      "context": "the same kind of luminous triangle as Mr. Bridge noted. Conclusion: “ Unidentified Flying Object ” J. Cleary-Baker, Ph.D. OVERSEAS REPORTS One fact unmistakeable in the reports reaching us recently is that North America has once again become the centre of attention. We present below a fuller account of the Socorro, New Mexico, incident, briefly referred to in our previous issue. 24-4-64—At about 6 p.m. Ptm. Lonnie Za"
+     },
+     {
+      "issue": "B/misc__Notiziario_UFO_1970_01-02_No_1.txt",
+      "issue_date": "1970-01",
+      "lag_months": 69,
+      "offset": 13784,
+      "context": "che dovrebbero essere di buona fonte — si è rivelato che l’ultima irase pronunciata da Mantell è stata: «My Godi There are men in it!» (Mio Dio! Vi sono degli uomini lì dentro!). Grande fiammata Il secondo avvistamento è molto più recente: risale al po¬ meriggio del 24 aprile 1964. Presso la cittadina di Socorro nel New Mexico, l’agente Lon- nie Zamora stava inseguendo con la sua auto una macchiria in eccesso di velo"
+     },
+     {
+      "issue": "B/LDLN__LDLN_No_107.txt",
+      "issue_date": "1970-08",
+      "lag_months": 76,
+      "offset": 17489,
+      "context": "mier-laitier, aperçut un objet bril¬ lant en forme d'œuf, posé dans son champ et mesu¬ rant environ 8 m de long et 6 m de large. Il parla en anglais à deux nains de 1,20 m de haut vêtus d'ha¬ bits et de capuchons sans coutures et transportant des plateaux (Humanoïds 59, Magonia). • I 597) 24 Avril 1964 17:45, Socorro (New Mexico): Le policier Lonnie Zamora observa l'atterrissage d'un engin blanc, reposant sur quatre "
+     },
+     {
+      "issue": "B/Phenomenes_Inconnus__Phenomenes_Inconnus_Nouvelle_Serie_No_03_3e_trim_1972_CFRU_FSU.txt",
+      "issue_date": "1972-06",
+      "lag_months": 98,
+      "offset": 13512,
+      "context": "aise : M. Roland Canova), y compris la Savoie et la Haute-Savoie, grâce à notre ancien collaborateur de Chambéry, M. André Dudoret. (Compte rendu des activités des autres sections régionales, dans notre prochain numéro). a Phénomènes Inconnus n° 3 [1972) Page 4 par Alain BARBE L’ATTERRISSAGE DE SOCORRO Jusqu’en octobre 1966, époque où fut publié « The Huma- noïds » de la Flying Saucer Review, l’un des cas d’atterriss"
+     },
+     {
+      "issue": "B/Stendek__Stendek_Vol_03_No_11_December_1972.txt",
+      "issue_date": "1972-06",
+      "lag_months": 98,
+      "offset": 74250,
+      "context": "nfalmente a lo que tiene que ser la culminación y la clave de todo el acertijo: el caso norteamericano de Tioga City, protagonizado por el joven gran¬ jero Gary Wilcox. Si mi memoria no me es infiel este caso tuvo lugar en la mañana del 24 de abril de 1964, unas horas antes de que se produjera el sonado caso de Socorro. Re¬ cuerdo que, hallándome en Ciudad de ivie- xico con el doctor J. Alien Hynek, le observé la cas"
+     },
+     {
+      "issue": "B/LDLN__LDLN_No_126.txt",
+      "issue_date": "1973-03",
+      "lag_months": 107,
+      "offset": 19818,
+      "context": "ence. Et, maintenant, on arrive triomphalement à ce qui doit être la culmination et la clef de toute la devinette : le cas américain de Gary Wilcox, le jeune fermier de Tiogq^City (Etat de New-York). Si ma mémoire ne me trompe pas, ce cas eut lieu le matin du 24 avril 1964, peu d’heures avant le fameux cas de Socorro, au Nouveau Mexique, qui eut pour protagoniste le policier Lonnie Zamo- ra. Je me souviens que, me tr"
+     },
+     {
+      "issue": "B/Inforespace__Inforespace_No_16_1974.txt",
+      "issue_date": "1974-06",
+      "lag_months": 122,
+      "offset": 4043,
+      "context": "re, pour vous, un des moye is de nous soutenir : le chemin sera souvent ardu, les embûches nombreuses, mais le présent nous apportant déjà beaucoup d'espoir, l'avenir nous réservera certainement bien des satisfactions. Michel Bougard, Rédacteur en chef. 2 Historique des Objets Voiants Non identifiés A Socorro (Nouveau-Mexique) le 24 avril 1964, l'officier de police Lonnie Zamora poursuivait vers 18 heures une voiture"
+     },
+     {
+      "issue": "B/LDLN__LDLN_No_148.txt",
+      "issue_date": "1975-10",
+      "lag_months": 138,
+      "offset": 9223,
+      "context": "re produits par l'Homme ici sur Terre. Le savant soviétique a cependant évité de mentionner d’autres détails sur ce « phénomène que produirait l’Homme... » A Tioga City, dans l’Etat de New York, le jeune fermier Gary Wilcox se trouve face-à-face devant un objet ovoïde duquel surgissent deux humanoïdes tandis qu'à Socorro (Nouveau Mexique) c'est le policier Lonnie Zamora qui observe un étrange objet, lui aussi de form"
+     },
+     {
+      "issue": "B/misc__Notiziario_UFO_1978_11_Vol_1_No_1_INCOMPLETE.txt",
+      "issue_date": "1978-11",
+      "lag_months": 175,
+      "offset": 32478,
+      "context": "gente che rimane ustionata nel¬ le parti esposte del corpo — viso, mani, ecc.). Le tracce di un tipico « incontro ravvicinato di secondo tipo »; il suolo calci¬ nato del campo di fagioli del sig. Barr di Garrison (lOWA), dopo Vatterraggio di un UFO il 13 luglio 1969. 24 aprile 1964: l’inchiesta dell’USAF a Socorro (New Mexico), a sinistra Vagente Lonnie Zamora. Infine, vi sono gli incontri ravvici¬ nati del terzo tip"
+     },
+     {
+      "issue": "B/Inforespace__Inforespace_No_46_1979.txt",
+      "issue_date": "1979-06",
+      "lag_months": 182,
+      "offset": 34589,
+      "context": "er, que furent essayées les pre¬ mières fusées V2 ramenées d’Allemagne après la défaite des Nazis. Ce 24 avril 1964, le vent souffle fort en direction du sud-sud-ouest. Les nuages sont rares et ainsi le soleil peut luire sans faillir. Un policier de 31 ans, estimé par ses collègues, patrouille dans les rues de Socorro. Il s’appelle Lonnie Zamora et sa réputation de policier honnête et sé- (suite de la page 8) Dans l’"
+     },
+     {
+      "issue": "B/Inforespace__Inforespace_No_47_1979.txt",
+      "issue_date": "1979-06",
+      "lag_months": 182,
+      "offset": 87748,
+      "context": "et sans fondement. C) Or, que constatons-nous ? — seule la Scandinavie connaît une vague d’OVNI. Seuls les Scandinaves seraient inquiets ? ? Pourquoi pas l’agriculteur US, l’industriel an¬ glais, le banqu’er allemand ou le planteur de café brésilien ? Les grands cas mondiaux 1964 : atterrissage d’OVNI à Socorro, USA (2) Alors que l’essentiel des événements qui se sont déroulés le 24 avril 1964 à Socorro vous a été do"
+     },
+     {
+      "issue": "B/UFO_PRESS__UFO_PRESS_No_12_Jul_1979.txt",
+      "issue_date": "1979-06",
+      "lag_months": 182,
+      "offset": 136333,
+      "context": "Quizás su lectura pueda resultar tediosa para el aficionado a la temática del fenómeno OVNI, ya que poco o nada ágrega a lo ya conocido. EL ESCANDALO DEL OVNI, por Ray Stanfí>rd Editado por POMAIRE, Barcelona, España. El 24 de abril de 1964, cerca de las 18 hs, se produjo en las inme¬ diaciones de la ciudad de Socorro, Nuevo México, el aterrizaje de un ob jeto volador no identificado. Este incidente, a juicio del Dr."
+     },
+     {
+      "issue": "B/Inforespace__Inforespace_No_53_1980.txt",
+      "issue_date": "1980-06",
+      "lag_months": 194,
+      "offset": 143050,
+      "context": "faible altitude. Par conséquent, si de tels corridors peu¬ vent être trouvés, pourrions-nous obtenir de bons résultats en plaçant des caméras et d’autres appa¬ reils le long de ces voies, en période de grande activité des OVNI ? Revenons à un incident notable qui s’est produit en avril 1964 près de la ville de Socorro, dans le centre du Nouveau-Mexique. Un policier local s’ap¬ procha d’un objet ovoïde dans un arroyo "
+     },
+     {
+      "issue": "B/Info_OVNI_Series_2__Info_OVNI_Series_2_No_07_08_Special_Scornaux_Monnerie_1er_trim_1981.txt",
+      "issue_date": "1981-06",
+      "lag_months": 206,
+      "offset": 156469,
+      "context": "manquement à ses devoirs professionnels, familiaux, militaires ou autres ? Poser la question, c'est y répondre ... Donnons un exemple encore d'explication totalement invraisemblable: dans leur obsession de faire la preuve de leur esprit critique, des ufologues en sont venus à propager l'hypothèse que l'OVNI de Socorro ( Nouveau-Mexique, 24 Avril 1964) aurait pu être un proto¬ type du \"LEM\" en cours d'essai, puisqu'un"
+     },
+     {
+      "issue": "B/Quaderni_UFO__Quaderni_UFO_Vol_01_No_04_1981_09-10.txt",
+      "issue_date": "1981-09",
+      "lag_months": 209,
+      "offset": 54489,
+      "context": ") ( 3 ) Cosa che naturalmente il \"nuovo\" ufologo si è completamente scordato di fare... (N.d.T.) (4) Soprattutto i giornalisti parigini sempre pronti a mettere in dubbio ogni racconto proveniente dal sud della Francia. ( 5 ) Sia il sibilo che il rumore sordo furono riportati dai testim£ ni dell'atterraggio di Socorro (USA) del 24 aprile 1964-» (6) Chiamata anche, forse impropriamente, \"dematerializzazione\". (N.d.T.) "
+     },
+     {
+      "issue": "B/misc__Notiziario_UFO_1983_09-10_Vol_18_No_101.txt",
+      "issue_date": "1983-09",
+      "lag_months": 233,
+      "offset": 249004,
+      "context": "'allucinazione ha i suoi limiti esplicati¬ vi; per esempio nel caso di avvistamenti con centinaia o addirittura migliaia di testimoni. Allucinazione collettiva? Contagio telepatico? Il guaio è che queste non sono spiegazioni, ma solo etichette di comodo. L’allucinazione col¬ 46 Il teatro dell’atterraggio di Socorro (24 aprile 1964). Gli inquirenti deH’aeronautica militare a Socorro. L’idea che si trattasse di una pur"
+     },
+     {
+      "issue": "B/misc__Notiziario_UFO_1984_03-1985_02_Vol_19-20_No_103.txt",
+      "issue_date": "1984-03",
+      "lag_months": 239,
+      "offset": 28948,
+      "context": "sse. Valensole (Francia), 1° giugno 1965. La ricostruzione, eseguita in base alle indicazioni del signor Masse, dell * uovo » posatosi sul suo campo di lavanda. PABTÈ SUPERIORE'(TRASPARENTE) La forma dell'ordigno e dello stemma, negli schizzi eseguiti dall'agente L, Zamora. I Pig. 6 Socorro ( New Mexico, USA), 24 aprile 1964. Questo è il piano completo delle tracce lasciate dall'UFO. Secondo gli esperti, ('asimmetria"
+     },
+     {
+      "issue": "B/JUFOF__JUFOF_Issue_035_1984_05.txt",
+      "issue_date": "1984-05",
+      "lag_months": 241,
+      "offset": 20627,
+      "context": "ich brüchig geworden war, als ob er großer Hitze ausgesetzt gewesen wäre.\" Der Flugkörper hatte einen ungefähren Durchmesser von 5 bis 6 Meter und war ca. 3 Meter hoch. Die Aufnahme zeigt den Zeugen bei der Begutachtung der Spuren. Quelle: Schneider, Besucher aus dem All, H.Bauer Verlag, Freiburg 5) Mexico, Socorro, 24.04.1964: Der damals 31jährige Polizist Lonnie Zamora befand sich auf der Suche nach einem Verkehrss"
+     },
+     {
+      "issue": "B/LDLN__LDLN_No_277-278.txt",
+      "issue_date": "1987-08",
+      "lag_months": 280,
+      "offset": 129440,
+      "context": "Wilcox est \"insortable\" dans la société bien pensante ! Et pourtant... la forme de l'objet est classique, le mode de départ de l'OVNI est classique, l'appa¬ rence des humanoïdes est classique et le témoin offre toutes les apparences d'être parfaitement digne de foi. Ah si les ufonautes l'avaient bouclée ! 40) Socorro (Nouveau-Mexique, USA), 24 avril 1964 Il est près de 18 h le même jour (soit 10 h après le début de l"
+     },
+     {
+      "issue": "B/Anomalies__Anomalies_No_03_April_May_June_1997.txt",
+      "issue_date": "1997-06",
+      "lag_months": 398,
+      "offset": 14391,
+      "context": "Frank Bach parque sa voiture sur la place marquée «MJ-1 » !), pictogramme dans un champ, mutilations de bétail, personnages légendaires (Nathan Twining, Jesse Marcel, J. Allen Hynek, Lonnie Zamora, etc.), que demander de plus ? Une critique tout de même. L’épisode «Ennemis rappro¬ chés» évoque l’atterrissage de Socorro (Nouveau- Mexique), le 24 avril 1964. Lorsque le policier Lonnie Zamora raconte son histoire aux jo"
+     },
+     {
+      "issue": "B/UFOmania__UFOmania_No_16_1997_06.txt",
+      "issue_date": "1997-06",
+      "lag_months": 398,
+      "offset": 72177,
+      "context": "trouvés dans le corps ! ». Décidément, Jean Miguères aura su rester fidèle à son image jusque sur le trottoir de la Croix Rousse, baignant dans son sang: « un homme entièrement à part », aimait-il à dire et c'est bien volontiers que nous lui accordons ce qualificatif. Michel GRANGER Page 17 Retour à Socorro, Nouveau-Mexique, 24 Avril 1964 Les autorités scientifiques et le pouvoir politique ont toujours affecté le plu"
+     },
+     {
+      "issue": "B/Inforespace__Inforespace_No_101_2000.txt",
+      "issue_date": "2000-06",
+      "lag_months": 434,
+      "offset": 279330,
+      "context": "omme Stanton Friedman. D’autant que la réputa¬ tion de ce scientifique est entachée par son entê¬ tement à vouloir cautionner les documents fraudu¬ leux relatifs au Majestic-12 divulgués par William Moore dans les années 1980 ,2 . Hynek au courant ? Un jour que je lisais un livre de Ray Stanford sur la RR3 de Socorro (NM) du 24 avril 1964, je suis tombé sur un détail dont l’importance semble avoir échappé à bien du m"
+     },
+     {
+      "issue": "B/El_Ojo_Critico__El_Ojo_Critico_No_41_Invierno_2003.txt",
+      "issue_date": "2003-06",
+      "lag_months": 470,
+      "offset": 73847,
+      "context": "les ayudará no solo a fascinarse por el misterio sino que descubrirán la fascinación de la propia vida y del enigma más extraordinario que jamás pudiera existir: el ser humano. EOC Luisa Alba González Sanadores lensajeros de la conciencia El mágico poder de la sanación APÓSTROFE 40 ANOS DEL OVNI DE SOCORRO El pasado mes de septiembre celebramos el trigésimo aniversario del macroavistamiento ovni de 1973, y en cuestió"
+     },
+     {
+      "issue": "B/Anomalia_2a_Epoca__Anomalia_2a_Epoca_No_04_2004.txt",
+      "issue_date": "2004-06",
+      "lag_months": 482,
+      "offset": 300427,
+      "context": "capítulos, centrados en torno a diversos encuentros con humanoides, siguiendo un orden cronológico: Flatwoods, Estados Unidos (12 de septiembre de 1952). Villares del Saz, España (principios de julio de 1953). Quarouble, Francia (10 de septiembre de 1954); y otros casos de la oleada francesa de 1954. Socorro (Nuevo México) y Tioga (Nueva York) , Estados Unidos (24 de abril de 1964). Kelly-Hopkinsville, Estados Unidos"
+     },
+     {
+      "issue": "B/Repas_Ufologiques__Repas_Ufologiques_2009.12.txt",
+      "issue_date": "2009-06",
+      "lag_months": 542,
+      "offset": 55524,
+      "context": "r discuter du phénomène ovni. N’hésitez pas à faire un saut. Les Opérations Suricates se sont mis sur Face (de) Book. Et encore d’autres choses à venir ! Weissmuller François Responsable Suricate. DÉCÈS DE LONNIE ZAMORA Nous venons d'apprendre le décès de Lonnie Zamora, le témoin de la fameuse affaire de Socorro, survenu lundi 2 novembre 2009. La cause du décès : Une crise cardiaque. Socorro se situe dans l'état du N"
+     },
+     {
+      "issue": "B/El_Ojo_Critico__El_Ojo_Critico_No_63_Dic_2009.txt",
+      "issue_date": "2009-06",
+      "lag_months": 542,
+      "offset": 256739,
+      "context": "los 76 años El pasado 7 de noviembre falleció el oficial de policía Lonnie Zamora, mundialmente conocido por haber sido el protagonista de uno de los ¡ncidents OVNI mas difundido del mundo. El 24 de abril de 1964 aseguró haber presenciado el despegue de un objeto no identificado, con forma oval, en las afueras de Socorro (Nuevo México). Coincidiendo con la fecha de su muerte varios médios de comunicación han revelado"
+     },
+     {
+      "issue": "B/Repas_Ufologiques__Repas_Ufologiques_2009_12.txt",
+      "issue_date": "2009-12",
+      "lag_months": 548,
+      "offset": 52011,
+      "context": "discuter du phénomène ovni. N’hésitez pas à faire un saut. Les Opérations Suricates se sont mis sur Face (de) Book. Et encore d’autres choses à venir ! Weissmuller François Responsable Suricate. DÉCÈS DE LONNIE ZAMORA Nous venons d'apprendre le décès de Lonnie Zamora, le témoin de la fameuse affaire de Socorro, survenu lundi 2 novembre 2009. La cause du décès : Une crise cardiaque. Socorro se situe dans l'état du Nou"
+     }
+    ],
+    "by_source": {
+     "UFO_Nyt_Sept_Okt": 1,
+     "FSR": 8,
+     "Flying_Saucer_News": 2,
+     "UFO_Nyt": 18,
+     "UFO_Magazine_Annual": 1,
+     "UFO_Research_Newsletter": 6,
+     "UFO_Register": 1,
+     "misc": 8,
+     "Australian_UFO_Bulletin": 2,
+     "Marcen_Journal": 1,
+     "PEGAP": 1,
+     "UFO_Information": 1,
+     "BUFORA_Bulletin": 1,
+     "Awareness": 2,
+     "SVL_Tijdschrift_Jaargang_2": 1,
+     "UFO_Newsclipping_Service": 9,
+     "CUFORG": 1,
+     "JUFOF": 5,
+     "Flying_Saucer_Digest": 2,
+     "MUFON_Massachusetts_Newsletter_40": 1,
+     "Magonia": 3,
+     "Amskaya": 1,
+     "UFO_Times": 2,
+     "UFO_Vision": 1,
+     "Deguforum": 1,
+     "UFO_PSI_Magazine": 1,
+     "UFO_Mail": 2,
+     "Magonia_Supplement": 1,
+     "UFO_Magazine": 1,
+     "OVNI": 1,
+     "MUFON_of_Ohio_Newsletter": 2,
+     "BUFORA_Newsfile": 1,
+     "MUFON_Michigan_Newsletter": 2,
+     "BUFORA_Journal": 1,
+     "LDLN": 4,
+     "Phenomenes_Inconnus": 1,
+     "Stendek": 1,
+     "Inforespace": 5,
+     "UFO_PRESS": 1,
+     "Info_OVNI_Series_2": 1,
+     "Quaderni_UFO": 1,
+     "Anomalies": 1,
+     "UFOmania": 1,
+     "El_Ojo_Critico": 2,
+     "Anomalia_2a_Epoca": 1,
+     "Repas_Ufologiques": 2
+    }
+   }
+  },
+  "exeter_1965": {
+   "kind": "CONTROL",
+   "note": "control: Exeter NH",
+   "year": 1965,
+   "month": 9,
+   "A": {
+    "place_hits": 145,
+    "place_issues": 52,
+    "strict_issues": 3,
+    "recall_only_issues": 2,
+    "strict": [
+     {
+      "issue": "A/IUR__Frontiers_of_Science_3_4__May_June_1981_djvu.txt",
+      "issue_date": "1981-05",
+      "lag_months": 188,
+      "offset": 32058,
+      "context": "xplanation for any of these ten, let alone the hundreds of others one July 14, 1952 USAF-RAF Bentwaters-Lakenheath, England Aug. 13-14, 1956 Salaz, et al. Levelland, Texas Nov. 2-3, 1957 Father Gill Boianai, Papua June 26, 1959 Betty and Barney Hill Whitefield, New Hampshire Sep. 19, 1961 Muscarello, et al. Exeter, New Hampshire Sep. 3, 1965 Spaur-Neff Ravenna, Ohio Apr. 17, 1966 Captain Coyne Mansfield, Ohio Oct. 18"
+     },
+     {
+      "issue": "A/IUR__Volume_13__number_6__November_December_1988_djvu.txt",
+      "issue_date": "1988-11",
+      "lag_months": 278,
+      "offset": 102830,
+      "context": "r/December 1978):9-10, and no, 133 (January/February 1979):9-10; Walter H. Greenawald, “San Fernando Valley UFO Sighting Wave: July & August 1979,” MUFON UFO Journal, no. 151 (September 1980):3-6; Stan Gordon, “Pennsylvania Wave,” MUFON UFO Journal, no. 224 (December 1986):7-8. 15. John G. Fuller, Incident at Exeter (New York:G.P. Putnam's Sons, 1966); Paris Flammonde, The Age of Flying Saucers (New York:Hawthome, 19"
+     },
+     {
+      "issue": "A/MUFON__2007_11_djvu.txt",
+      "issue_date": "2007-11",
+      "lag_months": 506,
+      "offset": 33455,
+      "context": "abduction event in Manhattan, along with several other witnesses (as detailed Continued on page 10 9 Romney and Giuliani Asked About UFOs Continued from page 9 publicly in Budd Hopkins’ 1996 book Witnessed). What is ironic about Giuliani’s exchange with the boy in New Hamp- shire is that it was in Exeter, the site of the infamous UFO events of September 1965. This dramatic and lengthy sighting by a young man and two "
+     }
+    ],
+    "recall_only": [
+     {
+      "issue": "A/MUFON__1999_11_djvu.txt",
+      "issue_date": "1999-11",
+      "lag_months": 410,
+      "offset": 64996,
+      "context": "Concerning the article submitted by Mr. Preston Dennett (October Journal); 1 am moved to inteject a crucial correction: Exeter, NH, did have a glaringly significant feature of “military activity.” My commen- tary, here, is based primarily on the experience of hav- ing conducted extensive investigation into the Exeter (i. e., NH Seacoast) area UFO activity for a period of some fifteen years, starting in 1969. 1 have l"
+     },
+     {
+      "issue": "A/MUFON__2000_07_djvu.txt",
+      "issue_date": "2000-07",
+      "lag_months": 418,
+      "offset": 47547,
+      "context": "alia July 2000 Page 11 10/16/94 92 68. Zimbabwe schoolyard CE-3- * £2/11/96 72 30 Yukon Territory giant UFO - 03/13/97 75 18 Huge UFO{s) over Arizona 12/03/67 120 80 Herbert Schirmer abduction 01/20/96 70-72 0 Varginha CE-3, Brazil 10/11/73 70 0 Pascagoula (Hickson/Parker) abduction 09/03/65 78 21 Exeter, New Hampshire CE-1 04/24/64 71 23 Lonnie Zamora CE-3, Socorro, NM 05/20/67 150 80 Steven Michalak CE-2, Falcon La"
+     }
+    ],
+    "by_source": {
+     "IUR": 2,
+     "MUFON": 3
+    }
+   },
+   "B": {
+    "place_hits": 709,
+    "place_issues": 317,
+    "strict_issues": 16,
+    "recall_only_issues": 8,
+    "strict": [
+     {
+      "issue": "B/FSR__the-flying-saucer-review-ultimate-collection__67.FSR.txt",
+      "issue_date": "1966-01",
+      "lag_months": 4,
+      "offset": 9353,
+      "context": "provides an interesting insight into the workings of NICAP. Unhappily it is too long for presentation here in its original form, but it is worthy of note that a version of the account, with due acknowledgements to Mr. Fowler, appeared in the SUNDAY TELEGRAPH of October 3, 1965. Tes unusual sighting occurred near Exeter, New Hampshire, on September 3, 1965. At approximately 12.30 a.m. on that date, Officer Eugene Bert"
+     },
+     {
+      "issue": "B/UFO_Nyt__UFO_Nyt_No_1_januar-februar_1966.txt",
+      "issue_date": "1966-06",
+      "lag_months": 9,
+      "offset": 175171,
+      "context": "ller- kenernes fremdrivnings- system! — Har De husket at forny abonnementet? NYT Nærobservation i New Hampshire Følgende beretning er kun een ud af mange interessante, der indtraf i staten New Hamp¬ shire, U.S.A., i begyndelsen af september 1965, i dette tilfælde den 3. Norman Muscarello fra byen Exeter kom ved midnatstid ind på den lokale politista¬ tion med en hårrejsende historie om, at han var blevet jaget af et "
+     },
+     {
+      "issue": "B/Australian_Flying_Saucer_Review__Australian_Flying_Saucer_Review_1966_11_no_9_UFOIC.txt",
+      "issue_date": "1966-11",
+      "lag_months": 14,
+      "offset": 111883,
+      "context": "the machine which he considered may have been an air-intake, and noticed that the object tilted downwards at an angle of about 15 degrees with the ground level. Mr. Strauch has four additional, reliable witnesses to confirm his report, and it is thus difficult to ignore. Exeter The 3rd September, 1965, is the date by which Exeter. New Hampshire, will be remembered for some time to come. At least five people, includin"
+     },
+     {
+      "issue": "B/UFO_Nyt__UFO_Nyt_No_3_maj-juni_1967.txt",
+      "issue_date": "1967-06",
+      "lag_months": 21,
+      "offset": 16126,
+      "context": "synes ikke altid at kaste lys over sa¬ gen), 2) ,,radarforstyrrelser\", bedst illustreret ved de berømte Washington Airport observa¬ tioner den 19. og 26. juli 1952, 3) ,,kuglely ns¬ forklaringen\" i tilfældet ved Leveiland, Texas, den 2.-3. november 1957, 4) „astronomiske\" for¬ klaringer, som ved observationen i Exeter, New Hampshire, den 3. september 1965 og i Damon, Texas, samme nat. (Begge forklaringer blev trukket"
+     },
+     {
+      "issue": "B/FSR__the-flying-saucer-review-ultimate-collection__78.FSR.txt",
+      "issue_date": "1967-06",
+      "lag_months": 21,
+      "offset": 116030,
+      "context": "he UFO problem. Mr. Fuller interviewed some sixty witnesses before writing his book, and described some twenty-one of these cases in detail. I have made a summary of these twenty-one cases, and I imagine readers of the REVIEW might be interested in the results. Most of the sightings were made in the vicinity of Exeter, New Hampshire, in the late summer and the fall of 1965, Muscarello Sighting September 3. A huge red"
+     },
+     {
+      "issue": "B/Panorama__Panorama_Vol_07_No_01_1968.txt",
+      "issue_date": "1968-06",
+      "lag_months": 33,
+      "offset": 27211,
+      "context": "bility and thoroughness of NICAP*s investigative network appear good. They are careful, sceptical, and releixtlessly harsh in exposing hoaxes or illusions. Many other sightings of vary.ing . credibility include this ”humanoid” feature, v/ith reported heights usually ranging from 3-|- to 4^ feet.) The incident at Exeter, ^e\\7 Hampshire. Another case among the 646 ”unidentifieds*^‘ is cn its vray to becoming the most f"
+     },
+     {
+      "issue": "B/UFO_Nyt__UFO_Nyt_No_1_jan-feb_1968.txt",
+      "issue_date": "1968-06",
+      "lag_months": 33,
+      "offset": 76788,
+      "context": "sig fra vest til øst. Også denne blev observeret af an¬ dre politimænd i Iowa City, Coralville, Washing¬ ton og Mount Pleasant, Iowa. - (APRO BULL. jan.-feb. 66). Den 3. september 1965 betragtede en 18-årig dreng, Norman Muscarello, sammen med politi¬ officer Engene Bertrand og Officer David Hunt, begge fra Exeter-politistationen, New Hamp- shire, et UFO. Genstanden, der iøvrigt blev set af mange andre, er officielt "
+     },
+     {
+      "issue": "B/FSR__the-flying-saucer-review-ultimate-collection__94.FSR.txt",
+      "issue_date": "1970-11",
+      "lag_months": 62,
+      "offset": 142285,
+      "context": "ptember 3, 1965). The famous Muscarello case. Dogs howled frantically and horses inside a barn whinnied and kicked madly at their stalls as a large red UFO was flying around overhead, very low. (The horses being inside the building, will certainly not have been able to see the UFO.) John G. Fuller: Incident At Exeter, Chap. 1. 120: Near Aldershot, England (8.40 p.m., September 9, 1965). Miss Jeanette Martindale, whil"
+     },
+     {
+      "issue": "B/UFO_Nyt__UFO_Nyt_No_5_sep-okt_1971.txt",
+      "issue_date": "1971-06",
+      "lag_months": 69,
+      "offset": 134421,
+      "context": "d. 3. september 1965). Det berømte Muscarello tilfælde. Hunde hy¬ lede rasende, og heste i en stald vrinskede og sparkede vildt til deres båse, da et stort rødt UFO fløj rundt ovenover i meget ringe højde. (Da hestene var inde i bygningen, kan de be¬ stemt ikke have set UFO’et). John G. Ful ler: Incident at Exeter. /BS. 208 UFO-NYT DANIKEN’s BØGER FORTIDS GÅDER . . . FREMTIDS VIRKELIGHED TILBAGE TIL STJERNERNE bliver"
+     },
+     {
+      "issue": "B/UFO_Nyt__UFO_Nyt_No_5_sept-okt_1984.txt",
+      "issue_date": "1984-06",
+      "lag_months": 225,
+      "offset": 19713,
+      "context": "te UFO-bølge i efter¬ året 1965 fandt sted den 3. septem¬ ber, og vidnerne var: Norman J. Mu- scarello, 18 år, politibetjent David R. Hunt, 28 år og politibetjent Bugene Bertrand, 30 år. Hændelsesforløbet er gennem tider- Norman Muscarello fortæller: »Jeg gik og tomlede på hovedvej 150, ca. 5 km syd for Exeter, New Hamp- shire, klokken 2 om natten den 3. september. En gruppe på fem kraf¬ tige, røde lys dukkede op ove"
+     },
+     {
+      "issue": "B/Magonia_Supplement__Magonia_Supplement_No_08_1998_10.txt",
+      "issue_date": "1998-10",
+      "lag_months": 397,
+      "offset": 594,
+      "context": "that the ETH should be taken seriously. However, recent signs are encouraging. Brad Sparks's re-examination of the RB-47 case, published in Jerome Clark's latest encyclopedia, and a revival of interest in the Travis Walton case, both indicate the possibility of interesting developments in the foreseeable future. EXETER CE1 In 1965 the following statement was made to Project Blue Book: I, Norman J. Muscarello, was hit"
+     },
+     {
+      "issue": "B/misc__2001_UFOs_and_the_Psi_Interface_Cassirer_Gamble_OakensenSpencer.txt",
+      "issue_date": "2001-06",
+      "lag_months": 429,
+      "offset": 27723,
+      "context": "lly a large well- defined, object seen at close range. These reports relate to objects seen within 100 metres of the principle witness. On 3rd September 1965, two police patrolmen and a third witness reported seeing a large round red object about 1 50 feet from them near Exeter New Hampshire. It moved erratically and had five red lights. It is perhaps interesting to note that whilst investigating this particular case"
+     },
+     {
+      "issue": "B/Australian_UFO_Bulletin__Australian_UFO_Bulletin_2002_03_March.txt",
+      "issue_date": "2002-03",
+      "lag_months": 438,
+      "offset": 26495,
+      "context": "d said. He de¬ scribes himself as a skeptic, but said he abso¬ lutely believes the witness did see something. \"I was sceptical at first,\" he said. \"Then I lis¬ tened to the person discuss the issue and they were very adamant that they saw something.\" Fremont Police Chief Neal Janvrin was an offi¬ cer with the Exeter Police Department on Sep. 3, 1965, the day of New Hampshire's most notori¬ ous UFO sighting, an incide"
+     },
+     {
+      "issue": "B/Magonia_Supplement__Magonia_Supplement_No_56_2005_05_25.txt",
+      "issue_date": "2005-05",
+      "lag_months": 476,
+      "offset": 2149,
+      "context": "UFO was really Jupiter. It is not unusual for drivers to see stars or planets appearing to follow their car at night, and any moving clouds can intensify the view Nigel Watson that they are moving fast in the sky. It’s worth adding that in the fall of 1965 there was a spate of UFO sightings in the area of Exeter, New Hampshire. John Fuller spent a month interviewing witnesses who saw bright, flashing lights. The most"
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_2005_10_no_435.txt",
+      "issue_date": "2005-10",
+      "lag_months": 481,
+      "offset": 29817,
+      "context": "night, a teenage Navy recruit walked down the quiet country highway. Suddenly, a huge object loomed above him. Throwing himself to the ground to avoid being hit, he huddled against a stone wall. The blood drained from his face. The time was around 2 a.m. The date was Sept. 3, 1965. Thus began the “Incident at Exeter,” a series of sightings officially qualified as a legiti¬ mate visit from an unidentified flying objec"
+     },
+     {
+      "issue": "B/MUFON_Michigan_Newsletter__MUFON_Michigan_Newsletter_2007_11.txt",
+      "issue_date": "2007-11",
+      "lag_months": 506,
+      "offset": 51830,
+      "context": "ry General at that time, Javier Perez Cuellar, is said to have witnessed an abduction event in Manhattan, along with several other witnesses (the events detailed publicly in Budd Hopkins 1996 book “Witnessed”). What adds a bit of humorous irony to Giuliani’s exchange with the boy in New Hampshire is that it was in Exeter, where the infamous UFO events of September 1965 took place that included a dramatic lengthy sigh"
+     }
+    ],
+    "recall_only": [
+     {
+      "issue": "B/LDLN__LDLN_No_091.txt",
+      "issue_date": "1967-12",
+      "lag_months": 27,
+      "offset": 48589,
+      "context": "e tout de même une quantité assez effarante d’effets dûs aux O.V.N.I.S., effets qui ne sont j5as encore compréhensibles pour nous. Comment peut-cn aussi, par exemple, expliquer, sur !a base de nos connaissances en électri¬ cité, ce que faisaient les six objets vo¬ lants vus entre le 3 et le 18 septembre 1965 à Exeter, New Hampshire, U.S.A., qui en différentes occasions sont allés au- dessus de lignes à haute tension,"
+     },
+     {
+      "issue": "B/LDLN__LDLN_No_108.txt",
+      "issue_date": "1970-10",
+      "lag_months": 61,
+      "offset": 26948,
+      "context": "692) 3 Septembre 1965 01 :20, San Justo (Argentine): J. Fernandez fut éveillé par un fort bourdonne¬ ment et vit un objet ovale, lumineux, s'élevant de son toit. Sa couleur variait du blanc au rouge et il laissa des marques sur le toit de la maison du té¬ moin. (Humanoïds 41) O 693) 3 Septembre 1965 02:00, Exeter (New Hamps- hire) : Un jeune homme et deux officiers de police ob¬ servèrent cinq lumières en formation s"
+     },
+     {
+      "issue": "B/LDLN__LDLN_No_136.txt",
+      "issue_date": "1974-06",
+      "lag_months": 105,
+      "offset": 125108,
+      "context": "e maison voisine, au même moment, un chien devint ex¬ trêmement effrayé et pendant dix minutes personne ne put le faire sortir de la maison. Réf. : F.S.R. Novembre-décembre 1965. — 28 — 103. Kensingtori, New-Hampshire, U.S.A. — nuit du 3 septembre 1965. Pendant le fameux cas Muscarello (voir Incident at Exeter). Des chiens hurlaient frénétiquement et des chevaux dans une grange ruaient et hennissaient, tan¬ dis qu’un"
+     },
+     {
+      "issue": "B/misc__Notiziario_UFO_1974_07-12_No_63-64.txt",
+      "issue_date": "1974-07",
+      "lag_months": 106,
+      "offset": 26554,
+      "context": "battito televisivo sui dischi volanti insieme ad auto¬ revoli personalità del mondo scientifico fra cui il dr. MenzeI, celebre astronomo di Har¬ vard e non meno celebre negatore della real¬ tà degli Ufo. Ad un certo momento la discus¬ sione affrontò l’argomento dei clamorosi av¬ vistamenti del settembre 1965 ad Exeter, New Hampshire, con particolare riguardo al¬ l’osservazione testimoniata, fra gli altri, da due agen"
+     },
+     {
+      "issue": "B/misc__Notiziario_UFO_1984_01-02_Vol_18_No_102.txt",
+      "issue_date": "1984-01",
+      "lag_months": 220,
+      "offset": 176201,
+      "context": "il «Chronicle» di Houston: «È venuto il mo¬ mento che il congresso intraprenda una indagine pub¬ blica su questo mistero... l’aeronautica è tuttavia cate¬ gorica: tutti stanno avendo le traveggole»). La serie di «Spiegazioni» con cui il «project blue hook» cercò di liquidare le osservazioni del New Hampshire ad Exeter (3 settembre 1965) costituisce tut¬ tora un altro elemento largamente pubblicizzato della trascurate"
+     },
+     {
+      "issue": "B/LDLN__LDLN_No_255-256.txt",
+      "issue_date": "1985-10",
+      "lag_months": 241,
+      "offset": 93652,
+      "context": "SA, ce sont d'abord deux disques incandescents qui passent dans le ciel, par deux fois, puis un ovni circulaire qui est doté de deux ailerons, l'un à son sommet, l'autre à sa base évo¬ quant un poisson. Trois témoins le voient et l'entendent toucher l'eau du réservoir d'Oradel... (16) . - Le 3 septembre 1965, à Exeter dans le New Hampshire, aux USA, plusieurs témoins virent un objet long d'une trentaine de mètres et "
+     },
+     {
+      "issue": "B/UFO_Vision__UFO-Vision_1987.txt",
+      "issue_date": "1987-06",
+      "lag_months": 261,
+      "offset": 73957,
+      "context": "de udfyldte skemaer og sine egne undersøgelser har Ronald D. Story opstil¬ let sin egen TOP 10-liste, der ser således ud: Newport News, Virginia, USA 14.07.1952 Lakenheath, England 13.-14.08.1956 Leveiland, Texas, USA 02.-03.11.1957 Boianai, New Guinea 26.-28.06.1959 Whitefield, Newhampshire, USA 19.09.1961 Exeter, Newhampshire, USA 03.09.1965 Ravenna, Ohio, USA 17.04.1966 Mansfield, Ohio, USA 18.10.1973 Teheran, Ira"
+     },
+     {
+      "issue": "B/misc__Notiziario_UFO_1996_01-02_No_4.txt",
+      "issue_date": "1996-01",
+      "lag_months": 364,
+      "offset": 93408,
+      "context": "pio il “Chronicle” di Houston: “È venuto il momento che il congresso intraprenda una indagine pubblica su questo mistero... l’aeronautica è tuttavia catego¬ rica: tutti stanno avendo le traveggole”). La serie di “spiega¬ zioni” con cui il “Project Blue Book” cercò di liquidare le osservazioni del New Hampshire ad Exeter (3 settembre 1965) costituisce tuttora un altro elemento largamente pub¬ blicizzato della trascura"
+     }
+    ],
+    "by_source": {
+     "FSR": 3,
+     "UFO_Nyt": 5,
+     "Australian_Flying_Saucer_Review": 1,
+     "Panorama": 1,
+     "Magonia_Supplement": 2,
+     "misc": 4,
+     "Australian_UFO_Bulletin": 1,
+     "UFO_Newsclipping_Service": 1,
+     "MUFON_Michigan_Newsletter": 1,
+     "LDLN": 4,
+     "UFO_Vision": 1
+    }
+   }
+  },
+  "kecksburg_1965": {
+   "kind": "CONTROL",
+   "note": "control: Kecksburg PA",
+   "year": 1965,
+   "month": 12,
+   "A": {
+    "place_hits": 168,
+    "place_issues": 43,
+    "strict_issues": 10,
+    "recall_only_issues": 0,
+    "strict": [
+     {
+      "issue": "A/MUFON__1989_02_djvu.txt",
+      "issue_date": "1989-02",
+      "lag_months": 278,
+      "offset": 7876,
+      "context": "“noise,” | have seen a change on my thermostat. For whatever reason, I’m suddenly getting more C/R_ input which I share, in brief, as follows: CASE 9} Thanks to the in-depth research of Stan Gordon, Director of the Pennsylvania Association for the Study of the Unexplained, headquar- tered in Greensburg, the Kecksburg crash/retrieval case of December 9, 1965, may now find recognition as a classic in the annals of ufol"
+     },
+     {
+      "issue": "A/MUFON__1989_09_djvu.txt",
+      "issue_date": "1989-09",
+      "lag_months": 285,
+      "offset": 6488,
+      "context": ", clarity, and conciseness. Permission is hereby granted to quote from this issue provided not more than 200 words are quoted from any one article, the author of the article is given credit, and the statement “Copyright 1989 by the Mutual UFO Network, 163 Oldtowne Rd., Seguin, Texas 78155” is included. $e The Kecksburg UFO Crash Stan Gordon directs PASU, the Pennsylvania Association for the Study of the Unexplained a"
+     },
+     {
+      "issue": "A/MUFON__1989_10_djvu.txt",
+      "issue_date": "1989-10",
+      "lag_months": 286,
+      "offset": 6270,
+      "context": "for style, clarity, and conciseness. Permission is hereby granted to goute from this issue provided not more than 200 words are quoted from any one article, the author of the article is given credit, and the statement “Copyright 1989 by the Mutual UFO Network, 103 Oldtowne Rd., Seguin, Texas 78155” is included. Kecksburg Crash Update In my original article (“The Kecksburg UFO Crash.” MUFON UFO Journal, September 1989"
+     },
+     {
+      "issue": "A/MUFON__1990_11_djvu.txt",
+      "issue_date": "1990-11",
+      "lag_months": 299,
+      "offset": 52779,
+      "context": "on June 30, 1908, in the Tunguska River Basin in Siberia, was a cometoid. However, this theory is not supported by other evidence which indicates that the Tunguska Ob- ject was a huge metallic cylinder which changed course twice before crashing aoe oe ee oe to Earth. Interestingly, the “acorn- shaped” Kecksburg, Pennsylvania UFO of December 9, 1965, was also deter- mined to have altered its flight path at least twice"
+     },
+     {
+      "issue": "A/MUFON__1991_02_djvu.txt",
+      "issue_date": "1991-02",
+      "lag_months": 302,
+      "offset": 3546,
+      "context": "eguin, Texas. Membership/Subscription rates: $25 per year in Seguin, TX 78155-4099 : the U.S.A.; $30 foreign in U.S. funds. Second class postage paid at Seguin, TX. Telephone: (512) 379-9216 : POSTMASTER: Send form 3579 to advise change of address to: 2 MUFON, 103 Oldtowne Rd., Seguin, TX 78155 Number 274 THE KECKSBURG UFO CRASH: An Interim Report Stan Gordon, Pennsylvania State Director Late in the afternoon of Dece"
+     },
+     {
+      "issue": "A/MUFON__1991_04_djvu.txt",
+      "issue_date": "1991-04",
+      "lag_months": 304,
+      "offset": 94298,
+      "context": "aham and Donald Keyhoe. We also looked at ap- parent government agents who appear to be involved, including Richard Do- ty, and several who go by the code names “Falcon” and “Condor.” We examined several UFO crashes that the government appears to have been involved in, including those in Roswell, New Mexico, Kecksburg, as, Pennsylvania and the Kalahari Desert in South Africa. MUFON’s State Director Stan Gordon opened"
+     },
+     {
+      "issue": "A/MUFON__1992_10_djvu.txt",
+      "issue_date": "1992-10",
+      "lag_months": 322,
+      "offset": 99682,
+      "context": "tan Gordon, and the Penn- sylvania Association for the Study of the Unexplained observed National UFO Information Week on August 15, 1992, at the Greengate Mall near Greensburg. The display attracted thousands of people during the one-day show. Im- portant new witnesses volunteered further information on the Kecksburg Case of December 9, 1965. Many other re- cent and past UFO sightings were reported to personnel man-"
+     },
+     {
+      "issue": "A/MUFON__1998_06_djvu.txt",
+      "issue_date": "1998-06",
+      "lag_months": 390,
+      "offset": 82933,
+      "context": "Stan Gordon has been bird-dogging the Kecksburg event for nearly 33 years—since he was 16 years old— and hasn’t finished yet. I first met Stan when he con- tributed articles to SAyvfook (the forerunner to the Jour- nal) when | was editor, and am well aware of his reputa- tion as a reliable researcher. Whether Kecksburg is another Roswell depends on who you ask. As articles in the ASUFON UFO Jour- nal (September and O"
+     },
+     {
+      "issue": "A/MUFON__1999_01_djvu.txt",
+      "issue_date": "1999-01",
+      "lag_months": 397,
+      "offset": 49814,
+      "context": "r age of 10. Like many ufologists, he got hooked on the subject after listening to exciting radio programs. This led to trips to the local library by the 10-year-old re- searcher, then to actually calling up witnesses. Six years later, in December of 1965, came the case that has held Stan’s interest to this day—Kecksburg. “T really wanted to get involved with that case,” he explains, “but I didn’t get very far then. "
+     },
+     {
+      "issue": "A/MUFON__1999_06_djvu.txt",
+      "issue_date": "1999-06",
+      "lag_months": 402,
+      "offset": 89684,
+      "context": "a tong-time friend who just passed the Field Investigator’s exam. She and I investigated a few cases for the National Investigations Committee on Aerial Phenomena (NICAP) years ago. Her skills will be a defi- nite asset to MUFON. Gordon’s Kecksburg video wins EBE award Stan Gordon's UFO video documentary “Kecksburg The Untold Story” won an EBE award in the Best His- torical UFO Documentary category at the 8th Annual "
+     }
+    ],
+    "recall_only": [],
+    "by_source": {
+     "MUFON": 10
+    }
+   },
+   "B": {
+    "place_hits": 558,
+    "place_issues": 134,
+    "strict_issues": 55,
+    "recall_only_issues": 8,
+    "strict": [
+     {
+      "issue": "B/FSR__the-flying-saucer-review-ultimate-collection__161.FSR.txt",
+      "issue_date": "1983-03",
+      "lag_months": 207,
+      "offset": 15906,
+      "context": "vided valuable data. Consider the following: ITEM B-1 (REVISED) Clark McClelland, formerly Director of NICAP, Florida Unit-3, during the period he worked at the Kennedy Space Center as a member of the Apollo Programme, informed me on October 5, 1979 of an al- leged UFO crash/retrieval incident occurring near Kecksburg, Pennsylvania, December 9, 1965. McClel- land has since correlated old and newly acquired data, rela"
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_1985_12_no_197.txt",
+      "issue_date": "1985-12",
+      "lag_months": 240,
+      "offset": 64014,
+      "context": "FOI requests but Boeche says the Air Force has come to regret the release of some of those documents because they have given researchers insight into sensitive subjects. \"Things have apparently slipped through,\" says Boeche, who attributes the disclosures to oversight. Perhaps the most interesting aspect of the Kecksburg case concerns documents Gordon and Boeche have failed to obtain concerning the 662nd Radar Squadr"
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_1988_02_no_223.txt",
+      "issue_date": "1988-02",
+      "lag_months": 266,
+      "offset": 29403,
+      "context": "ed scholar, Hynek was chairman of the astronomy depart ment at Northwestern University in Evanston, Ill., and had been a di¬ rector in charge of satellite tracking for the Smithsonian Astrophysical Observatory. 3 CR: L. Whitehurst TRIBUNE-REVIEW, Creensburg, PA Not everyone agrees meteor fell near Kecksburg in 1965 By Dave Le9ter TRIBUNE REVIEW Shortly before sundown Dec. 9. 1965. a fiery bright-orange object was see"
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_1989_07_no_240.txt",
+      "issue_date": "1989-07",
+      "lag_months": 283,
+      "offset": 10895,
+      "context": "an referring calls to him. “A lot of people were glad I was interested and concerned and were glad to talk to me,\" Gordon relates. Even though he began to be ac¬ cepted as a serious researcher as a teen-ager, his age did pose a problem. Especially on December 9, 1965, when a report of a UFO crash in nearby Kecksburg came in that afternoon. ’It’s a night I still remember clearly today. The television was in¬ terrupted"
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_1989_08_no_241.txt",
+      "issue_date": "1989-08",
+      "lag_months": 284,
+      "offset": 87352,
+      "context": "Bulletin Staff Writer This final article in a six-part series on unidentified flying objects (UFOS) examines one of the most talked about and controversial in¬ cidents in the area, what has been termed a meteorite by some and an alien craft by others, which crash¬ ed in Kecksburg December 9, 1965. The object was first seen streak¬ ing across the sky, with thousands from Michigan to New York witnessing a brilliant bal"
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_1989_09_no_242.txt",
+      "issue_date": "1989-09",
+      "lag_months": 285,
+      "offset": 127275,
+      "context": "the pa¬ ranormal. Gordon noticed that many of the stories he heard were very similar. He's been reading books on the subject ever since. Several large, filled booksh¬ elves occupy Gordon’s UFO work¬ room. Radio equipment, Bigfoot casts, maps and collected UFO re¬ sidues arc also prominently dis¬ played. KECKSBURG INCIDENT “Then when this thing in Kccks- burg happened, that really got me going,\" said Gordon, referring"
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_1990_02_no_247.txt",
+      "issue_date": "1990-02",
+      "lag_months": 290,
+      "offset": 5943,
+      "context": "s been the location of a number of UFO reports. Strange animal sightings also have been reported: Bigfoot, black panthers and the eastern cougar, supposed¬ ly extinct for the last century. One of the most important UFO sightings in the entire United States occurred in this area back in 1965 in the village of Kecksburg. That December, thousands of observers in Pennsylvania, Ohio and Michigan saw a fiery object in the "
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_1990_09_no_254.txt",
+      "issue_date": "1990-09",
+      "lag_months": 297,
+      "offset": 12015,
+      "context": "n for three to five days, but we're going to be in West¬ moreland County for a full six days. This is a big story for us.\" McGinn said her crew will con¬ duct interviews at Mountain View Inn east of Greensburg over two days with various witnesses and with researchers and experts. She said the crew will go to Kecksburg Sunday to film the outdoor fool- age with a full cast of actors and extras over four days. Shortly b"
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_1990_10_no_255.txt",
+      "issue_date": "1990-10",
+      "lag_months": 298,
+      "offset": 17814,
+      "context": "She would just like to discon¬ nect herself now from the Odessa circles. \"1 think 1 did what I was sup¬ posed to do,\" she said. \"I am the stranger (she pronounced strange- hcr) that was supposed to bring this to light. I think my job is done.\" Doubters Well, it's safe to say that some of the citizens of Kecksburg are, to say the least, skeptical toward the possibility that a meteor, let alone a U.F.O., landed in the "
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_1991_02_no_259.txt",
+      "issue_date": "1991-02",
+      "lag_months": 302,
+      "offset": 23222,
+      "context": "video tape and the UFO photographs taken in Gulf Breeze several years ago and published in the best se> ling book. The Gulf Breeze Sight mgs. I’m not saying I know what the UFO is. all I’m saying is that it was there and I video taped it Reid . TRIBUNE-REVIEW, Greensburg, PA - Dec. 9, 1990 CR: S. Gordon Kecksburg UFO seen at AF bases KECKSBURG OBJECT? This is an artist's rendering of the object allegedly seen by an O"
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_1991_06_no_263.txt",
+      "issue_date": "1991-06",
+      "lag_months": 306,
+      "offset": 7037,
+      "context": "of the sightings are actually UFOs.” But Barger’s not so certain he wants to see one. “I guess so,” he said. “But I don’t want to see it at 3 o’clock in the morning.” o T3 By David Templeton Photographed by Vince Musi os u THE • • UN INVITED I * SOMETHING DROPPED IN ON | KECKSBURG UNEXPECTEDLY 25 YEARS AGO, AND THE CONTROVERSY CONTINUES TO DIVIDE THIS WESTMORELAND COUNTY I COMMUNITY TODAY s \" 0, WHAT ON Earth landed "
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_1992_09_no_278.txt",
+      "issue_date": "1992-09",
+      "lag_months": 321,
+      "offset": 143664,
+      "context": "chles¬ singer said. “ There is nothing official from the government.\" CN O' O' O0 3 < o ■o o o Inquiry sought regarding alleged Kecksburg UFO A Greensburg-based UFO clearinghouse is calling for a con¬ gressional inquiry into the al¬ leged landing of an unidentified flying object in Kecksburg 27 years ago. Stan Gordon, director of the Pennsylvania Association for the Study of the Unexplained, said he is convinced the "
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_1992_10_no_279.txt",
+      "issue_date": "1992-10",
+      "lag_months": 322,
+      "offset": 54834,
+      "context": "ducation at 922-6966. ext. |- 3209. The class meets from 0 9:30 to 4 p.m. and cost9 $48. GAZETTE, Indiana, PA - Sept. 27, 1992 CR: S. Gordon Area residents to tell their story on national TV By PAT RICH Gazette Staff Assistant ROBINSON — Many people have speculated as to what tell from the sky near a Kecksburg farmhouse during the late afternoon of Dec. 9, 1965. Some say it was a meteor, while others believe it was a"
+     },
+     {
+      "issue": "B/MUFON_of_Ohio_Newsletter__MUFON_of_Ohio_Newsletter_1992_11_no_1-2.txt",
+      "issue_date": "1992-11",
+      "lag_months": 323,
+      "offset": 44373,
+      "context": ", Pennsylvania. It was republished in the Spring, 1992 issue of the Flying Saucer Review , FSR Publications Ltd., P.O. Box 162, High Wycombe, Bucks, HP13 5DZ, England. This is Ohio history at its most interesting. \"Twenty five years ago today [December 9, 1965], a UFO reportedly landed in a wooded area near Kecksburg in Mt. Pleasant Township. Now, for the first time, witnesses say they saw the object at two separate "
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_1992_11_no_280.txt",
+      "issue_date": "1992-11",
+      "lag_months": 323,
+      "offset": 116875,
+      "context": "y Sharon Santus TRIBUNE-REVIEW The alleged landing of a UFO in the Mt. Pleasant Township com¬ munity of Kecksburg 27 years ago will once again be in the national spotlight. Fox Television’s “Sightings” will feature the case in an upcom¬ ing broadcast, perhaps as early as Oct. 9 A production crew was in Kecksburg and Greensburg Mon¬ day and Tuesday conducting in¬ terviews with people who say they saw a mysterious, aco"
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_1993_09_no_290.txt",
+      "issue_date": "1993-09",
+      "lag_months": 333,
+      "offset": 62825,
+      "context": "and numerous government UFO documents. PASU is a volunteer, statewide scientific clearinghouse for the investigation of alleged UFO sight¬ ings and other strange occur¬ rences. One of tile group's most noted investigations involves the alleged landing,of a UFO near the West moreland County community of Kecksburg, on Dec. 9,1965. Just before sundown, a bright orange fireball streaked across the sky over Michigan, the "
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_1993_10_no_291.txt",
+      "issue_date": "1993-10",
+      "lag_months": 334,
+      "offset": 91499,
+      "context": "ot unique. Gordon said reports of alien abductions are on the rise in the United States, as are cattle mutilations. He feels the two may be part of a major genetic research program on humans conducted by aliens. Gordon appeared on TV’s “Unsolved Mysteries\" in 1990, on a segment devoted to a UFO sighting in Kecksburg on Dec. 9, 1965. Eye¬ witnesses said an object came down in their area and that the mil¬ itary hauled "
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_1995_03_no_308.txt",
+      "issue_date": "1995-03",
+      "lag_months": 351,
+      "offset": 40723,
+      "context": "military. After arriving at the site, the Army issued a press release stating that a flying saucer had crashed there. One day later, a military | Open the books o u 1 have been investigating for • many years the circumstances sur- 1/5 rounding the Dec. 9,1965 UFO \" crash incident, which occurred u near Kecksburg, in Westmoreland County. We are approaching the 30th anniversary of this important o\\ local event, yet eve"
+     },
+     {
+      "issue": "B/MUFON_Arizona__MUFON_Arizona_1995_05_15_Vol_04_No_05.txt",
+      "issue_date": "1995-05",
+      "lag_months": 353,
+      "offset": 24106,
+      "context": "en about more than any other case — and has been featured recently on shows such as Unsolved Mysteries. “The government’s General Ac¬ counting Office is currently investi* gating the incident and its cover-up.\"\" — WILLIAM HELLER A12 ' HiNPAY. DEC. 6.1987 I Not everyone agrees meteor fell near Kecksburg By Dave Lester, Tribune-Review, Sunday, Dec. 6, 1987 Shortly before sundown Dec. 9. 1965, a fiery bright-orange ob¬ "
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_1995_12_no_317.txt",
+      "issue_date": "1995-12",
+      "lag_months": 360,
+      "offset": 100580,
+      "context": "They can recon¬ cile this stuff,” he said of the public. In the meantime, Sanini wiU con¬ tinue to wear UFO shirts and alien jewelry, and keep looking up at the sky. And if anyone doubts her sanity? “I say, ‘You have a lot to learn,’ ” she said. 9 BULLETIN, Latrobe, PA - Dec. 2, 1995 CR: S. Gordon Kecksburg Incident Still Mystery By STAN GORDON For The Bulletin (My many years of inves¬ tigating circumstances sur¬ rou"
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_1996_01_no_318.txt",
+      "issue_date": "1996-01",
+      "lag_months": 361,
+      "offset": 117811,
+      "context": "anniversary of the event draws near. UFO witnesses say something WAS in the air that night By Sharon Santus TRIBUNE-REVIEW Four people huddled over microphones in a cramped broadcast booth at a Greensburg radio station Tuesday and spoke of an unidentified flying object they insist glided to earth near Kecksburg 30 years ago. During the two-hour broadcast hosted by WHJB's Joe Gearing, the witnesses said because of the"
+     },
+     {
+      "issue": "B/Australian_UFO_Bulletin__Australian_UFO_Bulletin_1996_03_March.txt",
+      "issue_date": "1996-03",
+      "lag_months": 363,
+      "offset": 37857,
+      "context": "interest in the subject. As with most Web sites, ours is under construction and will continue to be in this state for the rest of its life as information is continually added and updated. Please let us know what you think of the site by sending email to our above address. 30 th Anniversary of UFO Crash at Kecksburg 30 years ago on Thursday the 9 th of December, 1965 at about 4:45 p.m., a bright fiery object hurtled a"
+     },
+     {
+      "issue": "B/UFO_Times__UFO_Times_No_40_Mar_Apr_1996.txt",
+      "issue_date": "1996-06",
+      "lag_months": 366,
+      "offset": 17379,
+      "context": "e- mann for The Cosmic Connection: Worldwide Crop Formations and ET Contacts. Paperback-Specific Subject; UFO Crashes - A History Of UFO Crashes by Kevin D. Randle. Topics include: Roswell; San Augustin (New Mexico); Kingman, Arizona (May 1953); Ubatuba, Brazil (Sept. 1957); Las Vegas, Nevada (April 1962); and Kecksburg, PA (December 1965). Also, MJ-12, the Twin¬ ing letter and Project Moon Dust. Paperback-Specific S"
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_1997_04_no_333.txt",
+      "issue_date": "1997-04",
+      "lag_months": 376,
+      "offset": 46143,
+      "context": "ample from a reported Bigfoot'sighting. pers. “After I would read about some¬ thing unusual happening, 1 would call people to talk to them about what they had seen,” he said. \"I guess that’s how my research began.” On Dec. 9, 1965, Gordon said he remembers when something report¬ edly fell from the sky in Kecksburg, a small Westmoreland County com¬ munity. Gordon was 16 years old at the time. “News reporters were not "
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_1997_09_no_338.txt",
+      "issue_date": "1997-09",
+      "lag_months": 381,
+      "offset": 11693,
+      "context": "6. 1997 \"One can hit the White never found. House and take out the presi¬ dent and they'd come up with something,” Romansky, 51, said. I’m not a believer in UFOs, but I wasn't there the dreary December evening in 1965 when something dropped out of the sky in a southern West¬ moreland County village named Kecksburg. Romansky was. Only 19 then, he was stand¬ ing in a relative’s yard when he saw a streak in the gray sky"
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_1998_04_no_345.txt",
+      "issue_date": "1998-04",
+      "lag_months": 388,
+      "offset": 17648,
+      "context": "any details are available, I will include them here. If you want to contact me, please e-mail me at Cbakerswd@aol.com or write to me at P.O. Box 17152, Pensacola, FL 32522-7152, thank you. And remember - Keep Looking Up! TRIBUNE-REVIEW, Greensburg, PA - March 21,1998 CR: S. Gordon Documentary looks at Kecksburg UFO questions By Maryann G. Eidemiller R3R THE TRIBUNE-REVIEW Something happened in Kecksburg on Dec. 9, 19"
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_1998_10_no_351.txt",
+      "issue_date": "1998-10",
+      "lag_months": 394,
+      "offset": 17290,
+      "context": "ay said. Reporter Stasia Scarborough can be reached at 225-8226 or at sscarbro@rec- search.com by e-mail. 2 POST-GAZETTE, Pittsburgh, PA - Sept. 9, 1998 CR: S. Gordon Malt Freed/Post-Gazette photos “It's been almost 33 years and we still don't have an answer,\" says Stan Gordon, who has studied the Kecksburg crash since the day it happened He's sitting in his \"command center\" in his Greensburg home. UFO researcher’s v"
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_1999_03_no_356.txt",
+      "issue_date": "1999-03",
+      "lag_months": 399,
+      "offset": 49795,
+      "context": "n to it, everyone was talking about strange and unusual things. This shouldn’t be too strange, itself, since Gordon was born on Halloween. Really. “The radio shows caused me enough interest to go to the library and look into it,” he says. “When I got a little older, I talked to some local people about the Kecksburg incident and that set me on my lifetime search to find answers to some of these myster¬ ies.” Kecksburg"
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_2000_04_no_369.txt",
+      "issue_date": "2000-04",
+      "lag_months": 412,
+      "offset": 42493,
+      "context": "ver, that are reported by competent observers, and can’t be so easily explained away. Some UFO sightings were explained as the misidentifica- tion of bright planets and stars, meteors, and advertising searchlights. But the case he is most recog¬ nized for is his investigation of the alleged UFO crash near Kecksburg in December 1965. A metallic acom-shaped ob¬ ject is said to have fallen slowly from the sky that day, "
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_2000_09_no_374.txt",
+      "issue_date": "2000-09",
+      "lag_months": 417,
+      "offset": 17260,
+      "context": "and planets in unusual align¬ ment. \"But there are still many inci¬ dents locally and throughout the country, probably hundreds in Pennsylvania alone, that can’t easi¬ ly be explained,\" he said. One happened on Dec. 9, 1965, when witnesses in the Northeast tracked a (lying object that alleged¬ ly landed in Kecksburg. Many peo¬ ple claim military personnel recov¬ ered something from the woods, and Gordon has copies of"
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_2001_05_no_382.txt",
+      "issue_date": "2001-05",
+      "lag_months": 425,
+      "offset": 74919,
+      "context": "to Gordon’s attention from 36 counties in the common¬ wealth. While Gordon is interested in recent events, be also maintains records of UFO sightings from the state which go back as far as the late 1800s. The researcher is still accumulating information on the reported Dec. 9, 1965, UFO crash incident near Kecksburg. He asks that anyone who may have taken photo¬ graphs at the scene that day, or others who have inform"
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_2002_03_no_392.txt",
+      "issue_date": "2002-03",
+      "lag_months": 435,
+      "offset": 16168,
+      "context": "Bigfoot, giant birds, the Eastern cougar, and black pan¬ thers. Gordon is also interested in hearing about unexplained booming sounds, odd animal deaths, strange field formations, and anything strange and unusu¬ al. The researcher continues to gather information on the Dec. 9, 1965, UFO crash incident near Kecksburg. Gordon would like to talk with individuals who were involved with the event or have knowledge about i"
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_2002_12_no_401.txt",
+      "issue_date": "2002-12",
+      "lag_months": 444,
+      "offset": 56502,
+      "context": "nal¬ ist Leslie Kean, of California, are seeking information about Project Moon Dust and Operation Blue Fly, secret Air Force programs, reportedly created to investigate UFOs and retrieve objects of unknown origin. In one case, they are seeking documents related to a locally famous incident in our very own Kecksburg, where on Dec. 5,1965, an object about the size of a small car fell from the sky and was taken away by"
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_2003_04_no_405.txt",
+      "issue_date": "2003-04",
+      "lag_months": 448,
+      "offset": 43512,
+      "context": ", England: “Are aliens visiting Earth?\" He has pro¬ vided testimony to Congressional Hearings, appeared twice at the United Nations, and been a pio¬ neer in many aspects of ufology including the Betty Hill star map work,crashed saucers, analysisof Dclphos physical trace case, and Sci Fi Channel looks into Kecksburg incident By Ann Saul Dudurich TRlBUNEaEVlEW On Dec. 9, 1965, a fiery orange object was observed streaki"
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_2003_05_no_406.txt",
+      "issue_date": "2003-05",
+      "lag_months": 449,
+      "offset": 17064,
+      "context": "on, citi¬ zens here and elsewhere in the state can help put public pres¬ sure on their congressional del¬ egation to request an investiga¬ tion by the U.S. General Accounting Office,” said Larry Landsman, Director, Special Projects, SCI FI Channel. Something was seen in the sky and landed in the woods near Kecksburg on December 9, 1965. Since then the U.S. government denies that any¬ thing fell — despite testimony fr"
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_2003_09_no_410.txt",
+      "issue_date": "2003-09",
+      "lag_months": 453,
+      "offset": 61406,
+      "context": "), the eastern cougar, and the black panther. Alleged sightings of huge hair-covered, generally man-like creatures continue to be report¬ ed in the state. Gordon is probably best known for his years of investigation into the Dec. 9, 1965, UFO crash incident which reportedly took place near the rural village of Kecksburg. That event involved multi¬ tudes of witnesses who observed a fiery object moving across the sky o"
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_2003_11_no_412.txt",
+      "issue_date": "2003-11",
+      "lag_months": 455,
+      "offset": 11342,
+      "context": "e case. The TV documentary should be well worth watching by both skeptics non-skeptics alike. GEORGE D. FAWCETT Lincolnton CR: G. Fawcett TRIBUNE-REVIEW, Greensburg, PA - Oct. 24, 2003 CR: S. Gordon SCI FI CHANNEL A camera crew records the story of Bill Bulebush, a witness to the mysterious crash in Kecksburg. Sci Fi special puts Kecksburg mystery under a microscope . Bill Weaver (left) and Ron Sturble attend the tow"
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_2004_01_no_414.txt",
+      "issue_date": "2004-01",
+      "lag_months": 457,
+      "offset": 10817,
+      "context": "ch Staff Writer tary lighter-than-air ship until described it as emanating two Patricia Miller at 1922. rays of light downward, giving it ptniller@durangoheralti.com. Reach Staff Writer Patricia Miller at pmilIer@durangoherald. com. DAILY COURIER, Connellsville, PA - Oct. 24, 2003 Sci Fi special puts Kecksburg mystery under a microscope ANN SAUL DUDURICH For the Dolly Courier It has remained an enigma for nearly 40 y"
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_2005_07_no_432.txt",
+      "issue_date": "2005-07",
+      "lag_months": 475,
+      "offset": 17124,
+      "context": "h Bigfoot creatures from many parts of the state. Bigfoot encounters have been commonly reported along the Chestnut Ridge by observers in Westmoreland, Fayette, and Indiana County. Besides documenting current strange encounters, Gordon continues to gather information on the Dec. 9, 1965 UFO crash incident near Kecksburg. If you have any information on the case, or have any knowledge of photographs that were taken dur"
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_2006_02_no_439.txt",
+      "issue_date": "2006-02",
+      "lag_months": 482,
+      "offset": 19333,
+      "context": "nd answers to these phenomena. I pres¬ ent the evidence. Each person must decide what they believe and what they cannot\" Pablo Jalm* Salnz is a contributor to the Union-Tribune's weekly bilingual newspaper Enlace. 2 TRIBUNE-REVIEW, Greensburg, PA - Dec. 11, 2005 Believers mark 40th anniversary in Kecksburg Witnesses say an unidentified object crashed there in 1965. by a.j. panian TRIBUNE-REVIEW Free-lance journalist "
+     }
+    ],
+    "recall_only": [
+     {
+      "issue": "B/JUFOF__JUFOF_Issue_063_1989_03.txt",
+      "issue_date": "1989-03",
+      "lag_months": 279,
+      "offset": 107059,
+      "context": "all, der sich am 9.Dezember 1965 zugetragen hat. 1987 traf Stan Gordon, von einer UFO-Forschungs- gruppe in Greensburg, einen Mann, der ihm eine interessante Story erzählte. Danach war er damals 19 Jahre alt und Feuerwehr¬ mann. Seine Einheit sollte sich an der Suche nach einem in einem bewaldeten Ge¬ biet bei Kecksburg abgestürzten Flugzeug beteiligen. Statt des erwarteten Flug¬ zeugs fanden sie jedoch an der Abstur"
+     },
+     {
+      "issue": "B/LDLN__LDLN_No_297.txt",
+      "issue_date": "1989-06",
+      "lag_months": 282,
+      "offset": 8791,
+      "context": "ne sais pas pourquoi, mais il est plus que jamais question des crashes avec récupération. Jugez plutôt : Cas 9 : Grâce aux recherches en profondeur menées par Stan Gordon, directeur de la Pennsyl¬ vania Association for the Study of the Unex- plained, dont le siège est à Greensburg, le cas du 9 décembre 1965 à Kecksburg peut désormais figurer en bonne place permis les cas classiques. Si l'on considère le nombre de tém"
+     },
+     {
+      "issue": "B/JUFOF__JUFOF_Issue_078_1991_06.txt",
+      "issue_date": "1991-06",
+      "lag_months": 306,
+      "offset": 27542,
+      "context": "exiko ein UFO ab? Sind die sogenannten MJ- 12-Papiere ein Beweis dafür? Darü¬ ber wurde schon viel geschrieben, wie Sie wissen. Der Keckaburg-Crash Unterstützung findet das sau- cer-crash-syndrome (SCS) neuer¬ dings durch eine amerikanische Meldung, wonach am 9. Dezember 1965 in den Wäldern nahe des Dorfs Kecksburg (Westmoreland County), Pennsylvania, ein unheimliches Gebilde herabkam. Erst. 25 Jahre später wird dies"
+     },
+     {
+      "issue": "B/JUFOF__JUFOF_Issue_095_1994_05.txt",
+      "issue_date": "1994-05",
+      "lag_months": 341,
+      "offset": 93281,
+      "context": "onde COSMOS 96, die am 23. November 1965 gestartet wor¬ den ist. Aufgrund eines technischen Defektes trat sie am 9. Dezember 1965 bei 51,8“nördlicher Breite und 85,2°westlicher Länge (etwa über dem Gebiet nordwestlich von Ottawa, Kanada) wieder in die Erdatmosphäre ein. Am gleichen Tag soll in den Wäldern nahe Kecksburg ein UFO abgestürzt sein. Die Schlagzeile der örtlichen Zeitung 'THE TRI- BUNE-REVIEW' am nächsten "
+     },
+     {
+      "issue": "B/misc__Notiziario_UFO_1996_01-02_No_4.txt",
+      "issue_date": "1996-01",
+      "lag_months": 361,
+      "offset": 81134,
+      "context": "due umanoidi (fonte: Robert Barry). 45) Fort Riley (Kansas), 10 novembre 1964. Oggetto sconosciu¬ to schiantato. Nove salme (fonte: S.Freixedo). 46) USA, località imprecisata, 10 dicembre 1964. Testimonianza di un ex militare allora in servizio sul luogo di caduta di un UFO (fonte: Léonard Stringfield). 47) Kecksburg (Pennsylvania), 9 dicembre 1965. Caduta e recu¬ pero, da parte dell’USAF, di un oggetto volante campa"
+     },
+     {
+      "issue": "B/Awareness__Awareness_1998-99_Vol_23_No_1.txt",
+      "issue_date": "1998-06",
+      "lag_months": 390,
+      "offset": 75900,
+      "context": "ndford £10.00). Is nicely organised and thought provoking, containing many suggestions for ways of comprehending the UFO phenomenon. He itemises the various types of entities that have been seen and the accounts of Abductees and the hypnotic evidence., he suggests that the artefact taken away by the military in the KECKSBURG INCIDENT 09/12/65 in Pennsylvania, was in fact an experimental landing capsule from an Americ"
+     },
+     {
+      "issue": "B/UFO_Newsletter_Richard__UFO_Newsletter_Richard_Nolane_No_24_10_avril_1999.txt",
+      "issue_date": "1999-06",
+      "lag_months": 402,
+      "offset": 1551,
+      "context": "à Aimé Michel en 1958) parait virer soudain sa eut! au sp/et des OVNI et découvrir avec plus tTun an de retard rejdstence du colloque aux USA qui avait conclu à nntérùt selentHIque du phénomène. Mrds attendons avant de nous réjouir, car avec ces gens là... MYSTERIEUX CRASH A KECKSBURG, USA, LE 9 DECEMBRE 1965 Il y a 33 ans, les environs cTune petite ville de Pennsylvanie du nom de Kecksburg virent s’écraser un objet "
+     },
+     {
+      "issue": "B/UFO_Log__UFO_Log_No_08_1999_12.txt",
+      "issue_date": "1999-12",
+      "lag_months": 408,
+      "offset": 155000,
+      "context": "us d'obser¬ vations du monde entier, Ufomania nous présente le rapport Cometa, un article sur les mutilations de dauphins et un autre sur SETI. Attention changement d'adresse : GOMEZ Didier Gayo, St Pierre de Conils 81120 LOMBERS UFO NEWSLETTER # 40 et #41 Avril et mai 1999 Le #40 présente le crash de Kecksburg (Etats Unis) du 9 décembre 1965 et quelques rubriques habituelles, le #41 quant à lui propose des comptes r"
+     }
+    ],
+    "by_source": {
+     "FSR": 1,
+     "UFO_Newsclipping_Service": 43,
+     "MUFON_of_Ohio_Newsletter": 1,
+     "MUFON_Arizona": 1,
+     "Australian_UFO_Bulletin": 1,
+     "UFO_Times": 1,
+     "SUFOG_Magazine_December": 1,
+     "SUFOG_Magazine_June": 1,
+     "UFOdata_Magazine": 2,
+     "SUFOG_Magazine_March": 1,
+     "UFO_Mail": 1,
+     "Phenomena": 1,
+     "JUFOF": 3,
+     "LDLN": 1,
+     "misc": 1,
+     "Awareness": 1,
+     "UFO_Newsletter_Richard": 1,
+     "UFO_Log": 1
+    }
+   }
+  },
+  "tep_1981": {
+   "kind": "CONTROL",
+   "note": "control: TEP, GEPAN NT-16",
+   "year": 1981,
+   "month": 1,
+   "A": {
+    "place_hits": 19,
+    "place_issues": 16,
+    "strict_issues": 3,
+    "recall_only_issues": 0,
+    "strict": [
+     {
+      "issue": "A/MUFON__1984_03_djvu.txt",
+      "issue_date": "1984-03",
+      "lag_months": 38,
+      "offset": 5883,
+      "context": "ospatiaux Non-Identifies, or Group for the Study of ‘Unidentified Aerospace Phenomena. GEPAN is a part of the Centre National d’Etudes Spatiales (CNES), France's equivalent of NASA. ; ‘ This particular case involves the reported landing of an unidentified object on January 8, 1981, behind a rural house. .near Trans-en-Provence, a village near the town’ of - _ Draguignan, not far from Nice in the south of France. The "
+     },
+     {
+      "issue": "A/IUR__Volume_14__number_6__November_December_1989_djvu.txt",
+      "issue_date": "1989-11",
+      "lag_months": 106,
+      "offset": 2753,
+      "context": "to comprehend just what had happened. The explosive developments of recent years are all the more remarkable because they occurred in the absence of any major sighting waves, although the relative handful of reports included some of history's most significant UFO events: the Cash-Landrum CE2 (December 1980); the Trans-en-Provence, France, CE2 (January 1981) — the most impressively-docu- mented, evidential landing-tra"
+     },
+     {
+      "issue": "A/MUFON__2003_11_djvu.txt",
+      "issue_date": "2003-11",
+      "lag_months": 274,
+      "offset": 24336,
+      "context": "his analysis should serve as a base for analysis of similar events that may Page 5 occur in the future, or perhaps have al- ready occurred. Most notably, spectro- scopic analysis is needed. _ I am aware of two past events which would be worthy of a similar analytical approach. One such event occurred in Trans-en-Provence, France, on Jan. 8, 1981. Some of the analytical data from the soils suggest molecular compounds "
+     }
+    ],
+    "recall_only": [],
+    "by_source": {
+     "MUFON": 2,
+     "IUR": 1
+    }
+   },
+   "B": {
+    "place_hits": 354,
+    "place_issues": 173,
+    "strict_issues": 9,
+    "recall_only_issues": 28,
+    "strict": [
+     {
+      "issue": "B/New_England_UFO_Newsletter__New_England_UFO_Newsletter_No_23_1981_10.txt",
+      "issue_date": "1981-10",
+      "lag_months": 9,
+      "offset": 24915,
+      "context": "u cujlo_ £ • ❖ £ (5 Ufa / s \\& ^ L r mouL^/ ^vjlaJLcU^ vy* jU. jl b*C<J<. 4 — UoJ\\-*oiu^.— OiUi Slaiv IwtU i *9 FT / / r !)%%uo slofu. Ac slajt»u- ^ <oRA*S<-( aAia - slopoM dowP ^r\\ o rA uxfiio'f} \"bo &4ocW_: - V\". l-jut JlulY/dtKiiA Trace at Trans-en-Provence (Var), France, January 8, 1981. Taken from LUMIERES DANS LA NUIT, AUG-SEP 1981, No. 207, Page 13. J USAF ANTENNA STATION APPROX. SCALE: 1 INCH=1.6 KM Wltr M MK"
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_1984_03_no_176.txt",
+      "issue_date": "1984-03",
+      "lag_months": 38,
+      "offset": 137772,
+      "context": "t. However, It does confirm that \"an event of great importance\" has taken place. Renato Nicolai, 55 years old, indicates two pine trees behind his house. \"The flying saucer came from this direction. It landed just in front of where we are, then took off towards the east.\" Renato is a retired mason who lives at Trans-en-Provence in the Var region. He claims that a phenomenon took place near his house three years ago, "
+     },
+     {
+      "issue": "B/FSR__the-flying-saucer-review-ultimate-collection__191.FSR.txt",
+      "issue_date": "1989-06",
+      "lag_months": 101,
+      "offset": 150225,
+      "context": "in question, in the article on GEPAN by your anonymous French reporter “Sextus Empiricus”, it was stated that a landing case with effects on vegeta- tion, investigated by G. A.N., had occurred in the French Département of Gard, and in summer. This is not cor- rect, for it was quite definitely the same famous Trans-en-Provence of January 8, 1981, in the Département of Var. JJ. Velasco, the Head of G.EP.A.N., confirmed"
+     },
+     {
+      "issue": "B/FSR__the-flying-saucer-review-ultimate-collection__196.FSR.txt",
+      "issue_date": "1990-12",
+      "lag_months": 119,
+      "offset": 136531,
+      "context": "nately this is a slightly exag- gerated requirement for one man to meet, and we have to admit that we have not been able to cover everything, although, over nearly 35 years, the FSR achievement, in cases translated or researched, and placed on record, is equalled by none in the world. However, the UFO landing at Trans-En-Provence on January 8, 1981 is one that we have never yet dealt with properly, so it seems. We ha"
+     },
+     {
+      "issue": "B/UFORA_Research_Digest__UFORA_Research_Digest_No_34_May_1993.txt",
+      "issue_date": "1993-06",
+      "lag_months": 149,
+      "offset": 16053,
+      "context": "anoids” N London. Futura. GEPA. (1965c). “The Significant Report from France.” FSR 11(6). Michel,A. (1965b.) “The Valensole Affair.” FSR 11)6). Phenomenes Spahaux. (1966.)Bulletin du GEPA. Marp 26. Vallee, J. (1988). “Dimensions New York Contemporary. Vallee, J. (1990) “Confrontations. New York Ballentine. Transen-Provence Renato Nicolai, aged 55, was building a little cement shed on his property, at about 1700 hours"
+     },
+     {
+      "issue": "B/BUFORA_Bulletin2__BUFORA_Bulletin2_No.06_Oct_Nov_1998.txt",
+      "issue_date": "1998-06",
+      "lag_months": 209,
+      "offset": 27642,
+      "context": "cal effects). • Eggardon Hill, UK. (physiological effects). • Tyler, Texas, USA. Nov 1976 (physiological effects). • Anderson, Indiana, USA. Aug 12 1981 (physiological effects). • Barnsley, Yorkshire, UK. Aug 15 1986 (physiological effects). • Dayton, Texas, USA. 29 Dec 1980. (physiological effects). • Trans-En-Provence, France, Jan 8th 1981 (ground effects }. • ■■Christelle\". NOV27 1979 • (injuries to vegetation). •"
+     },
+     {
+      "issue": "B/UFO_Newsclipping_Service__UFO_Newsclipping_Service_2001_02_no_379.txt",
+      "issue_date": "2001-02",
+      "lag_months": 241,
+      "offset": 18869,
+      "context": "ed politely, but there crept into his voice an edge betraying the true believer’s impa¬ tience with heresy or doubt “I don't talk to my students about it (UFOs).” he says of his own undergrad lab. “I stick to the astron¬ omy end of it.\" Anderson says that, in his view, the top UFO inci¬ dent worldwide came in Trans-en-Provence, France, in January 1981. A farmer, Renato Nicolai, reported that an object, slightly small"
+     },
+     {
+      "issue": "B/IUFOPRA_UFO_Newsletter__IUFOPRA_UFO_Newsletter_2001.txt",
+      "issue_date": "2001-06",
+      "lag_months": 245,
+      "offset": 24624,
+      "context": "avender field at about six am. On approach, he became paralysed but remained conscious while beings boarded the craft and flew away. Masse suffered massive fatigue for several weeks, and nothing but stunted weeds grew in the landing area for years after. French authorities extensively investigated this case. * —Trans-en-Provence, France, January 8th, 1981: a disc-shaped metallic UFO was observed by farmer Renato Nicc"
+     },
+     {
+      "issue": "B/New_BUFORA_Journal__New_BUFORA_Journal_No_10_Oct_2003.txt",
+      "issue_date": "2003-06",
+      "lag_months": 269,
+      "offset": 28325,
+      "context": "e ground before it left the area. Later investigation found depressions at the site, and radiation traces. A memorandum was sent to the Ministry of Defence, but the incident was not revealed until more than two years later, under the provisions of the Freedom of Information Act in the U.S.A. January 8, 1981. At Trans-en-Provence, in the South of France, the reported brief landing of an unknown object was investigated"
+     }
+    ],
+    "recall_only": [
+     {
+      "issue": "B/LDLN__LDLN_No_207.txt",
+      "issue_date": "1981-09",
+      "lag_months": 8,
+      "offset": 59645,
+      "context": "ntre. 15 COMMENTAIRES DE F. LAGARDE Pour étoffer les commentaires de M. Julien, je joins à son rapport d'enquête, un croquis des diffé¬ rents lieux d'observations dans un rayon de 12 km environ autour du site d'atterrissage du 8.01.81. Ci-dessous la date où ces observations ont eu lieu. Trans en Provence (à 1500 m env) 10 ou 12.01.74 - 02 -74 Valbourgès (à 1800 m env) 19.12.73. Les Nourradons (à 5 km environ) 04.61 -"
+     },
+     {
+      "issue": "B/inforespace_hors_serie__inforespace_hors_serie_No_07_1983.txt",
+      "issue_date": "1983-06",
+      "lag_months": 29,
+      "offset": 45559,
+      "context": "orsque ce texte paraîtra). J’ai dès lors la nette impression que P. GUERIN, de¬ vant la fuite des preuves (orthoténie, photo de Warminster, etc.), essaye de sauver sa croyance à tout prix ; et ce n’est pas la mise au point publiée dans le numéro suivant de LDLN (n° 227-228, p. 47) qui me démentira : l’affaire de Trans-en-Provence, 08-01-81 (Note Technique du GEPAN n° 16) parait être la bouée ultime... 5. 8. Les OVNI "
+     },
+     {
+      "issue": "B/LDLN__LDLN_No_231-232.txt",
+      "issue_date": "1983-10",
+      "lag_months": 33,
+      "offset": 4086,
+      "context": "torisation. 2 F. lagarde Enfin ! La science s'intéresse à l'environnement des tra¬ ces, laissées par \"quelque chose\" sur le lieu allé¬ gué d'un atterrissage d'ovni. (Voir photo sur couverture première page) Elles sont apportées par le GEPAN dont on connaît la prudence. Le sîte en cause est celui de Trans-en-Provence. Une enquête exemplaire de l'évènement a été faite par M. JULIEN de St Raphaël, Délégué Régional LDLN "
+     },
+     {
+      "issue": "B/LDLN__LDLN_No_235-236.txt",
+      "issue_date": "1984-02",
+      "lag_months": 37,
+      "offset": 3886,
+      "context": "ité de leurs auteurs s articles, photos, dessins sont protégés par la loi de 1957 sur la Propriété littéraire et artist^ue. En con- luence, toute reproduction, même partielle, est rigoureusement interdite sans autorisation. 2 F. Lagarde Réflexions sur l'atterrissage présumé d'un engin, le 8 janvier 1981. à Trans-en-Provence (Var) (Voir L.D.LN. 207 et 231) Nous sommes en présence d'un cas exem¬ plaire, le premier d'un"
+     },
+     {
+      "issue": "B/SVL_Tijdschrift_Jaargang_3__SVL_Tijdschrift_Jaargang_3_No_10_april_1984_INCOMPLETE.txt",
+      "issue_date": "1984-06",
+      "lag_months": 41,
+      "offset": 69220,
+      "context": "VREEMDE VERSCHIJNSELEN BOVEN VLAANDEREN (deel 2) / Fotografische bewijzen van een merkwaardig lichtverschijnsel op de grond (Nabij La Baule, West Frankrijk: 6-2-1982) / Recente Meldingen / BUITENLANDSE INFORMATIE Samenwerking in de V.S. (North American UFO Fédération - NAUF0F) & GEPAN onderzoekt landingsspo- ren (Trans-en-Provence: 8-1-1981, M De zaak Nicolai*’) (25 blz.) SUMMARY OF THE SVL- JOURNAL. N* 3/10 by Wim V"
+     },
+     {
+      "issue": "B/LDLN__LDLN_No_239-240.txt",
+      "issue_date": "1984-06",
+      "lag_months": 41,
+      "offset": 173989,
+      "context": "CEI fin 081980 Saint-Jacques de Néhou 50390 B3 Presse de La Manche du début 10/1980 CEI 10091980 Courlay 79380 B3 La Nouvelle République du Centre-Ouest du 20/9/1980 CEO-1 ? 18/19081980 Lezay 79120 D6 La Nouvelle République du Centre-Ouest du 20/8/1980 Les articles de presse sur le cas de Trans-en-Provence du 8/1/1981 (Nice-Matin Var Matin République et autres). Michel FIGUET recherche aussi tous renseignements sur l"
+     },
+     {
+      "issue": "B/LDLN__LDLN_No_247-248.txt",
+      "issue_date": "1985-02",
+      "lag_months": 49,
+      "offset": 9075,
+      "context": "ens experts, trop honnêtes avec leur conscience, aient été remplacés par des nouveaux, plus maniables ! Six affaires furent évoquées avec audition de témoins : 1) - Le cas \"Amarante\" (Note technique n^ 17 du G.E.P.A.N.) en 1982, témoin : M. Henri, biolo¬ giste, vu en ombre chinoise seulement. 2) - Le cas de Trans-en-Provence (Note tech¬ nique 16 du G.E.P.A.N.) en 1981, témoin : M. Renato Nicolaï. 3) - Le cas de Turin"
+     },
+     {
+      "issue": "B/UFO_Nyt__UFO_Nyt_No_1_jan-feb_1985.txt",
+      "issue_date": "1985-06",
+      "lag_months": 53,
+      "offset": 7091,
+      "context": "pe med at fastholde og endda øge den seriøse og fornuftige hold¬ ning til de kontroversielle UFO-fæ- nomener. I 1985 kan vi måske virkelig¬ gøre vore ønsker om fremgang. Hjælp os med det — GODT NYTÅR! □ UFO-NYT 1/85 3 FRANKRIG Gepans mest betydningsfulde sag Den 8. januar 1981 var den lille landsby Trans-en-Provence, der ligger ca. 65 km vest for byen Nice ved den solbeskin¬ nede franske riviera, skueplads for en UFO"
+     },
+     {
+      "issue": "B/Inforespace__Inforespace_No_69_1985.txt",
+      "issue_date": "1985-06",
+      "lag_months": 53,
+      "offset": 74254,
+      "context": "ces qualificatifs de \"primaire\" et \"secondaire\" sont de moi et ne sont pas forcément les plus adéquats. N3 scertains de ces effets sont également mentionnés pour l'ac¬ tion de champs électriques ou/et magnétiques sur des sujets animaux et humains. N4 :ainsi,les effets biochimiques constatés pour l'événement de Trans-en-Provence du 08.01.1981 pourraient bien être d'origi¬ ne géophysique quoique non identifiée. BIBLIOG"
+     },
+     {
+      "issue": "B/LDLN__LDLN_No_263-264.txt",
+      "issue_date": "1986-06",
+      "lag_months": 65,
+      "offset": 93480,
+      "context": "16.15 Clazay 79300 B2 NI, LDLN 206, p. 27 944 CE2 16.10.1980 23.30 iabatut 09700 A4 E, LDLN 211-212 945 CE0.-2 fin 10.1980 23 h près de Badailhac 15800D3 NI, LDLN 217-218 946 CE0-2 11.11,.1980 19.00 Badailhac 15800 D3 NI, \" \" p. 26 à 28 947 CE2 08.01.1981 17h Trans en Provence 83720 B4 D, LDLN 207 NT n» 16 GEPAN 948 CE0-2 26.01,1981 16.30 lieu gardé confidentiel ? NI, NT 81/02 n» 11 GEPAN 949 CE0 12.04.1981 03.30 Cor"
+     },
+     {
+      "issue": "B/SVL_Tijdschrift_Jaargang_6__SVL_Tijdschrift_Jaargang_6_No_20_juli-oktober_1987.txt",
+      "issue_date": "1987-06",
+      "lag_months": 77,
+      "offset": 49478,
+      "context": "natieva psychologisohe uitleg / Vreemde verschi.Jnselan boven Vlaanderen (dael 2, période: 1892-1918) / ?oto- grafischa bewi.jzen van een merkwaardlg lichtverschiJnsel op de grond in West-îrankriJk (waarneming van C6-C2-1982) / Buitenlandse informatie (samen— werking in de V.3. & GEPAN onderzoekt landingsporen van Trans-en-Provence (waarneming van 08-01-1981) / Hecente meldingen. ► SVET 3/10 (aoril 1984) Profiel aelg"
+     },
+     {
+      "issue": "B/UFO_Nyt__UFO_Nyt_No_1_1990.txt",
+      "issue_date": "1990-06",
+      "lag_months": 113,
+      "offset": 36317,
+      "context": "l, USA O). Den 13.8.1956: Radar-visuel observation ved Lakenheath, England (21). den 6.11.1967: Bil påvirket nær Fordingb- ridge, England (11). Den 9.8.1980: Formodet landing ved Kirt- land AFB, USA (16). Den 27.12.1980: Flertydig hændelse ved Rendlesham, England (3). Den 8.1.1981: Formodet landing ved Trans-en-Provence, Frankrig (13). Ved alle disse tilfælde var myndighederne interesserede, ofte endda i en meget høj"
+     },
+     {
+      "issue": "B/misc__Notiziario_UFO_1991_01-12_Vol_26_No_114-115.txt",
+      "issue_date": "1991-01",
+      "lag_months": 120,
+      "offset": 12272,
+      "context": "o fra le organizzazioni degli agricoltori e te industrie fltosanitarie dimostrano anche la necessiti di sviluppare ricerche di tipo 'ecototsicologico*. Ciò ai fine di condurre uno studio obiettivo su questi problemi. Innanzitutto in nome della conoteienza scientinca. ma anche per facilitare le perizie. ‘Il caso di Trans-en-Provence' è un esempio molto speciale poiché si applica precisamente alla situazione più diffic"
+     },
+     {
+      "issue": "B/Ovni_Presence__Ovni_Presence_No_46_Aout_1991.txt",
+      "issue_date": "1991-06",
+      "lag_months": 125,
+      "offset": 12658,
+      "context": "ontami¬ nants chimiques qui auraitpu temoigner de la presence de tracteurs ou d'autres vehicules utilitaires sur le site. 5 Ovni-Presence n° 46 - aout 1991 EN COUVERTURE Rappel des iaits Le jeudi 8 janvier 1981, un phenomene remarquable a ete observe dans les environs du village frangais de Trans-en-Provence par un temoin unique. M. Renato Niccolai, qui a fait etat de l'atterrissage brutal d'un objet volant et des tr"
+     },
+     {
+      "issue": "B/Phenomena__Phenomena_No_15_1993_05.txt",
+      "issue_date": "1993-05",
+      "lag_months": 148,
+      "offset": 65875,
+      "context": "écidé de camoufler leur ovni en étoile !». Risible ?Certes, tant la volonté de croire envers et contre tout est ici patente. Mais la nouvelle ufologie ne pécherait-elle pas par une même volonté excessive, de ne pas croire cette fois ? Voilàbientôt lOans qu'un sort a été fait, officieusement du moins, au cas de Trans-en-Provence. La trace en fer à cheval qu'aurait laissée un ovni dans le jardin de M. Renato Niccolai, "
+     },
+     {
+      "issue": "B/Ovni_Presence__Ovni_Presence_No_51_June_July_August_1993.txt",
+      "issue_date": "1993-06",
+      "lag_months": 149,
+      "offset": 143490,
+      "context": "la cclebre et importante observa¬ tion de Trans-en-Provence, nous avions publie (Ovrti-Presence n° 46) un bilan du Professeur Michel Bounias - l’auteur des analyses biochimiques ayant montre une degenerescence anormale des plans de luzeme sauvage - ainsi qu’un article de Jacques Vallee intitule « Retour sur Trans-en-Provence ». Ce dossier suscita le commentaire suivant d’un de nos lecteurs : L’ufologie frangaise (et "
+     },
+     {
+      "issue": "B/Univers_OVNI__Univers_OVNI_No_1_1996_mars-mai.txt",
+      "issue_date": "1996-03",
+      "lag_months": 182,
+      "offset": 208442,
+      "context": "n-Jacques Velasco présenta cette photo comme une méprise avec la planète Vénus, qui aurait été photographiée au 400 mm équipé d'un doubleur de focale, Cette silhouette outrageusesment symétrique rappelle plus des formes courantes d'ovnis que les lois du «bougé» et de l’optique ! 4) Le 8 janvier 1981 à 17 h, à Trans-en-Provence, Renato Nicolaï aperçoit à 30 m de lui un engin métallique rond, qui atterrit dans son jard"
+     },
+     {
+      "issue": "B/Phenomena__Phenomena_No_36_1997_01.txt",
+      "issue_date": "1997-01",
+      "lag_months": 192,
+      "offset": 131182,
+      "context": "s indiscutables risque d'être déçu. Reste, au final, un petit livre intellectuellement honnête mais très très orienté, qui ne devrait laisser qu'une trace fugace dans l'esprit du lecteur. PP OVNI - cette vérité qui dérange. Jean-Luc Lemaire, Editions Ramuel, 151 pp. 119.00 ff. gelures L'Affaire de Trans-en-Provence, dossier que Michel Figuet a eu l'amabilité de nous expédier, nous laisse comme une sensation étran¬ ge"
+     },
+     {
+      "issue": "B/UFO_Log__UFO_Log_No_01_1997_09.txt",
+      "issue_date": "1997-09",
+      "lag_months": 200,
+      "offset": 118835,
+      "context": "er... p. 519/522). G.Kervendal ( L'enquête en question in La revue des soucoupes volantes n°4). J.L.Bro- chard ( Cas avec humanoides à Riec- Sur-Belon in LDLN 145 et 146). R.Marhic ( Riec-sur-Belon 1974. trois silhouettes dans la nuit in Phenomena n°21). J.Durand ( Ovni dans le Finis¬ tère in Ouranos n°13). TRANS-EN-PROVENCE LIEU : Trans-en-Provence dans le Var. DATE : 8 janvier 1981. TEMOIN : M. Renato Nicolaï Alors"
+     },
+     {
+      "issue": "B/UFO_Log__UFO_Log_No_04_1998_07.txt",
+      "issue_date": "1998-07",
+      "lag_months": 210,
+      "offset": 116903,
+      "context": "l'ordre établi qui a osé se rebiffer. Vous l'aurez sans doute deviné, cet olibrius qui doit se croire très intelligent, utilise le biais classique des « socio- psychos », qui consiste à focaliser l'attention des lecteurs sur certaines lacunes et erreurs. En l'occurrence, le cas mis sur le tapis était celui de Trans-en-Provence^, un atterrissage de petit ovni supposé qui se produisit dans une propriété privée en janvi"
+     },
+     {
+      "issue": "B/Inforespace__Inforespace_No_99_1999.txt",
+      "issue_date": "1999-06",
+      "lag_months": 221,
+      "offset": 15822,
+      "context": "u sol, dont deux célèbres rencontres du 3ème type en France (ovni atterri avec vue d’occupants(s)) ; Valensole (01-07- 65) et Cussac (29-08-67), deux affaires qui firent l’objet d’enquêtes appro¬ fondies de la Gendarmerie nationale. Sont cités également, deux cas fameux d’atterrissage ou de quasi-atterissage; Trans-en-Provence (08-01-81) et Nancy (21-10-82), dans lesquels furent dûment établis des perturbations anorm"
+     },
+     {
+      "issue": "B/CdU_Suplemento_Internacional__CdU_Suplemento_Internacional_1999.txt",
+      "issue_date": "1999-06",
+      "lag_months": 221,
+      "offset": 45247,
+      "context": "ficados por la Gendarmería. De todos ellos, el GEPAN/SEPRA ha investigado alrededor de un centenar, de los que, según Jean-Jacques Velasco, actual director del SEPRA, sólo unos pocos siguen inexplicados. El más famoso de todos los inci¬ dentes OVNI inexplicados tuvo lugar en Trans-en-Provence el 8 de Enero de 1981, cuando un hombre llamado Renato Niccolai aseguró haber visto una pequeña nave en forma de disco que ate"
+     },
+     {
+      "issue": "B/Inforespace__Inforespace_No_98_1999.txt",
+      "issue_date": "1999-06",
+      "lag_months": 221,
+      "offset": 50276,
+      "context": "(France) luminosité GE PAN 1979 Liverpool Creek, Queensland (Australie) effet sur véhicule 27.11.1979 Porcieu-Amblagnieu, Isère (France) effet sur végétation affaire « Christelle » GE PAN : NT 8 29.12.1980 Dayton, Texas (USA) effet physiologique affaire « Cash- Landrum » 08.01.1981 Trans-en-Provence, Var (France) sol + végétation témoin : Nicolai GEPAN : NT 16 12.08.1981 Anderson, Indiana (USA) effet physiologique 08"
+     },
+     {
+      "issue": "B/UFO_Nyt__UFO_Nyt_No_4_1999.txt",
+      "issue_date": "1999-06",
+      "lag_months": 221,
+      "offset": 67400,
+      "context": "paralyseret, men var ved fuld bevidsthed, da væsnerne gik om bord i fartøjet og fløj bort. Masse led derefter af træthed i adskillige uger. I flere år var det eneste, der ville gro på landings¬ stedet, forkrøblet ukrudt. Sagen blev meget nøje undersøgt af de franske myndigheder. (Se også UFO-Nyt, nr. 2/83). Trans-en-Provence, Frankrig, den 8. januar 1981: Landmand Renato Niccolai så en diskosformet ufo lande i sin lu"
+     },
+     {
+      "issue": "B/misc__Notiziario_UFO_1999_10_Vol_34_No_5.txt",
+      "issue_date": "1999-10",
+      "lag_months": 225,
+      "offset": 10314,
+      "context": "di segnali di tutte le frequenze possibilT. [Nuovo Orione n. 86 (luglio 1999)] Caso Mantell: rilasciati nuovi documenti ufficiali La ricercatrice Wendy A. Connor. Sul numero 41 della rivista ufologica fran¬ cese Phenomena sono stati pubblicati i ri¬ sultati dell’inchiesta italiana sul celebre caso di Trans-en-Provence condotta da Paolo Fiorino e Matteo Leone, del Centro Italiano Studi Ufologici. La traccia di Trans-e"
+     },
+     {
+      "issue": "B/CdU_Suplemento_Internacional__CdU_Suplemento_Internacional_2000.txt",
+      "issue_date": "2000-06",
+      "lag_months": 233,
+      "offset": 127926,
+      "context": "ero de 1981, en el célebre pueblecito proven- zal. Notas y referencias: 1. PV audición del 9 de enero de 1981 Gen¬ darmería Nacional. 2. Figuet, M. “Retour sur le cas de Trans-en- Provence” Actas de los sextos encuentros europeos de Lyon consagrados al fenómeno ovni. SOS OVNI, mayo 1992. 3. “L'affaire de Trans-en-Provence”, SF.RPAN, 1995. 4. Michel Figuet basa su opinión en un carnet de notas donde el testigo consign"
+     },
+     {
+      "issue": "B/Mysteres_De_L_Est__Mysteres_De_LEst_No_09_2004.txt",
+      "issue_date": "2004-06",
+      "lag_months": 281,
+      "offset": 339648,
+      "context": "ques en forme de soucoupe. Les cadavres d’extraterrestres trouvés dans le désert étaient ceux des «mannequins» défigurés au cours des test de nouveaux parachutes et sièges éjectables, ou des cada¬ vres des victimes brûlées lors de l’accident d’un avion militaire. Observations exceptionnelles. France : 8-1-1981, à Trans-en-Provence, une sorte de sphère aplatie (2,50x 1,50 m) atterrit silencieusement devant un témoin e"
+     },
+     {
+      "issue": "B/UFO_Mail__UFO_Mail_No_084_2007.txt",
+      "issue_date": "2007-06",
+      "lag_months": 317,
+      "offset": 10074,
+      "context": "f de 1600 observationer fra 1954 og frem, næsten 25% klassificeret som »type D«. »Type D« betyder at man på trods af gode, eller endog særdeles gode data og troværdige vidner, er konfronteret med noget man ikke kan forklare\", siger Patenet. Et eksempel: 8. januar 1981 var en mand, i nærheden af den Sydfranske by Trans-en-Provence, i færd med markarbejde da han hørte en underlig fløjtende lyd. Han observerede en talle"
+     }
+    ],
+    "by_source": {
+     "New_England_UFO_Newsletter": 1,
+     "UFO_Newsclipping_Service": 2,
+     "FSR": 2,
+     "UFORA_Research_Digest": 1,
+     "BUFORA_Bulletin2": 1,
+     "IUFOPRA_UFO_Newsletter": 1,
+     "New_BUFORA_Journal": 1,
+     "LDLN": 6,
+     "inforespace_hors_serie": 1,
+     "SVL_Tijdschrift_Jaargang_3": 1,
+     "UFO_Nyt": 3,
+     "Inforespace": 3,
+     "SVL_Tijdschrift_Jaargang_6": 1,
+     "misc": 2,
+     "Ovni_Presence": 2,
+     "Phenomena": 2,
+     "Univers_OVNI": 1,
+     "UFO_Log": 2,
+     "CdU_Suplemento_Internacional": 2,
+     "Mysteres_De_L_Est": 1,
+     "UFO_Mail": 1
+    }
+   }
+  }
+ }
+}
