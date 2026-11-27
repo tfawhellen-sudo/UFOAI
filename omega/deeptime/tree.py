@@ -311,9 +311,15 @@ def draw(path):
         ypos[x] = (min(ys) + max(ys)) / 2
         return ypos[x]
     yof(root)
-    fig, ax = plt.subplots(figsize=(9, 0.32 * N + 1.2))
-    cmap = plt.get_cmap('viridis')
-    tmin, tmax = tv.min(), tv.max()
+    fig, ax = plt.subplots(figsize=(9, 0.32 * N + 1.6))
+    # ordinal blue ramp, 5 era groups (validated: monotone lightness, visible steps), oldest lightest
+    RAMP = ['#84b9f3', '#338ced', '#2370cd', '#1757ac', '#0e3d7e']
+    GROUPS = [(-1e9, 1500, 'before 1500'), (1500, 1800, '1500-1799'), (1800, 1896, '1800-1895'), (1896, 1947, '1896-1946'), (1947, 1e9, '1947 on')]
+
+    def era_col(t):
+        for k, (a, b, _) in enumerate(GROUPS):
+            if a <= t < b:
+                return RAMP[k]
     for x in depth:
         for c in children.get(x, []):
             ax.plot([depth[x], depth[x]], [ypos[x], ypos[c]], color='#888', lw=0.8)
@@ -331,14 +337,18 @@ def draw(path):
             if sp is not None and sp >= 0.5:
                 ax.text(depth[c], ypos[c] + 0.15, f'{int(round(100 * sp))}', fontsize=6, color='#555', ha='right')
     for i, n in enumerate(names):
-        col = cmap((tv[i] - tmin) / (tmax - tmin))
+        col = era_col(tv[i])
         mk = 's' if taxa[n]['natural'] else ('^' if taxa[n]['kind'] == 'witness' else 'o')
         ax.plot(depth[i], ypos[i], mk, color=col, ms=6)
         ax.text(depth[i] + 0.01, ypos[i], f' {n}  (n={len(taxa[n]["recs"])})', va='center', fontsize=7)
-    ax.set_yticks([]); ax.set_xlabel('distance from midpoint root (chord distance on 46 description features)')
-    ax.set_title('Neighbour-joining tree of UAP description populations\n'
-                 'colour = date (dark old, yellow recent); circle = compiler catalog, triangle = witness text, square = identified/natural; '
-                 'numbers = bootstrap %', fontsize=8)
+    ax.set_yticks([]); ax.set_xlabel(f'distance from midpoint root (chord distance on {len(CH)} description features)')
+    ax.set_title('Neighbour-joining tree of UAP description populations (catalog|era); numbers = bootstrap support %', fontsize=9, loc='left')
+    from matplotlib.lines import Line2D
+    hs = [Line2D([], [], marker='o', ls='', color=c, label=g[2]) for c, g in zip(RAMP, GROUPS)]
+    hs += [Line2D([], [], marker='o', ls='', color='#999', label='compiled catalog'),
+           Line2D([], [], marker='^', ls='', color='#999', label='witness-written text'),
+           Line2D([], [], marker='s', ls='', color='#999', label='identified / names a natural phenomenon')]
+    ax.legend(handles=hs, loc='lower right', fontsize=7, frameon=False)
     for sp in ('top', 'right', 'left'):
         ax.spines[sp].set_visible(False)
     xmax = max(depth.values())
