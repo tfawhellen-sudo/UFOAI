@@ -8,13 +8,54 @@
   "primary_texts/uapda_2024/SA2610_CongRec_S4943_2024-07-11_djvu.txt": "https://archive.org/cors/2025-unidentified-anomalous-phenomena-disclosure-act-uapda-amendment-to-the-fisc/(2025) Unidentified Anomalous Phenomena Disclosure Act (UAPDA) amendment to the Fiscal Year 2025 National Defense Authorization Act (NDAA)_djvu.txt",
   "primary_texts/air_1995/CIA-RDP96-00791R000200180006-4_djvu.txt": "https://archive.org/cors/cia-readingroom-document-cia-rdp96-00791r000200180006-4/cia-rdp96-00791r000200180006-4_djvu.txt",
   "primary_texts/stargate_et_sessions": "https://archive.org/cors/<CIA-RDP96 identifier>/<identifier>_djvu.txt (first _djvu.txt listed in archive.org metadata)",
-  "primary_texts/cia_ufo_collection/cia_ufo_fof_223_djvu.tar.gz": "https://archive.org/cors/<cia-ufo-fof-* identifier>/<first _djvu.txt>; 223 of 224 items had one"
+  "primary_texts/cia_ufo_collection/cia_ufo_fof_223_djvu.tar.gz": "https://archive.org/cors/<cia-ufo-fof-* identifier>/<first _djvu.txt>; 223 of 224 items had one",
+  "primary_texts/cia_ufo_collection/cia_ufo_fof_ids.txt": "list of the 224 cia-ufo-fof-* archive.org identifiers fetched (223 had a _djvu.txt); kept outside the tarball so scripts do not count it as a document"
  },
  "files": [
   {
    "path": "primary_texts/air_1995/CIA-RDP96-00791R000200180006-4_djvu.txt",
    "bytes": 433862,
    "sha1": "636dd37e19bf1f1722ef5b12b53f653db937280f"
+  },
+  {
+   "path": "primary_texts/cia_ufo_collection/cia_ufo_fof_223_djvu.tar.gz",
+   "bytes": 819656,
+   "sha1": "34e36caa9aa7b0359ce936fc7af2866cd853a742"
+  },
+  {
+   "path": "primary_texts/cia_ufo_collection/cia_ufo_fof_ids.txt",
+   "bytes": 5141,
+   "sha1": "3e77cc9a50d84f9a3c16fbe684738df747ae0758"
+  },
+  {
+   "path": "primary_texts/hearing_2023_statements/HHRG-118-GO06-TTF-GruschD-20230726_djvu.txt",
+   "bytes": 4492,
+   "sha1": "1a7af10d89fce4d8bd6acc311334b7c0828b8f5a"
+  },
+  {
+   "path": "primary_texts/hearing_2023_statements/HHRG-118-GO06-Wstate-FravorD-20230726_djvu.txt",
+   "bytes": 8100,
+   "sha1": "12ee644958c45fe9a0fbd43eea964ea2862600dd"
+  },
+  {
+   "path": "primary_texts/hearing_2023_statements/HHRG-118-GO06-Wstate-GravesR-20230726_djvu.txt",
+   "bytes": 13695,
+   "sha1": "5db59d1b60b41f704c97ddde290ad14d2783c537"
+  },
+  {
+   "path": "primary_texts/hearing_2023_statements/HHRG-118-GO06-Wstate-GruschD-20230726_djvu.txt",
+   "bytes": 5222,
+   "sha1": "54787ad31441c394231775bd8c7f00defcfb091d"
+  },
+  {
+   "path": "primary_texts/kona_blue/kona_blue.txt",
+   "bytes": 83152,
+   "sha1": "d5a01244527f7815e6dc8dcd69f5be2c23843783"
+  },
+  {
+   "path": "primary_texts/kona_blue/kona_history.txt",
+   "bytes": 3316,
+   "sha1": "e87f9428496bb669d1d7cabc4db557ed99b6e96a"
   },
   {
    "path": "primary_texts/stargate_et_sessions/CIA-RDP96-00788R001900760001-9__MARS__1_MILLION_BC__TRAINING_.txt",
@@ -102,44 +143,9 @@
    "sha1": "4729a75ac122f76ac0dec3170efd5eede46ab415"
   },
   {
-   "path": "primary_texts/cia_ufo_collection/cia_ufo_fof_223_djvu.tar.gz",
-   "bytes": 834670,
-   "sha1": "49c40cb28c1ab9ded9b0d2f8964ea6db5ebcff74"
-  },
-  {
    "path": "primary_texts/uapda_2024/SA2610_CongRec_S4943_2024-07-11_djvu.txt",
    "bytes": 85472,
    "sha1": "987815574667b269f739fa91fba58f5d723efc7d"
-  },
-  {
-   "path": "primary_texts/kona_blue/kona_blue.txt",
-   "bytes": 83152,
-   "sha1": "d5a01244527f7815e6dc8dcd69f5be2c23843783"
-  },
-  {
-   "path": "primary_texts/kona_blue/kona_history.txt",
-   "bytes": 3316,
-   "sha1": "e87f9428496bb669d1d7cabc4db557ed99b6e96a"
-  },
-  {
-   "path": "primary_texts/hearing_2023_statements/HHRG-118-GO06-TTF-GruschD-20230726_djvu.txt",
-   "bytes": 4492,
-   "sha1": "1a7af10d89fce4d8bd6acc311334b7c0828b8f5a"
-  },
-  {
-   "path": "primary_texts/hearing_2023_statements/HHRG-118-GO06-Wstate-FravorD-20230726_djvu.txt",
-   "bytes": 8100,
-   "sha1": "12ee644958c45fe9a0fbd43eea964ea2862600dd"
-  },
-  {
-   "path": "primary_texts/hearing_2023_statements/HHRG-118-GO06-Wstate-GravesR-20230726_djvu.txt",
-   "bytes": 13695,
-   "sha1": "5db59d1b60b41f704c97ddde290ad14d2783c537"
-  },
-  {
-   "path": "primary_texts/hearing_2023_statements/HHRG-118-GO06-Wstate-GruschD-20230726_djvu.txt",
-   "bytes": 5222,
-   "sha1": "54787ad31441c394231775bd8c7f00defcfb091d"
   }
  ]
 }

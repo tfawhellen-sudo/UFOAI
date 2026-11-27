@@ -96,10 +96,10 @@
    "entity/being": 0
   },
   "undated": {
-   "docs": 128,
-   "Mchars": 0.34,
+   "docs": 127,
+   "Mchars": 0.33,
    "flying saucer": 9,
-   "UFO": 25,
+   "UFO": 24,
    "UAP": 1,
    "non-human": 0,
    "biologics": 0,
@@ -2920,24 +2920,6 @@
      "n": 1,
      "ctx": [
       "s ex- periencing oxygen difficulties.\" Thus, if the Soviets protested and pointed to wreckage inside their borders, NASA could claim that the pilot had lost consciousness and the aircraft had then flown into the Soviet Union before crashing. \" Geary interview (S). Beschloss, Mayday, p. 39. Approved for Release; 2013"
-     ]
-    }
-   }
-  },
-  {
-   "doc": "ids.txt",
-   "year": null,
-   "date_src": "undated",
-   "era": "undated",
-   "chars": 5141,
-   "hits": {
-    "UFO": {
-     "n": 224,
-     "ctx": [
-      "cia-ufo-fof-0000015236 cia-ufo-fof-0000015244 cia-ufo-fof-0000015270 cia-ufo-fof-0000015297 cia-ufo-fof-0000015300 cia-ufo-fof-0000015317 cia-ufo-fof-0000015427 cia-uf",
-      "cia-ufo-fof-0000015236 cia-ufo-fof-0000015244 cia-ufo-fof-0000015270 cia-ufo-fof-0000015297 cia-ufo-fof-0000015300 cia-ufo-fof-0000015317 cia-ufo-fof-0000015427 cia-ufo-fof-0000015430 cia-uf",
-      "cia-ufo-fof-0000015236 cia-ufo-fof-0000015244 cia-ufo-fof-0000015270 cia-ufo-fof-0000015297 cia-ufo-fof-0000015300 cia-ufo-fof-0000015317 cia-ufo-fof-0000015427 cia-ufo-fof-0000015430 cia-ufo-fof-0000042348 cia-uf",
-      "cia-ufo-fof-0000015236 cia-ufo-fof-0000015244 cia-ufo-fof-0000015270 cia-ufo-fof-0000015297 cia-ufo-fof-0000015300 cia-ufo-fof-0000015317 cia-ufo-fof-0000015427 cia-ufo-fof-0000015430 cia-ufo-fof-0000042348 cia-ufo-fof-0000042350 cia-uf"
      ]
     }
    }

@@ -1,5 +1,5 @@
 {
- "n_docs": 530,
+ "n_docs": 529,
  "doc_freq": {
   "USAF": 167,
   "CIA": 81,
@@ -35,24 +35,24 @@
   "CUFOS": 3,
   "NGA": 2,
   "DHS": 2,
-  "COMETA": 1,
   "Raytheon": 1,
+  "COMETA": 1,
   "NRO": 1,
   "SAIC": 1,
   "AIR": 1
  },
  "nodes": [
   {
-   "org": "DIA",
-   "docs": 57,
-   "community": 1,
-   "betweenness": 0.0022
-  },
-  {
    "org": "CIA",
    "docs": 81,
    "community": 0,
    "betweenness": 0.0
+  },
+  {
+   "org": "DIA",
+   "docs": 57,
+   "community": 1,
+   "betweenness": 0.0022
   },
   {
    "org": "Congress",
@@ -63,12 +63,6 @@
   {
    "org": "US Navy",
    "docs": 53,
-   "community": 0,
-   "betweenness": 0.0043
-  },
-  {
-   "org": "US Army",
-   "docs": 55,
    "community": 0,
    "betweenness": 0.0043
   },
@@ -85,10 +79,52 @@
    "betweenness": 0.0151
   },
   {
+   "org": "US Army",
+   "docs": 55,
+   "community": 0,
+   "betweenness": 0.0043
+  },
+  {
    "org": "FBI",
    "docs": 56,
    "community": 0,
    "betweenness": 0.0
+  },
+  {
+   "org": "Condon/Colorado",
+   "docs": 14,
+   "community": 0,
+   "betweenness": 0.0065
+  },
+  {
+   "org": "MUFON",
+   "docs": 11,
+   "community": 2,
+   "betweenness": 0.0237
+  },
+  {
+   "org": "NASA",
+   "docs": 53,
+   "community": 1,
+   "betweenness": 0.0022
+  },
+  {
+   "org": "Project Blue Book",
+   "docs": 20,
+   "community": 0,
+   "betweenness": 0.1075
+  },
+  {
+   "org": "GEPAN/GEIPAN/CNES",
+   "docs": 5,
+   "community": 2,
+   "betweenness": 0.0505
+  },
+  {
+   "org": "OSD/DoD",
+   "docs": 42,
+   "community": 0,
+   "betweenness": 0.0645
   },
   {
    "org": "CUFOS",
@@ -101,42 +137,6 @@
    "docs": 17,
    "community": 1,
    "betweenness": 0.0258
-  },
-  {
-   "org": "Project Blue Book",
-   "docs": 20,
-   "community": 0,
-   "betweenness": 0.1075
-  },
-  {
-   "org": "OSD/DoD",
-   "docs": 42,
-   "community": 0,
-   "betweenness": 0.0645
-  },
-  {
-   "org": "MUFON",
-   "docs": 11,
-   "community": 2,
-   "betweenness": 0.0237
-  },
-  {
-   "org": "GEPAN/GEIPAN/CNES",
-   "docs": 5,
-   "community": 2,
-   "betweenness": 0.0505
-  },
-  {
-   "org": "NASA",
-   "docs": 53,
-   "community": 1,
-   "betweenness": 0.0022
-  },
-  {
-   "org": "Condon/Colorado",
-   "docs": 14,
-   "community": 0,
-   "betweenness": 0.0065
   },
   {
    "org": "APRO",
@@ -199,16 +199,16 @@
    "betweenness": 0.0022
   },
   {
-   "org": "Bigelow Aerospace",
-   "docs": 13,
-   "community": 2,
-   "betweenness": 0.0108
-  },
-  {
    "org": "BAASS",
    "docs": 11,
    "community": 2,
    "betweenness": 0.0
+  },
+  {
+   "org": "Bigelow Aerospace",
+   "docs": 13,
+   "community": 2,
+   "betweenness": 0.0108
   },
   {
    "org": "AAWSAP/AATIP",
@@ -237,1846 +237,1846 @@
  ],
  "edges": [
   {
-   "a": "DIA",
-   "b": "CIA",
+   "a": "CIA",
+   "b": "DIA",
    "docs": 14,
-   "pmi": 0.474
-  },
-  {
-   "a": "DIA",
-   "b": "Congress",
-   "docs": 15,
-   "pmi": 1.441
-  },
-  {
-   "a": "DIA",
-   "b": "US Navy",
-   "docs": 18,
-   "pmi": 1.15
-  },
-  {
-   "a": "DIA",
-   "b": "Boeing",
-   "docs": 15,
-   "pmi": 2.105
-  },
-  {
-   "a": "DIA",
-   "b": "Condon/Colorado",
-   "docs": 3,
-   "pmi": 0.689
-  },
-  {
-   "a": "DIA",
-   "b": "DOE/AEC",
-   "docs": 15,
-   "pmi": 1.504
-  },
-  {
-   "a": "DIA",
-   "b": "FBI",
-   "docs": 10,
-   "pmi": 0.507
-  },
-  {
-   "a": "DIA",
-   "b": "GEPAN/GEIPAN/CNES",
-   "docs": 2,
-   "pmi": 1.314
-  },
-  {
-   "a": "DIA",
-   "b": "MUFON",
-   "docs": 4,
-   "pmi": 1.218
-  },
-  {
-   "a": "DIA",
-   "b": "NASA",
-   "docs": 27,
-   "pmi": 1.555
-  },
-  {
-   "a": "DIA",
-   "b": "OSD/DoD",
-   "docs": 13,
-   "pmi": 1.057
-  },
-  {
-   "a": "DIA",
-   "b": "Project Blue Book",
-   "docs": 4,
-   "pmi": 0.62
-  },
-  {
-   "a": "DIA",
-   "b": "US Army",
-   "docs": 19,
-   "pmi": 1.167
-  },
-  {
-   "a": "DIA",
-   "b": "USAF",
-   "docs": 26,
-   "pmi": 0.37
-  },
-  {
-   "a": "DIA",
-   "b": "Los Alamos",
-   "docs": 8,
-   "pmi": 1.365
-  },
-  {
-   "a": "DIA",
-   "b": "Sandia",
-   "docs": 7,
-   "pmi": 1.537
-  },
-  {
-   "a": "DIA",
-   "b": "Lockheed",
-   "docs": 11,
-   "pmi": 1.92
-  },
-  {
-   "a": "DIA",
-   "b": "NSA",
-   "docs": 2,
-   "pmi": 0.438
-  },
-  {
-   "a": "DIA",
-   "b": "Northrop",
-   "docs": 6,
-   "pmi": 1.624
-  },
-  {
-   "a": "DIA",
-   "b": "AAWSAP/AATIP",
-   "docs": 39,
-   "pmi": 2.23
-  },
-  {
-   "a": "DIA",
-   "b": "SRI",
-   "docs": 2,
-   "pmi": 1.537
-  },
-  {
-   "a": "DIA",
-   "b": "EarthTech",
-   "docs": 2,
-   "pmi": 1.314
-  },
-  {
-   "a": "DIA",
-   "b": "BAASS",
-   "docs": 3,
-   "pmi": 0.931
-  },
-  {
-   "a": "DIA",
-   "b": "Bigelow Aerospace",
-   "docs": 4,
-   "pmi": 1.051
+   "pmi": 0.473
   },
   {
    "a": "CIA",
    "b": "Congress",
    "docs": 16,
-   "pmi": 1.155
+   "pmi": 1.153
   },
   {
    "a": "CIA",
    "b": "US Navy",
    "docs": 20,
-   "pmi": 0.904
+   "pmi": 0.902
   },
   {
    "a": "CIA",
    "b": "Boeing",
    "docs": 6,
-   "pmi": 0.837
+   "pmi": 0.835
   },
   {
    "a": "CIA",
    "b": "CUFOS",
    "docs": 2,
-   "pmi": 1.473
+   "pmi": 1.471
   },
   {
    "a": "CIA",
    "b": "Condon/Colorado",
    "docs": 9,
-   "pmi": 1.437
+   "pmi": 1.435
   },
   {
    "a": "CIA",
    "b": "DOE/AEC",
    "docs": 14,
-   "pmi": 1.083
+   "pmi": 1.082
   },
   {
    "a": "CIA",
    "b": "FBI",
    "docs": 16,
-   "pmi": 0.626
+   "pmi": 0.624
   },
   {
    "a": "CIA",
    "b": "GEPAN/GEIPAN/CNES",
    "docs": 2,
-   "pmi": 0.962
+   "pmi": 0.96
   },
   {
    "a": "CIA",
    "b": "MUFON",
    "docs": 5,
-   "pmi": 1.09
+   "pmi": 1.088
   },
   {
    "a": "CIA",
    "b": "NASA",
    "docs": 14,
-   "pmi": 0.547
+   "pmi": 0.545
   },
   {
    "a": "CIA",
    "b": "OSD/DoD",
    "docs": 17,
-   "pmi": 0.974
+   "pmi": 0.972
   },
   {
    "a": "CIA",
    "b": "Project Blue Book",
    "docs": 12,
-   "pmi": 1.368
+   "pmi": 1.366
   },
   {
    "a": "CIA",
    "b": "US Army",
    "docs": 21,
-   "pmi": 0.916
+   "pmi": 0.914
   },
   {
    "a": "CIA",
    "b": "USAF",
    "docs": 40,
-   "pmi": 0.449
+   "pmi": 0.447
   },
   {
    "a": "CIA",
    "b": "APRO",
    "docs": 4,
-   "pmi": 1.655
+   "pmi": 1.653
   },
   {
    "a": "CIA",
    "b": "NICAP",
    "docs": 6,
-   "pmi": 1.473
+   "pmi": 1.471
   },
   {
    "a": "CIA",
    "b": "Los Alamos",
    "docs": 5,
-   "pmi": 0.543
+   "pmi": 0.542
   },
   {
    "a": "CIA",
    "b": "Sandia",
    "docs": 3,
-   "pmi": 0.338
+   "pmi": 0.336
   },
   {
    "a": "CIA",
    "b": "Lockheed",
    "docs": 4,
-   "pmi": 0.557
+   "pmi": 0.555
   },
   {
    "a": "CIA",
    "b": "NSA",
    "docs": 6,
-   "pmi": 1.185
+   "pmi": 1.183
   },
   {
    "a": "CIA",
    "b": "Northrop",
    "docs": 4,
-   "pmi": 0.867
+   "pmi": 0.865
   },
   {
    "a": "CIA",
    "b": "SRI",
    "docs": 2,
-   "pmi": 1.185
+   "pmi": 1.183
   },
   {
    "a": "CIA",
    "b": "BAASS",
    "docs": 3,
-   "pmi": 0.579
+   "pmi": 0.577
   },
   {
    "a": "CIA",
    "b": "Bigelow Aerospace",
    "docs": 3,
-   "pmi": 0.412
+   "pmi": 0.41
   },
   {
    "a": "CIA",
    "b": "EarthTech",
    "docs": 2,
-   "pmi": 0.962
+   "pmi": 0.96
   },
   {
    "a": "CIA",
    "b": "NIDS",
    "docs": 2,
-   "pmi": 1.185
+   "pmi": 1.183
   },
   {
    "a": "CIA",
    "b": "Skinwalker/Utah ranch",
    "docs": 2,
-   "pmi": 0.78
+   "pmi": 0.778
+  },
+  {
+   "a": "DIA",
+   "b": "Congress",
+   "docs": 15,
+   "pmi": 1.439
+  },
+  {
+   "a": "DIA",
+   "b": "US Navy",
+   "docs": 18,
+   "pmi": 1.148
+  },
+  {
+   "a": "DIA",
+   "b": "Boeing",
+   "docs": 15,
+   "pmi": 2.103
+  },
+  {
+   "a": "DIA",
+   "b": "Condon/Colorado",
+   "docs": 3,
+   "pmi": 0.687
+  },
+  {
+   "a": "DIA",
+   "b": "DOE/AEC",
+   "docs": 15,
+   "pmi": 1.502
+  },
+  {
+   "a": "DIA",
+   "b": "FBI",
+   "docs": 10,
+   "pmi": 0.505
+  },
+  {
+   "a": "DIA",
+   "b": "GEPAN/GEIPAN/CNES",
+   "docs": 2,
+   "pmi": 1.312
+  },
+  {
+   "a": "DIA",
+   "b": "MUFON",
+   "docs": 4,
+   "pmi": 1.216
+  },
+  {
+   "a": "DIA",
+   "b": "NASA",
+   "docs": 27,
+   "pmi": 1.553
+  },
+  {
+   "a": "DIA",
+   "b": "OSD/DoD",
+   "docs": 13,
+   "pmi": 1.055
+  },
+  {
+   "a": "DIA",
+   "b": "Project Blue Book",
+   "docs": 4,
+   "pmi": 0.618
+  },
+  {
+   "a": "DIA",
+   "b": "US Army",
+   "docs": 19,
+   "pmi": 1.165
+  },
+  {
+   "a": "DIA",
+   "b": "USAF",
+   "docs": 26,
+   "pmi": 0.368
+  },
+  {
+   "a": "DIA",
+   "b": "Los Alamos",
+   "docs": 8,
+   "pmi": 1.363
+  },
+  {
+   "a": "DIA",
+   "b": "Sandia",
+   "docs": 7,
+   "pmi": 1.535
+  },
+  {
+   "a": "DIA",
+   "b": "Lockheed",
+   "docs": 11,
+   "pmi": 1.918
+  },
+  {
+   "a": "DIA",
+   "b": "NSA",
+   "docs": 2,
+   "pmi": 0.436
+  },
+  {
+   "a": "DIA",
+   "b": "Northrop",
+   "docs": 6,
+   "pmi": 1.622
+  },
+  {
+   "a": "DIA",
+   "b": "AAWSAP/AATIP",
+   "docs": 39,
+   "pmi": 2.228
+  },
+  {
+   "a": "DIA",
+   "b": "SRI",
+   "docs": 2,
+   "pmi": 1.535
+  },
+  {
+   "a": "DIA",
+   "b": "EarthTech",
+   "docs": 2,
+   "pmi": 1.312
+  },
+  {
+   "a": "DIA",
+   "b": "BAASS",
+   "docs": 3,
+   "pmi": 0.929
+  },
+  {
+   "a": "DIA",
+   "b": "Bigelow Aerospace",
+   "docs": 4,
+   "pmi": 1.049
   },
   {
    "a": "Congress",
    "b": "US Navy",
    "docs": 18,
-   "pmi": 1.696
+   "pmi": 1.695
   },
   {
    "a": "Congress",
    "b": "Boeing",
    "docs": 8,
-   "pmi": 2.023
+   "pmi": 2.021
   },
   {
    "a": "Congress",
    "b": "CUFOS",
    "docs": 2,
-   "pmi": 2.371
+   "pmi": 2.369
   },
   {
    "a": "Congress",
    "b": "Condon/Colorado",
    "docs": 4,
-   "pmi": 1.524
+   "pmi": 1.522
   },
   {
    "a": "Congress",
    "b": "DOE/AEC",
    "docs": 11,
-   "pmi": 1.74
+   "pmi": 1.738
   },
   {
    "a": "Congress",
    "b": "FBI",
    "docs": 11,
-   "pmi": 1.149
+   "pmi": 1.147
   },
   {
    "a": "Congress",
    "b": "GEPAN/GEIPAN/CNES",
    "docs": 3,
-   "pmi": 2.266
+   "pmi": 2.264
   },
   {
    "a": "Congress",
    "b": "MUFON",
    "docs": 5,
-   "pmi": 1.988
+   "pmi": 1.986
   },
   {
    "a": "Congress",
    "b": "NASA",
    "docs": 16,
-   "pmi": 1.579
+   "pmi": 1.577
   },
   {
    "a": "Congress",
    "b": "OSD/DoD",
    "docs": 15,
-   "pmi": 1.747
+   "pmi": 1.745
   },
   {
    "a": "Congress",
    "b": "Project Blue Book",
    "docs": 9,
-   "pmi": 1.978
+   "pmi": 1.976
   },
   {
    "a": "Congress",
    "b": "US Army",
    "docs": 19,
-   "pmi": 1.713
+   "pmi": 1.712
   },
   {
    "a": "Congress",
    "b": "USAF",
    "docs": 24,
-   "pmi": 0.836
+   "pmi": 0.835
   },
   {
    "a": "Congress",
    "b": "APRO",
    "docs": 3,
-   "pmi": 2.266
+   "pmi": 2.264
   },
   {
    "a": "Congress",
    "b": "NICAP",
    "docs": 4,
-   "pmi": 1.965
+   "pmi": 1.964
   },
   {
    "a": "Congress",
    "b": "Los Alamos",
    "docs": 5,
-   "pmi": 1.441
+   "pmi": 1.439
   },
   {
    "a": "Congress",
    "b": "Sandia",
    "docs": 3,
-   "pmi": 1.236
+   "pmi": 1.234
   },
   {
    "a": "Congress",
    "b": "NSA",
    "docs": 6,
-   "pmi": 2.083
+   "pmi": 2.081
   },
   {
    "a": "Congress",
    "b": "Lockheed",
    "docs": 4,
-   "pmi": 1.455
+   "pmi": 1.453
   },
   {
    "a": "Congress",
    "b": "Northrop",
    "docs": 5,
-   "pmi": 1.988
+   "pmi": 1.986
   },
   {
    "a": "Congress",
    "b": "SRI",
    "docs": 2,
-   "pmi": 2.083
+   "pmi": 2.081
   },
   {
    "a": "Congress",
    "b": "BAASS",
    "docs": 5,
-   "pmi": 1.988
+   "pmi": 1.986
   },
   {
    "a": "Congress",
    "b": "Bigelow Aerospace",
    "docs": 5,
-   "pmi": 1.821
+   "pmi": 1.819
   },
   {
    "a": "Congress",
    "b": "AAWSAP/AATIP",
    "docs": 7,
-   "pmi": 1.059
+   "pmi": 1.057
   },
   {
    "a": "Congress",
    "b": "EarthTech",
    "docs": 3,
-   "pmi": 2.266
+   "pmi": 2.264
   },
   {
    "a": "Congress",
    "b": "NIDS",
    "docs": 2,
-   "pmi": 2.083
+   "pmi": 2.081
   },
   {
    "a": "Congress",
    "b": "Skinwalker/Utah ranch",
    "docs": 2,
-   "pmi": 1.678
+   "pmi": 1.676
   },
   {
    "a": "US Navy",
    "b": "Boeing",
    "docs": 11,
-   "pmi": 1.867
+   "pmi": 1.865
   },
   {
    "a": "US Navy",
    "b": "Condon/Colorado",
    "docs": 4,
-   "pmi": 1.05
+   "pmi": 1.048
   },
   {
    "a": "US Navy",
    "b": "DOE/AEC",
    "docs": 18,
-   "pmi": 1.759
+   "pmi": 1.757
   },
   {
    "a": "US Navy",
    "b": "FBI",
    "docs": 20,
-   "pmi": 1.273
+   "pmi": 1.271
   },
   {
    "a": "US Navy",
    "b": "GEPAN/GEIPAN/CNES",
    "docs": 2,
-   "pmi": 1.386
+   "pmi": 1.384
   },
   {
    "a": "US Navy",
    "b": "MUFON",
    "docs": 3,
-   "pmi": 1.003
+   "pmi": 1.001
   },
   {
    "a": "US Navy",
    "b": "NASA",
    "docs": 18,
-   "pmi": 1.223
+   "pmi": 1.221
   },
   {
    "a": "US Navy",
    "b": "OSD/DoD",
    "docs": 16,
-   "pmi": 1.338
+   "pmi": 1.336
   },
   {
    "a": "US Navy",
    "b": "Project Blue Book",
    "docs": 10,
-   "pmi": 1.609
+   "pmi": 1.608
   },
   {
    "a": "US Navy",
    "b": "US Army",
    "docs": 34,
-   "pmi": 1.822
+   "pmi": 1.82
   },
   {
    "a": "US Navy",
    "b": "USAF",
    "docs": 47,
-   "pmi": 1.035
+   "pmi": 1.033
   },
   {
    "a": "US Navy",
    "b": "Los Alamos",
    "docs": 10,
-   "pmi": 1.661
+   "pmi": 1.659
   },
   {
    "a": "US Navy",
    "b": "Sandia",
    "docs": 7,
-   "pmi": 1.609
+   "pmi": 1.608
   },
   {
    "a": "US Navy",
    "b": "Lockheed",
    "docs": 8,
-   "pmi": 1.674
+   "pmi": 1.672
   },
   {
    "a": "US Navy",
    "b": "APRO",
    "docs": 2,
-   "pmi": 1.386
+   "pmi": 1.384
   },
   {
    "a": "US Navy",
    "b": "NSA",
    "docs": 4,
-   "pmi": 1.204
+   "pmi": 1.202
   },
   {
    "a": "US Navy",
    "b": "NICAP",
    "docs": 3,
-   "pmi": 1.204
+   "pmi": 1.202
   },
   {
    "a": "US Navy",
    "b": "Northrop",
    "docs": 7,
-   "pmi": 1.851
+   "pmi": 1.849
   },
   {
    "a": "US Navy",
    "b": "SRI",
    "docs": 2,
-   "pmi": 1.609
+   "pmi": 1.608
   },
   {
    "a": "US Navy",
    "b": "AAWSAP/AATIP",
    "docs": 8,
-   "pmi": 0.718
+   "pmi": 0.717
   },
   {
    "a": "US Navy",
    "b": "BAASS",
    "docs": 2,
-   "pmi": 0.598
+   "pmi": 0.596
   },
   {
    "a": "US Navy",
    "b": "Bigelow Aerospace",
    "docs": 2,
-   "pmi": 0.431
-  },
-  {
-   "a": "US Army",
-   "b": "DOE/AEC",
-   "docs": 16,
-   "pmi": 1.604
-  },
-  {
-   "a": "US Army",
-   "b": "USAF",
-   "docs": 46,
-   "pmi": 0.976
-  },
-  {
-   "a": "US Army",
-   "b": "FBI",
-   "docs": 27,
-   "pmi": 1.536
-  },
-  {
-   "a": "US Army",
-   "b": "Boeing",
-   "docs": 10,
-   "pmi": 1.735
-  },
-  {
-   "a": "US Army",
-   "b": "CUFOS",
-   "docs": 2,
-   "pmi": 1.86
-  },
-  {
-   "a": "US Army",
-   "b": "Condon/Colorado",
-   "docs": 6,
-   "pmi": 1.418
-  },
-  {
-   "a": "US Army",
-   "b": "GEPAN/GEIPAN/CNES",
-   "docs": 2,
-   "pmi": 1.349
-  },
-  {
-   "a": "US Army",
-   "b": "MUFON",
-   "docs": 4,
-   "pmi": 1.254
-  },
-  {
-   "a": "US Army",
-   "b": "NASA",
-   "docs": 15,
-   "pmi": 1.003
-  },
-  {
-   "a": "US Army",
-   "b": "OSD/DoD",
-   "docs": 16,
-   "pmi": 1.3
-  },
-  {
-   "a": "US Army",
-   "b": "Project Blue Book",
-   "docs": 12,
-   "pmi": 1.755
-  },
-  {
-   "a": "US Army",
-   "b": "APRO",
-   "docs": 4,
-   "pmi": 2.042
-  },
-  {
-   "a": "US Army",
-   "b": "NICAP",
-   "docs": 5,
-   "pmi": 1.678
-  },
-  {
-   "a": "US Army",
-   "b": "Los Alamos",
-   "docs": 11,
-   "pmi": 1.719
-  },
-  {
-   "a": "US Army",
-   "b": "Sandia",
-   "docs": 6,
-   "pmi": 1.418
-  },
-  {
-   "a": "US Army",
-   "b": "Lockheed",
-   "docs": 6,
-   "pmi": 1.349
-  },
-  {
-   "a": "US Army",
-   "b": "NSA",
-   "docs": 5,
-   "pmi": 1.39
-  },
-  {
-   "a": "US Army",
-   "b": "Northrop",
-   "docs": 5,
-   "pmi": 1.477
-  },
-  {
-   "a": "US Army",
-   "b": "SRI",
-   "docs": 2,
-   "pmi": 1.572
-  },
-  {
-   "a": "US Army",
-   "b": "AAWSAP/AATIP",
-   "docs": 8,
-   "pmi": 0.681
-  },
-  {
-   "a": "US Army",
-   "b": "BAASS",
-   "docs": 2,
-   "pmi": 0.561
-  },
-  {
-   "a": "US Army",
-   "b": "Bigelow Aerospace",
-   "docs": 2,
-   "pmi": 0.394
+   "pmi": 0.429
   },
   {
    "a": "USAF",
    "b": "DOE/AEC",
    "docs": 20,
-   "pmi": 0.717
+   "pmi": 0.715
+  },
+  {
+   "a": "USAF",
+   "b": "US Army",
+   "docs": 46,
+   "pmi": 0.974
   },
   {
    "a": "USAF",
    "b": "FBI",
    "docs": 30,
-   "pmi": 0.531
+   "pmi": 0.529
   },
   {
    "a": "USAF",
    "b": "Boeing",
    "docs": 15,
-   "pmi": 1.03
+   "pmi": 1.028
   },
   {
    "a": "USAF",
    "b": "CUFOS",
    "docs": 3,
-   "pmi": 1.155
+   "pmi": 1.153
   },
   {
    "a": "USAF",
    "b": "Condon/Colorado",
    "docs": 11,
-   "pmi": 0.914
+   "pmi": 0.912
   },
   {
    "a": "USAF",
    "b": "GEPAN/GEIPAN/CNES",
    "docs": 5,
-   "pmi": 1.155
+   "pmi": 1.153
   },
   {
    "a": "USAF",
    "b": "MUFON",
    "docs": 10,
-   "pmi": 1.06
+   "pmi": 1.058
   },
   {
    "a": "USAF",
    "b": "NASA",
    "docs": 29,
-   "pmi": 0.552
+   "pmi": 0.55
   },
   {
    "a": "USAF",
    "b": "OSD/DoD",
    "docs": 37,
-   "pmi": 1.028
+   "pmi": 1.026
   },
   {
    "a": "USAF",
    "b": "Project Blue Book",
    "docs": 19,
-   "pmi": 1.104
+   "pmi": 1.102
   },
   {
    "a": "USAF",
    "b": "APRO",
    "docs": 5,
-   "pmi": 1.155
+   "pmi": 1.153
   },
   {
    "a": "USAF",
    "b": "NICAP",
    "docs": 8,
-   "pmi": 1.037
+   "pmi": 1.035
   },
   {
    "a": "USAF",
    "b": "Los Alamos",
    "docs": 13,
-   "pmi": 0.775
+   "pmi": 0.774
   },
   {
    "a": "USAF",
    "b": "Sandia",
    "docs": 9,
-   "pmi": 0.713
+   "pmi": 0.711
   },
   {
    "a": "USAF",
    "b": "Lockheed",
    "docs": 11,
-   "pmi": 0.845
+   "pmi": 0.843
   },
   {
    "a": "USAF",
    "b": "NSA",
    "docs": 6,
-   "pmi": 0.462
+   "pmi": 0.46
   },
   {
    "a": "USAF",
    "b": "AARO",
    "docs": 21,
-   "pmi": 0.511
+   "pmi": 0.509
   },
   {
    "a": "USAF",
    "b": "Battelle",
    "docs": 3,
-   "pmi": 0.867
+   "pmi": 0.865
   },
   {
    "a": "USAF",
    "b": "Northrop",
    "docs": 11,
-   "pmi": 1.155
+   "pmi": 1.153
   },
   {
    "a": "USAF",
    "b": "SRI",
    "docs": 2,
-   "pmi": 0.462
+   "pmi": 0.46
   },
   {
    "a": "USAF",
    "b": "BAASS",
    "docs": 9,
-   "pmi": 0.954
+   "pmi": 0.952
   },
   {
    "a": "USAF",
    "b": "Bigelow Aerospace",
    "docs": 9,
-   "pmi": 0.787
+   "pmi": 0.785
   },
   {
    "a": "USAF",
    "b": "AAWSAP/AATIP",
    "docs": 15,
-   "pmi": 0.199
+   "pmi": 0.197
   },
   {
    "a": "USAF",
    "b": "EarthTech",
    "docs": 5,
-   "pmi": 1.155
+   "pmi": 1.153
   },
   {
    "a": "USAF",
    "b": "NIDS",
    "docs": 4,
-   "pmi": 1.155
+   "pmi": 1.153
   },
   {
    "a": "USAF",
    "b": "Skinwalker/Utah ranch",
    "docs": 5,
-   "pmi": 0.973
+   "pmi": 0.971
+  },
+  {
+   "a": "DOE/AEC",
+   "b": "US Army",
+   "docs": 16,
+   "pmi": 1.602
   },
   {
    "a": "DOE/AEC",
    "b": "Boeing",
    "docs": 8,
-   "pmi": 2.085
+   "pmi": 2.083
   },
   {
    "a": "DOE/AEC",
    "b": "Condon/Colorado",
    "docs": 3,
-   "pmi": 1.298
+   "pmi": 1.297
   },
   {
    "a": "DOE/AEC",
    "b": "FBI",
    "docs": 12,
-   "pmi": 1.298
+   "pmi": 1.297
   },
   {
    "a": "DOE/AEC",
    "b": "GEPAN/GEIPAN/CNES",
    "docs": 3,
-   "pmi": 2.328
+   "pmi": 2.326
   },
   {
    "a": "DOE/AEC",
    "b": "MUFON",
    "docs": 5,
-   "pmi": 2.05
+   "pmi": 2.049
   },
   {
    "a": "DOE/AEC",
    "b": "NASA",
    "docs": 15,
-   "pmi": 1.577
+   "pmi": 1.575
   },
   {
    "a": "DOE/AEC",
    "b": "OSD/DoD",
    "docs": 12,
-   "pmi": 1.586
+   "pmi": 1.584
   },
   {
    "a": "DOE/AEC",
    "b": "Project Blue Book",
    "docs": 3,
-   "pmi": 0.942
+   "pmi": 0.94
   },
   {
    "a": "DOE/AEC",
    "b": "Los Alamos",
    "docs": 9,
-   "pmi": 2.092
+   "pmi": 2.09
   },
   {
    "a": "DOE/AEC",
    "b": "Sandia",
    "docs": 6,
-   "pmi": 1.992
+   "pmi": 1.99
   },
   {
    "a": "DOE/AEC",
    "b": "Lockheed",
    "docs": 7,
-   "pmi": 2.077
+   "pmi": 2.075
   },
   {
    "a": "DOE/AEC",
    "b": "NSA",
    "docs": 3,
-   "pmi": 1.453
+   "pmi": 1.451
   },
   {
    "a": "DOE/AEC",
    "b": "Northrop",
    "docs": 6,
-   "pmi": 2.233
+   "pmi": 2.231
   },
   {
    "a": "DOE/AEC",
    "b": "AAWSAP/AATIP",
    "docs": 8,
-   "pmi": 1.255
+   "pmi": 1.253
   },
   {
    "a": "DOE/AEC",
    "b": "BAASS",
    "docs": 4,
-   "pmi": 1.827
+   "pmi": 1.825
   },
   {
    "a": "DOE/AEC",
    "b": "Bigelow Aerospace",
    "docs": 4,
-   "pmi": 1.66
+   "pmi": 1.658
   },
   {
    "a": "DOE/AEC",
    "b": "EarthTech",
    "docs": 2,
-   "pmi": 1.923
+   "pmi": 1.921
   },
   {
    "a": "DOE/AEC",
    "b": "Skinwalker/Utah ranch",
    "docs": 3,
-   "pmi": 2.146
+   "pmi": 2.144
+  },
+  {
+   "a": "US Army",
+   "b": "FBI",
+   "docs": 27,
+   "pmi": 1.534
+  },
+  {
+   "a": "US Army",
+   "b": "Boeing",
+   "docs": 10,
+   "pmi": 1.733
+  },
+  {
+   "a": "US Army",
+   "b": "CUFOS",
+   "docs": 2,
+   "pmi": 1.858
+  },
+  {
+   "a": "US Army",
+   "b": "Condon/Colorado",
+   "docs": 6,
+   "pmi": 1.416
+  },
+  {
+   "a": "US Army",
+   "b": "GEPAN/GEIPAN/CNES",
+   "docs": 2,
+   "pmi": 1.347
+  },
+  {
+   "a": "US Army",
+   "b": "MUFON",
+   "docs": 4,
+   "pmi": 1.252
+  },
+  {
+   "a": "US Army",
+   "b": "NASA",
+   "docs": 15,
+   "pmi": 1.001
+  },
+  {
+   "a": "US Army",
+   "b": "OSD/DoD",
+   "docs": 16,
+   "pmi": 1.299
+  },
+  {
+   "a": "US Army",
+   "b": "Project Blue Book",
+   "docs": 12,
+   "pmi": 1.753
+  },
+  {
+   "a": "US Army",
+   "b": "APRO",
+   "docs": 4,
+   "pmi": 2.041
+  },
+  {
+   "a": "US Army",
+   "b": "NICAP",
+   "docs": 5,
+   "pmi": 1.676
+  },
+  {
+   "a": "US Army",
+   "b": "Los Alamos",
+   "docs": 11,
+   "pmi": 1.717
+  },
+  {
+   "a": "US Army",
+   "b": "Sandia",
+   "docs": 6,
+   "pmi": 1.416
+  },
+  {
+   "a": "US Army",
+   "b": "Lockheed",
+   "docs": 6,
+   "pmi": 1.347
+  },
+  {
+   "a": "US Army",
+   "b": "NSA",
+   "docs": 5,
+   "pmi": 1.388
+  },
+  {
+   "a": "US Army",
+   "b": "Northrop",
+   "docs": 5,
+   "pmi": 1.475
+  },
+  {
+   "a": "US Army",
+   "b": "SRI",
+   "docs": 2,
+   "pmi": 1.571
+  },
+  {
+   "a": "US Army",
+   "b": "AAWSAP/AATIP",
+   "docs": 8,
+   "pmi": 0.68
+  },
+  {
+   "a": "US Army",
+   "b": "BAASS",
+   "docs": 2,
+   "pmi": 0.559
+  },
+  {
+   "a": "US Army",
+   "b": "Bigelow Aerospace",
+   "docs": 2,
+   "pmi": 0.392
   },
   {
    "a": "FBI",
    "b": "Boeing",
    "docs": 4,
-   "pmi": 0.801
+   "pmi": 0.799
   },
   {
    "a": "FBI",
    "b": "CUFOS",
    "docs": 2,
-   "pmi": 1.842
+   "pmi": 1.84
   },
   {
    "a": "FBI",
    "b": "Condon/Colorado",
    "docs": 5,
-   "pmi": 1.218
+   "pmi": 1.216
   },
   {
    "a": "FBI",
    "b": "GEPAN/GEIPAN/CNES",
    "docs": 2,
-   "pmi": 1.331
+   "pmi": 1.329
   },
   {
    "a": "FBI",
    "b": "MUFON",
    "docs": 3,
-   "pmi": 0.948
+   "pmi": 0.946
   },
   {
    "a": "FBI",
    "b": "OSD/DoD",
    "docs": 9,
-   "pmi": 0.707
+   "pmi": 0.705
   },
   {
    "a": "FBI",
    "b": "Project Blue Book",
    "docs": 10,
-   "pmi": 1.554
+   "pmi": 1.552
   },
   {
    "a": "FBI",
    "b": "APRO",
    "docs": 4,
-   "pmi": 2.024
+   "pmi": 2.022
   },
   {
    "a": "FBI",
    "b": "NICAP",
    "docs": 5,
-   "pmi": 1.66
+   "pmi": 1.658
   },
   {
    "a": "FBI",
    "b": "Los Alamos",
    "docs": 5,
-   "pmi": 0.913
+   "pmi": 0.911
   },
   {
    "a": "FBI",
    "b": "Sandia",
    "docs": 4,
-   "pmi": 0.995
+   "pmi": 0.993
   },
   {
    "a": "FBI",
    "b": "BAASS",
    "docs": 2,
-   "pmi": 0.543
+   "pmi": 0.541
   },
   {
    "a": "FBI",
    "b": "Bigelow Aerospace",
    "docs": 2,
-   "pmi": 0.376
+   "pmi": 0.374
   },
   {
-   "a": "CUFOS",
-   "b": "Condon/Colorado",
+   "a": "Condon/Colorado",
+   "b": "Boeing",
    "docs": 3,
-   "pmi": 3.634
-  },
-  {
-   "a": "CUFOS",
-   "b": "GEPAN/GEIPAN/CNES",
-   "docs": 2,
-   "pmi": 4.258
-  },
-  {
-   "a": "CUFOS",
-   "b": "MUFON",
-   "docs": 3,
-   "pmi": 3.875
-  },
-  {
-   "a": "CUFOS",
-   "b": "NASA",
-   "docs": 2,
    "pmi": 1.897
   },
   {
-   "a": "CUFOS",
-   "b": "OSD/DoD",
-   "docs": 2,
-   "pmi": 2.13
-  },
-  {
-   "a": "CUFOS",
-   "b": "Project Blue Book",
+   "a": "Condon/Colorado",
+   "b": "CUFOS",
    "docs": 3,
-   "pmi": 3.277
+   "pmi": 3.632
   },
   {
-   "a": "CUFOS",
+   "a": "Condon/Colorado",
+   "b": "GEPAN/GEIPAN/CNES",
+   "docs": 2,
+   "pmi": 2.716
+  },
+  {
+   "a": "Condon/Colorado",
+   "b": "MUFON",
+   "docs": 4,
+   "pmi": 2.62
+  },
+  {
+   "a": "Condon/Colorado",
+   "b": "NASA",
+   "docs": 5,
+   "pmi": 1.271
+  },
+  {
+   "a": "Condon/Colorado",
+   "b": "OSD/DoD",
+   "docs": 5,
+   "pmi": 1.504
+  },
+  {
+   "a": "Condon/Colorado",
+   "b": "Project Blue Book",
+   "docs": 8,
+   "pmi": 2.716
+  },
+  {
+   "a": "Condon/Colorado",
+   "b": "APRO",
+   "docs": 3,
+   "pmi": 3.121
+  },
+  {
+   "a": "Condon/Colorado",
+   "b": "NICAP",
+   "docs": 4,
+   "pmi": 2.821
+  },
+  {
+   "a": "Condon/Colorado",
+   "b": "Los Alamos",
+   "docs": 2,
+   "pmi": 1.381
+  },
+  {
+   "a": "Condon/Colorado",
+   "b": "BAASS",
+   "docs": 2,
+   "pmi": 1.927
+  },
+  {
+   "a": "Condon/Colorado",
+   "b": "Bigelow Aerospace",
+   "docs": 2,
+   "pmi": 1.76
+  },
+  {
+   "a": "MUFON",
+   "b": "Boeing",
+   "docs": 2,
+   "pmi": 1.733
+  },
+  {
+   "a": "MUFON",
+   "b": "CUFOS",
+   "docs": 3,
+   "pmi": 3.873
+  },
+  {
+   "a": "MUFON",
+   "b": "GEPAN/GEIPAN/CNES",
+   "docs": 5,
+   "pmi": 3.873
+  },
+  {
+   "a": "MUFON",
+   "b": "NASA",
+   "docs": 7,
+   "pmi": 1.849
+  },
+  {
+   "a": "MUFON",
+   "b": "OSD/DoD",
+   "docs": 7,
+   "pmi": 2.081
+  },
+  {
+   "a": "MUFON",
+   "b": "Project Blue Book",
+   "docs": 6,
+   "pmi": 2.669
+  },
+  {
+   "a": "MUFON",
    "b": "APRO",
    "docs": 2,
-   "pmi": 4.258
+   "pmi": 2.957
   },
   {
-   "a": "Boeing",
-   "b": "Condon/Colorado",
-   "docs": 3,
-   "pmi": 1.899
-  },
-  {
-   "a": "Boeing",
-   "b": "MUFON",
+   "a": "MUFON",
+   "b": "AAWSAP/AATIP",
    "docs": 2,
-   "pmi": 1.735
+   "pmi": 0.903
   },
   {
-   "a": "Boeing",
-   "b": "NASA",
+   "a": "MUFON",
+   "b": "BAASS",
+   "docs": 8,
+   "pmi": 3.555
+  },
+  {
+   "a": "MUFON",
+   "b": "Bigelow Aerospace",
+   "docs": 7,
+   "pmi": 3.254
+  },
+  {
+   "a": "MUFON",
+   "b": "NIDS",
+   "docs": 4,
+   "pmi": 3.873
+  },
+  {
+   "a": "MUFON",
+   "b": "EarthTech",
+   "docs": 4,
+   "pmi": 3.65
+  },
+  {
+   "a": "MUFON",
+   "b": "Northrop",
+   "docs": 4,
+   "pmi": 2.861
+  },
+  {
+   "a": "MUFON",
+   "b": "Skinwalker/Utah ranch",
+   "docs": 5,
+   "pmi": 3.691
+  },
+  {
+   "a": "MUFON",
+   "b": "Lockheed",
+   "docs": 2,
+   "pmi": 1.858
+  },
+  {
+   "a": "NASA",
+   "b": "Boeing",
    "docs": 14,
-   "pmi": 2.108
+   "pmi": 2.107
   },
   {
-   "a": "Boeing",
-   "b": "OSD/DoD",
-   "docs": 9,
-   "pmi": 1.899
-  },
-  {
-   "a": "Boeing",
-   "b": "Project Blue Book",
-   "docs": 3,
-   "pmi": 1.543
-  },
-  {
-   "a": "Boeing",
-   "b": "Los Alamos",
-   "docs": 4,
-   "pmi": 1.882
-  },
-  {
-   "a": "Boeing",
-   "b": "Sandia",
-   "docs": 3,
-   "pmi": 1.899
-  },
-  {
-   "a": "Boeing",
-   "b": "Lockheed",
-   "docs": 7,
-   "pmi": 2.678
-  },
-  {
-   "a": "Boeing",
-   "b": "NSA",
+   "a": "NASA",
+   "b": "CUFOS",
    "docs": 2,
-   "pmi": 1.648
+   "pmi": 1.895
   },
   {
-   "a": "Boeing",
-   "b": "Northrop",
-   "docs": 6,
-   "pmi": 2.834
-  },
-  {
-   "a": "Boeing",
-   "b": "AAWSAP/AATIP",
-   "docs": 9,
-   "pmi": 1.973
-  },
-  {
-   "a": "Project Blue Book",
-   "b": "Condon/Colorado",
-   "docs": 8,
-   "pmi": 2.718
-  },
-  {
-   "a": "Project Blue Book",
+   "a": "NASA",
    "b": "GEPAN/GEIPAN/CNES",
-   "docs": 3,
-   "pmi": 2.766
+   "docs": 2,
+   "pmi": 1.384
   },
   {
-   "a": "Project Blue Book",
-   "b": "MUFON",
-   "docs": 6,
-   "pmi": 2.671
-  },
-  {
-   "a": "Project Blue Book",
-   "b": "NASA",
-   "docs": 7,
-   "pmi": 1.253
-  },
-  {
-   "a": "Project Blue Book",
+   "a": "NASA",
    "b": "OSD/DoD",
-   "docs": 11,
-   "pmi": 1.937
-  },
-  {
-   "a": "Project Blue Book",
-   "b": "APRO",
-   "docs": 5,
-   "pmi": 3.277
-  },
-  {
-   "a": "Project Blue Book",
-   "b": "NICAP",
-   "docs": 7,
-   "pmi": 3.026
-  },
-  {
-   "a": "Project Blue Book",
-   "b": "Los Alamos",
-   "docs": 5,
-   "pmi": 1.942
-  },
-  {
-   "a": "Project Blue Book",
-   "b": "Sandia",
-   "docs": 2,
-   "pmi": 1.331
-  },
-  {
-   "a": "Project Blue Book",
-   "b": "NSA",
-   "docs": 2,
-   "pmi": 1.485
-  },
-  {
-   "a": "Project Blue Book",
-   "b": "Battelle",
-   "docs": 2,
-   "pmi": 2.584
-  },
-  {
-   "a": "Project Blue Book",
-   "b": "BAASS",
-   "docs": 4,
-   "pmi": 2.266
-  },
-  {
-   "a": "Project Blue Book",
-   "b": "Bigelow Aerospace",
-   "docs": 4,
-   "pmi": 2.098
-  },
-  {
-   "a": "Project Blue Book",
-   "b": "NIDS",
-   "docs": 3,
-   "pmi": 2.989
-  },
-  {
-   "a": "Project Blue Book",
-   "b": "EarthTech",
-   "docs": 2,
-   "pmi": 2.361
-  },
-  {
-   "a": "Project Blue Book",
-   "b": "Northrop",
-   "docs": 2,
-   "pmi": 1.572
-  },
-  {
-   "a": "Project Blue Book",
-   "b": "Skinwalker/Utah ranch",
-   "docs": 2,
-   "pmi": 2.179
-  },
-  {
-   "a": "OSD/DoD",
-   "b": "Condon/Colorado",
-   "docs": 5,
-   "pmi": 1.506
-  },
-  {
-   "a": "OSD/DoD",
-   "b": "GEPAN/GEIPAN/CNES",
-   "docs": 3,
-   "pmi": 2.024
-  },
-  {
-   "a": "OSD/DoD",
-   "b": "MUFON",
-   "docs": 7,
-   "pmi": 2.083
-  },
-  {
-   "a": "OSD/DoD",
-   "b": "NASA",
    "docs": 16,
-   "pmi": 1.338
-  },
-  {
-   "a": "OSD/DoD",
-   "b": "APRO",
-   "docs": 4,
-   "pmi": 2.312
-  },
-  {
-   "a": "OSD/DoD",
-   "b": "NICAP",
-   "docs": 4,
-   "pmi": 1.724
-  },
-  {
-   "a": "OSD/DoD",
-   "b": "Los Alamos",
-   "docs": 2,
-   "pmi": 0.284
-  },
-  {
-   "a": "OSD/DoD",
-   "b": "Sandia",
-   "docs": 3,
-   "pmi": 0.995
-  },
-  {
-   "a": "OSD/DoD",
-   "b": "NSA",
-   "docs": 6,
-   "pmi": 1.842
-  },
-  {
-   "a": "OSD/DoD",
-   "b": "AARO",
-   "docs": 9,
-   "pmi": 1.044
-  },
-  {
-   "a": "OSD/DoD",
-   "b": "Lockheed",
-   "docs": 5,
-   "pmi": 1.437
-  },
-  {
-   "a": "OSD/DoD",
-   "b": "Northrop",
-   "docs": 9,
-   "pmi": 2.335
-  },
-  {
-   "a": "OSD/DoD",
-   "b": "BAASS",
-   "docs": 7,
-   "pmi": 2.083
-  },
-  {
-   "a": "OSD/DoD",
-   "b": "Bigelow Aerospace",
-   "docs": 8,
-   "pmi": 2.05
-  },
-  {
-   "a": "OSD/DoD",
-   "b": "AAWSAP/AATIP",
-   "docs": 6,
-   "pmi": 0.663
-  },
-  {
-   "a": "OSD/DoD",
-   "b": "EarthTech",
-   "docs": 3,
-   "pmi": 2.024
-  },
-  {
-   "a": "OSD/DoD",
-   "b": "NIDS",
-   "docs": 2,
-   "pmi": 1.842
-  },
-  {
-   "a": "OSD/DoD",
-   "b": "Skinwalker/Utah ranch",
-   "docs": 5,
-   "pmi": 2.353
-  },
-  {
-   "a": "MUFON",
-   "b": "Condon/Colorado",
-   "docs": 4,
-   "pmi": 2.622
-  },
-  {
-   "a": "MUFON",
-   "b": "GEPAN/GEIPAN/CNES",
-   "docs": 5,
-   "pmi": 3.875
-  },
-  {
-   "a": "MUFON",
-   "b": "NASA",
-   "docs": 7,
-   "pmi": 1.851
-  },
-  {
-   "a": "MUFON",
-   "b": "APRO",
-   "docs": 2,
-   "pmi": 2.959
-  },
-  {
-   "a": "MUFON",
-   "b": "AAWSAP/AATIP",
-   "docs": 2,
-   "pmi": 0.905
-  },
-  {
-   "a": "MUFON",
-   "b": "BAASS",
-   "docs": 8,
-   "pmi": 3.557
-  },
-  {
-   "a": "MUFON",
-   "b": "Bigelow Aerospace",
-   "docs": 7,
-   "pmi": 3.256
-  },
-  {
-   "a": "MUFON",
-   "b": "NIDS",
-   "docs": 4,
-   "pmi": 3.875
-  },
-  {
-   "a": "MUFON",
-   "b": "EarthTech",
-   "docs": 4,
-   "pmi": 3.652
-  },
-  {
-   "a": "MUFON",
-   "b": "Northrop",
-   "docs": 4,
-   "pmi": 2.863
-  },
-  {
-   "a": "MUFON",
-   "b": "Skinwalker/Utah ranch",
-   "docs": 5,
-   "pmi": 3.693
-  },
-  {
-   "a": "MUFON",
-   "b": "Lockheed",
-   "docs": 2,
-   "pmi": 1.86
-  },
-  {
-   "a": "GEPAN/GEIPAN/CNES",
-   "b": "Condon/Colorado",
-   "docs": 2,
-   "pmi": 2.718
-  },
-  {
-   "a": "GEPAN/GEIPAN/CNES",
-   "b": "NASA",
-   "docs": 2,
-   "pmi": 1.386
-  },
-  {
-   "a": "GEPAN/GEIPAN/CNES",
-   "b": "BAASS",
-   "docs": 4,
-   "pmi": 3.652
-  },
-  {
-   "a": "GEPAN/GEIPAN/CNES",
-   "b": "Bigelow Aerospace",
-   "docs": 4,
-   "pmi": 3.485
-  },
-  {
-   "a": "GEPAN/GEIPAN/CNES",
-   "b": "NIDS",
-   "docs": 2,
-   "pmi": 3.97
-  },
-  {
-   "a": "GEPAN/GEIPAN/CNES",
-   "b": "EarthTech",
-   "docs": 3,
-   "pmi": 4.153
-  },
-  {
-   "a": "GEPAN/GEIPAN/CNES",
-   "b": "Northrop",
-   "docs": 2,
-   "pmi": 2.959
-  },
-  {
-   "a": "GEPAN/GEIPAN/CNES",
-   "b": "Skinwalker/Utah ranch",
-   "docs": 2,
-   "pmi": 3.565
+   "pmi": 1.336
   },
   {
    "a": "NASA",
-   "b": "Condon/Colorado",
-   "docs": 5,
-   "pmi": 1.273
+   "b": "Project Blue Book",
+   "docs": 7,
+   "pmi": 1.251
   },
   {
    "a": "NASA",
    "b": "APRO",
    "docs": 2,
-   "pmi": 1.386
+   "pmi": 1.384
   },
   {
    "a": "NASA",
    "b": "NICAP",
    "docs": 3,
-   "pmi": 1.204
+   "pmi": 1.202
   },
   {
    "a": "NASA",
    "b": "Lockheed",
    "docs": 11,
-   "pmi": 1.992
+   "pmi": 1.991
   },
   {
    "a": "NASA",
    "b": "Sandia",
    "docs": 6,
-   "pmi": 1.455
+   "pmi": 1.453
   },
   {
    "a": "NASA",
    "b": "NSA",
    "docs": 5,
-   "pmi": 1.427
+   "pmi": 1.425
   },
   {
    "a": "NASA",
    "b": "Northrop",
    "docs": 7,
-   "pmi": 1.851
+   "pmi": 1.849
   },
   {
    "a": "NASA",
    "b": "Los Alamos",
    "docs": 8,
-   "pmi": 1.438
+   "pmi": 1.436
   },
   {
    "a": "NASA",
    "b": "SRI",
    "docs": 2,
-   "pmi": 1.609
+   "pmi": 1.608
   },
   {
    "a": "NASA",
    "b": "BAASS",
    "docs": 7,
-   "pmi": 1.851
+   "pmi": 1.849
   },
   {
    "a": "NASA",
    "b": "Bigelow Aerospace",
    "docs": 6,
-   "pmi": 1.529
+   "pmi": 1.528
   },
   {
    "a": "NASA",
    "b": "AAWSAP/AATIP",
    "docs": 20,
-   "pmi": 1.635
+   "pmi": 1.633
   },
   {
    "a": "NASA",
    "b": "EarthTech",
    "docs": 3,
-   "pmi": 1.792
+   "pmi": 1.79
   },
   {
    "a": "NASA",
    "b": "NIDS",
    "docs": 2,
-   "pmi": 1.609
+   "pmi": 1.608
   },
   {
    "a": "NASA",
    "b": "Skinwalker/Utah ranch",
    "docs": 4,
+   "pmi": 1.895
+  },
+  {
+   "a": "Project Blue Book",
+   "b": "Boeing",
+   "docs": 3,
+   "pmi": 1.541
+  },
+  {
+   "a": "Project Blue Book",
+   "b": "CUFOS",
+   "docs": 3,
+   "pmi": 3.275
+  },
+  {
+   "a": "Project Blue Book",
+   "b": "GEPAN/GEIPAN/CNES",
+   "docs": 3,
+   "pmi": 2.764
+  },
+  {
+   "a": "Project Blue Book",
+   "b": "OSD/DoD",
+   "docs": 11,
+   "pmi": 1.935
+  },
+  {
+   "a": "Project Blue Book",
+   "b": "APRO",
+   "docs": 5,
+   "pmi": 3.275
+  },
+  {
+   "a": "Project Blue Book",
+   "b": "NICAP",
+   "docs": 7,
+   "pmi": 3.024
+  },
+  {
+   "a": "Project Blue Book",
+   "b": "Los Alamos",
+   "docs": 5,
+   "pmi": 1.94
+  },
+  {
+   "a": "Project Blue Book",
+   "b": "Sandia",
+   "docs": 2,
+   "pmi": 1.329
+  },
+  {
+   "a": "Project Blue Book",
+   "b": "NSA",
+   "docs": 2,
+   "pmi": 1.483
+  },
+  {
+   "a": "Project Blue Book",
+   "b": "Battelle",
+   "docs": 2,
+   "pmi": 2.582
+  },
+  {
+   "a": "Project Blue Book",
+   "b": "BAASS",
+   "docs": 4,
+   "pmi": 2.264
+  },
+  {
+   "a": "Project Blue Book",
+   "b": "Bigelow Aerospace",
+   "docs": 4,
+   "pmi": 2.097
+  },
+  {
+   "a": "Project Blue Book",
+   "b": "NIDS",
+   "docs": 3,
+   "pmi": 2.988
+  },
+  {
+   "a": "Project Blue Book",
+   "b": "EarthTech",
+   "docs": 2,
+   "pmi": 2.359
+  },
+  {
+   "a": "Project Blue Book",
+   "b": "Northrop",
+   "docs": 2,
+   "pmi": 1.571
+  },
+  {
+   "a": "Project Blue Book",
+   "b": "Skinwalker/Utah ranch",
+   "docs": 2,
+   "pmi": 2.177
+  },
+  {
+   "a": "GEPAN/GEIPAN/CNES",
+   "b": "CUFOS",
+   "docs": 2,
+   "pmi": 4.256
+  },
+  {
+   "a": "GEPAN/GEIPAN/CNES",
+   "b": "OSD/DoD",
+   "docs": 3,
+   "pmi": 2.022
+  },
+  {
+   "a": "GEPAN/GEIPAN/CNES",
+   "b": "BAASS",
+   "docs": 4,
+   "pmi": 3.65
+  },
+  {
+   "a": "GEPAN/GEIPAN/CNES",
+   "b": "Bigelow Aerospace",
+   "docs": 4,
+   "pmi": 3.483
+  },
+  {
+   "a": "GEPAN/GEIPAN/CNES",
+   "b": "NIDS",
+   "docs": 2,
+   "pmi": 3.968
+  },
+  {
+   "a": "GEPAN/GEIPAN/CNES",
+   "b": "EarthTech",
+   "docs": 3,
+   "pmi": 4.151
+  },
+  {
+   "a": "GEPAN/GEIPAN/CNES",
+   "b": "Northrop",
+   "docs": 2,
+   "pmi": 2.957
+  },
+  {
+   "a": "GEPAN/GEIPAN/CNES",
+   "b": "Skinwalker/Utah ranch",
+   "docs": 2,
+   "pmi": 3.563
+  },
+  {
+   "a": "OSD/DoD",
+   "b": "Boeing",
+   "docs": 9,
    "pmi": 1.897
   },
   {
-   "a": "Condon/Colorado",
-   "b": "APRO",
-   "docs": 3,
-   "pmi": 3.123
+   "a": "OSD/DoD",
+   "b": "CUFOS",
+   "docs": 2,
+   "pmi": 2.128
   },
   {
-   "a": "Condon/Colorado",
+   "a": "OSD/DoD",
+   "b": "APRO",
+   "docs": 4,
+   "pmi": 2.31
+  },
+  {
+   "a": "OSD/DoD",
    "b": "NICAP",
    "docs": 4,
-   "pmi": 2.823
+   "pmi": 1.722
   },
   {
-   "a": "Condon/Colorado",
+   "a": "OSD/DoD",
    "b": "Los Alamos",
    "docs": 2,
-   "pmi": 1.383
+   "pmi": 0.282
   },
   {
-   "a": "Condon/Colorado",
+   "a": "OSD/DoD",
+   "b": "Sandia",
+   "docs": 3,
+   "pmi": 0.993
+  },
+  {
+   "a": "OSD/DoD",
+   "b": "NSA",
+   "docs": 6,
+   "pmi": 1.84
+  },
+  {
+   "a": "OSD/DoD",
+   "b": "AARO",
+   "docs": 9,
+   "pmi": 1.042
+  },
+  {
+   "a": "OSD/DoD",
+   "b": "Lockheed",
+   "docs": 5,
+   "pmi": 1.435
+  },
+  {
+   "a": "OSD/DoD",
+   "b": "Northrop",
+   "docs": 9,
+   "pmi": 2.333
+  },
+  {
+   "a": "OSD/DoD",
    "b": "BAASS",
-   "docs": 2,
-   "pmi": 1.929
+   "docs": 7,
+   "pmi": 2.081
   },
   {
-   "a": "Condon/Colorado",
+   "a": "OSD/DoD",
    "b": "Bigelow Aerospace",
+   "docs": 8,
+   "pmi": 2.048
+  },
+  {
+   "a": "OSD/DoD",
+   "b": "AAWSAP/AATIP",
+   "docs": 6,
+   "pmi": 0.662
+  },
+  {
+   "a": "OSD/DoD",
+   "b": "EarthTech",
+   "docs": 3,
+   "pmi": 2.022
+  },
+  {
+   "a": "OSD/DoD",
+   "b": "NIDS",
    "docs": 2,
-   "pmi": 1.762
+   "pmi": 1.84
+  },
+  {
+   "a": "OSD/DoD",
+   "b": "Skinwalker/Utah ranch",
+   "docs": 5,
+   "pmi": 2.351
+  },
+  {
+   "a": "CUFOS",
+   "b": "APRO",
+   "docs": 2,
+   "pmi": 4.256
+  },
+  {
+   "a": "Boeing",
+   "b": "Los Alamos",
+   "docs": 4,
+   "pmi": 1.88
+  },
+  {
+   "a": "Boeing",
+   "b": "Sandia",
+   "docs": 3,
+   "pmi": 1.897
+  },
+  {
+   "a": "Boeing",
+   "b": "Lockheed",
+   "docs": 7,
+   "pmi": 2.676
+  },
+  {
+   "a": "Boeing",
+   "b": "NSA",
+   "docs": 2,
+   "pmi": 1.646
+  },
+  {
+   "a": "Boeing",
+   "b": "Northrop",
+   "docs": 6,
+   "pmi": 2.832
+  },
+  {
+   "a": "Boeing",
+   "b": "AAWSAP/AATIP",
+   "docs": 9,
+   "pmi": 1.971
   },
   {
    "a": "APRO",
    "b": "NICAP",
    "docs": 3,
-   "pmi": 3.565
+   "pmi": 3.563
   },
   {
    "a": "APRO",
    "b": "NSA",
    "docs": 2,
-   "pmi": 2.872
+   "pmi": 2.87
   },
   {
    "a": "Los Alamos",
    "b": "Sandia",
    "docs": 5,
-   "pmi": 2.299
+   "pmi": 2.297
   },
   {
    "a": "Los Alamos",
    "b": "AAWSAP/AATIP",
    "docs": 7,
-   "pmi": 1.611
+   "pmi": 1.609
   },
   {
    "a": "Los Alamos",
    "b": "Lockheed",
    "docs": 2,
-   "pmi": 1.314
+   "pmi": 1.312
   },
   {
    "a": "Sandia",
    "b": "Lockheed",
    "docs": 4,
-   "pmi": 2.312
+   "pmi": 2.31
   },
   {
    "a": "Sandia",
    "b": "AAWSAP/AATIP",
    "docs": 6,
-   "pmi": 1.762
+   "pmi": 1.76
   },
   {
    "a": "Sandia",
    "b": "Battelle",
    "docs": 2,
-   "pmi": 2.941
+   "pmi": 2.939
   },
   {
    "a": "Lockheed",
    "b": "NSA",
    "docs": 2,
-   "pmi": 1.773
+   "pmi": 1.771
   },
   {
    "a": "Lockheed",
    "b": "Northrop",
    "docs": 5,
-   "pmi": 2.776
+   "pmi": 2.774
   },
   {
    "a": "Lockheed",
    "b": "AAWSAP/AATIP",
    "docs": 7,
-   "pmi": 1.847
+   "pmi": 1.845
   },
   {
    "a": "Lockheed",
    "b": "EarthTech",
    "docs": 2,
-   "pmi": 2.649
+   "pmi": 2.647
   },
   {
    "a": "Lockheed",
    "b": "BAASS",
    "docs": 2,
-   "pmi": 1.86
+   "pmi": 1.858
   },
   {
    "a": "Lockheed",
    "b": "Bigelow Aerospace",
    "docs": 2,
-   "pmi": 1.693
+   "pmi": 1.691
   },
   {
    "a": "Lockheed",
    "b": "Skinwalker/Utah ranch",
    "docs": 2,
-   "pmi": 2.466
+   "pmi": 2.464
   },
   {
    "a": "NSA",
    "b": "Northrop",
    "docs": 2,
-   "pmi": 2.083
+   "pmi": 2.081
   },
   {
    "a": "NSA",
    "b": "Bigelow Aerospace",
    "docs": 4,
-   "pmi": 2.609
+   "pmi": 2.607
   },
   {
    "a": "Northrop",
    "b": "AAWSAP/AATIP",
    "docs": 3,
-   "pmi": 1.31
+   "pmi": 1.308
   },
   {
    "a": "Northrop",
    "b": "BAASS",
    "docs": 4,
-   "pmi": 2.863
+   "pmi": 2.861
   },
   {
    "a": "Northrop",
    "b": "Bigelow Aerospace",
    "docs": 4,
-   "pmi": 2.696
+   "pmi": 2.694
   },
   {
    "a": "Northrop",
    "b": "EarthTech",
    "docs": 3,
-   "pmi": 3.364
+   "pmi": 3.362
   },
   {
    "a": "Northrop",
    "b": "Skinwalker/Utah ranch",
    "docs": 4,
-   "pmi": 3.47
+   "pmi": 3.468
   },
   {
-   "a": "Bigelow Aerospace",
-   "b": "BAASS",
+   "a": "BAASS",
+   "b": "Bigelow Aerospace",
    "docs": 9,
-   "pmi": 3.507
-  },
-  {
-   "a": "Bigelow Aerospace",
-   "b": "NIDS",
-   "docs": 4,
-   "pmi": 3.708
-  },
-  {
-   "a": "Bigelow Aerospace",
-   "b": "AAWSAP/AATIP",
-   "docs": 3,
-   "pmi": 1.143
-  },
-  {
-   "a": "Bigelow Aerospace",
-   "b": "EarthTech",
-   "docs": 4,
-   "pmi": 3.485
-  },
-  {
-   "a": "Bigelow Aerospace",
-   "b": "Skinwalker/Utah ranch",
-   "docs": 5,
-   "pmi": 3.526
+   "pmi": 3.505
   },
   {
    "a": "BAASS",
    "b": "NIDS",
    "docs": 4,
-   "pmi": 3.875
+   "pmi": 3.873
   },
   {
    "a": "BAASS",
    "b": "AAWSAP/AATIP",
    "docs": 2,
-   "pmi": 0.905
+   "pmi": 0.903
   },
   {
    "a": "BAASS",
    "b": "EarthTech",
    "docs": 4,
-   "pmi": 3.652
+   "pmi": 3.65
   },
   {
    "a": "BAASS",
    "b": "Skinwalker/Utah ranch",
    "docs": 6,
-   "pmi": 3.875
+   "pmi": 3.873
+  },
+  {
+   "a": "Bigelow Aerospace",
+   "b": "NIDS",
+   "docs": 4,
+   "pmi": 3.706
+  },
+  {
+   "a": "Bigelow Aerospace",
+   "b": "AAWSAP/AATIP",
+   "docs": 3,
+   "pmi": 1.141
+  },
+  {
+   "a": "Bigelow Aerospace",
+   "b": "EarthTech",
+   "docs": 4,
+   "pmi": 3.483
+  },
+  {
+   "a": "Bigelow Aerospace",
+   "b": "Skinwalker/Utah ranch",
+   "docs": 5,
+   "pmi": 3.524
   },
   {
    "a": "AAWSAP/AATIP",
    "b": "EarthTech",
    "docs": 2,
-   "pmi": 1.693
+   "pmi": 1.691
   },
   {
    "a": "EarthTech",
    "b": "NIDS",
    "docs": 2,
-   "pmi": 3.97
+   "pmi": 3.968
   },
   {
    "a": "EarthTech",
    "b": "Skinwalker/Utah ranch",
    "docs": 3,
-   "pmi": 3.97
+   "pmi": 3.968
   },
   {
    "a": "NIDS",
    "b": "Skinwalker/Utah ranch",
    "docs": 2,
-   "pmi": 3.788
+   "pmi": 3.786
   }
  ],
  "communities": [
