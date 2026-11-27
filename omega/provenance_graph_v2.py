@@ -326,25 +326,114 @@ def build_ldln_dates(recs, xd):
     LDLN_DATES.update(_interpolate(rows))
 
 
+# ---- month, season or quarter named in an archive.org id/title (AFU items).
+# The month usually comes BEFORE the year ("Nov_1983", "maj_juni_1971",
+# "3e_trim_1957", "Summer_1964"), in English, French, Italian, Spanish,
+# Portuguese, German, Dutch or Scandinavian. A range gives its first month.
+TM = {}
+for _i, _ws in enumerate((
+        "january jan janvier janv gennaio enero ene janeiro januar januari janner",
+        "february feb febr fevrier fev fevr febbraio febrero fevereiro februar februari",
+        "march mar mars marzo marco marz maerz marts maart",
+        "april apr avril avr avri aprile abril abr",
+        "may mai maggio mayo maio maj mei",
+        "june jun juin giugno giu junio junho juni",
+        "july jul juillet juil luglio lug julio julho juli",
+        "august aug aout agosto ago augusti augustus",
+        "september sep sept septembre settembre set septiembre setiembre setembro",
+        "october oct octobre ottobre ott octubre outubro oktober okt",
+        "november nov novembre noviembre novembro",
+        "december dec decembre dicembre dic diciembre dezembro dezember dez desember"), 1):
+    for _w in _ws.split():
+        TM[_w] = _i
+# winter -> December of the named year (BUFORA "Winter 1968(9)"), flagged as approximate
+TSEASON = {"spring": 4, "printemps": 4, "primavera": 4, "fruhling": 4, "summer": 7, "ete": 7,
+           "verano": 7, "sommer": 7, "zomer": 7, "autumn": 10, "fall": 10, "automne": 10,
+           "autunno": 10, "otono": 10, "herbst": 10, "herfst": 10, "winter": 12, "hiver": 12,
+           "inverno": 12, "invierno": 12}
+UNAMBIG = {"spring", "summer", "autumn", "winter", "printemps", "automne", "hiver"} | \
+    {w for w in TM if len(w) >= 5 and w not in ("march", "mars", "august", "marzo")}
+QN = re.compile(r"^([1-4])(?:er|e|eme|st|nd|rd|th)?$")
+YEAR = r"(19[4-9]\d|200\d|2010)"
+
+
+def _tok(s):
+    out = []
+    for t in re.split(r"[^0-9a-z]+", s.lower().translate(FOLD)):
+        m = re.fullmatch(r"([a-z]+)(\d{4})|(\d{4})([a-z]+)", t)     # "oct1993", "janv1979"
+        out += [x for x in m.groups() if x] if m else ([t] if t else [])
+    return out
+
+
+def _word_month(t, j):
+    """(month, known) if token j names a month, season or quarter."""
+    w = t[j]
+    if w in TM:
+        return TM[w], True
+    for k in range(3, len(w) - 2):               # "mayjune", "septoct", "novdec"
+        if w[:k] in TM and w[k:] in TM:
+            return TM[w[:k]], True
+    if w in TSEASON:
+        return TSEASON[w], TSEASON[w] != 12
+    if re.fullmatch(r"q[1-4]", w):
+        return 3 * int(w[1]) - 1, True
+    if w in ("trim", "trimestre") and j > 0 and QN.match(t[j - 1]):
+        return 3 * int(QN.match(t[j - 1]).group(1)) - 1, True
+    return None
+
+
+def title_month(s, year):
+    """(month, known) from the id/title words next to the year, or None."""
+    t = _tok(s)
+    yy = str(year)
+    skip = {"and", "et", "y", "og", "och", "und", "to", "a", "i", "ii", "iii"}
+    for yi in [i for i, w in enumerate(t) if w == yy or (w == yy[2:] and i > 0 and t[i - 1] in TM)]:
+        found, j = None, yi - 1                    # contiguous run before the year
+        while j >= 0 and yi - j <= 5:
+            wm = _word_month(t, j)
+            if wm:
+                found = wm
+            elif t[j] in skip or (t[j].isdigit() and 1 <= int(t[j]) <= 31 and found is None and yi - j == 1) \
+                    or QN.match(t[j]):
+                pass
+            else:
+                break
+            j -= 1
+        if found:
+            return found
+        for j in range(yi + 1, min(len(t), yi + 3)):   # or right after it
+            wm = _word_month(t, j)
+            if wm:
+                return wm
+    hits = [(j, _word_month(t, j)) for j, w in enumerate(t) if w in UNAMBIG or re.fullmatch(r"q[1-4]", w)]
+    if hits and len({m for _, (m, _) in hits}) == 1:
+        return hits[0][1]
+    if len(hits) > 1 and all(b[0] - a[0] == 1 for a, b in zip(hits, hits[1:])):
+        return hits[0][1]                          # a contiguous range: its first month
+    return None
+
+
 def expansion_date(rec, text):
     s = " ".join(filter(None, [rec.get("id"), rec.get("title")])).replace("-", "_")
-    m = re.search(r"(?<!\d)(19[4-9]\d|200\d)(0[1-9]|1[0-2])\d{2}(?!\d)", s)  # AFU_19520715_
+    m = re.search(r"(?<!\d)" + YEAR + r"(0[1-9]|1[0-2])\d{2}(?!\d)", s)  # AFU_19520715_
     if m:
         return int(m.group(1)), int(m.group(2)), True
-    m = re.search(r"(?<!\d)(19[4-9]\d|200\d)[_ ](0[1-9]|1[0-2])(?!\d)", s)
-    if m:
-        return int(m.group(1)), int(m.group(2)), True
-    m = re.search(r"(?<!\d)(19[4-9]\d|200\d)[_ ]+(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)", s, re.I)
-    if m:
-        return int(m.group(1)), EN[m.group(2).lower()], True
+    for m in re.finditer(r"(?<!\d)" + YEAR + r"[_ .](0[1-9]|1[0-2])(?!\d)", s):
+        y, mm = int(m.group(1)), int(m.group(2))
+        if mm == (y + 1) % 100 and re.search(rf"{y}-{m.group(2)}[_ ]Vol", rec.get("id") or ""):
+            continue                                # "Awareness_2010-11_Vol_31": a volume year span
+        return y, mm, True
     if rec.get("series") == "FSR":
         return FSR_DATES.get(rec.get("file"))
     if rec.get("path") in LDLN_DATES:
         return LDLN_DATES[rec["path"]]
-    m = re.search(r"(?<!\d)(19[4-9]\d|200\d)(?!\d)", s) or \
-        re.search(r"^(19[4-9]\d|200\d)", rec.get("date") or "")
+    m = re.search(r"(?<!\d)" + YEAR + r"(?!\d)", s) or re.search(r"^" + YEAR, rec.get("date") or "")
     if m:
-        return int(m.group(1)), 6, False
+        y = int(m.group(1))
+        tm = title_month(s, y)
+        if tm:
+            return y, tm[0], tm[1]
+        return y, 6, False
     return None
 
 
