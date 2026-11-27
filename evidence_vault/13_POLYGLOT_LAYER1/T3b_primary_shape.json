@@ -1,0 +1,316 @@
+{
+ "distribution_1960_1999": {
+  "RU_native_SU": {
+   "n": 352,
+   "sphere_ball": 0.224,
+   "disc_saucer": 0.088,
+   "cigar_cylinder": 0.048,
+   "triangle": 0.156,
+   "star_point": 0.102,
+   "light_fire": 0.253,
+   "cloud_plume": 0.077,
+   "none": 0.051
+  },
+  "Hatch_SU": {
+   "n": 243,
+   "sphere_ball": 0.16,
+   "disc_saucer": 0.263,
+   "cigar_cylinder": 0.078,
+   "triangle": 0.033,
+   "star_point": 0.033,
+   "light_fire": 0.14,
+   "cloud_plume": 0.074,
+   "none": 0.218
+  },
+  "Hatch_US": {
+   "n": 4549,
+   "sphere_ball": 0.089,
+   "disc_saucer": 0.291,
+   "cigar_cylinder": 0.057,
+   "triangle": 0.079,
+   "star_point": 0.008,
+   "light_fire": 0.257,
+   "cloud_plume": 0.017,
+   "none": 0.2
+  },
+  "Hatch_CN": {
+   "n": 221,
+   "sphere_ball": 0.109,
+   "disc_saucer": 0.29,
+   "cigar_cylinder": 0.05,
+   "triangle": 0.018,
+   "star_point": 0.032,
+   "light_fire": 0.235,
+   "cloud_plume": 0.063,
+   "none": 0.204
+  },
+  "NUFORC_US": {
+   "n": 15142,
+   "sphere_ball": 0.192,
+   "disc_saucer": 0.123,
+   "cigar_cylinder": 0.051,
+   "triangle": 0.119,
+   "star_point": 0.0,
+   "light_fire": 0.223,
+   "cloud_plume": 0.0,
+   "none": 0.291
+  }
+ },
+ "by_decade": {
+  "1960": {
+   "RU_native_SU": {
+    "n": 13,
+    "sphere_ball": 0.154,
+    "disc_saucer": 0.077,
+    "cigar_cylinder": 0.077,
+    "triangle": 0.077,
+    "star_point": 0.154,
+    "light_fire": 0.154,
+    "cloud_plume": 0.231,
+    "none": 0.077
+   },
+   "Hatch_SU": {
+    "n": 79,
+    "sphere_ball": 0.127,
+    "disc_saucer": 0.342,
+    "cigar_cylinder": 0.013,
+    "triangle": 0.038,
+    "star_point": 0.076,
+    "light_fire": 0.051,
+    "cloud_plume": 0.165,
+    "none": 0.19
+   },
+   "Hatch_US": {
+    "n": 1357,
+    "sphere_ball": 0.089,
+    "disc_saucer": 0.379,
+    "cigar_cylinder": 0.055,
+    "triangle": 0.015,
+    "star_point": 0.007,
+    "light_fire": 0.245,
+    "cloud_plume": 0.021,
+    "none": 0.189
+   },
+   "Hatch_CN": {
+    "n": 18,
+    "sphere_ball": 0.111,
+    "disc_saucer": 0.389,
+    "cigar_cylinder": 0.111,
+    "triangle": 0.0,
+    "star_point": 0.056,
+    "light_fire": 0.111,
+    "cloud_plume": 0.0,
+    "none": 0.222
+   },
+   "NUFORC_US": {
+    "n": 1437,
+    "sphere_ball": 0.258,
+    "disc_saucer": 0.243,
+    "cigar_cylinder": 0.09,
+    "triangle": 0.053,
+    "star_point": 0.0,
+    "light_fire": 0.162,
+    "cloud_plume": 0.0,
+    "none": 0.194
+   }
+  },
+  "1970": {
+   "RU_native_SU": {
+    "n": 120,
+    "sphere_ball": 0.208,
+    "disc_saucer": 0.083,
+    "cigar_cylinder": 0.05,
+    "triangle": 0.025,
+    "star_point": 0.183,
+    "light_fire": 0.275,
+    "cloud_plume": 0.133,
+    "none": 0.042
+   },
+   "Hatch_SU": {
+    "n": 35,
+    "sphere_ball": 0.171,
+    "disc_saucer": 0.343,
+    "cigar_cylinder": 0.086,
+    "triangle": 0.0,
+    "star_point": 0.029,
+    "light_fire": 0.171,
+    "cloud_plume": 0.029,
+    "none": 0.171
+   },
+   "Hatch_US": {
+    "n": 1407,
+    "sphere_ball": 0.092,
+    "disc_saucer": 0.282,
+    "cigar_cylinder": 0.053,
+    "triangle": 0.043,
+    "star_point": 0.009,
+    "light_fire": 0.266,
+    "cloud_plume": 0.013,
+    "none": 0.243
+   },
+   "Hatch_CN": {
+    "n": 98,
+    "sphere_ball": 0.112,
+    "disc_saucer": 0.255,
+    "cigar_cylinder": 0.02,
+    "triangle": 0.01,
+    "star_point": 0.02,
+    "light_fire": 0.296,
+    "cloud_plume": 0.092,
+    "none": 0.194
+   },
+   "NUFORC_US": {
+    "n": 2557,
+    "sphere_ball": 0.235,
+    "disc_saucer": 0.235,
+    "cigar_cylinder": 0.068,
+    "triangle": 0.095,
+    "star_point": 0.0,
+    "light_fire": 0.158,
+    "cloud_plume": 0.0,
+    "none": 0.209
+   }
+  },
+  "1980": {
+   "RU_native_SU": {
+    "n": 65,
+    "sphere_ball": 0.338,
+    "disc_saucer": 0.123,
+    "cigar_cylinder": 0.092,
+    "triangle": 0.231,
+    "star_point": 0.0,
+    "light_fire": 0.123,
+    "cloud_plume": 0.015,
+    "none": 0.077
+   },
+   "Hatch_SU": {
+    "n": 83,
+    "sphere_ball": 0.217,
+    "disc_saucer": 0.169,
+    "cigar_cylinder": 0.12,
+    "triangle": 0.024,
+    "star_point": 0.0,
+    "light_fire": 0.181,
+    "cloud_plume": 0.048,
+    "none": 0.241
+   },
+   "Hatch_US": {
+    "n": 760,
+    "sphere_ball": 0.072,
+    "disc_saucer": 0.236,
+    "cigar_cylinder": 0.075,
+    "triangle": 0.168,
+    "star_point": 0.003,
+    "light_fire": 0.251,
+    "cloud_plume": 0.018,
+    "none": 0.176
+   },
+   "Hatch_CN": {
+    "n": 82,
+    "sphere_ball": 0.098,
+    "disc_saucer": 0.293,
+    "cigar_cylinder": 0.085,
+    "triangle": 0.037,
+    "star_point": 0.037,
+    "light_fire": 0.22,
+    "cloud_plume": 0.049,
+    "none": 0.183
+   },
+   "NUFORC_US": {
+    "n": 2159,
+    "sphere_ball": 0.222,
+    "disc_saucer": 0.141,
+    "cigar_cylinder": 0.057,
+    "triangle": 0.147,
+    "star_point": 0.0,
+    "light_fire": 0.164,
+    "cloud_plume": 0.0,
+    "none": 0.268
+   }
+  },
+  "1990": {
+   "RU_native_SU": {
+    "n": 154,
+    "sphere_ball": 0.195,
+    "disc_saucer": 0.078,
+    "cigar_cylinder": 0.026,
+    "triangle": 0.234,
+    "star_point": 0.078,
+    "light_fire": 0.299,
+    "cloud_plume": 0.045,
+    "none": 0.045
+   },
+   "Hatch_SU": {
+    "n": 46,
+    "sphere_ball": 0.109,
+    "disc_saucer": 0.239,
+    "cigar_cylinder": 0.109,
+    "triangle": 0.065,
+    "star_point": 0.022,
+    "light_fire": 0.196,
+    "cloud_plume": 0.0,
+    "none": 0.261
+   },
+   "Hatch_US": {
+    "n": 1025,
+    "sphere_ball": 0.1,
+    "disc_saucer": 0.23,
+    "cigar_cylinder": 0.052,
+    "triangle": 0.147,
+    "star_point": 0.014,
+    "light_fire": 0.263,
+    "cloud_plume": 0.019,
+    "none": 0.176
+   },
+   "Hatch_CN": {
+    "n": 23,
+    "sphere_ball": 0.13,
+    "disc_saucer": 0.348,
+    "cigar_cylinder": 0.0,
+    "triangle": 0.0,
+    "star_point": 0.043,
+    "light_fire": 0.13,
+    "cloud_plume": 0.043,
+    "none": 0.304
+   },
+   "NUFORC_US": {
+    "n": 8989,
+    "sphere_ball": 0.162,
+    "disc_saucer": 0.068,
+    "cigar_cylinder": 0.039,
+    "triangle": 0.129,
+    "star_point": 0.0,
+    "light_fire": 0.266,
+    "cloud_plume": 0.0,
+    "none": 0.336
+   }
+  }
+ },
+ "decade_stratified_TVD_permutation": {
+  "RU_native_SU_vs_Hatch_SU": {
+   "tvd": 0.335,
+   "null_mean": 0.18,
+   "p": 0.0002
+  },
+  "RU_native_SU_vs_NUFORC_US": {
+   "tvd": 0.266,
+   "null_mean": 0.082,
+   "p": 0.0002
+  },
+  "Hatch_SU_vs_Hatch_US": {
+   "tvd": 0.276,
+   "null_mean": 0.121,
+   "p": 0.0002
+  },
+  "Hatch_CN_vs_Hatch_US": {
+   "tvd": 0.19,
+   "null_mean": 0.12,
+   "p": 0.0026
+  },
+  "Hatch_US_vs_NUFORC_US": {
+   "tvd": 0.254,
+   "null_mean": 0.033,
+   "p": 0.0033
+  }
+ }
+}

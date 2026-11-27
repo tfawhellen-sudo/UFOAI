@@ -317,7 +317,7 @@ CLASSES = [
     ("sphere_ball", r"шар|сфер|круглый|кругл\w+ (?:объект|тел)|глобус", r"\bball|sphere|spher|orb\b|orbs|globe|round"),
     ("disc_saucer", r"диск|тарел|блюдц", r"disc|disk|saucer|plate|\bSCR\b"),
     ("cigar_cylinder", r"сигар|цилиндр|веретен|труб\w* (?:формы|образн)", r"cigar|cylind|tube|\bCGR\b|\bCYL"),
-    ("triangle", r"треугол|трехзвезд|трёхзвезд", r"triang|delta|boomerang|chevron|\bTRI\b"),
+    ("triangle", r"(?<!М-ский )(?<!ермский )треугол|трехзвезд|трёхзвезд", r"triang|delta|boomerang|chevron|\bTRI\b"),
     ("star_point", r"звезд|точк", r"\bstar|point of light|\bNLT\b"),
     ("light_fire", r"огон|огн[иея]|свечени|светящ", r"\blight|lights|glow|fire|\bBRITE|\bBRT"),
     ("cloud_plume", PLUME_RU.pattern, PLUME_EN.pattern),
@@ -355,6 +355,84 @@ def t3_descriptors(ru, hatch, nuforc):
             "NUFORC_US (shape field + summary)": shares(nus, lambda x: (x["shape"] or "") + " " + (x["text"] or ""), "en"),
         }
     return res
+
+
+SHAPE_ORDER = ["sphere_ball", "disc_saucer", "cigar_cylinder", "triangle", "star_point", "light_fire", "cloud_plume"]
+NUFORC_SHAPE = {"circle": "sphere_ball", "sphere": "sphere_ball", "orb": "sphere_ball", "oval": "sphere_ball", "egg": "sphere_ball",
+                "disk": "disc_saucer", "disc": "disc_saucer", "cigar": "cigar_cylinder", "cylinder": "cigar_cylinder",
+                "triangle": "triangle", "chevron": "triangle", "delta": "triangle", "light": "light_fire", "fireball": "light_fire",
+                "flash": "light_fire", "formation": "light_fire", "star": "star_point", "cloud": "cloud_plume"}
+
+
+def primary_shape(text, lang):
+    """class of the first shape/appearance term in the text (length-robust)."""
+    best = None
+    t = text or ""
+    if lang == "ru":
+        t = re.sub(r"(?i)(?:М-ск\w*|Пермск\w*|Бермудск\w*|молебск\w*)\s+треугольник\w*", " ", t)
+    for nm, r_ru, r_en in CLASSES:
+        if nm not in SHAPE_ORDER:
+            continue
+        m = re.search(r_ru if lang == "ru" else r_en, t, re.I)
+        if m and (best is None or m.start() < best[0]):
+            best = (m.start(), nm)
+    return best[1] if best else "none"
+
+
+def t3b_primary_shape(ru, hatch, nuforc, reps=5000):
+    rng = random.Random(20261127)
+    rows = []
+    for r in ru:
+        if r["region"] in ("SU", "SU?") and 1960 <= r["year"] < 2000:
+            rows.append(("RU_native_SU", r["year"] // 10 * 10, primary_shape(r["text_ru"][:1500], "ru")))
+    for x in hatch:
+        if x["year"] and 1960 <= x["year"] < 2000 and x["group"] in ("SU", "US", "CN"):
+            rows.append(("Hatch_" + x["group"], x["year"] // 10 * 10, primary_shape((x["text_en"] or "") + " " + (x["hatch_desc"] or ""), "en")))
+    for x in nuforc:
+        y = int(x["date"][:4])
+        if x["country"] == "United States" and 1960 <= y < 2000:
+            sh = NUFORC_SHAPE.get((x["shape"] or "").strip().lower(), "none")
+            rows.append(("NUFORC_US", y // 10 * 10, sh))
+    cats = SHAPE_ORDER + ["none"]
+    tab = collections.defaultdict(collections.Counter)
+    for c, d, sh in rows:
+        tab[c][sh] += 1
+        tab[(c, d)][sh] += 1
+    out = {"distribution_1960_1999": {}, "by_decade": {}}
+    for c in ("RU_native_SU", "Hatch_SU", "Hatch_US", "Hatch_CN", "NUFORC_US"):
+        n = sum(tab[c].values())
+        out["distribution_1960_1999"][c] = {"n": n, **{k: round(tab[c][k] / n, 3) for k in cats}}
+        for d in (1960, 1970, 1980, 1990):
+            n2 = sum(tab[(c, d)].values())
+            if n2:
+                out["by_decade"].setdefault(str(d), {})[c] = {"n": n2, **{k: round(tab[(c, d)][k] / n2, 3) for k in cats}}
+
+    def tvd_strat(a_lab, b_lab, perm=False):
+        # decade-stratified total variation distance between two catalogues' shape mixes (excl. "none")
+        tot, wsum = 0.0, 0
+        for d in (1960, 1970, 1980, 1990):
+            A = [sh for c, dd, sh in rows if c == a_lab and dd == d and sh != "none"]
+            B = [sh for c, dd, sh in rows if c == b_lab and dd == d and sh != "none"]
+            if len(A) < 5 or len(B) < 5:
+                continue
+            if perm:
+                pool = A + B
+                rng.shuffle(pool)
+                A, B = pool[:len(A)], pool[len(A):]
+            ca, cb = collections.Counter(A), collections.Counter(B)
+            tv = 0.5 * sum(abs(ca[k] / len(A) - cb[k] / len(B)) for k in SHAPE_ORDER)
+            w = min(len(A), len(B))
+            tot += tv * w
+            wsum += w
+        return tot / wsum if wsum else float("nan")
+    tests = {}
+    for a, b in (("RU_native_SU", "Hatch_SU"), ("RU_native_SU", "NUFORC_US"), ("Hatch_SU", "Hatch_US"), ("Hatch_CN", "Hatch_US"), ("Hatch_US", "NUFORC_US")):
+        obs = tvd_strat(a, b)
+        null = [tvd_strat(a, b, perm=True) for _ in range(reps if a != "Hatch_US" or b != "NUFORC_US" else 300)]
+        tests["%s_vs_%s" % (a, b)] = dict(tvd=round(obs, 3), null_mean=round(float(np.mean(null)), 3),
+                                          p=round((1 + sum(1 for v in null if v >= obs)) / (1 + len(null)), 4))
+    out["decade_stratified_TVD_permutation"] = tests
+    return out
 
 
 def t4_nuclear(ru, hatch):
@@ -474,6 +552,7 @@ def main():
         out["T2_coverage"] = t2_coverage(ru, hatch)
     if "t3" in which:
         out["T3_descriptors"] = t3_descriptors(ru, hatch, nuforc)
+        out["T3b_primary_shape"] = t3b_primary_shape(ru, hatch, nuforc)
     if "t4" in which:
         out["T4_nuclear"] = t4_nuclear(ru, hatch)
     for k, v in out.items():
