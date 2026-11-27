@@ -1,0 +1,89 @@
+{
+ "native_RU_found_in_Hatch_date±1": {
+  "obs": 0.1273,
+  "null_mean": 0.0785,
+  "null_2_5": 0.0513,
+  "null_97_5": 0.1078,
+  "ratio": 1.623,
+  "p_upper": 0.0092,
+  "n_shifts": 108,
+  "n": 377,
+  "excess_over_chance": 0.0489,
+  "obs_wilson95": [
+   0.0974,
+   0.1648
+  ]
+ },
+ "native_RU_found_in_Hatch_date±1_and_800km": {
+  "obs": 0.0531,
+  "null_mean": 0.0185,
+  "null_2_5": 0.008,
+  "null_97_5": 0.0318,
+  "ratio": 2.869,
+  "p_upper": 0.0092,
+  "n_shifts": 108,
+  "n": 377,
+  "excess_over_chance": 0.0346,
+  "obs_wilson95": [
+   0.0346,
+   0.0805
+  ]
+ },
+ "Hatch_SU_found_in_native_RU_date±1": {
+  "obs": 0.1891,
+  "null_mean": 0.1295,
+  "null_2_5": 0.0756,
+  "null_97_5": 0.1891,
+  "ratio": 1.46,
+  "p_upper": 0.0459,
+  "n_shifts": 108,
+  "n": 238,
+  "excess_over_chance": 0.0596,
+  "obs_wilson95": [
+   0.1444,
+   0.2436
+  ]
+ },
+ "Hatch_SU_found_in_native_RU_date±1_and_800km": {
+  "obs": 0.0882,
+  "null_mean": 0.0346,
+  "null_2_5": 0.0126,
+  "null_97_5": 0.0756,
+  "ratio": 2.551,
+  "p_upper": 0.0092,
+  "n_shifts": 108,
+  "n": 238,
+  "excess_over_chance": 0.0536,
+  "obs_wilson95": [
+   0.0584,
+   0.1311
+  ]
+ },
+ "native_RU_found_in_Hatch_by_decade": {
+  "1960": {
+   "n": 12,
+   "found": 0.583,
+   "chance": 0.17
+  },
+  "1970": {
+   "n": 108,
+   "found": 0.093,
+   "chance": 0.057
+  },
+  "1980": {
+   "n": 61,
+   "found": 0.164,
+   "chance": 0.143
+  },
+  "1990": {
+   "n": 138,
+   "found": 0.138,
+   "chance": 0.092
+  },
+  "2000": {
+   "n": 54,
+   "found": 0.0,
+   "chance": 0.0
+  }
+ }
+}

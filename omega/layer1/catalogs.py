@@ -166,7 +166,10 @@ REGION_CAPITALS = {  # region / republic stem -> administrative centre (Natural 
     "семипалатинск": "Семей", "свердловск": "Екатеринбург", "ленинградск": "Санкт-Петербург",
     "сталинградск": "Волгоград", "молотовск": "Пермь", "калининградск": "Калининград",
 }
-DISTRICT_NEXT = re.compile(r"^\s*(?:район|р-н|р-на|района|районе|сельсовет|улиц|шоссе|проспект)", re.I)
+DISTRICT_NEXT = re.compile(r"^\s*(?:район|р-н|р-на|района|районе|сельсовет|улиц|шоссе|проспект|обл|област|кра[йяе]|АССР|ССР|республик)", re.I)
+STOP_PLACE = {"восток", "запад", "север", "юг", "мир", "город", "река", "озеро", "поселок", "село",
+              "деревня", "район", "область", "москва-река", "талька", "заря", "победа", "октябрь",
+              "свобода", "дружба", "ссср", "россия", "украина", "союз"}
 
 
 def _lookup(key, prefer_su, strict=False):
@@ -201,6 +204,8 @@ def geocode_ru(place, prefer_su=True):
                 continue
             chunk = [w.lower() for w in words[i:i + n]]
             phrase = " ".join(chunk)
+            if phrase.replace("ё", "е") in STOP_PLACE:
+                continue
             al = SOVIET_ALIASES.get(phrase)
             p = _lookup(al or phrase, prefer_su)
             if p and (len(phrase) >= 4 or phrase in ("уфа", "орел", "ош")):

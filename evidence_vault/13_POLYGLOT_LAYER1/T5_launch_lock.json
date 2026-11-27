@@ -1,0 +1,398 @@
+{
+ "RU_native_SU_all": {
+  "n_event_days": 367,
+  "launch_set": "SU (Plesetsk+Baikonur+Kapustin Yar)",
+  "W[-1,0]": {
+   "obs": 0.3134,
+   "null_mean": 0.294,
+   "null_2_5": 0.2552,
+   "null_97_5": 0.3333,
+   "ratio": 1.066,
+   "p_upper": 0.1977,
+   "n_shifts": 348
+  },
+  "W[0,0]": {
+   "obs": 0.188,
+   "null_mean": 0.1598,
+   "null_2_5": 0.1272,
+   "null_97_5": 0.1907,
+   "ratio": 1.177,
+   "p_upper": 0.0458,
+   "n_shifts": 348
+  }
+ },
+ "RU_native_SU_plume": {
+  "n_event_days": 90,
+  "launch_set": "SU (Plesetsk+Baikonur+Kapustin Yar)",
+  "W[-1,0]": {
+   "obs": 0.3333,
+   "null_mean": 0.3059,
+   "null_2_5": 0.2111,
+   "null_97_5": 0.3889,
+   "ratio": 1.09,
+   "p_upper": 0.3209,
+   "n_shifts": 348
+  },
+  "W[0,0]": {
+   "obs": 0.2444,
+   "null_mean": 0.1662,
+   "null_2_5": 0.1,
+   "null_97_5": 0.2369,
+   "ratio": 1.471,
+   "p_upper": 0.0287,
+   "n_shifts": 348
+  }
+ },
+ "RU_native_SU_noplume": {
+  "n_event_days": 280,
+  "launch_set": "SU (Plesetsk+Baikonur+Kapustin Yar)",
+  "W[-1,0]": {
+   "obs": 0.3107,
+   "null_mean": 0.291,
+   "null_2_5": 0.2429,
+   "null_97_5": 0.3404,
+   "ratio": 1.068,
+   "p_upper": 0.2321,
+   "n_shifts": 348
+  },
+  "W[0,0]": {
+   "obs": 0.1714,
+   "null_mean": 0.1581,
+   "null_2_5": 0.1179,
+   "null_97_5": 0.2,
+   "ratio": 1.084,
+   "p_upper": 0.2894,
+   "n_shifts": 348
+  }
+ },
+ "RU_native_SU_within1500km_Plesetsk": {
+  "n_event_days": 181,
+  "launch_set": "Plesetsk",
+  "W[-1,0]": {
+   "obs": 0.1823,
+   "null_mean": 0.1934,
+   "null_2_5": 0.1436,
+   "null_97_5": 0.2486,
+   "ratio": 0.943,
+   "p_upper": 0.7049,
+   "n_shifts": 348
+  },
+  "W[0,0]": {
+   "obs": 0.1271,
+   "null_mean": 0.1013,
+   "null_2_5": 0.0608,
+   "null_97_5": 0.1381,
+   "ratio": 1.255,
+   "p_upper": 0.1146,
+   "n_shifts": 348
+  }
+ },
+ "RU_native_SU_within1500km_Plesetsk_plume": {
+  "n_event_days": 49,
+  "launch_set": "Plesetsk",
+  "W[-1,0]": {
+   "obs": 0.2857,
+   "null_mean": 0.2369,
+   "null_2_5": 0.1224,
+   "null_97_5": 0.3265,
+   "ratio": 1.206,
+   "p_upper": 0.255,
+   "n_shifts": 348
+  },
+  "W[0,0]": {
+   "obs": 0.2245,
+   "null_mean": 0.1251,
+   "null_2_5": 0.0546,
+   "null_97_5": 0.2041,
+   "ratio": 1.795,
+   "p_upper": 0.0258,
+   "n_shifts": 348
+  }
+ },
+ "Hatch_SU_all": {
+  "n_event_days": 181,
+  "launch_set": "SU (Plesetsk+Baikonur+Kapustin Yar)",
+  "W[-1,0]": {
+   "obs": 0.3481,
+   "null_mean": 0.3242,
+   "null_2_5": 0.2597,
+   "null_97_5": 0.3923,
+   "ratio": 1.074,
+   "p_upper": 0.2894,
+   "n_shifts": 348
+  },
+  "W[0,0]": {
+   "obs": 0.2044,
+   "null_mean": 0.1784,
+   "null_2_5": 0.1215,
+   "null_97_5": 0.2265,
+   "ratio": 1.146,
+   "p_upper": 0.2292,
+   "n_shifts": 348
+  }
+ },
+ "Hatch_SU_plume": {
+  "n_event_days": 13,
+  "launch_set": "SU (Plesetsk+Baikonur+Kapustin Yar)",
+  "W[-1,0]": {
+   "obs": 0.4615,
+   "null_mean": 0.3373,
+   "null_2_5": 0.1538,
+   "null_97_5": 0.5635,
+   "ratio": 1.368,
+   "p_upper": 0.2264,
+   "n_shifts": 348
+  },
+  "W[0,0]": {
+   "obs": 0.3846,
+   "null_mean": 0.1855,
+   "null_2_5": 0.0,
+   "null_97_5": 0.3846,
+   "ratio": 2.074,
+   "p_upper": 0.0688,
+   "n_shifts": 348
+  }
+ },
+ "Hatch_SU_noplume": {
+  "n_event_days": 173,
+  "launch_set": "SU (Plesetsk+Baikonur+Kapustin Yar)",
+  "W[-1,0]": {
+   "obs": 0.3526,
+   "null_mean": 0.3234,
+   "null_2_5": 0.2543,
+   "null_97_5": 0.3931,
+   "ratio": 1.09,
+   "p_upper": 0.2436,
+   "n_shifts": 348
+  },
+  "W[0,0]": {
+   "obs": 0.2023,
+   "null_mean": 0.178,
+   "null_2_5": 0.1214,
+   "null_97_5": 0.2331,
+   "ratio": 1.137,
+   "p_upper": 0.2378,
+   "n_shifts": 348
+  }
+ },
+ "GEIPAN_ident_launch_vs_all_launches": {
+  "n_event_days": 48,
+  "W[-1,0]": {
+   "obs": 0.5,
+   "null_mean": 0.4589,
+   "null_2_5": 0.3125,
+   "null_97_5": 0.6109,
+   "ratio": 1.089,
+   "p_upper": 0.3295,
+   "n_shifts": 348
+  },
+  "W[0,0]": {
+   "obs": 0.3542,
+   "null_mean": 0.2683,
+   "null_2_5": 0.1458,
+   "null_97_5": 0.3958,
+   "ratio": 1.32,
+   "p_upper": 0.149,
+   "n_shifts": 348
+  },
+  "W[-1,+1]": {
+   "obs": 0.5833,
+   "null_mean": 0.5959,
+   "null_2_5": 0.4583,
+   "null_97_5": 0.7292,
+   "ratio": 0.979,
+   "p_upper": 0.5989,
+   "n_shifts": 348
+  }
+ },
+ "GEIPAN_ident_reentry_vs_decays": {
+  "n_event_days": 22,
+  "W[-1,0]": {
+   "obs": 0.2273,
+   "null_mean": 0.2013,
+   "null_2_5": 0.0455,
+   "null_97_5": 0.3784,
+   "ratio": 1.129,
+   "p_upper": 0.4183,
+   "n_shifts": 348
+  },
+  "W[0,0]": {
+   "obs": 0.1364,
+   "null_mean": 0.1084,
+   "null_2_5": 0.0,
+   "null_97_5": 0.2727,
+   "ratio": 1.258,
+   "p_upper": 0.4097,
+   "n_shifts": 348
+  },
+  "W[-1,+1]": {
+   "obs": 0.3636,
+   "null_mean": 0.2787,
+   "null_2_5": 0.1364,
+   "null_97_5": 0.4545,
+   "ratio": 1.305,
+   "p_upper": 0.2378,
+   "n_shifts": 348
+  }
+ },
+ "GEIPAN_class_D_vs_all_launches": {
+  "n_event_days": 99,
+  "W[-1,0]": {
+   "obs": 0.4444,
+   "null_mean": 0.4178,
+   "null_2_5": 0.3232,
+   "null_97_5": 0.5152,
+   "ratio": 1.064,
+   "p_upper": 0.3352,
+   "n_shifts": 348
+  },
+  "W[0,0]": {
+   "obs": 0.2727,
+   "null_mean": 0.2367,
+   "null_2_5": 0.1616,
+   "null_97_5": 0.3232,
+   "ratio": 1.152,
+   "p_upper": 0.2378,
+   "n_shifts": 348
+  },
+  "W[-1,+1]": {
+   "obs": 0.6162,
+   "null_mean": 0.5569,
+   "null_2_5": 0.4545,
+   "null_97_5": 0.6465,
+   "ratio": 1.106,
+   "p_upper": 0.149,
+   "n_shifts": 348
+  }
+ },
+ "GEIPAN_class_A_B_other_vs_all_launches": {
+  "n_event_days": 1817,
+  "W[-1,0]": {
+   "obs": 0.4117,
+   "null_mean": 0.4266,
+   "null_2_5": 0.4023,
+   "null_97_5": 0.4526,
+   "ratio": 0.965,
+   "p_upper": 0.8596,
+   "n_shifts": 348
+  },
+  "W[0,0]": {
+   "obs": 0.2383,
+   "null_mean": 0.2455,
+   "null_2_5": 0.2256,
+   "null_97_5": 0.2653,
+   "ratio": 0.971,
+   "p_upper": 0.7564,
+   "n_shifts": 348
+  },
+  "W[-1,+1]": {
+   "obs": 0.5443,
+   "null_mean": 0.5597,
+   "null_2_5": 0.5349,
+   "null_97_5": 0.588,
+   "ratio": 0.972,
+   "p_upper": 0.8653,
+   "n_shifts": 348
+  }
+ },
+ "KNOWN_POSITIVES_Platov2000": [
+  {
+   "date": "1977-09-20",
+   "launch": "Kosmos-955 (Petrozavodsk)",
+   "in_satcat": true,
+   "chernobrov_entries": [
+    [
+     "1977-09-20",
+     "Ленинград-Сегеж, СССР."
+    ],
+    [
+     "1977-09-20",
+     "г.Сортавала, Карелия, СССР."
+    ],
+    [
+     "1977-09-20",
+     "Петрозаводск, СССР."
+    ],
+    [
+     "1977-09-20",
+     "Петрозаводск, СССР."
+    ]
+   ],
+   "hatch_entries": [
+    [
+     "1977-09-20",
+     "PETROZAVODSK, RS"
+    ]
+   ]
+  },
+  {
+   "date": "1980-06-14",
+   "launch": "Kosmos-1188",
+   "in_satcat": true,
+   "chernobrov_entries": [],
+   "hatch_entries": [
+    [
+     "1980-06-14",
+     "KALININ, RUSSIA AND MORE/OTHERS"
+    ],
+    [
+     "1980-06-15",
+     "MOSCOW, RUSSIA"
+    ]
+   ]
+  },
+  {
+   "date": "1981-05-14",
+   "launch": "Meteor-2 (Platov: 15 May)",
+   "in_satcat": true,
+   "chernobrov_entries": [],
+   "hatch_entries": []
+  },
+  {
+   "date": "1982-08-27",
+   "launch": "Molniya (Platov: 27/28 Aug)",
+   "in_satcat": true,
+   "chernobrov_entries": [],
+   "hatch_entries": []
+  },
+  {
+   "date": "1984-07-03",
+   "launch": "Kosmos-1581",
+   "in_satcat": true,
+   "chernobrov_entries": [],
+   "hatch_entries": []
+  }
+ ],
+ "NUFORC_CA_AZ_NV_count_on_Vandenberg_launch_days_1990_2023": {
+  "n_launch_days": 198,
+  "obs": 1.2828,
+  "null_mean": 1.1664,
+  "null_2_5": 0.9562,
+  "null_97_5": 1.4747,
+  "ratio": 1.1,
+  "p_upper": 0.1597,
+  "n_shifts": 118
+ },
+ "POSITIVE_CONTROL_NUFORC_line_of_lights_vs_Starlink_0_to_3d": {
+  "n_reports": 1563,
+  "n_starlink_launches": 35,
+  "obs": 0.2194,
+  "null_mean": 0.1387,
+  "null_2_5": 0.0631,
+  "null_97_5": 0.2671,
+  "ratio": 1.582,
+  "p_upper": 0.115,
+  "n_shifts": 112
+ },
+ "NUFORC_other_reports_vs_Starlink_0_to_3d": {
+  "n_reports": 11563,
+  "n_starlink_launches": 35,
+  "obs": 0.1421,
+  "null_mean": 0.1264,
+  "null_2_5": 0.1133,
+  "null_97_5": 0.1401,
+  "ratio": 1.124,
+  "p_upper": 0.0354,
+  "n_shifts": 112
+ }
+}

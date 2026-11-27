@@ -1,0 +1,148 @@
+{
+ "RU_native_SU_vs_NUFORC_US": {
+  "n_A_days": 370,
+  "day_level_shifts_2_30": {
+   "obs": 0.5162,
+   "null_mean": 0.5091,
+   "null_2_5": 0.4641,
+   "null_97_5": 0.5545,
+   "ratio": 1.014,
+   "p_upper": 0.3729,
+   "n_shifts": 58
+  },
+  "wave_level_shifts_31_365": {
+   "obs": 0.5162,
+   "null_mean": 0.503,
+   "null_2_5": 0.4568,
+   "null_97_5": 0.5486,
+   "ratio": 1.026,
+   "p_upper": 0.2906,
+   "n_shifts": 670
+  }
+ },
+ "Hatch_SU_vs_NUFORC_US": {
+  "n_A_days": 186,
+  "day_level_shifts_2_30": {
+   "obs": 0.2957,
+   "null_mean": 0.3103,
+   "null_2_5": 0.2581,
+   "null_97_5": 0.371,
+   "ratio": 0.953,
+   "p_upper": 0.6949,
+   "n_shifts": 58
+  },
+  "wave_level_shifts_31_365": {
+   "obs": 0.2957,
+   "null_mean": 0.2918,
+   "null_2_5": 0.2151,
+   "null_97_5": 0.371,
+   "ratio": 1.014,
+   "p_upper": 0.4844,
+   "n_shifts": 670
+  }
+ },
+ "RU_native_SU_vs_GEIPAN_FR": {
+  "n_A_days": 370,
+  "day_level_shifts_2_30": {
+   "obs": 0.1216,
+   "null_mean": 0.1133,
+   "null_2_5": 0.0807,
+   "null_97_5": 0.1495,
+   "ratio": 1.074,
+   "p_upper": 0.322,
+   "n_shifts": 58
+  },
+  "wave_level_shifts_31_365": {
+   "obs": 0.1216,
+   "null_mean": 0.1052,
+   "null_2_5": 0.0757,
+   "null_97_5": 0.1359,
+   "ratio": 1.156,
+   "p_upper": 0.1595,
+   "n_shifts": 670
+  }
+ },
+ "Hatch_CN_vs_NUFORC_US": {
+  "n_A_days": 138,
+  "day_level_shifts_2_30": {
+   "obs": 0.3841,
+   "null_mean": 0.3482,
+   "null_2_5": 0.2598,
+   "null_97_5": 0.413,
+   "ratio": 1.103,
+   "p_upper": 0.2034,
+   "n_shifts": 58
+  },
+  "wave_level_shifts_31_365": {
+   "obs": 0.3841,
+   "null_mean": 0.3067,
+   "null_2_5": 0.2319,
+   "null_97_5": 0.3913,
+   "ratio": 1.252,
+   "p_upper": 0.0462,
+   "n_shifts": 670
+  }
+ },
+ "POSITIVE_CONTROL_Hatch_CA_vs_NUFORC_US": {
+  "n_A_days": 511,
+  "day_level_shifts_2_30": {
+   "obs": 0.2935,
+   "null_mean": 0.2943,
+   "null_2_5": 0.2602,
+   "null_97_5": 0.324,
+   "ratio": 0.998,
+   "p_upper": 0.5763,
+   "n_shifts": 58
+  },
+  "wave_level_shifts_31_365": {
+   "obs": 0.2935,
+   "null_mean": 0.2689,
+   "null_2_5": 0.2153,
+   "null_97_5": 0.3288,
+   "ratio": 1.092,
+   "p_upper": 0.2131,
+   "n_shifts": 670
+  }
+ },
+ "RU_native_SU_vs_Hatch_CN": {
+  "n_A_days": 370,
+  "day_level_shifts_2_30": {
+   "obs": 0.0054,
+   "null_mean": 0.0142,
+   "null_2_5": 0.0081,
+   "null_97_5": 0.0259,
+   "ratio": 0.38,
+   "p_upper": 1.0,
+   "n_shifts": 58
+  },
+  "wave_level_shifts_31_365": {
+   "obs": 0.0054,
+   "null_mean": 0.0121,
+   "null_2_5": 0.0027,
+   "null_97_5": 0.027,
+   "ratio": 0.448,
+   "p_upper": 0.8972,
+   "n_shifts": 670
+  }
+ },
+ "POSITIVE_CONTROL_Hatch_US_vs_NUFORC_100km": {
+  "n_events": 7320,
+  "obs": 0.0537,
+  "null_mean": 0.0096,
+  "null_2_5": 0.0072,
+  "null_97_5": 0.0126,
+  "ratio": 5.566,
+  "p_upper": 0.0169,
+  "n_shifts": 58
+ },
+ "POSITIVE_CONTROL_Hatch_CA_vs_NUFORC_US_300km": {
+  "n_events": 562,
+  "obs": 0.0107,
+  "null_mean": 0.009,
+  "null_2_5": 0.0036,
+  "null_97_5": 0.0178,
+  "ratio": 1.192,
+  "p_upper": 0.3898,
+  "n_shifts": 58
+ }
+}
