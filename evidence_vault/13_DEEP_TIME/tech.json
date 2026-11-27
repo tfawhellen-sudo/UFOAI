@@ -1,0 +1,3206 @@
+{
+ "A_tech_frames": {
+  "f_balloon": {
+   "t0": 1783,
+   "event": "Montgolfier hot-air balloon, Annonay and Paris",
+   "catalogs": {
+    "n_pre": 350,
+    "hits_pre": 7,
+    "per1000_pre": 20.0,
+    "n_post": 42099,
+    "hits_post": 490,
+    "per1000_post": 11.63923133566118,
+    "window50": {
+     "n_before": 97,
+     "hits_before": 7,
+     "per1000_before": 72.16494845360825,
+     "n_after": 126,
+     "hits_after": 19,
+     "per1000_after": 150.79365079365078
+    },
+    "change_point": 1863,
+    "change_point_90ci": [
+     1861.0,
+     1863.0
+    ]
+   },
+   "pre_t0_classes": {
+    "context entry (not a sighting)": 6,
+    "bare compiler wording": 1
+   },
+   "pre_t0_examples": [
+    {
+     "cat": "OVERMEIRE",
+     "year": 1782,
+     "cls": "context entry (not a sighting)",
+     "text": " First public captive ascent of an aerostat (a hot air balloon) built by the Montgolfier brothers in Annonay."
+    },
+    {
+     "cat": "OVERMEIRE",
+     "year": 1782,
+     "cls": "context entry (not a sighting)",
+     "text": " Ascension of the balloon \"Le Globe\" by Charles and the Robert brothers. It was inflated with hydrogen. The balloon, not having ascended, landed in Gonesse (north of Paris), and was destroyed by the population after havi"
+    },
+    {
+     "cat": "OVERMEIRE",
+     "year": 1782,
+     "cls": "context entry (not a sighting)",
+     "text": " First captive ascent of a hot air balloon in the Faubourg St. Antoine. Rain interrupted the experience. The apparatus remained exposed to the rain for more than 24 hours."
+    },
+    {
+     "cat": "OVERMEIRE",
+     "year": 1782,
+     "cls": "context entry (not a sighting)",
+     "text": " In the presence of King Louis XVI, the first three aerial passengers in history made an ascent in a hot air balloon: a cock, a duck and a sheep. their return, unharmed, proved that it is possible to breathe at a few ten"
+    },
+    {
+     "cat": "OVERMEIRE",
+     "year": 1782,
+     "cls": "context entry (not a sighting)",
+     "text": " First captive ascent of a man: Pilatre de Rozier rising to 26 metres above the ground, on board of a hot air balloon."
+    },
+    {
+     "cat": "OVERMEIRE",
+     "year": 1782,
+     "cls": "context entry (not a sighting)",
+     "text": " First free ascent in human history and first aerial voyage in a hot air balloon: Pilatre de Rozier and the Marquis d'Arlandes surveyed the city of Paris. The verbal process of this event is signed, in particular by Benj"
+    },
+    {
+     "cat": "OVERMEIRE",
+     "year": 1782,
+     "cls": "bare compiler wording",
+     "text": " Wilcox would have risen, carried by a cluster of balloons."
+    }
+   ],
+   "pre_t0_by_catalog": {
+    "OVERMEIRE": 7
+   },
+   "nuforc": {
+    "n_pre": 0,
+    "hits_pre": 0,
+    "per1000_pre": 0.0,
+    "n_post": 133161,
+    "hits_post": 385,
+    "per1000_post": 2.891236923723913,
+    "window50": {
+     "n_before": 0,
+     "hits_before": 0,
+     "per1000_before": 0.0,
+     "n_after": 0,
+     "hits_after": 0,
+     "per1000_after": 0.0
+    },
+    "change_point": null,
+    "change_point_90ci": null
+   }
+  },
+  "f_airship": {
+   "t0": 1852,
+   "event": "Giffard powered dirigible (popular \"airship\" press: 1896-97 wave)",
+   "catalogs": {
+    "n_pre": 568,
+    "hits_pre": 9,
+    "per1000_pre": 15.845070422535212,
+    "n_post": 41881,
+    "hits_post": 662,
+    "per1000_post": 15.806690384661302,
+    "window50": {
+     "n_before": 170,
+     "hits_before": 2,
+     "per1000_before": 11.764705882352942,
+     "n_after": 815,
+     "hits_after": 253,
+     "per1000_after": 310.42944785276075
+    },
+    "change_point": 1932,
+    "change_point_90ci": [
+     1917.0,
+     1932.0
+    ]
+   },
+   "pre_t0_classes": {
+    "bare compiler wording": 6,
+    "quoted period word": 2,
+    "context entry (not a sighting)": 1
+   },
+   "pre_t0_examples": [
+    {
+     "cat": "WITS",
+     "year": 1646,
+     "cls": "bare compiler wording",
+     "text": "An extraordinary event occurred where unknown individuals and animals were observed in the sky over The Hague. This sighting involved a fleet of airships emerging from the southeast, carrying numerous occupants. The airs"
+    },
+    {
+     "cat": "HATCH",
+     "year": 1796,
+     "cls": "bare compiler wording",
+     "text": "3 observer(s). 15 airships going quickly east. Man seen / front end / 1 ship. / r54p18."
+    },
+    {
+     "cat": "OVERMEIRE",
+     "year": 1646,
+     "cls": "quoted period word",
+     "text": " Strange people and animals appeared in the sky of The Hague. While \"coming from the southeast a large fleet of airships with many sailors on board\" approached this unusual spectacle. A gigantic battle followed and at th"
+    },
+    {
+     "cat": "OVERMEIRE",
+     "year": 1709,
+     "cls": "bare compiler wording",
+     "text": " John V. of Portugal granted a pension of 600,000 Reis to R.P. Bartholomeo Lourenco de Gusmao, who proposed an aerial apparatus (type dirigible)."
+    },
+    {
+     "cat": "OVERMEIRE",
+     "year": 1709,
+     "cls": "bare compiler wording",
+     "text": " Bartholomeo Lourenco de Gusmao's flying machine would have made a flight in the presence of King John V. of Portugal. This inventor is often confused, rightly or wrongly; the chronicles are not very precise, with the ex"
+    },
+    {
+     "cat": "OVERMEIRE",
+     "year": 1743,
+     "cls": "quoted period word",
+     "text": " At Peibio, near Holyhead, two farmers working in the fields saw \"a ship with its sails, flying in the air.\" The object came from the southeast, from the direction of Mount Snowdon (Caernarvan) and was heading towards th"
+    },
+    {
+     "cat": "OVERMEIRE",
+     "year": 1781,
+     "cls": "context entry (not a sighting)",
+     "text": " In a letter to the \"Journal de Paris\", Blanchard announces that he has been working for twelve years on the realization of a flying machine and that he is now on his sixth operation (let us read: experience). He is expe"
+    },
+    {
+     "cat": "OVERMEIRE",
+     "year": 1843,
+     "cls": "bare compiler wording",
+     "text": " At Nantes, a hot air balloon escaped from the ground on its own; the anchor grabbed the young Guerin by the pants and carried him into the air. The ascent ended without harm for the boy.  note from vog: this true story "
+    },
+    {
+     "cat": "RR0",
+     "year": 1833,
+     "cls": "bare compiler wording",
+     "text": " Swedish press begins to report mysterious gray planes without markings that are quickly nicknamed \"ghost planes\". These devices seem as comfortable in clear weather as in the heart of the worst snowstorm that grounds th"
+    }
+   ],
+   "pre_t0_by_catalog": {
+    "WITS": 1,
+    "HATCH": 1,
+    "OVERMEIRE": 6,
+    "RR0": 1
+   },
+   "nuforc": {
+    "n_pre": 0,
+    "hits_pre": 0,
+    "per1000_pre": 0.0,
+    "n_post": 133161,
+    "hits_post": 81,
+    "per1000_post": 0.6082862099263298,
+    "window50": {
+     "n_before": 0,
+     "hits_before": 0,
+     "per1000_before": 0.0,
+     "n_after": 0,
+     "hits_after": 0,
+     "per1000_after": 0.0
+    },
+    "change_point": null,
+    "change_point_90ci": null
+   }
+  },
+  "f_aircraft": {
+   "t0": 1903,
+   "event": "Wright Flyer (public demonstrations 1908)",
+   "catalogs": {
+    "n_pre": 1394,
+    "hits_pre": 15,
+    "per1000_pre": 10.760401721664275,
+    "n_post": 41055,
+    "hits_post": 3160,
+    "per1000_post": 76.96991840214346,
+    "window50": {
+     "n_before": 822,
+     "hits_before": 10,
+     "per1000_before": 12.165450121654501,
+     "n_after": 7676,
+     "hits_after": 950,
+     "per1000_after": 123.76237623762377
+    },
+    "change_point": 1954,
+    "change_point_90ci": [
+     1954.0,
+     1954.0
+    ]
+   },
+   "pre_t0_classes": {
+    "bare compiler wording": 9,
+    "context entry (not a sighting)": 4,
+    "compiler comparison": 1,
+    "quoted period word": 1
+   },
+   "pre_t0_examples": [
+    {
+     "cat": "WITS",
+     "year": 1761,
+     "cls": "bare compiler wording",
+     "text": "Prominent astronomer J. L. Lagrange spotted a planetoid in apparent orbit around Venus. The object's orbital plane, as described by Lagrange, appeared to be perpendicular to the ecliptic. This observation occurred while "
+    },
+    {
+     "cat": "PREROS",
+     "year": 1850,
+     "cls": "context entry (not a sighting)",
+     "text": "Charles A. Dellschau and a group known as the Aero Club, comprised of inventive individuals, reportedly secretly built and flew revolutionary aircraft in the 1850s. Dellschau's illustrated notebooks detail their activiti"
+    },
+    {
+     "cat": "OVERMEIRE",
+     "year": 1842,
+     "cls": "bare compiler wording",
+     "text": " W. H. Phillipps would have made a small helicopter \"a reaction\" rise (steam jets on pallets).  vog note: it was a miniature, in reality. "
+    },
+    {
+     "cat": "OVERMEIRE",
+     "year": 1844,
+     "cls": "bare compiler wording",
+     "text": " D'Arville is said to have risen aboard a \"pedal-powered\" helicopter (?). He would have thus reached an altitude of around 100 m and the landing was made normally."
+    },
+    {
+     "cat": "OVERMEIRE",
+     "year": 1883,
+     "cls": "context entry (not a sighting)",
+     "text": " ... a large number of luminous bodies penetrated the solar disk. Mr. Bonilla telegraphed to the observatories of Mexico and Puebla, where they had not been seen. Due to this parallax, Mr. Bonilla located the bodies \"rel"
+    },
+    {
+     "cat": "OVERMEIRE",
+     "year": 1896,
+     "cls": "context entry (not a sighting)",
+     "text": " A scale model airplane (13 kg) built by Langley, powered by a steam engine, flew in Washington."
+    },
+    {
+     "cat": "OVERMEIRE",
+     "year": 1897,
+     "cls": "compiler comparison",
+     "text": " It is probably from this Tuesday, April 20, that the fabulous adventure of Captain James Hooton, train driver, dates. He had gone that day to Texarkana (Texas) and having free time in front of him, he had decided to go "
+    },
+    {
+     "cat": "OVERMEIRE",
+     "year": 1897,
+     "cls": "context entry (not a sighting)",
+     "text": " Frank Nichols, a distinguished farmer living about 3 km east of Josserand, was awakened a little before midnight by a humming of machinery. He then saw outside like a strange vessel with bright lights that landed in a c"
+    },
+    {
+     "cat": "OVERMEIRE",
+     "year": 1897,
+     "cls": "bare compiler wording",
+     "text": " At Camp de Satory, Clement Ader attempted in very bad conditions (wind, rain) the first flight of an airplane. The wind blowed with force from behind first, then across. The \"Airplane N\u00b0 3\" took off, travelled a distanc"
+    },
+    {
+     "cat": "RR0",
+     "year": 1833,
+     "cls": "bare compiler wording",
+     "text": " Swedish press begins to report mysterious gray planes without markings that are quickly nicknamed \"ghost planes\". These devices seem as comfortable in clear weather as in the heart of the worst snowstorm that grounds th"
+    },
+    {
+     "cat": "RR0",
+     "year": 1897,
+     "cls": "bare compiler wording",
+     "text": " Several inhabitants of Hastings (Nebraska) said they had seen an aircraft or something similar, sailing in the air to the West of the city. It first stayed still for half an hour, floating in the air about 150 m from th"
+    },
+    {
+     "cat": "RR0",
+     "year": 1897,
+     "cls": "quoted period word",
+     "text": " Robert Hibbard, a farmer living 22 km north of Sioux City (Iowa), observed an \"aircraft\" but also an anchor at the end of a rope attached to the craft that grabbed him by his clothes and dragged him for a distance of 6 "
+    },
+    {
+     "cat": "RR0",
+     "year": 1897,
+     "cls": "bare compiler wording",
+     "text": " An aircraft has stirred up the region... The stranger occupying it claims he had to land to make some repairs and that he will resume his aerial journey today... The man is armed with a rifle to prevent people from exam"
+    },
+    {
+     "cat": "RR0",
+     "year": 1897,
+     "cls": "bare compiler wording",
+     "text": " To explain this aircraft, there are as many explanations as there are individuals. Those who have not seen it think it is a hoax, but it must be said that the personality of the witnesses does not confirm this point of "
+    },
+    {
+     "cat": "RR0",
+     "year": 1897,
+     "cls": "bare compiler wording",
+     "text": " Have you seen the light in the sky? If not, you're not in style. Many witnesses have seen it hovering above Vancouver almost every night this week. It was last seen on Friday night, maybe we'll see it again tonight, or "
+    }
+   ],
+   "pre_t0_by_catalog": {
+    "WITS": 1,
+    "PREROS": 1,
+    "OVERMEIRE": 7,
+    "RR0": 6
+   },
+   "nuforc": {
+    "n_pre": 0,
+    "hits_pre": 0,
+    "per1000_pre": 0.0,
+    "n_post": 133161,
+    "hits_post": 6055,
+    "per1000_post": 45.471271618566995,
+    "window50": {
+     "n_before": 0,
+     "hits_before": 0,
+     "per1000_before": 0.0,
+     "n_after": 224,
+     "hits_after": 6,
+     "per1000_after": 26.785714285714285
+    },
+    "change_point": 1982,
+    "change_point_90ci": [
+     1981.95,
+     1983.0
+    ]
+   }
+  },
+  "f_saucer": {
+   "t0": 1947,
+   "event": "24 June 1947 Arnold sighting; press coins \"flying saucer\"",
+   "catalogs": {
+    "n_pre": 3201,
+    "hits_pre": 141,
+    "per1000_pre": 44.04873477038426,
+    "n_post": 39248,
+    "hits_post": 6588,
+    "per1000_post": 167.85568691398288,
+    "window50": {
+     "n_before": 2251,
+     "hits_before": 114,
+     "per1000_before": 50.64415815193247,
+     "n_after": 37102,
+     "hits_after": 6469,
+     "per1000_after": 174.35717751064632
+    },
+    "change_point": 1947,
+    "change_point_90ci": [
+     1947.0,
+     1947.0
+    ]
+   },
+   "pre_t0_classes": {
+    "compiler comparison": 2,
+    "bare compiler wording": 121,
+    "quoted period word": 13,
+    "context entry (not a sighting)": 5
+   },
+   "pre_t0_examples": [
+    {
+     "cat": "WITS",
+     "year": 1641,
+     "cls": "compiler comparison",
+     "text": "A flying disk resembling a flat \"wafer\" and accompanied by two human-like figures described as \"angels\" was observed in the sky. The event took place in the city of Braga at the lodgings of Reverend Doctor Jao d'Abreda R"
+    },
+    {
+     "cat": "WITS",
+     "year": 1665,
+     "cls": "bare compiler wording",
+     "text": "Witnesses in Stralsund reported anomalous sightings involving aerial ships and a saucer-shaped object with a dome flying over the town's church near the Baltic Sea. The saucer-like object, resembling a large man's hat, r"
+    },
+    {
+     "cat": "WITS",
+     "year": 1700,
+     "cls": "bare compiler wording",
+     "text": "In a peculiar incident, an elderly blacksmith named Tiittu allegedly vanished following the appearance of a flying disk over the village. Tiittu's son embarked on a search and encountered a being resembling a \"bear,\" who"
+    },
+    {
+     "cat": "WITS",
+     "year": 1838,
+     "cls": "bare compiler wording",
+     "text": "G. Pettitt reported a flying disk with a hook-shaped appendage, roughly the apparent size of the moon but brighter. The sighting lasted around 20 minutes."
+    },
+    {
+     "cat": "WITS",
+     "year": 1878,
+     "cls": "compiler comparison",
+     "text": "Mr. John Martin, a farmer, spotted a dark object in the northern sky while hunting. The object, initially the size of an orange, rapidly grew larger as it approached with remarkable speed. Passing directly overhead, Mart"
+    },
+    {
+     "cat": "PREROS",
+     "year": 1893,
+     "cls": "bare compiler wording",
+     "text": "In 1893, an Australian farmer had a lasting encounter with a saucer-shaped UFO. After approaching the landed craft, a being in unusual attire emerged and directed a light beam at him, rendering him stunned and eventually"
+    },
+    {
+     "cat": "PREROS",
+     "year": 1896,
+     "cls": "bare compiler wording",
+     "text": "In 1896, a saucer-shaped UFO visited a Missouri farm, appearing as a circle of flashing lights that descended and hovered over their barn. The family observed the blinding lights before taking shelter in their house out "
+    },
+    {
+     "cat": "HATCH",
+     "year": 1733,
+     "cls": "bare compiler wording",
+     "text": "1+2 observer(s). Silver saucer darts to and fro. Going quickly northwest. Same Berks to/from Kent / 11 Dec. '1753."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1798,
+     "cls": "bare compiler wording",
+     "text": "Cylinder/cylindrical object jumps from cloud. Splits going  to  2 saucers with luminous rays. Vanishes / 5 minute(s)."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1803,
+     "cls": "bare compiler wording",
+     "text": "6M saucer-ship floats ashore. Young woman exits. Very white skin.."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1845,
+     "cls": "bare compiler wording",
+     "text": "Steamship Victoria. Wind stops. 3 luminous silver saucers rise / sea. Hover. Shoot going up. / r44p34."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1870,
+     "cls": "bare compiler wording",
+     "text": "Light grey saucer flies into wind / 30 minute(s). Hook-shape appendage / r221p15."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1873,
+     "cls": "bare compiler wording",
+     "text": "3 brown colored clouds. Large object extends screws going down. Saucer appears between screws."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1878,
+     "cls": "bare compiler wording",
+     "text": "Farmer J. Martin. Flying saucer / wonderful speed. Longitude & latitude coords. approximate. / r204p134."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1885,
+     "cls": "bare compiler wording",
+     "text": "Slow saucer = 4-moons diameter. Lights campsite. / r221p16+/ r2p20."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1885,
+     "cls": "bare compiler wording",
+     "text": "Fireball-saucer circles pier / 6M altitude. Blinding lights. Sinks quietly."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1893,
+     "cls": "bare compiler wording",
+     "text": "Hundreds / observer(s). Huge noisy saucer maneuvers. Stops / 15 minute(s). Continues going south. / r221p16."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1902,
+     "cls": "bare compiler wording",
+     "text": "British ship. 100M metallic cylinder/cylindrical object lights / ends. Sinks slowly. / Flying Saucer Review (FSR) v18#3."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1909,
+     "cls": "bare compiler wording",
+     "text": "Separate observers. Silent cylinder/cigar-shape searches railway / strong light. / Flying Saucer Review (FSR) v6#4."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1909,
+     "cls": "bare compiler wording",
+     "text": "Silent torpedo going west / Southend and hovers / 4 minute(s). 2 strong beams. Flying Saucer Review (FSR) v16#6."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1909,
+     "cls": "bare compiler wording",
+     "text": "Cylinder/cigar-shape aims 5 beams / ships bridge. Does same to different ship. Flying Saucer Review (FSR) v17#1."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1909,
+     "cls": "bare compiler wording",
+     "text": "2 men by landed cylinder/cigar-shape. Gibberish. Board and zigzag upward. / Flying Saucer Review (FSR) v17#1."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1909,
+     "cls": "bare compiler wording",
+     "text": "Globe / light going  to  overhead. Motorcycle headlight malfunctions due to EME (electro-magnetic effects). OK after. / Flying Saucer Review (FSR) v17#1."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1909,
+     "cls": "bare compiler wording",
+     "text": "3 / boat. Shell saucer wobbles. 2 pseudo-human/entity / dome! Quickly going down  to  and quickly going up  to  and going southwest toward(s) Otakaramu."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1909,
+     "cls": "bare compiler wording",
+     "text": "Bowl saucer beams going down / wagon. Horses panic. More beams. Lights / rim. Vanishes."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1909,
+     "cls": "bare compiler wording",
+     "text": "Amateur astronomer. Luminous saucer goes south slowly. Turns and goes back going north. / r85p35."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1910,
+     "cls": "bare compiler wording",
+     "text": "Summer Eve. Procession of white saucers goes west going east. Clearly defined."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1917,
+     "cls": "bare compiler wording",
+     "text": "Swish! 3M saucer / field by railway. Lit windows / dome. Going up  to  slow. Going quickly east. / r8#42."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1917,
+     "cls": "bare compiler wording",
+     "text": "50000 observer(s). Opalescent saucer rotates. Only kids see pseudo-human/entity with silver sphere/orb/globe."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1923,
+     "cls": "bare compiler wording",
+     "text": "Boy / 10. Saucer / 3 legs / pasture. 4' men move / glass dome. Speak English."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1925,
+     "cls": "bare compiler wording",
+     "text": "120cm small humanoid (or Grey) / green uniform on vertical saucer.. rolling along!"
+    },
+    {
+     "cat": "HATCH",
+     "year": 1925,
+     "cls": "bare compiler wording",
+     "text": "2 observer(s). Classic saucer with oval portholes / 4 legs. Traces / dirt. / r65p13."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1927,
+     "cls": "bare compiler wording",
+     "text": "2 / ranch. Domed saucer seen / days. Burnt grass. Cows scared. Pig missing."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1928,
+     "cls": "bare compiler wording",
+     "text": "2 observer(s). 6-7M silver bowl-saucer beams rays going down / field. Vacuum cleaner sound. / r78p152."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1929,
+     "cls": "bare compiler wording",
+     "text": "15M saucer lands. 4-5 small humanoids (or Greys) scurry. High voices scare man and horse. / r54p40."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1930,
+     "cls": "bare compiler wording",
+     "text": "Top saucer lands. Door drops. 2 small humanoids (or Greys) going down / ladder and steal calze steso!"
+    },
+    {
+     "cat": "HATCH",
+     "year": 1931,
+     "cls": "bare compiler wording",
+     "text": "Saucer going south. Searches trees / bright beam. Maneuvers and going quickly north again. / r78p152+/ r242."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1931,
+     "cls": "bare compiler wording",
+     "text": "2M blessed virgin appears. Going quickly  to  to round white saucer-cloud! Quickly going up."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1933,
+     "cls": "bare compiler wording",
+     "text": "3 observer(s). Saucer / 6 legs. Small humanoids (or Greys) going up  to  going down  to  ladder / 30m. Photographs / physical traces. / IFS#35 / r210v25#9."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1934,
+     "cls": "bare compiler wording",
+     "text": "Student / France. Large saucer hovers and glows. Windy sound no wind!"
+    },
+    {
+     "cat": "HATCH",
+     "year": 1935,
+     "cls": "bare compiler wording",
+     "text": "Large brilliant saucer going down / just over ground. Small humanoids (or Greys) exit and walk around it! / r50p1."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1935,
+     "cls": "bare compiler wording",
+     "text": "Italian air raid expected. Silver saucer hovers instead. (Balloon?)"
+    },
+    {
+     "cat": "HATCH",
+     "year": 1935,
+     "cls": "bare compiler wording",
+     "text": "Woman on porch temporarily paralyzed as saucer hovers 30M away. Feels cold."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1937,
+     "cls": "bare compiler wording",
+     "text": "Private plane chases flying disk. Pilot now state government official."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1937,
+     "cls": "bare compiler wording",
+     "text": "Customs men. Classic 25M saucer quickly going up  to  from ground. Spins. Portholes and dome."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1938,
+     "cls": "bare compiler wording",
+     "text": "11M saucer hovers low. 2 small humanoids (or Greys) ride going down / platform! See drawing. / r50p2."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1938,
+     "cls": "bare compiler wording",
+     "text": "College girl. Silent manta saucer east going quickly west. Horizon to horizon / 10 second(s). No trail etc."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1939,
+     "cls": "bare compiler wording",
+     "text": "M. Tabard / 13. Metallic top-saucer spins / spinning sound. West going east. Turns going quickly north."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1940,
+     "cls": "bare compiler wording",
+     "text": "Several observer(s). Lens saucer passes. Power fails. Light wind. / and Tabloid account."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1942,
+     "cls": "bare compiler wording",
+     "text": "Street vendor photographs hat saucer over busy street. People stare. See reference."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1942,
+     "cls": "bare compiler wording",
+     "text": "1430 Anti-Aircraft guns/teams shells fired / huge silent saucer. Not hurt. 18000mph! / r153p14."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1942,
+     "cls": "bare compiler wording",
+     "text": "2 observer(s). Wave / heat. Domed saucer with antennas and portholes. Light signals / code."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1942,
+     "cls": "bare compiler wording",
+     "text": "Rows / 10-12 saucers. Dull roar not engine noise. Wobble / high altitude. / r114."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1942,
+     "cls": "bare compiler wording",
+     "text": "Military Air Traffic Controllers / (seen thru) binoculars. 2 red saucers drop / airbase. Hover and speed away. / r242p129."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1942,
+     "cls": "bare compiler wording",
+     "text": "2 observer(s). Domed saucer going down. Lights / ends. Circular burnt area and footprints found."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1942,
+     "cls": "bare compiler wording",
+     "text": "Thousands / observer(s). 25M silver domed saucer circles huge United States Navy (USN) fleet / 10K mph. / r65."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1943,
+     "cls": "bare compiler wording",
+     "text": "2 girls. Saucer lands. 2 small humanoids (or Greys) / helmets speak gibberish. / r39p29."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1943,
+     "cls": "bare compiler wording",
+     "text": "2 observer(s). Classic domed saucer dives at Army Air Force (AAF) BT13A trainer. Going quickly south. / r150."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1943,
+     "cls": "bare compiler wording",
+     "text": "Nurse. Metallic-domed saucer passes. Moon-size. Going east with slight buzz."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1943,
+     "cls": "bare compiler wording",
+     "text": "Saucers over German and Russian planes watch dogfights. Away incredibly fast. / LDLN#204."
+    }
+   ],
+   "pre_t0_by_catalog": {
+    "WITS": 5,
+    "PREROS": 2,
+    "HATCH": 71,
+    "EBERHART": 11,
+    "OVERMEIRE": 35,
+    "RR0": 5,
+    "JOHNSON": 2,
+    "MAGONIA": 2,
+    "NICAP": 8
+   },
+   "nuforc": {
+    "n_pre": 0,
+    "hits_pre": 0,
+    "per1000_pre": 0.0,
+    "n_post": 133161,
+    "hits_post": 1803,
+    "per1000_post": 13.540000450582378,
+    "window50": {
+     "n_before": 0,
+     "hits_before": 0,
+     "per1000_before": 0.0,
+     "n_after": 12636,
+     "hits_after": 536,
+     "per1000_after": 42.41848686293131
+    },
+    "change_point": 1992,
+    "change_point_90ci": [
+     1984.0,
+     1993.0
+    ]
+   }
+  },
+  "f_space": {
+   "t0": 1957,
+   "event": "Sputnik 1; spaceflight era (Martians in fiction from 1877-1898)",
+   "catalogs": {
+    "n_pre": 13710,
+    "hits_pre": 153,
+    "per1000_pre": 11.159737417943107,
+    "n_post": 28739,
+    "hits_post": 432,
+    "per1000_post": 15.031838268554925,
+    "window50": {
+     "n_before": 12261,
+     "hits_before": 134,
+     "per1000_before": 10.92896174863388,
+     "n_after": 28309,
+     "hits_after": 422,
+     "per1000_after": 14.906920060758063
+    },
+    "change_point": 1974,
+    "change_point_90ci": [
+     1974.0,
+     1996.0
+    ]
+   },
+   "pre_t0_classes": {
+    "compiler comparison": 7,
+    "quoted period word": 12,
+    "bare compiler wording": 115,
+    "context entry (not a sighting)": 19
+   },
+   "pre_t0_examples": [
+    {
+     "cat": "WITS",
+     "year": 1638,
+     "cls": "compiler comparison",
+     "text": "Puritan's encounter with a luminous phenomenon and missing time. Puritan James Everell, accompanied by two others, experienced a startling event as they observed a luminous mass hovering over Muddy River. This mass exhib"
+    },
+    {
+     "cat": "WITS",
+     "year": 1676,
+     "cls": "compiler comparison",
+     "text": "Spiritual writer Jane Lead recorded a peculiar experience in her diary, recounting the presence of three enigmatic figures in her bedroom. The first figure, appearing as a youthful presence, startled her, rendering her s"
+    },
+    {
+     "cat": "PREROS",
+     "year": 1897,
+     "cls": "quoted period word",
+     "text": "A farmer reported an airship crash during a blizzard near Lanark. Two occupants were killed, and a third, dressed in a unique manner, survived and claimed to be from Mars. The farmer charged people to view the \"Martian\" "
+    },
+    {
+     "cat": "PREROS",
+     "year": 1897,
+     "cls": "bare compiler wording",
+     "text": "Despite theories of an alien origin, the prevailing belief surrounding the mystery airships of the late 19th century pointed to an earthly source. The prevailing notion was that an unknown inventor or inventors within th"
+    },
+    {
+     "cat": "PREROS",
+     "year": 1865,
+     "cls": "compiler comparison",
+     "text": "There are pre-1900 reports of crashed UFOs resembling spaceships rather than dirigibles. In an incident from 1865 in western Montana, a mountain man witnessed a bright, luminous body in the sky that exploded, followed by"
+    },
+    {
+     "cat": "HATCH",
+     "year": 1828,
+     "cls": "bare compiler wording",
+     "text": "Kaspar Hauser age 17. Apparently raised / aliens. Amazing. see reference."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1906,
+     "cls": "bare compiler wording",
+     "text": "10+'martians' stand / road. 1 flies overhead! / r30p45."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1940,
+     "cls": "quoted period word",
+     "text": "4 / car. Red light / valley. Moon-size near car. \"Communication with aliens\"."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1947,
+     "cls": "bare compiler wording",
+     "text": "5 observer(s). Silver disk crashed / Arroyo. 3 alien bodies. (Controversial.)"
+    },
+    {
+     "cat": "HATCH",
+     "year": 1954,
+     "cls": "quoted period word",
+     "text": "Man exits saucer. Observer(s) asks \"Martian?\". Answer = \"no, French\". / r171."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1956,
+     "cls": "bare compiler wording",
+     "text": "Several observer(s). 'Mothership hovers / 3 hours. Small objects with square portholes orbit. All going west."
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1869,
+     "cls": "bare compiler wording",
+     "text": "French poet and inventor Charles Cros\u00a0is convinced that pinpoints of light observed on Mars and Venus are the lights of large cities on those planets. He spends years petitioning the French government to build a giant mi"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1873,
+     "cls": "bare compiler wording",
+     "text": "English-American geologist and psychometrist William Denton\u00a0of Wellesley, Massachusetts, publishes volume 3 of The Soul of Things, in which he describes his astral visit to Mars along with his sister Anna Cridge and wife"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1895,
+     "cls": "bare compiler wording",
+     "text": "French parapsychologist Albert de Rochas\u00a0is asked to hypnotize a family friend, \u201cMireille,\u201d who is suffering from some ailment. In one of her sessions, Mireille describes how she is rising in space, which she describes a"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1895,
+     "cls": "bare compiler wording",
+     "text": "US psychical researcher James Hyslop\u00a0begins investigating a case of automatic writing by Sarah Harper\u00a0Cleaveland\u00a0(\u201cMrs. Smead\u201d) in Onondaga County, New York. She keeps records of her planchette experiments and puts them "
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1899,
+     "cls": "bare compiler wording",
+     "text": "Swiss psychologist Carl Jung\u00a0investigates his 15-year-old cousin, H\u00e9l\u00e8ne Preiswerk\u00a0(\u201cS.W.\u201d), in Basel, Switzerland, who claims to be a spiritualist medium. Her trances frequently involve journeys to other planets. She cl"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1919,
+     "cls": "bare compiler wording",
+     "text": "Boni & Liveright publishes Charles Fort\u2019s first book of scientific anomalies, The Book of the Damned. Fort gathers reports of objects or \u201cvessels\u201d that he humorously speculates might be visitors from a multitude of world"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1924,
+     "cls": "bare compiler wording",
+     "text": "Mars enters an opposition closer to Earth than at any time in the century before. In the US, a National Radio Silence Day is promoted during a 36-hour period in August 21\u201323, with all radios quiet for 5 minutes on the ho"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1931,
+     "cls": "bare compiler wording",
+     "text": "Alice May Williams of Auckland, New Zealand, begins writing letters over a two-year period to Edison Pettit\u00a0and Seth Barnes Nicholson,\u00a0astronomers at the Mount Wilson Observatory in Pasadena, California, describing her e"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1938,
+     "cls": "bare compiler wording",
+     "text": "8:00 p.m. \u201cThe War of the Worlds\u201d episode of the American radio drama anthology series The Mercury Theatre on the Air, directed and narrated by actor and future filmmaker Orson Welles, is an adaptation of H. G. Wells\u2019s n"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1941,
+     "cls": "bare compiler wording",
+     "text": "9:00\u20139:30 p.m. Rev. William Guy Huffman\u00a0of the Red Star Baptist Church in Cape Girardeau, Missouri, is summoned to an apparent airplane crash one Saturday. When he arrives at the scene, about 15 miles from town, he finds"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1943,
+     "cls": "bare compiler wording",
+     "text": "Ray Palmer\u00a0publishes an article, \u201cAn Ancient Language?\u201d on the language of Mantong in the January 1944 issue of Amazing Stories and enters into correspondence with Richard S. Shaver, who responds with a 10,000- word docu"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1946,
+     "cls": "bare compiler wording",
+     "text": "Amazing Stories publishes four short articles in its September 1945 issue by William C. Hefferlin, each describing a wonderful new invention that has come to the author, according to editor Ray Palmer,\u00a0\u201cfrom Tibet by men"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1947,
+     "cls": "bare compiler wording",
+     "text": "Evening. Yale University astrophysicist Lyman Spitzer\u00a0is speaking on WTIC radio in Hartford, Connecticut, and speculates that if life on Mars developed a bit earlier than on earth, it is possible that Martians have been "
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1947,
+     "cls": "context entry (not a sighting)",
+     "text": "The Army Air Force issues a press release saying that, based on a \u201cpreliminary study,\u201d the flying discs are not secret bacteriological weapons designed by a foreign power, experimental army aircraft, or spaceships. Howev"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1947,
+     "cls": "bare compiler wording",
+     "text": "5:17 p.m. Special Agent Percy Wyly II\u00a0in the Dallas, Texas, FBI office sends a teletype headed \u201cFlying Disc, Information Concerning\u201d to J. Edgar Hoover\u00a0and Strategic Air Command in Cincinnati, Ohio, expressing some doubt"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1947,
+     "cls": "bare compiler wording",
+     "text": "RAAF officers locate Mack Brazel\u00a0and take him to the base for questioning, then to the Roswell Daily Record and radio station KGPL for a revised, sanitized version of his story, this time saying he found the debris on Ju"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1947,
+     "cls": "bare compiler wording",
+     "text": "US Sen. Glen H. Taylor\u00a0(D-Idaho) says he hopes the saucers will turn out to be space ships from another planet, whose hostility might end all our \u201cpetty arguments on earth.\u201d"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1947,
+     "cls": "context entry (not a sighting)",
+     "text": "Gen. Laurence C. Craigie, director of USAF R&D and successor to Gen. Curtis LeMay\u00a0(who has returned to Europe), advises the AMC commanding general that USAF policy is not to ignore UFO reports, but to collect, evaluate, "
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1948,
+     "cls": "context entry (not a sighting)",
+     "text": "British author and ex-MI5 operative Bernard Newman\u00a0publishes a novel titled The Flying Saucer, the first book to use that phrase in its title. The story revolves around a group of scientists who create a fake Martian thr"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1948,
+     "cls": "context entry (not a sighting)",
+     "text": "The USAF Research and Development division sends a formal letter to the RAND Corporation authorizing them to select scientists to evaluate the possibility that the flying discs might be human-built spaceships. RAND\u2019s rep"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1948,
+     "cls": "bare compiler wording",
+     "text": "Project Sign officer Capt. Robert R. Sneider\u00a0has decided that the time has come to climax Project Sign\u2019s task and write the required \u201cEstimate of the Situation.\u201d Every intelligence operation\u2019s task is ultimately to prese"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1948,
+     "cls": "context entry (not a sighting)",
+     "text": "Project Sign\u2019s Col. William R. Clingerman\u00a0writes a letter to USAF Chiefs of Staff requesting a study of UFOs by the RAND Corporation, similar to the one made by USAF R&D in July, especially the possibility that \u201csome of "
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1948,
+     "cls": "bare compiler wording",
+     "text": "Gen. Charles Cabell\u00a0writes a firm letter to Wright Field in Ohio, asking Project Sign for another Estimate. It is possibly composed by Maj. Aaron \u201cJere\u201d Boggs\u00a0or Col. Edward H. Porter\u00a0at the USAF Defensive Air Branch. Wh"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1948,
+     "cls": "bare compiler wording",
+     "text": "The revised Project Sign report is issued, Air Intelligence Report Number 100-203-79, \u201cAnalysis of Fly- ing Object Incidents in the U.S.\u201d (AIR 203)  Some copies are confusingly dated April 28, 1949.  This is the cul- min"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1949,
+     "cls": "bare compiler wording",
+     "text": "Actor, producer, and director Mikel Conrad, in promoting his soon-to-be-released film The Flying Saucer, claims that the movie contains actual footage of a spaceship recovered in Alaska by government agents. He produces "
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1949,
+     "cls": "context entry (not a sighting)",
+     "text": "USAF\u2019s AMC issues a final 600-page report, \u201cUnidentified Flying Objects\u2014Project Grudge,\u201d Technical Report 102-AC-49/15-100, or \u201cThe Grudge Report,\u201d authored by Lt. Howard W. Smith and George W. Towles. Hynek\u2019s April anal"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1949,
+     "cls": "context entry (not a sighting)",
+     "text": "The January 1950 issue of True magazine is published, with Donald Keyhoe\u2019s article, \u201cThe Flying Saucers Are Real.\u201d Keyhoe argues that the Air Force knows UFOs are real, alien, and covering up information from the public "
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1950,
+     "cls": "bare compiler wording",
+     "text": "Tsuneo Saheki\u00a0of the Osaka Planetarium in Japan sees an explosion on Mars, 60 miles high and 900 miles in diameter. Thomas Dobbins and William Sheehan investigate and find that this and other Martian flashes are likely c"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1950,
+     "cls": "quoted period word",
+     "text": "Naval Commander Robert Bright McLaughlin, in charge of a team of Navy scientists at White Sands Proving Ground, New Mexico, writes about the Charles B. Moore\u00a0sighting of April 24, 1949, in a True magazine article and spe"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1950,
+     "cls": "bare compiler wording",
+     "text": "Evening. Aerojet engineer Daniel Fry\u00a0is alone during the holiday at White Sands Proving Ground, New Mexico, when a flying saucer appears and hovers just above the ground. Fry approaches and strokes its surface when a voi"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1950,
+     "cls": "bare compiler wording",
+     "text": "Donald Keyhoe\u2019s True article is expanded into a paperback book, The Flying Saucers Are Real, which sells 500,000 copies. It brings many interested civilians and military people to accept UFO reality, government withholdi"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1951,
+     "cls": "context entry (not a sighting)",
+     "text": "USAF Lt. Col. Milton D. Willis\u00a0replies to Robert B. Sibley, president of the Aero Club of New England, who has written Secretary of the Air Force Thomas K. Finletter\u00a0asking that the UFO project be reinstated because pilo"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1951,
+     "cls": "bare compiler wording",
+     "text": "The Day the Earth Stood Still, directed by Robert Wise\u00a0and starring Michael Rennie\u00a0and Patricia Neal, premieres in New York City. The ultimate flying saucer science-fiction movie, the plot revolves around an alien who la"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1952,
+     "cls": "bare compiler wording",
+     "text": "Contactee George Van Tassel, living at Giant Rock in the Mojave Desert near Landers, California, receives the first of many psychic messages from extraterrestrial starship commanders. This one is from \u201cLutbunn, senior in"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1952,
+     "cls": "bare compiler wording",
+     "text": "Jet pilots allegedly discover the wreck of a flying disc on Spitsbergen in the Svalbard archipelago, Norway. It is taken to Narvik, where it is identified as either a Russian or extraterrestrial device. Other variants of"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1952,
+     "cls": "bare compiler wording",
+     "text": "7:00\u20138:00 p.m. Owner Edwin C. Johnston and more than 20 employees of Aircraft Hydroforming at Culver City, California, see a bright silvery elliptical object that moves northwest over the Northrup aircraft plant in nearb"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1952,
+     "cls": "context entry (not a sighting)",
+     "text": "3:00 a.m. USAF 1st Lt. W. A. Theil and enlisted man Edwards see a red ball with a trail of blue flame fly straight and level over Lake Charles, Louisiana. (Sparks,\u00a0p. 165) August 2  or July 30  \u2014 George Hunt Williamson\u00a0a"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1952,
+     "cls": "bare compiler wording",
+     "text": "9:25 p.m. Affa of Uranus contacts the Baileys, the Streeters, and the Williamsons (as well as two students named Ronald Tucker and Betty Bowen) by radio, using 405 or 450 kilocycles. Zo and Um of Neptune, Regga of Mars, "
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1952,
+     "cls": "context entry (not a sighting)",
+     "text": "John P. Cahn\u00a0publishes an expos\u00e9 of Frank Scully\u2019s Behind the Flying Saucers in True magazine. Scully\u2019s sources are an oil prospector named Silas M. Newton\u00a0and a mysterious \u201cDr. Gee,\u201d later identified as Leo\u00a0GeBauer,\u00a0a c"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1952,
+     "cls": "bare compiler wording",
+     "text": "CIA Assistant Director of Scientific Intelligence H. Marshall Chadwell\u00a0writes a 4-page memo to CIA Director Walter Bedell Smith, summarizing his earlier memo and stating that since 1947 unexplained sightings were running"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1953,
+     "cls": "bare compiler wording",
+     "text": "Weapons engineer Chester W. Lytle Sr.,\u00a0deputy director of operations for SAC\u2019s Eighth Air Force Headquarters, is visiting Eielson AFB near Moose Creek, Alaska, with Gen. William H. Blanchard\u00a0when he finds out his wife is"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1953,
+     "cls": "bare compiler wording",
+     "text": "2:00 a.m. Sara Shaw and Jan Whitley, who share an isolated one-bedroom cabin in the forest around Tujunga Canyon north of Burbank, California, wake up when an odd light shines through the window. An eerie silence falls o"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1953,
+     "cls": "bare compiler wording",
+     "text": "Wilbert B. Smith\u00a0completes his classified report on Project Magnet for the Canadian Department of Transport, writing that it can be deduced that UFOs are 100 or more feet in diameter, they can travel at speeds of several"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1953,
+     "cls": "bare compiler wording",
+     "text": "Paramount Pictures\u2019 The War of the Worlds premieres in New York City. It is a modern retelling of H. G. Wells\u2019s story of an invasion from Mars and features a Northrop YB-49 flying wing dropping an atomic bomb on the inva"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1953,
+     "cls": "bare compiler wording",
+     "text": "Flying Saucers International holds the first UFO conference at the Hollywood Hotel in Los Angeles, California, featuring contactee speakers. However, George Van Tassel\u2019s first Giant Rock Interplanetary Spacecraft Convent"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1953,
+     "cls": "bare compiler wording",
+     "text": "Lina Ivanova Kravets is in her garden in Shtanivka, Ukraine, when she sees a trio of intruders cutting branches off her apple, plum, and cherry trees. Approaching closer, she sees they are 11-foot-tall entities wearing d"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1953,
+     "cls": "bare compiler wording",
+     "text": "Contactee George Van Tassel\u00a0gets to step, for the first time, inside a flying saucer, when an extraterrestrial named Solganda wakes him up and leads him to a waiting ship, giving him a tour of the interior and a techniqu"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1953,
+     "cls": "context entry (not a sighting)",
+     "text": "Donald E. Keyhoe\u2019s Flying Saucers from Outer Space is published by Henry Holt. Excerpts appear in the October 20 issue of Look. His message is that aliens are here, the military knows it, and they are covering it up from"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1953,
+     "cls": "bare compiler wording",
+     "text": "Navy Capt. Walter Karig,\u00a0author of the 1947 novel Zotz!, writes \u201cOperation UFO: The Official Truth about Flying Saucers\u201d for The American Weekly newspaper insert. He covers Secretary of the Navy Kimball\u2019s 1952 UFO sighti"
+    }
+   ],
+   "pre_t0_by_catalog": {
+    "WITS": 2,
+    "PREROS": 3,
+    "HATCH": 6,
+    "EBERHART": 69,
+    "OVERMEIRE": 48,
+    "RR0": 15,
+    "JOHNSON": 10
+   },
+   "nuforc": {
+    "n_pre": 447,
+    "hits_pre": 5,
+    "per1000_pre": 11.185682326621924,
+    "n_post": 132714,
+    "hits_post": 763,
+    "per1000_post": 5.749205057492051,
+    "window50": {
+     "n_before": 447,
+     "hits_before": 5,
+     "per1000_before": 11.185682326621924,
+     "n_after": 47240,
+     "hits_after": 361,
+     "per1000_after": 7.641828958509738
+    },
+    "change_point": 1997,
+    "change_point_90ci": [
+     1994.0,
+     1999.0
+    ]
+   }
+  },
+  "f_satellite": {
+   "t0": 1957,
+   "event": "Sputnik 1",
+   "catalogs": {
+    "n_pre": 13710,
+    "hits_pre": 21,
+    "per1000_pre": 1.5317286652078774,
+    "n_post": 28739,
+    "hits_post": 242,
+    "per1000_post": 8.420613104144195,
+    "window50": {
+     "n_before": 12261,
+     "hits_before": 15,
+     "per1000_before": 1.223391240518718,
+     "n_after": 28309,
+     "hits_after": 237,
+     "per1000_after": 8.371895863506305
+    },
+    "change_point": 1956,
+    "change_point_90ci": [
+     1955.0,
+     1958.0
+    ]
+   },
+   "pre_t0_classes": {
+    "bare compiler wording": 19,
+    "compiler comparison": 1,
+    "quoted period word": 1
+   },
+   "pre_t0_examples": [
+    {
+     "cat": "WITS",
+     "year": 1672,
+     "cls": "bare compiler wording",
+     "text": "Unknown planetoid orbiting Venus: Giovanni Domenico Cassini, the renowned astronomer and director of the Paris Observatory, noted an enigmatic finding on this date. He observed what appeared to be a potential satellite o"
+    },
+    {
+     "cat": "WITS",
+     "year": 1764,
+     "cls": "bare compiler wording",
+     "text": "A mysterious satellite attributed to the planet Venus was observed once more while Venus was visible in the evening sky. Positioned at a heliocentric longitude of 59\u00b0 with an elongation of 30\u00b0, this enigmatic object garn"
+    },
+    {
+     "cat": "WITS",
+     "year": 1764,
+     "cls": "compiler comparison",
+     "text": "A mystery satellite was sighted near planet Venus. The object, resembling a planetoid, was observed orbiting Venus with a heliocentric longitude of 98\u00b0 and an elongation of 35\u00b0. This sighting adds to the collection of re"
+    },
+    {
+     "cat": "WITS",
+     "year": 1768,
+     "cls": "bare compiler wording",
+     "text": "Astronomer Christian Horrebow documented an unusual sighting of a \"small light, that was not a star,\" seemingly orbiting Venus. Referred to as \"Neith\" by M. Hozeau of the Brussels observatory, this object remained enigma"
+    },
+    {
+     "cat": "WITS",
+     "year": 1878,
+     "cls": "bare compiler wording",
+     "text": "Amateur astronomers Mr. Gemill and Mr. Wampler, using a 5-inch telescope, observed an unusual dark spherical object on the eastern edge of Jupiter's disc. Moving westward above the northern belt and parallel to the plane"
+    },
+    {
+     "cat": "HATCH",
+     "year": 1933,
+     "cls": "bare compiler wording",
+     "text": "1934? 'Star' going west / satellite speed / 10 minute(s). Turns going northwest!"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1952,
+     "cls": "quoted period word",
+     "text": "George G. Carey, CIA assistant director for operations, writes a memo to Chadwell\u00a0on \u201cUSSR and Satellite Mentions of Flying Saucers\u201d that reviews mentions of UFOs in the Soviet press during the past two years."
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1952,
+     "cls": "bare compiler wording",
+     "text": "Aladino F\u00e9lix\u00a0and a friend are climbing a hill near Angatuba, S\u00e3o Paulo, Brazil. When they get to the top, F\u00e9lix claims they see numerous UFOs flying around. F\u00e9lix comes back another day by himself; eventually a saucer l"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1956,
+     "cls": "bare compiler wording",
+     "text": "A press leak from the Air Force Association reveals that proposals for two types of UFO-detecting satellites are under development. A television subsystem is cancelled as impractical, but an infrared subsystem requires m"
+    },
+    {
+     "cat": "OVERMEIRE",
+     "year": 1757,
+     "cls": "bare compiler wording",
+     "text": " A conical object flew over the city at high speed. Before disappearing, this UFO released three satellite-shaped discs."
+    },
+    {
+     "cat": "OVERMEIRE",
+     "year": 1942,
+     "cls": "bare compiler wording",
+     "text": " One fine morning, the weather station's sub-officer observed an object directly above him, like a small, bright point of aluminum white. About forty people were able to observe the phenomenon. One of the witnesses recou"
+    },
+    {
+     "cat": "OVERMEIRE",
+     "year": 1953,
+     "cls": "bare compiler wording",
+     "text": " At around 11 o'clock, Mrs. S. went to the grocer's, by a small sunken path. Suddenly she observed 6 to 8 orange balloons, but not luminous, which followed the path, progressing by leaps, without touching the ground. The"
+    },
+    {
+     "cat": "OVERMEIRE",
+     "year": 1956,
+     "cls": "bare compiler wording",
+     "text": " (cf: 1955, same place) For 10 days Howard Menger and his group prepared for a trip to the Moon. In September 1956 it took place. (Mitarbeiter, \"Ufo Geheimnisse\", Berlin, January 1998) (cf: 1956, August, second week) How"
+    },
+    {
+     "cat": "RR0",
+     "year": 1947,
+     "cls": "bare compiler wording",
+     "text": " President Truman jots down on a calendar-like personal journal various questions he wants to ask the Secretary of State. He particularly wants to know if an action plan is necessary to counter an attack from a satellite"
+    },
+    {
+     "cat": "RR0",
+     "year": 1954,
+     "cls": "bare compiler wording",
+     "text": " The coach of a junior baseball team films near the Great Falls in Minnesota 2 objects streaking the sky near the Air Force base. The official version is that it is a squadron of F-100s returning to their base, but the s"
+    },
+    {
+     "cat": "RR0",
+     "year": 1955,
+     "cls": "bare compiler wording",
+     "text": " *La Patrie*, a major Montreal weekly, highlights the intervention of Dr. Tombaugh, astronomer and physicist, at the opening of the 9th annual congress of the *American Rocket Society*: in front of 3000 chemists, physici"
+    },
+    {
+     "cat": "JOHNSON",
+     "year": 1956,
+     "cls": "bare compiler wording",
+     "text": "In Bastrop, Louisiana at 4:00 p.m. at least five silver disc-shaped objects emitted a \"smoke screen,\" darted rapidly, then ejected smaller satellite objects that dispersed in all directions.\" The duration of the sighting"
+    },
+    {
+     "cat": "JOHNSON",
+     "year": 1956,
+     "cls": "bare compiler wording",
+     "text": "While a large luminous disc hovered over Keansburg, New Jersey in Monmouth County at 9:30 p.m. two small satellite objects were ejected from it and flew away. "
+    },
+    {
+     "cat": "JOHNSON",
+     "year": 1953,
+     "cls": "bare compiler wording",
+     "text": "At 11:45 p.m. a large red, cigar-shaped or cylindrical object hovered in the sky over Omaha, Nebraska. Several satellite objects orbited around it. "
+    },
+    {
+     "cat": "NICAP",
+     "year": 1954,
+     "cls": "bare compiler wording",
+     "text": "Large opaque or black object with 6 smaller satellite objects on a horizontal line BOAC Case (AL) (NICAP: 09 - RADAR Cases, Code: R, Rating: 5, BB: BBU)"
+    },
+    {
+     "cat": "NICAP",
+     "year": 1954,
+     "cls": "bare compiler wording",
+     "text": "British astronomer saw a silvery object with 15-20 smaller satellite objects.  NICAP, II  (NICAP: 01 - Distant Encounters)"
+    }
+   ],
+   "pre_t0_by_catalog": {
+    "WITS": 5,
+    "HATCH": 1,
+    "EBERHART": 3,
+    "OVERMEIRE": 4,
+    "RR0": 3,
+    "JOHNSON": 3,
+    "NICAP": 2
+   },
+   "nuforc": {
+    "n_pre": 447,
+    "hits_pre": 1,
+    "per1000_pre": 2.237136465324385,
+    "n_post": 132714,
+    "hits_post": 3051,
+    "per1000_post": 22.989285229892854,
+    "window50": {
+     "n_before": 447,
+     "hits_before": 1,
+     "per1000_before": 2.237136465324385,
+     "n_after": 47240,
+     "hits_after": 378,
+     "per1000_after": 8.00169348010161
+    },
+    "change_point": 2019,
+    "change_point_90ci": [
+     2019.0,
+     2019.0
+    ]
+   }
+  },
+  "f_drone": {
+   "t0": 2013,
+   "event": "consumer quadcopters (DJI Phantom, Jan 2013)",
+   "catalogs": {
+    "n_pre": 42278,
+    "hits_pre": 23,
+    "per1000_pre": 0.5440181654761341,
+    "n_post": 171,
+    "hits_post": 24,
+    "per1000_post": 140.35087719298247,
+    "window50": {
+     "n_before": 25165,
+     "hits_before": 12,
+     "per1000_before": 0.47685277170673557,
+     "n_after": 171,
+     "hits_after": 24,
+     "per1000_after": 140.35087719298247
+    },
+    "change_point": 2012,
+    "change_point_90ci": [
+     2012.0,
+     2014.0
+    ]
+   },
+   "pre_t0_classes": {
+    "bare compiler wording": 21,
+    "compiler comparison": 1,
+    "context entry (not a sighting)": 1
+   },
+   "pre_t0_examples": [
+    {
+     "cat": "HATCH",
+     "year": 1947,
+     "cls": "bare compiler wording",
+     "text": "1 observer. Humming or drone. Pale blue blimp-cylinder/cigar-shape overhead. Away into dark sky."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1953,
+     "cls": "bare compiler wording",
+     "text": "Project Bluebook Case #1261. 3 / ship. 50cm saucer near remote-control drone tests. Fast."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1974,
+     "cls": "bare compiler wording",
+     "text": "2 observer(s). 35 silver saucers drone going north. Stop over lake. 1 tilts all over/all about and circles. Quickly going up."
+    },
+    {
+     "cat": "HATCH",
+     "year": 1978,
+     "cls": "bare compiler wording",
+     "text": "50' saucer drones / low altitude. Ringed / lit portholes. Red light rotates / top. Going  to  east-northeast."
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1946,
+     "cls": "bare compiler wording",
+     "text": "Able nuclear test, Bikini Atoll, Marshall Islands. Radio-controlled autopilots are installed in eight B-17 bombers, converting them into remote-controlled drones that are then loaded with automatic cameras, radiation det"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1948,
+     "cls": "bare compiler wording",
+     "text": "6:17 a.m. The X-Ray nuclear device is detonated near Enewetak Atoll in the Marshall Islands. B-17 pilotless drone aircraft are flown through the cloud, and a drone light tank is used to recover soil samples from the crat"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1948,
+     "cls": "bare compiler wording",
+     "text": "During the Zebra nuclear detonation at Enewetak Atoll in the Marshall Islands, a manned aircraft accidentally flies through the mushroom cloud. Because the pilot and crew \u201csuffered no ill effects,\u201d the Air Force decides "
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1951,
+     "cls": "bare compiler wording",
+     "text": "Drones are again used in the series of thermonuclear tests designated Operation Greenhouse at Enewetak Atoll in the Marshall Islands. During the Easy detonation, two T-33 drones are lost. One receives heavy damage from t"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1953,
+     "cls": "bare compiler wording",
+     "text": "1:06 p.m. R. W. Love and a Mr. Ferrenti, while engaged in retrieving radio-controlled drones on a boat 1,100 yards offshore and south of Naval Air Station Point Mugu  now Naval Base Ventura County  near Oxnard, Californi"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1962,
+     "cls": "bare compiler wording",
+     "text": "The CIA and USAF instruct Lockheed to study a high-speed, high-altitude drone concept. Kelly Johnson\u00a0specifies speeds of Mach 3.3\u20133.5, an operational altitude of 87,000\u201395,000 feet, and a range of 3,500 miles. It would m"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1966,
+     "cls": "bare compiler wording",
+     "text": "The fourth and final launch of a D-21 drone from an M-21 ends in disaster 150 miles off the coast of California. Unlike the three previous launches, this one is performed straight and level, not in an outside loop to ass"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1969,
+     "cls": "bare compiler wording",
+     "text": "The D-21 drone makes its first reconnaissance mission over China, launched from a B-52. It flies over the Lop Nur Nuclear Test Base in Xinjiang but strays off course into Siberia and crashes."
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1970,
+     "cls": "bare compiler wording",
+     "text": "The CIA is testing a small drone aircraft in the shape of a bird at Groom Lake, Nevada. Called Project Aquiline, the agency wants to fly a reconnaissance UAV over key intelligence targets, such as ICBM sites and nuclear "
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1979,
+     "cls": "compiler comparison",
+     "text": "2:30 p.m. Flying instructor Laurie Adlington has just left Blackbushe Airport in Yateley, Hampshire, England, with Lt. James Plastow from Sandhurst Military College for his pilot\u2019s license test in a Cessna 150. They are "
+    },
+    {
+     "cat": "EBERHART",
+     "year": 1991,
+     "cls": "bare compiler wording",
+     "text": "8:00 p.m. Captain Achille Zaghetti and his copilot are flying a McDonnell Douglas MD-80 Alitalia airliner with 57 passengers. They are over the English Channel just off the coast of Romney, Kent, England, and preparing t"
+    },
+    {
+     "cat": "EBERHART",
+     "year": 2005,
+     "cls": "bare compiler wording",
+     "text": "The 30th Reconnaissance Squadron, which operates Lockheed Martin RQ-170 Sentinel drones, is activated at Tonopah Test Range Airport in Nevada. RQ-170 Sentinels have been deployed to Afghanistan, where one was sighted at "
+    },
+    {
+     "cat": "EBERHART",
+     "year": 2008,
+     "cls": "bare compiler wording",
+     "text": "The 556th Test and Evaluation Squadron becomes operational at Creech AFB, Nevada, as \u201cthe Air Force\u2019s  first  test squadron for unmanned aerial systems.\u201d The base is home to drone operators for both the US Air Force and "
+    },
+    {
+     "cat": "EBERHART",
+     "year": 2012,
+     "cls": "bare compiler wording",
+     "text": "Indian Army troops deployed along the Chinese border from Ladakh to Arunachal Pradash report as many as 100 UFO sightings. The 14th Corps, which is deployed in the Kargil and Leh districts and patrols the frontier with C"
+    },
+    {
+     "cat": "OVERMEIRE",
+     "year": 1953,
+     "cls": "bare compiler wording",
+     "text": " 1 p.m. Witness: the owner of Love Diving Co, R.W. Love, occupied in searching for lost radio-controlled drones, saw a flat, white disc, 18 to 20 feet in size, flying above him for 6 minutes."
+    },
+    {
+     "cat": "OVERMEIRE",
+     "year": 1987,
+     "cls": "bare compiler wording",
+     "text": " At the end of the 1980s and in the 1990s, a number of UAVs (Unmanned Aerial Vehicles) existed of both American and international types. Civilian access to data concerning UAVs was still in its embryonic stage (note from"
+    },
+    {
+     "cat": "RR0",
+     "year": 1953,
+     "cls": "bare compiler wording",
+     "text": " At Point Mugu (Mugu?), California, R. W. Love, owner of the *Love Diving Co.*, tasked with recovering radio-controlled drones, observed for 6 minutes a flat white disc flying horizontally above him. (13 h)"
+    },
+    {
+     "cat": "JOHNSON",
+     "year": 1967,
+     "cls": "bare compiler wording",
+     "text": "On this evening George W. Ritter and three other soldiers were on guard duty at the Hunter Liggett Military Reservation in California when they all observed an orange fluorescent oval-shaped craft slowly approach, leavin"
+    },
+    {
+     "cat": "JOHNSON",
+     "year": 1953,
+     "cls": "context entry (not a sighting)",
+     "text": "At 2:37 p.m. transair chief pilot Ulf Christiernsson and airline mechanic Johansson saw a nearly round, slightly elliptical UFO with a metallic shine flying close to the speed of sound in the opposite direction from thei"
+    }
+   ],
+   "pre_t0_by_catalog": {
+    "HATCH": 4,
+    "EBERHART": 14,
+    "OVERMEIRE": 2,
+    "RR0": 1,
+    "JOHNSON": 2
+   },
+   "nuforc": {
+    "n_pre": 81406,
+    "hits_pre": 32,
+    "per1000_pre": 0.39309141832297373,
+    "n_post": 51755,
+    "hits_post": 216,
+    "per1000_post": 4.173509805815863,
+    "window50": {
+     "n_before": 80485,
+     "hits_before": 32,
+     "per1000_before": 0.39758961297136114,
+     "n_after": 51755,
+     "hits_after": 216,
+     "per1000_after": 4.173509805815863
+    },
+    "change_point": 2014,
+    "change_point_90ci": [
+     2012.0,
+     2015.0
+    ]
+   }
+  },
+  "f_starlink": {
+   "t0": 2019,
+   "event": "first Starlink launch, 24 May 2019",
+   "catalogs": {
+    "n_pre": 42376,
+    "hits_pre": 0,
+    "per1000_pre": 0.0,
+    "n_post": 73,
+    "hits_post": 2,
+    "per1000_post": 27.397260273972602,
+    "window50": {
+     "n_before": 18786,
+     "hits_before": 0,
+     "per1000_before": 0.0,
+     "n_after": 73,
+     "hits_after": 2,
+     "per1000_after": 27.397260273972602
+    }
+   },
+   "pre_t0_classes": {},
+   "pre_t0_examples": [],
+   "pre_t0_by_catalog": {},
+   "nuforc": {
+    "n_pre": 119098,
+    "hits_pre": 36,
+    "per1000_pre": 0.30227207845639725,
+    "n_post": 14063,
+    "hits_post": 1446,
+    "per1000_post": 102.823010737396,
+    "window50": {
+     "n_before": 116916,
+     "hits_before": 34,
+     "per1000_before": 0.29080707516507576,
+     "n_after": 14063,
+     "hits_after": 1446,
+     "per1000_after": 102.823010737396
+    },
+    "change_point": 2019,
+    "change_point_90ci": [
+     2019.0,
+     2019.0
+    ]
+   }
+  }
+ },
+ "B_congruent_by_decade": {
+  "HATCH": {
+   "1890": {
+    "n": 72,
+    "cigar": [
+     0.19444444444444445,
+     0.11951371043417634,
+     0.3003297527838992
+    ],
+    "beam": [
+     0.16666666666666666,
+     0.09799275085321624,
+     0.26910920902104796
+    ],
+    "disc": [
+     0.041666666666666664,
+     0.01427054877259009,
+     0.11549464605452325
+    ],
+    "metallic": [
+     0.0,
+     0,
+     0.05065293981139638
+    ],
+    "triangle": [
+     0.0,
+     0,
+     0.05065293981139638
+    ],
+    "light": [
+     0.3194444444444444,
+     0.22325457048556474,
+     0.43392565777966174
+    ],
+    "sphere": [
+     0.041666666666666664,
+     0.01427054877259009,
+     0.11549464605452325
+    ],
+    "hover": [
+     0.05555555555555555,
+     0.02181386292692504,
+     0.13432208357209396
+    ],
+    "flashing": [
+     0.027777777777777776,
+     0.007650861466140468,
+     0.09574358168906721
+    ],
+    "formation": [
+     0.013888888888888888,
+     0.002455888640432169,
+     0.07456780284286987
+    ],
+    "fireball": [
+     0.05555555555555555,
+     0.02181386292692504,
+     0.13432208357209396
+    ]
+   },
+   "1900": {
+    "n": 72,
+    "cigar": [
+     0.3472222222222222,
+     0.2475326163175922,
+     0.4623891152914456
+    ],
+    "beam": [
+     0.1527777777777778,
+     0.08750619034775439,
+     0.25322501785460416
+    ],
+    "disc": [
+     0.1527777777777778,
+     0.08750619034775439,
+     0.25322501785460416
+    ],
+    "metallic": [
+     0.027777777777777776,
+     0.007650861466140468,
+     0.09574358168906721
+    ],
+    "triangle": [
+     0.0,
+     0,
+     0.05065293981139638
+    ],
+    "light": [
+     0.3611111111111111,
+     0.25981514475687584,
+     0.4764773385240676
+    ],
+    "sphere": [
+     0.041666666666666664,
+     0.01427054877259009,
+     0.11549464605452325
+    ],
+    "hover": [
+     0.08333333333333333,
+     0.03875189713049035,
+     0.17012555271233995
+    ],
+    "flashing": [
+     0.05555555555555555,
+     0.02181386292692504,
+     0.13432208357209396
+    ],
+    "formation": [
+     0.0,
+     0,
+     0.05065293981139638
+    ],
+    "fireball": [
+     0.05555555555555555,
+     0.02181386292692504,
+     0.13432208357209396
+    ]
+   },
+   "1910": {
+    "n": 43,
+    "cigar": [
+     0.11627906976744186,
+     0.050703529948620846,
+     0.24479448890641395
+    ],
+    "beam": [
+     0.046511627906976744,
+     0.012848990317319689,
+     0.15455775923863058
+    ],
+    "disc": [
+     0.11627906976744186,
+     0.050703529948620846,
+     0.24479448890641395
+    ],
+    "metallic": [
+     0.023255813953488372,
+     0.004116981177419918,
+     0.12059267861216882
+    ],
+    "triangle": [
+     0.0,
+     0,
+     0.08201257002322722
+    ],
+    "light": [
+     0.13953488372093023,
+     0.06555634267713947,
+     0.27263876594425684
+    ],
+    "sphere": [
+     0.20930232558139536,
+     0.11422705997811457,
+     0.35205931794236645
+    ],
+    "hover": [
+     0.11627906976744186,
+     0.050703529948620846,
+     0.24479448890641395
+    ],
+    "flashing": [
+     0.023255813953488372,
+     0.004116981177419918,
+     0.12059267861216882
+    ],
+    "formation": [
+     0.0,
+     0,
+     0.08201257002322722
+    ],
+    "fireball": [
+     0.023255813953488372,
+     0.004116981177419918,
+     0.12059267861216882
+    ]
+   },
+   "1920": {
+    "n": 33,
+    "cigar": [
+     0.12121212121212122,
+     0.04816083267584231,
+     0.2732584325026516
+    ],
+    "beam": [
+     0.12121212121212122,
+     0.04816083267584231,
+     0.2732584325026516
+    ],
+    "disc": [
+     0.2727272727272727,
+     0.15067272656322814,
+     0.44217883254386814
+    ],
+    "metallic": [
+     0.21212121212121213,
+     0.1067588656643618,
+     0.3775197758712936
+    ],
+    "triangle": [
+     0.0,
+     0,
+     0.10427343003561192
+    ],
+    "light": [
+     0.09090909090909091,
+     0.03140337104926305,
+     0.23572943534351032
+    ],
+    "sphere": [
+     0.24242424242424243,
+     0.12831561346647294,
+     0.4102494868549029
+    ],
+    "hover": [
+     0.0,
+     0,
+     0.10427343003561192
+    ],
+    "flashing": [
+     0.0,
+     0,
+     0.10427343003561192
+    ],
+    "formation": [
+     0.0,
+     0,
+     0.10427343003561192
+    ],
+    "fireball": [
+     0.030303030303030304,
+     0.005369272089651725,
+     0.15319061673168066
+    ]
+   },
+   "1930": {
+    "n": 68,
+    "cigar": [
+     0.04411764705882353,
+     0.0151163456535321,
+     0.12187392182380694
+    ],
+    "beam": [
+     0.11764705882352941,
+     0.06083419938921196,
+     0.21535118623694333
+    ],
+    "disc": [
+     0.27941176470588236,
+     0.18677805007008424,
+     0.3956365954834669
+    ],
+    "metallic": [
+     0.07352941176470588,
+     0.03181437515487155,
+     0.160853939581994
+    ],
+    "triangle": [
+     0.0,
+     0,
+     0.05347319658804926
+    ],
+    "light": [
+     0.17647058823529413,
+     0.10393485385088719,
+     0.28360662629432115
+    ],
+    "sphere": [
+     0.10294117647058823,
+     0.05076512677817478,
+     0.19758123521821724
+    ],
+    "hover": [
+     0.10294117647058823,
+     0.05076512677817478,
+     0.19758123521821724
+    ],
+    "flashing": [
+     0.029411764705882353,
+     0.008103009605045342,
+     0.10104823424253043
+    ],
+    "formation": [
+     0.014705882352941176,
+     0.0026006166023507804,
+     0.07871160361546173
+    ],
+    "fireball": [
+     0.029411764705882353,
+     0.008103009605045342,
+     0.10104823424253043
+    ]
+   },
+   "1940": {
+    "n": 1018,
+    "cigar": [
+     0.07072691552062868,
+     0.05653901092586531,
+     0.08814251309899332
+    ],
+    "beam": [
+     0.01768172888015717,
+     0.011213283732517083,
+     0.027776712368639888
+    ],
+    "disc": [
+     0.5618860510805501,
+     0.53123090892565,
+     0.592075873652002
+    ],
+    "metallic": [
+     0.13654223968565815,
+     0.11681114787073765,
+     0.1590061608001953
+    ],
+    "triangle": [
+     0.018664047151277015,
+     0.011980555548182724,
+     0.028966691070079834
+    ],
+    "light": [
+     0.06679764243614932,
+     0.053031368816424646,
+     0.08382115314001165
+    ],
+    "sphere": [
+     0.10510805500982318,
+     0.08772938386022366,
+     0.12545590826333047
+    ],
+    "hover": [
+     0.06385068762278978,
+     0.05041035421638633,
+     0.08057041618873319
+    ],
+    "flashing": [
+     0.0206286836935167,
+     0.013531360837766373,
+     0.03133038681470736
+    ],
+    "formation": [
+     0.0550098231827112,
+     0.04260330816988957,
+     0.0707622075812797
+    ],
+    "fireball": [
+     0.04911591355599214,
+     0.03745231314172502,
+     0.06416969950681072
+    ]
+   },
+   "1950": {
+    "n": 4770,
+    "cigar": [
+     0.09371069182389936,
+     0.08576413725364014,
+     0.10231114366896106
+    ],
+    "beam": [
+     0.03333333333333333,
+     0.028602906143338224,
+     0.03881483138695605
+    ],
+    "disc": [
+     0.4641509433962264,
+     0.4500324832418858,
+     0.47832710036893206
+    ],
+    "metallic": [
+     0.057651991614255764,
+     0.05138635134070137,
+     0.06462956338927209
+    ],
+    "triangle": [
+     0.016771488469601678,
+     0.013496856928613965,
+     0.020823846129484992
+    ],
+    "light": [
+     0.14863731656184487,
+     0.13882489293983535,
+     0.15901523648548954
+    ],
+    "sphere": [
+     0.10922431865828092,
+     0.10068477322774719,
+     0.11839279314982179
+    ],
+    "hover": [
+     0.14465408805031446,
+     0.13495760463902548,
+     0.1549224785208347
+    ],
+    "flashing": [
+     0.039412997903563944,
+     0.03425157816040924,
+     0.04531570366980483
+    ],
+    "formation": [
+     0.02830188679245283,
+     0.023961877181621728,
+     0.0334010650659803
+    ],
+    "fireball": [
+     0.03647798742138365,
+     0.031519682847105324,
+     0.0421823017348716
+    ]
+   },
+   "1960": {
+    "n": 3134,
+    "cigar": [
+     0.07147415443522655,
+     0.06296964941276122,
+     0.08102793159961365
+    ],
+    "beam": [
+     0.058710912571793235,
+     0.05100796639538166,
+     0.0674943824803551
+    ],
+    "disc": [
+     0.41289087428206767,
+     0.3957698742130314,
+     0.4302251664544134
+    ],
+    "metallic": [
+     0.04499042756860242,
+     0.038273346068775055,
+     0.052821628260075706
+    ],
+    "triangle": [
+     0.032227185705169116,
+     0.02659410173742869,
+     0.03900564045478395
+    ],
+    "light": [
+     0.21378430121250797,
+     0.19978547111839018,
+     0.2284839482174998
+    ],
+    "sphere": [
+     0.08838544990427569,
+     0.07894460879933941,
+     0.09883415479408099
+    ],
+    "hover": [
+     0.14262922782386725,
+     0.13082322042901925,
+     0.15531027974511316
+    ],
+    "flashing": [
+     0.05073388640714742,
+     0.0435856122419528,
+     0.05898221654838512
+    ],
+    "formation": [
+     0.01244416081684748,
+     0.009116546142927916,
+     0.01696558623749562
+    ],
+    "fireball": [
+     0.03190810465858328,
+     0.02630490105664318,
+     0.03865746033215349
+    ]
+   },
+   "1970": {
+    "n": 4329,
+    "cigar": [
+     0.07623007623007623,
+     0.06869527805708117,
+     0.08451632330863687
+    ],
+    "beam": [
+     0.08223608223608224,
+     0.07441785418431139,
+     0.09079510905902526
+    ],
+    "disc": [
+     0.3428043428043428,
+     0.3288098400541683,
+     0.357077592341237
+    ],
+    "metallic": [
+     0.038808038808038806,
+     0.03345152694276914,
+     0.04498235810855606
+    ],
+    "triangle": [
+     0.05197505197505198,
+     0.04575072783692814,
+     0.058993835176868625
+    ],
+    "light": [
+     0.22984522984522984,
+     0.21755461954627858,
+     0.24261489138160758
+    ],
+    "sphere": [
+     0.13975513975513976,
+     0.1297452071775862,
+     0.15040387558602092
+    ],
+    "hover": [
+     0.1342111342111342,
+     0.12438018027742612,
+     0.1446907222914561
+    ],
+    "flashing": [
+     0.05844305844305844,
+     0.05183870278265191,
+     0.0658304037916572
+    ],
+    "formation": [
+     0.009471009471009472,
+     0.006989275003678033,
+     0.01282257318389476
+    ],
+    "fireball": [
+     0.03834603834603834,
+     0.03302278373048006,
+     0.04448791963795141
+    ]
+   },
+   "1980": {
+    "n": 1597,
+    "cigar": [
+     0.09517845961177207,
+     0.08174131630854846,
+     0.11055853397020489
+    ],
+    "beam": [
+     0.08829054477144646,
+     0.07534498999671255,
+     0.10321208897974582
+    ],
+    "disc": [
+     0.27802128991859737,
+     0.2566001152939273,
+     0.30050784591847496
+    ],
+    "metallic": [
+     0.041327489041953665,
+     0.03261553774728785,
+     0.05224082780443195
+    ],
+    "triangle": [
+     0.12273011897307451,
+     0.10753598738582908,
+     0.13973494810210424
+    ],
+    "light": [
+     0.2886662492172824,
+     0.26696946149116585,
+     0.3113773280975105
+    ],
+    "sphere": [
+     0.12523481527864747,
+     0.10989523065066165,
+     0.1423730762199244
+    ],
+    "hover": [
+     0.14715090795241076,
+     0.1306230134362617,
+     0.16537229303253564
+    ],
+    "flashing": [
+     0.044458359423919847,
+     0.03539574080541054,
+     0.055707338974625153
+    ],
+    "formation": [
+     0.012523481527864746,
+     0.008121477950291323,
+     0.01926511670092214
+    ],
+    "fireball": [
+     0.042579837194740136,
+     0.03372591592855128,
+     0.053629135314494876
+    ]
+   },
+   "1990": {
+    "n": 2556,
+    "cigar": [
+     0.07668231611893583,
+     0.06699007916870016,
+     0.08764511388386996
+    ],
+    "beam": [
+     0.07785602503912363,
+     0.0680902853609776,
+     0.08888880272009743
+    ],
+    "disc": [
+     0.2421752738654147,
+     0.22596186259465614,
+     0.25916252947710333
+    ],
+    "metallic": [
+     0.04460093896713615,
+     0.03725845627634647,
+     0.053310272663756694
+    ],
+    "triangle": [
+     0.16471048513302033,
+     0.15083578263352962,
+     0.17959153755690718
+    ],
+    "light": [
+     0.33098591549295775,
+     0.3130084128532614,
+     0.34947070304203465
+    ],
+    "sphere": [
+     0.13732394366197184,
+     0.12452354149474815,
+     0.15121289469724125
+    ],
+    "hover": [
+     0.18231611893583724,
+     0.16782792250021325,
+     0.19775782311779685
+    ],
+    "flashing": [
+     0.0715962441314554,
+     0.06223084143629782,
+     0.08224747315941783
+    ],
+    "formation": [
+     0.02543035993740219,
+     0.02000248193394176,
+     0.032282628207248226
+    ],
+    "fireball": [
+     0.045774647887323945,
+     0.03833134947995287,
+     0.0545812744886552
+    ]
+   },
+   "2000": {
+    "n": 60,
+    "cigar": [
+     0.06666666666666667,
+     0.02622827414319792,
+     0.15925579893767722
+    ],
+    "beam": [
+     0.1,
+     0.04664219945723587,
+     0.20149694492511044
+    ],
+    "disc": [
+     0.5,
+     0.37734812427246284,
+     0.6226518757275372
+    ],
+    "metallic": [
+     0.13333333333333333,
+     0.06914026978309641,
+     0.24165394590072103
+    ],
+    "triangle": [
+     0.13333333333333333,
+     0.06914026978309641,
+     0.24165394590072103
+    ],
+    "light": [
+     0.23333333333333334,
+     0.1443943161843107,
+     0.3543651134039202
+    ],
+    "sphere": [
+     0.13333333333333333,
+     0.06914026978309641,
+     0.24165394590072103
+    ],
+    "hover": [
+     0.2,
+     0.11828389736858964,
+     0.3178204609181701
+    ],
+    "flashing": [
+     0.06666666666666667,
+     0.02622827414319792,
+     0.15925579893767722
+    ],
+    "formation": [
+     0.0,
+     0,
+     0.06017393047793289
+    ],
+    "fireball": [
+     0.0,
+     0,
+     0.06017393047793289
+    ]
+   }
+  },
+  "NUFORC": {
+   "1950": {
+    "n": 586,
+    "cigar": [
+     0.06143344709897611,
+     0.044701781930160195,
+     0.08387782317059908
+    ],
+    "beam": [
+     0.0034129692832764505,
+     0.0009364391812060812,
+     0.012357977489303427
+    ],
+    "disc": [
+     0.17747440273037543,
+     0.14866944551542424,
+     0.21048053644583456
+    ],
+    "metallic": [
+     0.030716723549488054,
+     0.01951646608134438,
+     0.04802980396810618
+    ],
+    "triangle": [
+     0.027303754266211604,
+     0.016874979926168966,
+     0.04388980845091397
+    ],
+    "light": [
+     0.17747440273037543,
+     0.14866944551542424,
+     0.21048053644583456
+    ],
+    "sphere": [
+     0.08532423208191127,
+     0.06531838952665378,
+     0.11073158728067894
+    ],
+    "hover": [
+     0.1075085324232082,
+     0.08493606424389298,
+     0.13519354343382936
+    ],
+    "flashing": [
+     0.02218430034129693,
+     0.013009540273604587,
+     0.037583025594926905
+    ],
+    "formation": [
+     0.04778156996587031,
+     0.03326249470629972,
+     0.06819118370498901
+    ],
+    "fireball": [
+     0.02901023890784983,
+     0.018189990579307282,
+     0.04596553863395947
+    ]
+   },
+   "1960": {
+    "n": 1711,
+    "cigar": [
+     0.04792518994739918,
+     0.03877709322190531,
+     0.059098768898537754
+    ],
+    "beam": [
+     0.006428988895382817,
+     0.0035935927174692286,
+     0.011475787451521308
+    ],
+    "disc": [
+     0.13617767387492694,
+     0.12073887313088486,
+     0.1532465491961685
+    ],
+    "metallic": [
+     0.02863822326125073,
+     0.021729670510527113,
+     0.03765867182966337
+    ],
+    "triangle": [
+     0.03506721215663355,
+     0.027340187514523266,
+     0.04487732808575142
+    ],
+    "light": [
+     0.23670368205727646,
+     0.21716648866166058,
+     0.25742055191398217
+    ],
+    "sphere": [
+     0.10987726475745178,
+     0.09592335615197523,
+     0.12557908465655196
+    ],
+    "hover": [
+     0.12390414962010521,
+     0.10912974893588163,
+     0.14036361534919284
+    ],
+    "flashing": [
+     0.02863822326125073,
+     0.021729670510527113,
+     0.03765867182966337
+    ],
+    "formation": [
+     0.024547048509643482,
+     0.018211142670496155,
+     0.033013180322368024
+    ],
+    "fireball": [
+     0.019871420222092345,
+     0.014254595234183515,
+     0.02763941993316489
+    ]
+   },
+   "1970": {
+    "n": 3117,
+    "cigar": [
+     0.03529034327879371,
+     0.02936354417590859,
+     0.04236121109523366
+    ],
+    "beam": [
+     0.014757779916586462,
+     0.0110825279921058,
+     0.019627649672790744
+    ],
+    "disc": [
+     0.11934552454282965,
+     0.10843010802466647,
+     0.1311980743220441
+    ],
+    "metallic": [
+     0.02662816811036253,
+     0.021532426735019282,
+     0.03288930360848805
+    ],
+    "triangle": [
+     0.06705165222970805,
+     0.0587932876589168,
+     0.07637589234688673
+    ],
+    "light": [
+     0.27173564324671157,
+     0.2564064274642772,
+     0.28762682305378806
+    ],
+    "sphere": [
+     0.09496310555020854,
+     0.08516398105677904,
+     0.10575939038251476
+    ],
+    "hover": [
+     0.11357074109720885,
+     0.10290419950025952,
+     0.12518863289469445
+    ],
+    "flashing": [
+     0.03368623676612127,
+     0.02790424665897314,
+     0.04061624473668116
+    ],
+    "formation": [
+     0.021495027269810715,
+     0.016961787600944467,
+     0.027206298341001446
+    ],
+    "fireball": [
+     0.017645171639396856,
+     0.013581715783429649,
+     0.022896136857345192
+    ]
+   },
+   "1980": {
+    "n": 2691,
+    "cigar": [
+     0.027499070977331848,
+     0.021961626093763762,
+     0.03438365223354126
+    ],
+    "beam": [
+     0.010776662950575994,
+     0.007513846705466146,
+     0.015434292435624743
+    ],
+    "disc": [
+     0.07803790412486064,
+     0.06849416003303958,
+     0.08878469450149036
+    ],
+    "metallic": [
+     0.016350798959494612,
+     0.012202601870485193,
+     0.021877916999343737
+    ],
+    "triangle": [
+     0.10330732069862504,
+     0.09236741312424057,
+     0.11537822951390184
+    ],
+    "light": [
+     0.2924563359345968,
+     0.2755746554194405,
+     0.3099297393472129
+    ],
+    "sphere": [
+     0.12374581939799331,
+     0.11183779634305231,
+     0.13672657196712962
+    ],
+    "hover": [
+     0.09996283909327387,
+     0.08919373905676509,
+     0.1118724757441345
+    ],
+    "flashing": [
+     0.03641768859160163,
+     0.029974957787474915,
+     0.04418212810581097
+    ],
+    "formation": [
+     0.0252694165737644,
+     0.01998208408822186,
+     0.03191024234758795
+    ],
+    "fireball": [
+     0.020438498699368264,
+     0.015736250037575346,
+     0.02650801396666149
+    ]
+   },
+   "1990": {
+    "n": 11156,
+    "cigar": [
+     0.02285765507350305,
+     0.020244222577602146,
+     0.025799585069273413
+    ],
+    "beam": [
+     0.009411975618501255,
+     0.007781422355588441,
+     0.011380283308764354
+    ],
+    "disc": [
+     0.04463965579060595,
+     0.040961681520343206,
+     0.04863113133821922
+    ],
+    "metallic": [
+     0.023664395840803154,
+     0.021003440292515028,
+     0.026653293473311895
+    ],
+    "triangle": [
+     0.10281462889924704,
+     0.0973146734103146,
+     0.10858803402596298
+    ],
+    "light": [
+     0.3682323413409824,
+     0.35932874589733094,
+     0.37722665467394584
+    ],
+    "sphere": [
+     0.11312298314808175,
+     0.10737794173744816,
+     0.11913437721876355
+    ],
+    "hover": [
+     0.09394048045894586,
+     0.08866553308530332,
+     0.09949498704250924
+    ],
+    "flashing": [
+     0.07753675152384368,
+     0.0727180628405019,
+     0.08264629286863291
+    ],
+    "formation": [
+     0.03719971315883829,
+     0.03384413672350456,
+     0.04087391303806194
+    ],
+    "fireball": [
+     0.06202940121907494,
+     0.05770234435058343,
+     0.06665798707204176
+    ]
+   },
+   "2000": {
+    "n": 43423,
+    "cigar": [
+     0.02517099233125302,
+     0.023739097217512724,
+     0.026686895539925107
+    ],
+    "beam": [
+     0.008083273841051977,
+     0.00728347966089994,
+     0.008970099323761934
+    ],
+    "disc": [
+     0.03684683232388366,
+     0.03511548903846322,
+     0.038660117981504816
+    ],
+    "metallic": [
+     0.01943670405084863,
+     0.018180067109514735,
+     0.02077836361366271
+    ],
+    "triangle": [
+     0.09264675402436497,
+     0.08995558167298694,
+     0.09540999646751498
+    ],
+    "light": [
+     0.403472813946526,
+     0.39886711529987673,
+     0.40809559045673993
+    ],
+    "sphere": [
+     0.1129355410727034,
+     0.10999264597585552,
+     0.11594691671156772
+    ],
+    "hover": [
+     0.0753748013725445,
+     0.07292910203319918,
+     0.07789562660651843
+    ],
+    "flashing": [
+     0.08546162172120765,
+     0.08286859536965673,
+     0.08812798937851891
+    ],
+    "formation": [
+     0.03774497386177832,
+     0.035992930413586435,
+     0.03957880078042239
+    ],
+    "fireball": [
+     0.04193630103862009,
+     0.040091135484267064,
+     0.04386250852193208
+    ]
+   },
+   "2010": {
+    "n": 62092,
+    "cigar": [
+     0.01985763061263931,
+     0.018789613434552144,
+     0.020985056436417123
+    ],
+    "beam": [
+     0.007231205308252271,
+     0.006594564360207685,
+     0.00792881718616627
+    ],
+    "disc": [
+     0.024206016878180765,
+     0.02302626297813778,
+     0.02544464139237324
+    ],
+    "metallic": [
+     0.016539972943374347,
+     0.015566275902038415,
+     0.017573489128539736
+    ],
+    "triangle": [
+     0.08485795271532565,
+     0.08269161251121884,
+     0.08707565898993752
+    ],
+    "light": [
+     0.4534400566900728,
+     0.44952728800051284,
+     0.45735858630254184
+    ],
+    "sphere": [
+     0.1820846485859692,
+     0.1790688548045919,
+     0.18513977845113322
+    ],
+    "hover": [
+     0.08791792823552148,
+     0.08571596695012507,
+     0.09017087697663476
+    ],
+    "flashing": [
+     0.10600399407331057,
+     0.10360691769664765,
+     0.10844982009302101
+    ],
+    "formation": [
+     0.050537911486181794,
+     0.04884254498513954,
+     0.052288890521485415
+    ],
+    "fireball": [
+     0.06682020228048702,
+     0.0648827284796413,
+     0.0688112739863789
+    ]
+   },
+   "2020": {
+    "n": 8298,
+    "cigar": [
+     0.021330441070137384,
+     0.018436016677930447,
+     0.02466786523665583
+    ],
+    "beam": [
+     0.004940949626416004,
+     0.003644398950706785,
+     0.006695668245949918
+    ],
+    "disc": [
+     0.026030368763557483,
+     0.022817512183633547,
+     0.029681875422123704
+    ],
+    "metallic": [
+     0.02012533140515787,
+     0.01731841286068675,
+     0.02337636503052235
+    ],
+    "triangle": [
+     0.0650759219088937,
+     0.05996736421922375,
+     0.07058699374395394
+    ],
+    "light": [
+     0.45529043142926007,
+     0.4445984825127219,
+     0.46602375821998493
+    ],
+    "sphere": [
+     0.15304892745239818,
+     0.145462959359933,
+     0.16095599230977845
+    ],
+    "hover": [
+     0.07556037599421547,
+     0.0700680664800762,
+     0.08144549648648293
+    ],
+    "flashing": [
+     0.09315497710291637,
+     0.08708812707803007,
+     0.0995983546298358
+    ],
+    "formation": [
+     0.08676789587852494,
+     0.08090075066190607,
+     0.09301747972206077
+    ],
+    "fireball": [
+     0.027958544227524706,
+     0.024624012907828847,
+     0.03172994113533189
+    ]
+   }
+  }
+ },
+ "C_newest_tech_share": {
+  "n": 1012,
+  "observed": 0.575098814229249,
+  "null_mean": 0.40639871541501976,
+  "null_p975": 0.4298418972332016,
+  "p": 0.0004997501249375312,
+  "by_period": {
+   "1700-1782": {
+    "n": 20,
+    "f_maritime": 9,
+    "f_wheel": 3,
+    "f_balloon": 7,
+    "f_airship": 4,
+    "f_aircraft": 1
+   },
+   "1783-1851": {
+    "n": 41,
+    "f_maritime": 14,
+    "f_wheel": 2,
+    "f_balloon": 24,
+    "f_airship": 3,
+    "f_aircraft": 4
+   },
+   "1852-1902": {
+    "n": 388,
+    "f_maritime": 116,
+    "f_wheel": 27,
+    "f_balloon": 59,
+    "f_airship": 253,
+    "f_aircraft": 10
+   },
+   "1903-1946": {
+    "n": 563,
+    "f_maritime": 110,
+    "f_wheel": 16,
+    "f_balloon": 35,
+    "f_airship": 190,
+    "f_aircraft": 295
+   }
+  }
+ },
+ "D_primitives_vs_identified": {
+  "base": {
+   "n": 3389,
+   "AB": 0.6677485984066096,
+   "D": 0.03127766302744173
+  },
+  "per_feature": {
+   "sphere": {
+    "n": 751,
+    "AB": [
+     0.6750998668442078,
+     0.6407860342358433,
+     0.7076314350716246
+    ],
+    "D": [
+     0.02796271637816245,
+     0.018360801234850524,
+     0.04236929101231762
+    ]
+   },
+   "glow": {
+    "n": 2182,
+    "AB": [
+     0.6837763519706691,
+     0.6639566919668811,
+     0.7029500408906142
+    ],
+    "D": [
+     0.027956003666361137,
+     0.021825216868666137,
+     0.03574601793627124
+    ]
+   },
+   "light": {
+    "n": 1480,
+    "AB": [
+     0.6628378378378378,
+     0.6383586715363728,
+     0.6864738442793313
+    ],
+    "D": [
+     0.03513513513513514,
+     0.02689324102897594,
+     0.04578405821913786
+    ]
+   },
+   "cigar": {
+    "n": 108,
+    "AB": [
+     0.5277777777777778,
+     0.4342949982627799,
+     0.6193523029203218
+    ],
+    "D": [
+     0.10185185185185185,
+     0.05782872158872558,
+     0.17322662812014833
+    ]
+   },
+   "erratic": {
+    "n": 114,
+    "AB": [
+     0.5877192982456141,
+     0.49593691926246675,
+     0.6737824328169348
+    ],
+    "D": [
+     0.06140350877192982,
+     0.030058899274456374,
+     0.12134434032853611
+    ]
+   },
+   "vanish": {
+    "n": 124,
+    "AB": [
+     0.5645161290322581,
+     0.4766059129009367,
+     0.6485489662620275
+    ],
+    "D": [
+     0.07258064516129033,
+     0.038651724607539996,
+     0.1321972009378224
+    ]
+   },
+   "size_large": {
+    "n": 28,
+    "AB": [
+     0.5,
+     0.3263284683244634,
+     0.6736715316755366
+    ],
+    "D": [
+     0.10714285714285714,
+     0.03711769205479949,
+     0.2719622536765708
+    ]
+   },
+   "size_small": {
+    "n": 191,
+    "AB": [
+     0.6701570680628273,
+     0.6006997673983298,
+     0.7329045552925125
+    ],
+    "D": [
+     0.06282722513089005,
+     0.036301274070075565,
+     0.10659223532422214
+    ]
+   },
+   "red_orange": {
+    "n": 1088,
+    "AB": [
+     0.6534926470588235,
+     0.6247211962292569,
+     0.6811839826904691
+    ],
+    "D": [
+     0.04779411764705882,
+     0.036631519126908305,
+     0.06213885195988669
+    ]
+   },
+   "white": {
+    "n": 865,
+    "AB": [
+     0.6901734104046243,
+     0.6585725395890363,
+     0.7200925703688663
+    ],
+    "D": [
+     0.026589595375722544,
+     0.017782246162854037,
+     0.03958333117598425
+    ]
+   },
+   "fast": {
+    "n": 812,
+    "AB": [
+     0.6083743842364532,
+     0.574365637917057,
+     0.6413625132338527
+    ],
+    "D": [
+     0.046798029556650245,
+     0.034282742107407733,
+     0.0635813530796972
+    ]
+   },
+   "hover": {
+    "n": 359,
+    "AB": [
+     0.5459610027855153,
+     0.49424201078608015,
+     0.5967067668623482
+    ],
+    "D": [
+     0.07242339832869081,
+     0.04989957865664198,
+     0.10400118685646347
+    ]
+   },
+   "disc": {
+    "n": 100,
+    "AB": [
+     0.51,
+     0.4134784047743415,
+     0.6057816990761385
+    ],
+    "D": [
+     0.04,
+     0.015663050551848016,
+     0.09837217232607373
+    ]
+   },
+   "triangle": {
+    "n": 268,
+    "AB": [
+     0.47761194029850745,
+     0.4185485564208593,
+     0.5373080895082406
+    ],
+    "D": [
+     0.06716417910447761,
+     0.04290306252207529,
+     0.10365875877385586
+    ]
+   },
+   "metallic": {
+    "n": 55,
+    "AB": [
+     0.5454545454545454,
+     0.41522461348360484,
+     0.669749282535538
+    ],
+    "D": [
+     0.05454545454545454,
+     0.01872287596750008,
+     0.14853294304489928
+    ]
+   },
+   "landing": {
+    "n": 17,
+    "AB": [
+     0.7058823529411765,
+     0.468664666737861,
+     0.8672020613444361
+    ],
+    "D": [
+     0.058823529411764705,
+     0.01046013064516424,
+     0.269825452035628
+    ]
+   },
+   "formation": {
+    "n": 128,
+    "AB": [
+     0.7421875,
+     0.6601292060624501,
+     0.8101320771744039
+    ],
+    "D": [
+     0.015625,
+     0.004295359707748747,
+     0.055182073818543405
+    ]
+   },
+   "flashing": {
+    "n": 347,
+    "AB": [
+     0.7002881844380403,
+     0.650105748268283,
+     0.7460844412645431
+    ],
+    "D": [
+     0.0345821325648415,
+     0.019890961406500932,
+     0.05946564852801084
+    ]
+   }
+  }
+ },
+ "E_ancient_astronaut": {
+  "AA1_structured_craft_close": {
+   "prediction": "structured craft seen close (shape term + landing or occupants) as common before 1800 as after 1947",
+   "pre1800": [
+    0.018433179723502304,
+    0.01057532749102734,
+    0.031941213913794834
+   ],
+   "post1947": [
+    0.1134580105992662,
+    0.11035804458717298,
+    0.11663363877883755
+   ],
+   "MH_OR_within_catalog": [
+    0.06902176659255199,
+    0.03074933570496703,
+    0.15493031489415832
+   ],
+   "pre1800_excluding_llm": [
+    0.016304347826086956,
+    0.007493198947055461,
+    0.0351098879587668
+   ]
+  },
+  "AA2_occupant_framing": {
+   "prediction": "occupants described the same way in every era (visitors), not in the era's mythology",
+   "by_era": {
+    "E0 antiquity <500": {
+     "n": 2,
+     "religious_or_creature": 1,
+     "space_alien": 0,
+     "airship_aircraft": 0
+    },
+    "E1 500-999": {
+     "n": 10,
+     "religious_or_creature": 3,
+     "space_alien": 0,
+     "airship_aircraft": 0
+    },
+    "E2 1000-1499": {
+     "n": 20,
+     "religious_or_creature": 11,
+     "space_alien": 0,
+     "airship_aircraft": 0
+    },
+    "E3 1500-1699": {
+     "n": 46,
+     "religious_or_creature": 19,
+     "space_alien": 1,
+     "airship_aircraft": 1
+    },
+    "E4 1700-1799": {
+     "n": 11,
+     "religious_or_creature": 1,
+     "space_alien": 0,
+     "airship_aircraft": 2
+    },
+    "E5 1800-1895": {
+     "n": 76,
+     "religious_or_creature": 12,
+     "space_alien": 2,
+     "airship_aircraft": 10
+    },
+    "E6 airship 1896-1913": {
+     "n": 168,
+     "religious_or_creature": 14,
+     "space_alien": 2,
+     "airship_aircraft": 87
+    },
+    "E7 1914-1946": {
+     "n": 281,
+     "religious_or_creature": 12,
+     "space_alien": 6,
+     "airship_aircraft": 69
+    },
+    "M1 1947-1973": {
+     "n": 4364,
+     "religious_or_creature": 147,
+     "space_alien": 121,
+     "airship_aircraft": 635
+    },
+    "M2 1974-1999": {
+     "n": 2985,
+     "religious_or_creature": 72,
+     "space_alien": 153,
+     "airship_aircraft": 326
+    },
+    "M3 2000-2025": {
+     "n": 1497,
+     "religious_or_creature": 31,
+     "space_alien": 55,
+     "airship_aircraft": 225
+    }
+   }
+  },
+  "AA3_primary_text": {
+   "prediction": "an untouched ancient source shows craft features",
+   "n": 62,
+   "any_craft_shape": 2,
+   "landing_or_occupant": 0,
+   "frames": {
+    "f_torch": 6,
+    "f_celestial": 22,
+    "f_martial": 6,
+    "f_maritime": 1,
+    "f_creature": 1,
+    "f_wheel": 1
+   }
+  },
+  "AA5_regions_pre1500": {
+   "prediction": "pre-1500 aerial reports concentrate where ancient-astronaut writers place contact (Egypt, Mesopotamia, India, Mesoamerica, Andes)",
+   "counts": {
+    "South/West Asia & Africa": 15,
+    "East Asia": 75,
+    "Europe": 129,
+    "Unknown": 32,
+    "Americas": 6
+   }
+  }
+ }
+}

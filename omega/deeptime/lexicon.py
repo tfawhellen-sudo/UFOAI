@@ -23,18 +23,20 @@ FRAMES = [
     ('f_religious', r"\b(cross|crosses|crucifix\w*|angels?|demons?|devils?|saints?|virgin|christ|god|gods|heaven\w*|divine|"
                     r"miracul\w*|miracles?|omens?|prodig\w*|portents?|croix|anges?|d[ée]mons?|diable|dieux?|ciel en feu)\b"),
     ('f_creature',  r"\b(dragons?|serpents?|snakes?|beasts?|birds?|eagles?|oiseaux?|aigles?)\b"),
-    ('f_maritime',  r"\b(ships?|boats?|vessels?|sails?|fleet|cloud ?ships?|navires?|vaisseaux?|bateaux?|barques?|flotte)\b"),
+    ('f_maritime',  r"\b(ships?|boats?|vessels?|sails?|fleet|cloud ?ships?|aerial (ships?|vessels?)|navires?|vaisseaux?|bateaux?|barques?|flotte)\b"),
     ('f_torch',     r"\b(torch\w*|firebrands?|beam of fire|fiery beam|torches?|flambeaux?|poutres?)\b"),
     ('f_wheel',     r"\b(wheels?|chariots?|roues?|chars?)\b"),
     # industrial / modern analogies, with the year the technology was in public view (see technology.py)
     ('f_balloon',   r"\b(balloons?|montgolfi\w*|ballons?)\b"),
-    ('f_airship',   r"\b(air[- ]?ships?|dirigibles?|zeppelins?|aerial (machine|vessel|navigator|ship)s?|flying machines?|propellers?|searchlights?)\b"),
-    ('f_aircraft',  r"\b(air ?planes?|aeroplanes?|aircraft|planes?|jets?|biplanes?|monoplanes?|helicopters?|avions?)\b"),
+    ('f_airship',   r"\b(air[- ]?ships?|dirigibles?|zeppelins?|aerial (machine|navigator)s?|flying machines?|propellers?|searchlights?)\b"),
+    ('f_aircraft',  r"\b(air ?planes?|aeroplanes?|aircraft|planes?|jet (planes?|aircraft|fighters?|airliners?)|jetliners?|fighter jets?|"
+                    r"biplanes?|monoplanes?|helicopters?|avions?)\b"),
     ('f_rocket',    r"\b(rockets?|missiles?|fus[ée]es?)\b"),
     ('f_saucer',    r"\b(saucers?|soucoupes?|flying dis[ck]s?)\b"),
     ('f_space',     r"\b(space ?craft|space ?ships?|mother ?ships?|aliens?|extra-?terrestrial\w*|e\.t\.|martians?|vaisseau spatial|extraterrestres?)\b"),
-    ('f_satellite', r"\b(satellites?|starlink|space station|iss)\b"),
-    ('f_drone',     r"\b(drones?|quad ?copters?|uavs?)\b"),
+    ('f_satellite', r"\b(satellites?|space station|iss)\b"),
+    ('f_starlink',  r"\b(starlink|satellite trains?|train of satellites|string of satellites)\b"),
+    ('f_drone',     r"\b(quad ?copters?|uavs?|drones?)\b(?!\s*(sound|noise|hum))(?<!low drone)(?<!loud drone)"),
     ('f_lantern',   r"\b(lanterns?|lanternes?)\b"),
 ]
 ENTITY = [
@@ -47,7 +49,7 @@ VOICE = [
     ('v_object',    r"\b(objects?|craft|ufos?|unidentified|uap|ovnis?|objets?)\b"),
     ('v_mystery',   r"\b(mysterious\w*|enigmatic|unexplained|inexplicab\w*|anomal\w*|strange|peculiar|unusual|myst[ée]rieu\w*|[ée]trange\w*)\b"),
 ]
-TECH_FRAMES = ['f_balloon', 'f_airship', 'f_aircraft', 'f_rocket', 'f_saucer', 'f_space', 'f_satellite', 'f_drone', 'f_lantern']
+TECH_FRAMES = ['f_balloon', 'f_airship', 'f_aircraft', 'f_rocket', 'f_saucer', 'f_space', 'f_satellite', 'f_starlink', 'f_drone', 'f_lantern']
 OLD_FRAMES = ['f_celestial', 'f_comet', 'f_martial', 'f_religious', 'f_creature', 'f_maritime', 'f_torch', 'f_wheel']
 FRAME_F = [f for f, _ in FRAMES]
 ENTITY_F = [f for f, _ in ENTITY]
