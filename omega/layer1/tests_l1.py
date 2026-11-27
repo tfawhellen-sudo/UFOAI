@@ -542,6 +542,80 @@ def t4_nuclear(ru, hatch):
     return res
 
 
+def t6_capture_recapture(ru, hatch, windows=((1947, 2002), (1978, 1990))):
+    """Two-source capture-recapture (Chapman) estimate of the number of Soviet-territory events that
+    reached either compiler. Entries are first merged into events (same date, within 300 km, or same
+    date with no coordinates). A native event and a Hatch event match on date +-1 day and <= 800 km;
+    chance matches are estimated by shifting the native dates (|k| 7..60 days) and subtracted.
+    Positive dependence between the two lists (famous mass events are in both) biases N low."""
+    def events_of(rows):
+        evs = []
+        for r in sorted(rows, key=lambda x: x["date"]):
+            placed = False
+            for e in evs:
+                if e["date"] != r["date"]:
+                    continue
+                if r.get("lat") is None and e["lat"] is None:
+                    placed = True
+                    break
+                if r.get("lat") is not None and e["lat"] is not None and C.hav_km(r["lat"], r["lon"], e["lat"], e["lon"]) <= 300:
+                    placed = True
+                    break
+            if not placed:
+                evs.append(dict(date=r["date"], lat=r.get("lat"), lon=r.get("lon")))
+        return evs
+
+    def m_count(ra, hb, shift, need_geo):
+        idx = collections.defaultdict(list)
+        for e in hb:
+            idx[dnum(e["date"])].append(e)
+        m = 0
+        for e in ra:
+            d = dnum(e["date"]) + shift
+            ok = False
+            for c in idx.get(d - 1, []) + idx.get(d, []) + idx.get(d + 1, []):
+                if e["lat"] is not None and c["lat"] is not None:
+                    if C.hav_km(e["lat"], e["lon"], c["lat"], c["lon"]) <= 800:
+                        ok = True
+                        break
+                elif not need_geo:
+                    ok = True
+                    break
+            m += ok
+        return m
+
+    def chapman(n1, n2, m):
+        m = max(m, 0.0)
+        N = (n1 + 1) * (n2 + 1) / (m + 1) - 1
+        var = (n1 + 1) * (n2 + 1) * (n1 - m) * (n2 - m) / ((m + 1) ** 2 * (m + 2))
+        return N, var ** 0.5
+
+    shifts = [k for k in range(-60, 61) if abs(k) >= 7]
+    res = {}
+    for y0, y1 in windows:
+        ru_su = [r for r in ru if r["region"] in ("SU", "SU?") and r["prec"] == "day" and y0 <= r["year"] <= y1]
+        h_su = [x for x in hatch if x["group"] == "SU" and x["prec"].startswith("day") and x["year"] and y0 <= x["year"] <= y1]
+        ea, eb = events_of(ru_su), events_of(h_su)
+        out = dict(entries_native=len(ru_su), entries_hatch=len(h_su), events_native=len(ea), events_hatch=len(eb))
+        for need_geo in (True, False):
+            m_obs = m_count(ea, eb, 0, need_geo)
+            null = np.array([m_count(ea, eb, k, need_geo) for k in shifts])
+            m_true = m_obs - float(null.mean())
+            N_raw, se_raw = chapman(len(ea), len(eb), m_obs)
+            N_cc, se_cc = chapman(len(ea), len(eb), m_true)
+            lo_m = max(m_obs - float(np.percentile(null, 97.5)), 0.0)
+            hi_m = m_obs - float(np.percentile(null, 2.5))
+            key = "geo_required" if need_geo else "date_only_when_no_geo"
+            out[key] = dict(m_observed=m_obs, m_chance_mean=round(float(null.mean()), 2),
+                            m_chance_95=[float(np.percentile(null, 2.5)), float(np.percentile(null, 97.5))],
+                            m_chance_corrected=round(m_true, 2),
+                            N_chapman_raw=round(N_raw), N_chapman_raw_se=round(se_raw),
+                            N_chapman_chance_corrected=round(N_cc), N_chapman_cc_se=round(se_cc),
+                            N_range_from_chance_band=[round(chapman(len(ea), len(eb), hi_m)[0]), round(chapman(len(ea), len(eb), lo_m)[0])])
+        res["%d-%d" % (y0, y1)] = out
+    return res
+
+
 def main():
     ru = C.load_ru_native()
     hatch = C.load_hatch()
@@ -562,6 +636,8 @@ def main():
         out["T3b_primary_shape"] = t3b_primary_shape(ru, hatch, nuforc)
     if "t4" in which:
         out["T4_nuclear"] = t4_nuclear(ru, hatch)
+    if "t6" in which:
+        out["T6_capture_recapture"] = t6_capture_recapture(ru, hatch)
     for k, v in out.items():
         json.dump(v, open(os.path.join(OUT, k + ".json"), "w"), ensure_ascii=False, indent=1)
     print(json.dumps(out, ensure_ascii=False, indent=1)[:20000])

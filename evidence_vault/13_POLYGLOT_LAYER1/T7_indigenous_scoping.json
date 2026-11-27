@@ -1,0 +1,50 @@
+{
+ "note": "Scoping counts only. Neither catalogue is an Indigenous corpus; these counts show how little Indigenous testimony reaches them.",
+ "hatch_total_entries": 18116,
+ "hatch_entries_naming_indigenous_people_in_summary": 19,
+ "hatch_by_country": [
+  [
+   "USA",
+   11
+  ],
+  [
+   "Australia",
+   3
+  ],
+  [
+   "Pacific Ocean and non - Asian islands",
+   2
+  ],
+  [
+   "Pakistan",
+   1
+  ],
+  [
+   "Venezuela",
+   1
+  ],
+  [
+   "Argentina",
+   1
+  ]
+ ],
+ "hatch_of_which_indigenous_witnesses_approx": 12,
+ "hatch_of_which_place_or_facility_names": 7,
+ "hatch_raw_regex_counts_incl_toponyms": {
+  "Native American (named nations)": 97,
+  "'Indian reservation' / 'reservation'": 7,
+  "Inuit / Eskimo": 0,
+  "Aboriginal (Australia)": 2,
+  "Maori": 0,
+  "Sami / Lapp": 0,
+  "Siberian peoples (Yakut, Evenk, Nenets, Chukchi)": 1,
+  "Andean / Mesoamerican (Quechua, Aymara, Maya)": 0,
+  "tribe / tribal / shaman": 2,
+  "RU: якут/эвенк/ненец/чукч/ханты/манси": 6,
+  "RU: шаман": 0,
+  "RU: легенд/предани (legend/tradition)": 1
+ },
+ "ru_chronicle_total_entries": 624,
+ "ru_chronicle_entries_with_indigenous_witness": 0,
+ "ru_chronicle_regex_hits_all_toponyms": "10 hits in 6 entries: Podkamennaya Tunguska / Tunguska meteorite (0048, 0192), Yakutsk / Yakutia (0077, 0423), Mansila village, Karelia (0190), comet Hyakutake (0501)"
+}

@@ -1,0 +1,82 @@
+{
+ "1947-2002": {
+  "entries_native": 377,
+  "entries_hatch": 238,
+  "events_native": 374,
+  "events_hatch": 219,
+  "geo_required": {
+   "m_observed": 18,
+   "m_chance_mean": 6.86,
+   "m_chance_95": [
+    3.0,
+    12.0
+   ],
+   "m_chance_corrected": 11.14,
+   "N_chapman_raw": 4341,
+   "N_chapman_raw_se": 904,
+   "N_chapman_chance_corrected": 6795,
+   "N_chapman_cc_se": 1793,
+   "N_range_from_chance_band": [
+    5155,
+    11785
+   ]
+  },
+  "date_only_when_no_geo": {
+   "m_observed": 33,
+   "m_chance_mean": 16.14,
+   "m_chance_95": [
+    9.675,
+    23.325000000000003
+   ],
+   "m_chance_corrected": 16.86,
+   "N_chapman_raw": 2425,
+   "N_chapman_raw_se": 360,
+   "N_chapman_chance_corrected": 4618,
+   "N_chapman_cc_se": 995,
+   "N_range_from_chance_band": [
+    3391,
+    7727
+   ]
+  }
+ },
+ "1978-1990": {
+  "entries_native": 205,
+  "entries_hatch": 115,
+  "events_native": 204,
+  "events_hatch": 109,
+  "geo_required": {
+   "m_observed": 13,
+   "m_chance_mean": 5.33,
+   "m_chance_95": [
+    2.0,
+    10.0
+   ],
+   "m_chance_corrected": 7.67,
+   "N_chapman_raw": 1610,
+   "N_chapman_raw_se": 375,
+   "N_chapman_chance_corrected": 2601,
+   "N_chapman_cc_se": 786,
+   "N_range_from_chance_band": [
+    1878,
+    5636
+   ]
+  },
+  "date_only_when_no_geo": {
+   "m_observed": 21,
+   "m_chance_mean": 13.24,
+   "m_chance_95": [
+    7.0,
+    20.0
+   ],
+   "m_chance_corrected": 7.76,
+   "N_chapman_raw": 1024,
+   "N_chapman_raw_se": 181,
+   "N_chapman_chance_corrected": 2573,
+   "N_chapman_cc_se": 774,
+   "N_range_from_chance_band": [
+    1502,
+    11274
+   ]
+  }
+ }
+}

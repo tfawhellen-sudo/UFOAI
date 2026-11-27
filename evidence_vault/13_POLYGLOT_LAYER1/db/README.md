@@ -6,14 +6,14 @@ Built by `omega/layer1/build_db.py` (run `python3 -I omega/layer1/build_db.py` f
 |---|---|---|
 | `events` | 640 | 624 Russian chronicle entries (`RU_CH`), 10 Soviet state-programme episodes (`PLATOV2000`), 6 dated Chinese cases from the 1980 Ziran Zazhi survey (`JPRS77236`) |
 | `links` | 60 | event to Hatch entry, and Platov episode to chronicle entry, with day offset and distance |
-| `lexicon` | 36 | UAP vocabulary in Russian, Chinese, Arabic and Sanskrit, with origin notes and counts in the corpora on disk |
+| `lexicon` | 30 | UAP vocabulary in Russian, Chinese, Arabic and Sanskrit, with origin notes and counts in the corpora on disk |
 | `claims` | 16 | the Abyss Protocol's Layer 1 claims, each with a verdict and the evidence |
 | `sources` | 15 | every corpus and document used, with host, identifier and how it was read |
 
 ## Event fields
 
 - `text_orig` is a 300-character excerpt of the Russian entry. The chronicle (Chernobrov, Kosmopoisk, 2002) is a copyrighted compilation, and full texts would republish about 90% of it. `text_orig_chars` gives the full length and `src_offset` gives the entry's character offset in the archive.org OCR file `hroniki_vizitov_nlo`. A full-text copy can be built locally with `L1_EXCERPT=0 L1_DB_OUT=data/raw/layer1/db_full` (gitignored).
-- `text_en` is an English gist of the first ~160 characters of each ex-USSR entry (419 rows). It is a machine translation by Claude and has not been reviewed by a Russian speaker. Witness names of private persons are replaced by roles. The 156 foreign entries have no English gist.
+- `text_en` is an English gist of the first ~160 characters of each ex-USSR entry (419 rows). It is a machine translation by Claude and has not been reviewed by a Russian speaker. Witness names of private persons are replaced by roles. The other 205 entries (156 foreign, 49 unplaced) have no English gist.
 - `primary_shape`, `plume_flag` and `flags` are computed from the full Russian text at build time.
   - `primary_shape` is the class of the first shape word, as in test T3b.
   - `plume_flag` uses the T5 plume vocabulary (jellyfish, crescent, spiral, fan, halo, cloud, plume and similar words).
