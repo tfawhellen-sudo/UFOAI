@@ -35,7 +35,9 @@ Writes evidence_vault/07_PERIODICALS_PRIMARY/provenance_graph_v2.json
 import csv
 import importlib.util
 import json
+import hashlib
 import multiprocessing
+import pickle
 import os
 import random
 import re
@@ -192,27 +194,33 @@ def fsr_vol_year(v):
 
 
 def _interpolate(rows):
-    """rows: [order, key, anchor (y, m) or None]. Anchors must be monotone in
-    publication order; an anchor that breaks order by more than 3 months against
-    both neighbours is dropped. Unanchored rows get a linear interpolation in
-    months between the nearest anchors (month_known False). Returns key -> date."""
+    """rows: [order, key, anchor (y, m) or None, strong]. A weak anchor that
+    breaks publication order by more than 3 months against both neighbours is
+    dropped; a strong anchor (a masthead read off the cover) is never dropped,
+    because the FSR collection is not strictly in publication order (its
+    July/August issues sit out of sequence). Unanchored rows get a linear
+    interpolation in months between the nearest anchors (month_known False).
+    Returns key -> date."""
     rows = sorted(rows)
     mon = lambda d: d[0] * 12 + d[1] - 1
-    good = [(i, mon(r[2])) for i, r in enumerate(rows) if r[2]]
-    while True:                          # drop outliers until the anchors are consistent
+    good = [(i, mon(r[2]), bool(r[3]) if len(r) > 3 else False) for i, r in enumerate(rows) if r[2]]
+    while True:                          # drop weak outliers until the anchors are consistent
         keep = []
-        for j, (i, v) in enumerate(good):
+        for j, (i, v, strong) in enumerate(good):
             pv = good[j - 1][1] if j > 0 else None
             nv = good[j + 1][1] if j + 1 < len(good) else None
-            if pv is not None and nv is not None:
+            if strong:
+                bad = False
+            elif pv is not None and nv is not None:
                 bad = (v < pv - 3 and v < nv - 3) or (v > pv + 3 and v > nv + 3)
             else:
                 bad = abs(v - (pv if pv is not None else nv)) > 24 if (pv is not None or nv is not None) else False
             if not bad:
-                keep.append((i, v))
+                keep.append((i, v, strong))
         if len(keep) == len(good):
             break
         good = keep
+    good = [(i, v) for i, v, _ in good]
     out = {}
     gi = dict(good)
     for i, r in enumerate(rows):
@@ -240,24 +248,28 @@ def build_fsr_dates(recs, xd):
     for r in recs:
         n = int(re.search(r"^(\d+)\.FSR", r["file"]).group(1))
         t = open(os.path.join(xd, "txt", r["path"]), encoding="utf-8", errors="replace").read()[:5000]
-        anchor = None
+        anchor, strong = None, False
         for v in FSR_VOL.finditer(t):
             vy = fsr_vol_year(_ocr_int(v.group(1)))
             if vy is None:
                 continue
+            no = _ocr_int(v.group(2))
             w = t[max(0, v.start() - 120): v.end() + 120]
             cands = [(int(y), EN[mo.lower()[:3]], mm.start()) for mm in NAMEDATE.finditer(w)
                      for mo, y in [mm.groups()]]
-            cands += [(int(y), SEASON_M[se.lower()], mm.start()) for mm in SEASON.finditer(w)
-                      for se, y in [mm.groups()]]
+            # "Vol. 36, No. 4 (Winter, 1991)" is the last issue of 1991, not January
+            cands += [(int(y), 12 if se.lower() == "winter" and no == 4 else SEASON_M[se.lower()], mm.start())
+                      for mm in SEASON.finditer(w) for se, y in [mm.groups()]]
             cands = [c for c in cands if abs(c[0] - vy) <= 1]
             if cands:
                 c = min(cands, key=lambda c: abs(c[2] - 120))
-                anchor = (c[0], c[1])
+                anchor, strong = (c[0], c[1]), v.start() <= 1000   # a masthead, not a citation
                 break
         if anchor is None:                  # early covers print the date with no volume
             m0 = NAMEDATE.search(t[:300])
-            if m0:
+            v0 = next((fsr_vol_year(_ocr_int(v.group(1))) for v in FSR_VOL.finditer(t)
+                       if fsr_vol_year(_ocr_int(v.group(1)))), None)
+            if m0 and (v0 is None or abs(int(m0.group(2)) - v0) <= 1):
                 anchor = (int(m0.group(2)), EN[m0.group(1).lower()[:3]])
         if anchor is None:
             # derive from Vol/No where FSR's schedule was regular (read off the
@@ -276,8 +288,9 @@ def build_fsr_dates(recs, xd):
                 elif 33 <= vol <= 60 and 1 <= no <= 4:
                     anchor = (1955 + vol, 3 * no)
                 if anchor:
+                    strong = v.start() <= 400          # the cover's own volume mark
                     break
-        rows.append([n, r["file"], anchor])
+        rows.append([n, r["file"], anchor, strong])
     FSR_DATES.update(_interpolate(rows))
 
 
@@ -573,13 +586,30 @@ def main():
     global _ISSUES
     _ISSUES = issues
     todo = [e for e in events if not e["base_cls"]]
-    with multiprocessing.get_context("fork").Pool(int(os.environ.get("OMEGA_PROCS", "4"))) as pool:
-        for i, (eid, ym) in enumerate(pool.imap_unordered(
-                scan_event, [(e["event_id"], e["tokens"]) for e in todo], chunksize=2)):
-            ev = next(e for e in todo if e["event_id"] == eid)
-            ev["ym"], ev["ymd"] = ym
-            if i % 50 == 0:
-                print("scanned", i, "/", len(todo), flush=True)
+    # The scan reads only the issue texts, never their dates, so a re-dating run can
+    # reuse it: OMEGA_SCAN_CACHE=<file> stores it, keyed by the issue set and tokens.
+    cache = os.environ.get("OMEGA_SCAN_CACHE")
+    sig = hashlib.sha256(json.dumps([sorted(issues), [(e["event_id"], e["tokens"]) for e in todo],
+                                     WIN]).encode()).hexdigest()
+    got = {}
+    if cache and os.path.exists(cache):
+        with open(cache, "rb") as fh:
+            c = pickle.load(fh)
+        if c.get("sig") == sig:
+            got = c["scan"]
+            print("scan cache hit:", len(got), "events", flush=True)
+    if not got:
+        with multiprocessing.get_context("fork").Pool(int(os.environ.get("OMEGA_PROCS", "4"))) as pool:
+            for i, (eid, ym) in enumerate(pool.imap_unordered(
+                    scan_event, [(e["event_id"], e["tokens"]) for e in todo], chunksize=2)):
+                got[eid] = ym
+                if i % 50 == 0:
+                    print("scanned", i, "/", len(todo), flush=True)
+        if cache:
+            with open(cache, "wb") as fh:
+                pickle.dump(dict(sig=sig, scan=got), fh)
+    for e in todo:
+        e["ym"], e["ymd"] = got[e["event_id"]]
 
     cells = {}
     results = {}
