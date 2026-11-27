@@ -15,6 +15,33 @@ seed-averaged values now, but if any figure disagrees, **§1.14 wins.**
 ---
 
 
+## LAYER 1 POLYGLOT UPDATE (2026-11-27) — read this first
+
+Branch **`claude/project-thread-7q8bu9`**, built from session 6's tip `a33885b`. Abyss Protocol Layer 1
+(Tasks 1.1-1.5, non-English archives). Report: `omega/reports/polyglot_layer1.md`. Code: `omega/layer1/`.
+Outputs: `evidence_vault/13_POLYGLOT_LAYER1/` (T1-T7 JSON, `db/` SQLite+CSV, `src/`). Raw texts are in the
+gitignored `data/raw/layer1/`; rebuild them with `collect_ru.py` / `fetch_ru.py` / `ia.py`.
+
+Hosts: archive.org `/stream/<id>/<file>_djvu.txt` and `/cors/` work. CyberLeninka, eLibrary, rusneb,
+priroda.ras.ru, astronet.ru, noufors.com and mao.kiev.ua are blocked for curl, but the web-fetch agent can
+read them. LibGen was not used, by rule.
+
+| item | output | headline |
+|---|---|---|
+| Russian native catalogue | `db/` (624 Chernobrov entries, 419 ex-USSR with English gists, unreviewed) | Parsed, geocoded (328 ex-USSR entries) and linked to Hatch, SATCAT and nuclear sites |
+| T1 simultaneity | `T1_simultaneity.json` | **Null.** RU vs NUFORC rate ratio 1.01, vs GEIPAN 1.07; positive control 5.6 |
+| T2/T6 coverage | `T2_coverage.json`, `T6_capture_recapture.json` | Over 90% of each catalogue's Soviet events are unique. Chapman estimate: about 6,800 events (1947-2002) and about 2,600 (1978-1990) reached either compiler |
+| T3b descriptors | `T3b_primary_shape.json` | English filter "saucerises" (disc 26% vs 9%), but Hatch US vs NUFORC differ by TVD 0.25 too |
+| T4 nuclear | `T4_nuclear.json` | No robust clustering. The Russian 100 km excess is Moscow-Obninsk / St Petersburg-Leningrad NPP. Hatch's 4 reactor cases include 2 reports about the plant |
+| T5 launch lock | `T5_launch_lock.json` | Plume-worded RU reports: rate ratio 1.47 (p 0.029), near Plesetsk 1.80. Non-plume 1.08. Window not pre-registered, so suggestive |
+| Claims | `db/claims.csv` | Thread-3 FALSE; vimana-in-DIRD FALSE; Setka VERIFIED (= "DM/AS Network" in Platov's English); PLA programme NOT SUPPORTED; Vymanika Shastra composed 1900-1922 |
+
+Next steps: Gindilis 1979 full text; the Russian original of Platov & Sokolov; Chinese suborbital test dates
+for a CN launch-lock test; a pre-registered T5 rerun on the 1990s periodicals; Priroda/ZiV indexes; Task 1.6.
+
+---
+
+
 ## SESSION 6 UPDATE (2026-11-26) — read this first
 
 Branch **`claude/project-thread-41xagd`**, built on session 5's tip `2c859c0` with

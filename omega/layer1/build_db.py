@@ -237,8 +237,8 @@ CLAIMS = [
     ("C07", "China is the only other superpower with a systematic UAP research program", "1.2", "NOT SUPPORTED",
      "See C06; the Chinese effort found is civilian and amateur-academic.", "XINHUA_CURO; JPRS77236"),
     ("C08", "Arabic-language UAP reports are completely absent from the English-language corpus", "1.3",
-     "FALSE as stated", "Hatch has entries for Arab-world countries (count in the report). The most-reprinted Egyptian book "
-     "is a compilation of Western cases with no native case.", "HATCH; AR_BOOK"),
+     "FALSE as stated", "Hatch has 148 Arab-world entries (Algeria 54, Morocco 44, Tunisia 10, other 40). The "
+     "most-reprinted Egyptian book is a compilation of Western cases (America 38-39 mentions, Egypt 0) with no native case.", "HATCH; AR_BOOK"),
     ("C09", "The deep term search found extensive discussion of vimana in the DIRD literature", "1.4", "FALSE",
      "0 hits for vimana/Sanskrit/Mahabharata in DIRDs and PURSUE; one 'Ramayana' mention in the COMETA report file.",
      "DIRD/PURSUE text search"),
@@ -257,8 +257,9 @@ CLAIMS = [
      "Soviet-specific. But Hatch US vs NUFORC differ by TVD 0.25, so compiler effects are as large as language effects.",
      "T3b_primary_shape.json"),
     ("C14", "Soviet UAP cluster near Soviet nuclear facilities", "1.1", "TESTED: WEAK, NOT ROBUST",
-     "Russian chronicle: no excess within 30 km. Hatch SU declustered: reactors 4 vs 1.0 expected at 30 km (p=0.018); "
-     "the Natural Earth site list misses most closed weapons cities.", "T4_nuclear.json"),
+     "Russian chronicle: 0 within 30 km vs 2.2 expected; its 100 km excess is Moscow-Obninsk / St Petersburg-Leningrad NPP "
+     "and turns into a deficit without Moscow. Hatch SU: reactors 4 vs 1.1 at 30 km (two of the four are reports about the "
+     "plant itself); 50 km excess is the Voronezh 1989 wave. The site list misses most closed weapons cities.", "T4_nuclear.json"),
     ("C15", "Platov & Sokolov: over 90% of anomalous phenomena were rocket effects plus balloons", "(context)",
      "SUPPORTED ON AN INDEPENDENT CATALOGUE", "Plume-worded Russian reports fall on Soviet launch days (UTC) more than "
      "date-shifted copies do (RR 1.47, p=0.029; within 1,500 km of Plesetsk RR 1.80, p=0.026); non-plume reports do not "
