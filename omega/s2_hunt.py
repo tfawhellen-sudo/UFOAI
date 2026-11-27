@@ -6,8 +6,11 @@ Each job = one scene + one centre point. A 60 km window around the point is read
 Two detector modes (see s2_movers.py):
   water: aircraft over open water (land/cloud blobs masked, 300 m coast buffer).
          Validated on the Channel: false-alarm rate ~0.3 per half tile by scrambling.
-  land : all three visible peaks must be colour-exclusive, threshold 250 DN.
-         Its false-alarm rate is measured per job by scrambling B04 10 times.
+  land : OFF by default (S2H_LAND=1 enables). Tested on Denver suburbs 2021-07-02,
+         also with a same-orbit reference scene subtracted: candidate counts equal
+         or exceed the B04-scrambled false-alarm count, and the 'excess' is
+         rooftop/road texture, mostly at >1000 m/s. 10 m imagery over clutter
+         manufactures Mach-5 objects. Not used for any result.
 NULL MODEL (within scene, same instant, same weather): movers within R_KM of the
 centre vs within R_KM of 30 random centres in the same window, rates per usable
 pixel. For sites, H1 = more movers or more fast movers at the site than at random
@@ -99,7 +102,8 @@ def run(job):
     yy, xx = np.mgrid[0:H:10, 0:W:10]
     out = dict(job_id=job["job_id"], kind=job["kind"], label=job.get("label"), scene=job["scene"],
                lat=job["lat"], lon=job["lon"], water_frac=water, win=[r0, c0, H, W], modes={})
-    for mode, bad in (("water", badw), ("land", badl)):
+    modes = (("water", badw), ("land", badl)) if os.environ.get("S2H_LAND") else (("water", badw),)
+    for mode, bad in modes:
         usable = ~bad[::10, ::10]
         if usable.mean() < 0.02:
             out["modes"][mode] = dict(skip="no usable pixels"); continue
