@@ -1,12 +1,14 @@
 {
- "site_counts": {
-  "SU_reactors_pre1992": 20,
-  "SU_test_sites_and_PNEs": 92,
-  "SU_weapons_science_cities(NE coords)": 3,
-  "CN_reactors": 22,
-  "CN_tests": 7,
-  "SU_all_nuclear": 114,
-  "CN_all_nuclear": 29
+ "n_sites": {
+  "SU": {
+   "reactor": 80,
+   "test": 148,
+   "city": 3
+  },
+  "CN": {
+   "reactor": 79,
+   "test": 18
+  }
  },
  "weapons_cities_found_in_NE": [
   "Железногорск",
@@ -14,554 +16,914 @@
   "Димитровград"
  ],
  "RU_native_SU_city_precision": {
-  "n": 193,
-  "SU_all_nuclear_R30km": {
+  "n": 190,
+  "all_R30km": {
    "k": 0,
-   "obs": 0.0,
-   "null_mean": 0.0123,
-   "null_95": [
-    0.0,
-    0.0311
-   ],
+   "expected": 2.19,
    "ratio": 0.0,
+   "null_95": [
+    0,
+    5
+   ],
    "p_upper": 1.0,
-   "p_lower": 0.088
+   "p_lower": 0.1065
   },
-  "SU_all_nuclear_R50km": {
-   "k": 4,
-   "obs": 0.0207,
-   "null_mean": 0.068,
+  "all_R50km": {
+   "k": 2,
+   "expected": 11.17,
+   "ratio": 0.179,
    "null_95": [
-    0.0363,
-    0.1036
+    5,
+    18
    ],
-   "ratio": 0.305,
-   "p_upper": 0.999,
-   "p_lower": 0.004
+   "p_upper": 1.0,
+   "p_lower": 0.0007
   },
-  "SU_all_nuclear_R100km": {
-   "k": 73,
-   "obs": 0.3782,
-   "null_mean": 0.2735,
+  "all_R100km": {
+   "k": 68,
+   "expected": 49.94,
+   "ratio": 1.362,
    "null_95": [
-    0.2124,
-    0.3316
+    38,
+    62
    ],
-   "ratio": 1.383,
-   "p_upper": 0.001,
+   "p_upper": 0.0025,
+   "p_lower": 0.9993
+  },
+  "reactors_R30km": {
+   "k": 0,
+   "expected": 0.96,
+   "ratio": 0.0,
+   "null_95": [
+    0,
+    3
+   ],
+   "p_upper": 1.0,
+   "p_lower": 0.3869
+  },
+  "reactors_R50km": {
+   "k": 2,
+   "expected": 6.24,
+   "ratio": 0.321,
+   "null_95": [
+    2,
+    11
+   ],
+   "p_upper": 0.987,
+   "p_lower": 0.0507
+  },
+  "reactors_R100km": {
+   "k": 60,
+   "expected": 33.78,
+   "ratio": 1.776,
+   "null_95": [
+    24,
+    45
+   ],
+   "p_upper": 0.0002,
    "p_lower": 1.0
   },
-  "SU_reactors_pre1992_R30km": {
+  "tests_R30km": {
    "k": 0,
-   "obs": 0.0,
-   "null_mean": 0.0065,
-   "null_95": [
-    0.0,
-    0.0207
-   ],
+   "expected": 0.91,
    "ratio": 0.0,
+   "null_95": [
+    0,
+    3
+   ],
    "p_upper": 1.0,
-   "p_lower": 0.2829
+   "p_lower": 0.3974
   },
-  "SU_reactors_pre1992_R50km": {
-   "k": 3,
-   "obs": 0.0155,
-   "null_mean": 0.0359,
-   "null_95": [
-    0.0104,
-    0.0622
-   ],
-   "ratio": 0.433,
-   "p_upper": 0.9715,
-   "p_lower": 0.083
-  },
-  "SU_reactors_pre1992_R100km": {
-   "k": 63,
-   "obs": 0.3264,
-   "null_mean": 0.1855,
-   "null_95": [
-    0.1295,
-    0.2383
-   ],
-   "ratio": 1.76,
-   "p_upper": 0.0005,
-   "p_lower": 1.0
-  },
-  "SU_test_sites_and_PNEs_R30km": {
+  "tests_R50km": {
    "k": 0,
-   "obs": 0.0,
-   "null_mean": 0.0041,
-   "null_95": [
-    0.0,
-    0.0155
-   ],
+   "expected": 4.71,
    "ratio": 0.0,
+   "null_95": [
+    1,
+    9
+   ],
    "p_upper": 1.0,
-   "p_lower": 0.4618
+   "p_lower": 0.005
   },
-  "SU_test_sites_and_PNEs_R50km": {
-   "k": 1,
-   "obs": 0.0052,
-   "null_mean": 0.0314,
+  "tests_R100km": {
+   "k": 6,
+   "expected": 13.82,
+   "ratio": 0.434,
    "null_95": [
-    0.0104,
-    0.057
+    7,
+    21
    ],
-   "ratio": 0.165,
-   "p_upper": 0.9985,
-   "p_lower": 0.014
+   "p_upper": 0.9945,
+   "p_lower": 0.013
   },
-  "SU_test_sites_and_PNEs_R100km": {
-   "k": 8,
-   "obs": 0.0415,
-   "null_mean": 0.0782,
-   "null_95": [
-    0.0415,
-    0.1192
-   ],
-   "ratio": 0.53,
-   "p_upper": 0.985,
-   "p_lower": 0.032
-  },
-  "SU_weapons_science_cities(NE coords)_R30km": {
+  "cities_R30km": {
    "k": 0,
-   "obs": 0.0,
-   "null_mean": 0.0024,
-   "null_95": [
-    0.0,
-    0.0104
-   ],
+   "expected": 0.46,
    "ratio": 0.0,
+   "null_95": [
+    0,
+    2
+   ],
    "p_upper": 1.0,
-   "p_lower": 0.6262
+   "p_lower": 0.6228
   },
-  "SU_weapons_science_cities(NE coords)_R50km": {
+  "cities_R50km": {
    "k": 0,
-   "obs": 0.0,
-   "null_mean": 0.0024,
-   "null_95": [
-    0.0,
-    0.0104
-   ],
+   "expected": 0.46,
    "ratio": 0.0,
-   "p_upper": 1.0,
-   "p_lower": 0.6197
-  },
-  "SU_weapons_science_cities(NE coords)_R100km": {
-   "k": 53,
-   "obs": 0.2746,
-   "null_mean": 0.0998,
    "null_95": [
-    0.057,
-    0.1399
+    0,
+    2
    ],
-   "ratio": 2.751,
-   "p_upper": 0.0005,
+   "p_upper": 1.0,
+   "p_lower": 0.6261
+  },
+  "cities_R100km": {
+   "k": 52,
+   "expected": 18.85,
+   "ratio": 2.758,
+   "null_95": [
+    11,
+    28
+   ],
+   "p_upper": 0.0002,
    "p_lower": 1.0
   }
  },
- "RU_native_SU_incl_region_capitals": {
-  "n": 328,
-  "SU_all_nuclear_R30km": {
+ "RU_native_SU_city_precision_excl_Moscow": {
+  "n": 146,
+  "all_R30km": {
    "k": 0,
-   "obs": 0.0,
-   "null_mean": 0.0122,
-   "null_95": [
-    0.003,
-    0.0244
-   ],
+   "expected": 1.68,
    "ratio": 0.0,
+   "null_95": [
+    0,
+    5
+   ],
    "p_upper": 1.0,
-   "p_lower": 0.0195
+   "p_lower": 0.1805
   },
-  "SU_all_nuclear_R50km": {
+  "all_R50km": {
+   "k": 2,
+   "expected": 8.54,
+   "ratio": 0.234,
+   "null_95": [
+    3,
+    14
+   ],
+   "p_upper": 0.9985,
+   "p_lower": 0.008
+  },
+  "all_R100km": {
+   "k": 24,
+   "expected": 38.24,
+   "ratio": 0.628,
+   "null_95": [
+    28,
+    49
+   ],
+   "p_upper": 0.9968,
+   "p_lower": 0.006
+  },
+  "reactors_R30km": {
+   "k": 0,
+   "expected": 0.74,
+   "ratio": 0.0,
+   "null_95": [
+    0,
+    3
+   ],
+   "p_upper": 1.0,
+   "p_lower": 0.4664
+  },
+  "reactors_R50km": {
+   "k": 2,
+   "expected": 4.77,
+   "ratio": 0.42,
+   "null_95": [
+    1,
+    9
+   ],
+   "p_upper": 0.9585,
+   "p_lower": 0.1355
+  },
+  "reactors_R100km": {
+   "k": 16,
+   "expected": 25.85,
+   "ratio": 0.619,
+   "null_95": [
+    17,
+    35
+   ],
+   "p_upper": 0.992,
+   "p_lower": 0.0142
+  },
+  "tests_R30km": {
+   "k": 0,
+   "expected": 0.7,
+   "ratio": 0.0,
+   "null_95": [
+    0,
+    3
+   ],
+   "p_upper": 1.0,
+   "p_lower": 0.5034
+  },
+  "tests_R50km": {
+   "k": 0,
+   "expected": 3.6,
+   "ratio": 0.0,
+   "null_95": [
+    0,
+    7
+   ],
+   "p_upper": 1.0,
+   "p_lower": 0.0275
+  },
+  "tests_R100km": {
+   "k": 6,
+   "expected": 10.57,
+   "ratio": 0.568,
+   "null_95": [
+    5,
+    17
+   ],
+   "p_upper": 0.9553,
+   "p_lower": 0.0962
+  },
+  "cities_R30km": {
+   "k": 0,
+   "expected": 0.36,
+   "ratio": 0.0,
+   "null_95": [
+    0,
+    2
+   ],
+   "p_upper": 1.0,
+   "p_lower": 0.6906
+  },
+  "cities_R50km": {
+   "k": 0,
+   "expected": 0.36,
+   "ratio": 0.0,
+   "null_95": [
+    0,
+    2
+   ],
+   "p_upper": 1.0,
+   "p_lower": 0.6868
+  },
+  "cities_R100km": {
    "k": 8,
-   "obs": 0.0244,
-   "null_mean": 0.0668,
+   "expected": 14.49,
+   "ratio": 0.552,
    "null_95": [
-    0.0396,
-    0.0945
+    8,
+    22
    ],
-   "ratio": 0.365,
-   "p_upper": 1.0,
-   "p_lower": 0.0015
-  },
-  "SU_all_nuclear_R100km": {
-   "k": 119,
-   "obs": 0.3628,
-   "null_mean": 0.2743,
-   "null_95": [
-    0.2256,
-    0.3232
-   ],
-   "ratio": 1.323,
-   "p_upper": 0.0015,
-   "p_lower": 0.9995
-  },
-  "SU_reactors_pre1992_R30km": {
+   "p_upper": 0.9795,
+   "p_lower": 0.0447
+  }
+ },
+ "RU_native_SU_incl_region_capitals": {
+  "n": 323,
+  "all_R30km": {
    "k": 0,
-   "obs": 0.0,
-   "null_mean": 0.0063,
-   "null_95": [
-    0.0,
-    0.0152
-   ],
+   "expected": 3.78,
    "ratio": 0.0,
+   "null_95": [
+    1,
+    8
+   ],
    "p_upper": 1.0,
-   "p_lower": 0.1249
+   "p_lower": 0.023
   },
-  "SU_reactors_pre1992_R50km": {
-   "k": 4,
-   "obs": 0.0122,
-   "null_mean": 0.0355,
+  "all_R50km": {
+   "k": 5,
+   "expected": 19.21,
+   "ratio": 0.26,
    "null_95": [
-    0.0183,
-    0.0579
+    11,
+    28
    ],
-   "ratio": 0.343,
-   "p_upper": 0.999,
-   "p_lower": 0.0075
+   "p_upper": 1.0,
+   "p_lower": 0.0002
   },
-  "SU_reactors_pre1992_R100km": {
-   "k": 101,
-   "obs": 0.3079,
-   "null_mean": 0.184,
+  "all_R100km": {
+   "k": 114,
+   "expected": 85.21,
+   "ratio": 1.338,
    "null_95": [
-    0.1433,
-    0.2256
+    70,
+    101
    ],
-   "ratio": 1.674,
-   "p_upper": 0.0005,
+   "p_upper": 0.0002,
    "p_lower": 1.0
   },
-  "SU_test_sites_and_PNEs_R30km": {
+  "reactors_R30km": {
    "k": 0,
-   "obs": 0.0,
-   "null_mean": 0.0042,
-   "null_95": [
-    0.0,
-    0.0122
-   ],
+   "expected": 1.67,
    "ratio": 0.0,
+   "null_95": [
+    0,
+    5
+   ],
    "p_upper": 1.0,
-   "p_lower": 0.2519
+   "p_lower": 0.181
   },
-  "SU_test_sites_and_PNEs_R50km": {
-   "k": 4,
-   "obs": 0.0122,
-   "null_mean": 0.0307,
+  "reactors_R50km": {
+   "k": 3,
+   "expected": 10.66,
+   "ratio": 0.281,
    "null_95": [
-    0.0122,
-    0.0488
+    5,
+    17
    ],
-   "ratio": 0.398,
-   "p_upper": 0.99,
-   "p_lower": 0.0265
+   "p_upper": 0.9985,
+   "p_lower": 0.0047
   },
-  "SU_test_sites_and_PNEs_R100km": {
-   "k": 16,
-   "obs": 0.0488,
-   "null_mean": 0.0783,
+  "reactors_R100km": {
+   "k": 98,
+   "expected": 57.54,
+   "ratio": 1.703,
    "null_95": [
-    0.0518,
-    0.1068
+    45,
+    72
    ],
-   "ratio": 0.623,
-   "p_upper": 0.988,
-   "p_lower": 0.0255
+   "p_upper": 0.0002,
+   "p_lower": 1.0
   },
-  "SU_weapons_science_cities(NE coords)_R30km": {
+  "tests_R30km": {
    "k": 0,
-   "obs": 0.0,
-   "null_mean": 0.0025,
-   "null_95": [
-    0.0,
-    0.0091
-   ],
+   "expected": 1.57,
    "ratio": 0.0,
+   "null_95": [
+    0,
+    4
+   ],
    "p_upper": 1.0,
-   "p_lower": 0.4328
+   "p_lower": 0.2062
   },
-  "SU_weapons_science_cities(NE coords)_R50km": {
+  "tests_R50km": {
+   "k": 2,
+   "expected": 8.16,
+   "ratio": 0.245,
+   "null_95": [
+    3,
+    14
+   ],
+   "p_upper": 0.9973,
+   "p_lower": 0.01
+  },
+  "tests_R100km": {
+   "k": 14,
+   "expected": 23.75,
+   "ratio": 0.59,
+   "null_95": [
+    15,
+    33
+   ],
+   "p_upper": 0.9905,
+   "p_lower": 0.0217
+  },
+  "cities_R30km": {
    "k": 0,
-   "obs": 0.0,
-   "null_mean": 0.0023,
-   "null_95": [
-    0.0,
-    0.0091
-   ],
+   "expected": 0.79,
    "ratio": 0.0,
-   "p_upper": 1.0,
-   "p_lower": 0.4618
-  },
-  "SU_weapons_science_cities(NE coords)_R100km": {
-   "k": 86,
-   "obs": 0.2622,
-   "null_mean": 0.0987,
    "null_95": [
-    0.0671,
-    0.1311
+    0,
+    3
    ],
-   "ratio": 2.657,
-   "p_upper": 0.0005,
+   "p_upper": 1.0,
+   "p_lower": 0.4439
+  },
+  "cities_R50km": {
+   "k": 0,
+   "expected": 0.79,
+   "ratio": 0.0,
+   "null_95": [
+    0,
+    3
+   ],
+   "p_upper": 1.0,
+   "p_lower": 0.4471
+  },
+  "cities_R100km": {
+   "k": 85,
+   "expected": 32.05,
+   "ratio": 2.652,
+   "null_95": [
+    22,
+    43
+   ],
+   "p_upper": 0.0002,
    "p_lower": 1.0
   }
  },
  "Hatch_SU": {
-  "n": 279,
-  "SU_all_nuclear_R30km": {
-   "k": 7,
-   "obs": 0.0251,
-   "null_mean": 0.0122,
+  "n": 262,
+  "all_R30km": {
+   "k": 5,
+   "expected": 2.39,
+   "ratio": 2.094,
    "null_95": [
-    0.0,
-    0.0251
+    0,
+    6
    ],
-   "ratio": 2.057,
-   "p_upper": 0.057,
-   "p_lower": 0.981
+   "p_upper": 0.0922,
+   "p_lower": 0.9688
   },
-  "SU_all_nuclear_R50km": {
-   "k": 22,
-   "obs": 0.0789,
-   "null_mean": 0.0673,
+  "all_R50km": {
+   "k": 20,
+   "expected": 11.43,
+   "ratio": 1.75,
    "null_95": [
-    0.0394,
-    0.0968
+    6,
+    18
    ],
-   "ratio": 1.171,
-   "p_upper": 0.2604,
-   "p_lower": 0.8026
+   "p_upper": 0.011,
+   "p_lower": 0.9955
   },
-  "SU_all_nuclear_R100km": {
-   "k": 66,
-   "obs": 0.2366,
-   "null_mean": 0.2746,
+  "all_R100km": {
+   "k": 54,
+   "expected": 56.85,
+   "ratio": 0.95,
    "null_95": [
-    0.2222,
-    0.3297
+    44,
+    70
    ],
-   "ratio": 0.861,
-   "p_upper": 0.9345,
-   "p_lower": 0.085
+   "p_upper": 0.6976,
+   "p_lower": 0.3582
   },
-  "SU_reactors_pre1992_R30km": {
-   "k": 6,
-   "obs": 0.0215,
-   "null_mean": 0.0064,
+  "reactors_R30km": {
+   "k": 4,
+   "expected": 1.1,
+   "ratio": 3.633,
    "null_95": [
-    0.0,
-    0.0179
+    0,
+    4
    ],
-   "ratio": 3.379,
-   "p_upper": 0.007,
-   "p_lower": 0.9975
+   "p_upper": 0.0275,
+   "p_lower": 0.995
   },
-  "SU_reactors_pre1992_R50km": {
-   "k": 19,
-   "obs": 0.0681,
-   "null_mean": 0.0358,
-   "null_95": [
-    0.0178,
-    0.0609
-   ],
-   "ratio": 1.901,
-   "p_upper": 0.0045,
-   "p_lower": 0.9975
-  },
-  "SU_reactors_pre1992_R100km": {
-   "k": 45,
-   "obs": 0.1613,
-   "null_mean": 0.1841,
-   "null_95": [
-    0.1398,
-    0.2294
-   ],
-   "ratio": 0.876,
-   "p_upper": 0.8616,
-   "p_lower": 0.1794
-  },
-  "SU_test_sites_and_PNEs_R30km": {
-   "k": 1,
-   "obs": 0.0036,
-   "null_mean": 0.004,
-   "null_95": [
-    0.0,
-    0.0143
-   ],
-   "ratio": 0.89,
-   "p_upper": 0.6807,
-   "p_lower": 0.6887
-  },
-  "SU_test_sites_and_PNEs_R50km": {
-   "k": 3,
-   "obs": 0.0108,
-   "null_mean": 0.0313,
-   "null_95": [
-    0.0108,
-    0.0538
-   ],
-   "ratio": 0.343,
-   "p_upper": 0.9945,
-   "p_lower": 0.027
-  },
-  "SU_test_sites_and_PNEs_R100km": {
+  "reactors_R50km": {
    "k": 17,
-   "obs": 0.0609,
-   "null_mean": 0.0777,
+   "expected": 6.57,
+   "ratio": 2.586,
    "null_95": [
-    0.0502,
-    0.1111
+    2,
+    12
    ],
-   "ratio": 0.784,
-   "p_upper": 0.8791,
-   "p_lower": 0.1759
+   "p_upper": 0.0007,
+   "p_lower": 0.9998
   },
-  "SU_weapons_science_cities(NE coords)_R30km": {
+  "reactors_R100km": {
+   "k": 39,
+   "expected": 39.02,
+   "ratio": 1.0,
+   "null_95": [
+    28,
+    50
+   ],
+   "p_upper": 0.5314,
+   "p_lower": 0.5414
+  },
+  "tests_R30km": {
+   "k": 1,
+   "expected": 0.85,
+   "ratio": 1.182,
+   "null_95": [
+    0,
+    3
+   ],
+   "p_upper": 0.5789,
+   "p_lower": 0.7891
+  },
+  "tests_R50km": {
+   "k": 3,
+   "expected": 4.49,
+   "ratio": 0.668,
+   "null_95": [
+    1,
+    9
+   ],
+   "p_upper": 0.8235,
+   "p_lower": 0.3527
+  },
+  "tests_R100km": {
+   "k": 8,
+   "expected": 13.59,
+   "ratio": 0.589,
+   "null_95": [
+    7,
+    21
+   ],
+   "p_upper": 0.965,
+   "p_lower": 0.0695
+  },
+  "cities_R30km": {
    "k": 0,
-   "obs": 0.0,
-   "null_mean": 0.0024,
-   "null_95": [
-    0.0,
-    0.0108
-   ],
+   "expected": 0.64,
    "ratio": 0.0,
+   "null_95": [
+    0,
+    2
+   ],
    "p_upper": 1.0,
-   "p_lower": 0.5267
+   "p_lower": 0.5234
   },
-  "SU_weapons_science_cities(NE coords)_R50km": {
+  "cities_R50km": {
    "k": 0,
-   "obs": 0.0,
-   "null_mean": 0.0024,
-   "null_95": [
-    0.0,
-    0.0108
-   ],
+   "expected": 0.64,
    "ratio": 0.0,
-   "p_upper": 1.0,
-   "p_lower": 0.5062
-  },
-  "SU_weapons_science_cities(NE coords)_R100km": {
-   "k": 21,
-   "obs": 0.0753,
-   "null_mean": 0.0991,
    "null_95": [
-    0.0645,
-    0.1326
+    0,
+    3
    ],
-   "ratio": 0.759,
-   "p_upper": 0.9335,
-   "p_lower": 0.1009
+   "p_upper": 1.0,
+   "p_lower": 0.5389
+  },
+  "cities_R100km": {
+   "k": 20,
+   "expected": 26.0,
+   "ratio": 0.769,
+   "null_95": [
+    17,
+    36
+   ],
+   "p_upper": 0.9165,
+   "p_lower": 0.1192
   }
  },
  "Hatch_CN": {
-  "n": 228,
-  "CN_all_nuclear_R30km": {
+  "n": 223,
+  "all_R30km": {
    "k": 0,
-   "obs": 0.0,
-   "null_mean": 0.0044,
-   "null_95": [
-    0.0,
-    0.0132
-   ],
-   "ratio": 0.0,
-   "p_upper": 1.0,
-   "p_lower": 0.3778
-  },
-  "CN_all_nuclear_R50km": {
-   "k": 19,
-   "obs": 0.0833,
-   "null_mean": 0.0695,
-   "null_95": [
-    0.0395,
-    0.1053
-   ],
-   "ratio": 1.199,
-   "p_upper": 0.2374,
-   "p_lower": 0.8316
-  },
-  "CN_all_nuclear_R100km": {
-   "k": 34,
-   "obs": 0.1491,
-   "null_mean": 0.1836,
-   "null_95": [
-    0.136,
-    0.2326
-   ],
-   "ratio": 0.812,
-   "p_upper": 0.9365,
-   "p_lower": 0.0915
-  },
-  "CN_reactors_R30km": {
-   "k": 0,
-   "obs": 0.0,
-   "null_mean": 0.0045,
-   "null_95": [
-    0.0,
-    0.0132
-   ],
-   "ratio": 0.0,
-   "p_upper": 1.0,
-   "p_lower": 0.3603
-  },
-  "CN_reactors_R50km": {
-   "k": 19,
-   "obs": 0.0833,
-   "null_mean": 0.0697,
-   "null_95": [
-    0.0395,
-    0.1053
-   ],
-   "ratio": 1.195,
-   "p_upper": 0.2359,
-   "p_lower": 0.8316
-  },
-  "CN_reactors_R100km": {
-   "k": 34,
-   "obs": 0.1491,
-   "null_mean": 0.1833,
-   "null_95": [
-    0.136,
-    0.2368
-   ],
-   "ratio": 0.813,
-   "p_upper": 0.925,
-   "p_lower": 0.1074
-  },
-  "CN_tests_R30km": {
-   "k": 0,
-   "obs": 0.0,
-   "null_mean": 0.0,
-   "null_95": [
-    0.0,
-    0.0
-   ],
+   "expected": 0.0,
    "ratio": null,
+   "null_95": [
+    0,
+    0
+   ],
    "p_upper": 1.0,
    "p_lower": 1.0
   },
-  "CN_tests_R50km": {
-   "k": 0,
-   "obs": 0.0,
-   "null_mean": 0.0,
+  "all_R50km": {
+   "k": 1,
+   "expected": 0.73,
+   "ratio": 1.363,
    "null_95": [
-    0.0,
-    0.0
+    0,
+    3
    ],
+   "p_upper": 0.5201,
+   "p_lower": 0.833
+  },
+  "all_R100km": {
+   "k": 4,
+   "expected": 3.08,
+   "ratio": 1.301,
+   "null_95": [
+    0,
+    7
+   ],
+   "p_upper": 0.3742,
+   "p_lower": 0.8018
+  },
+  "reactors_R30km": {
+   "k": 0,
+   "expected": 0.0,
    "ratio": null,
+   "null_95": [
+    0,
+    0
+   ],
    "p_upper": 1.0,
    "p_lower": 1.0
   },
-  "CN_tests_R100km": {
-   "k": 0,
-   "obs": 0.0,
-   "null_mean": 0.0,
+  "reactors_R50km": {
+   "k": 1,
+   "expected": 0.73,
+   "ratio": 1.363,
    "null_95": [
-    0.0,
-    0.0
+    0,
+    3
    ],
+   "p_upper": 0.5324,
+   "p_lower": 0.8323
+  },
+  "reactors_R100km": {
+   "k": 4,
+   "expected": 3.08,
+   "ratio": 1.301,
+   "null_95": [
+    0,
+    7
+   ],
+   "p_upper": 0.3577,
+   "p_lower": 0.812
+  },
+  "tests_R30km": {
+   "k": 0,
+   "expected": 0.0,
    "ratio": null,
+   "null_95": [
+    0,
+    0
+   ],
    "p_upper": 1.0,
+   "p_lower": 1.0
+  },
+  "tests_R50km": {
+   "k": 0,
+   "expected": 0.0,
+   "ratio": null,
+   "null_95": [
+    0,
+    0
+   ],
+   "p_upper": 1.0,
+   "p_lower": 1.0
+  },
+  "tests_R100km": {
+   "k": 0,
+   "expected": 0.0,
+   "ratio": null,
+   "null_95": [
+    0,
+    0
+   ],
+   "p_upper": 1.0,
+   "p_lower": 1.0
+  }
+ },
+ "Hatch_SU_declustered": {
+  "n": 244,
+  "all_R30km": {
+   "k": 5,
+   "expected": 2.18,
+   "ratio": 2.293,
+   "null_95": [
+    0,
+    6
+   ],
+   "p_upper": 0.08,
+   "p_lower": 0.9718
+  },
+  "all_R50km": {
+   "k": 14,
+   "expected": 10.43,
+   "ratio": 1.343,
+   "null_95": [
+    5,
+    17
+   ],
+   "p_upper": 0.164,
+   "p_lower": 0.8925
+  },
+  "all_R100km": {
+   "k": 48,
+   "expected": 52.4,
+   "ratio": 0.916,
+   "null_95": [
+    41,
+    65
+   ],
+   "p_upper": 0.7768,
+   "p_lower": 0.2744
+  },
+  "reactors_R30km": {
+   "k": 4,
+   "expected": 1.0,
+   "ratio": 3.988,
+   "null_95": [
+    0,
+    3
+   ],
+   "p_upper": 0.0182,
+   "p_lower": 0.9963
+  },
+  "reactors_R50km": {
+   "k": 11,
+   "expected": 6.03,
+   "ratio": 1.825,
+   "null_95": [
+    2,
+    11
+   ],
+   "p_upper": 0.0445,
+   "p_lower": 0.979
+  },
+  "reactors_R100km": {
+   "k": 33,
+   "expected": 36.02,
+   "ratio": 0.916,
+   "null_95": [
+    25,
+    47
+   ],
+   "p_upper": 0.7178,
+   "p_lower": 0.3432
+  },
+  "tests_R30km": {
+   "k": 1,
+   "expected": 0.77,
+   "ratio": 1.305,
+   "null_95": [
+    0,
+    3
+   ],
+   "p_upper": 0.5401,
+   "p_lower": 0.8225
+  },
+  "tests_R50km": {
+   "k": 3,
+   "expected": 4.06,
+   "ratio": 0.739,
+   "null_95": [
+    1,
+    8
+   ],
+   "p_upper": 0.7691,
+   "p_lower": 0.4226
+  },
+  "tests_R100km": {
+   "k": 8,
+   "expected": 12.36,
+   "ratio": 0.647,
+   "null_95": [
+    6,
+    19
+   ],
+   "p_upper": 0.9308,
+   "p_lower": 0.1292
+  },
+  "cities_R30km": {
+   "k": 0,
+   "expected": 0.59,
+   "ratio": 0.0,
+   "null_95": [
+    0,
+    2
+   ],
+   "p_upper": 1.0,
+   "p_lower": 0.5529
+  },
+  "cities_R50km": {
+   "k": 0,
+   "expected": 0.59,
+   "ratio": 0.0,
+   "null_95": [
+    0,
+    2
+   ],
+   "p_upper": 1.0,
+   "p_lower": 0.5474
+  },
+  "cities_R100km": {
+   "k": 20,
+   "expected": 24.21,
+   "ratio": 0.826,
+   "null_95": [
+    16,
+    34
+   ],
+   "p_upper": 0.8455,
+   "p_lower": 0.2152
+  }
+ },
+ "RU_native_SU_city_precision_declustered": {
+  "n": 167,
+  "all_R30km": {
+   "k": 0,
+   "expected": 1.93,
+   "ratio": 0.0,
+   "null_95": [
+    0,
+    5
+   ],
+   "p_upper": 1.0,
+   "p_lower": 0.148
+  },
+  "all_R50km": {
+   "k": 2,
+   "expected": 9.84,
+   "ratio": 0.203,
+   "null_95": [
+    4,
+    16
+   ],
+   "p_upper": 0.9995,
+   "p_lower": 0.0042
+  },
+  "all_R100km": {
+   "k": 55,
+   "expected": 43.88,
+   "ratio": 1.253,
+   "null_95": [
+    33,
+    55
+   ],
+   "p_upper": 0.0307,
+   "p_lower": 0.9765
+  },
+  "reactors_R30km": {
+   "k": 0,
+   "expected": 0.84,
+   "ratio": 0.0,
+   "null_95": [
+    0,
+    3
+   ],
+   "p_upper": 1.0,
+   "p_lower": 0.4371
+  },
+  "reactors_R50km": {
+   "k": 2,
+   "expected": 5.47,
+   "ratio": 0.366,
+   "null_95": [
+    1,
+    10
+   ],
+   "p_upper": 0.9728,
+   "p_lower": 0.09
+  },
+  "reactors_R100km": {
+   "k": 48,
+   "expected": 29.64,
+   "ratio": 1.62,
+   "null_95": [
+    20,
+    40
+   ],
+   "p_upper": 0.0002,
+   "p_lower": 1.0
+  },
+  "tests_R30km": {
+   "k": 0,
+   "expected": 0.81,
+   "ratio": 0.0,
+   "null_95": [
+    0,
+    3
+   ],
+   "p_upper": 1.0,
+   "p_lower": 0.4406
+  },
+  "tests_R50km": {
+   "k": 0,
+   "expected": 4.16,
+   "ratio": 0.0,
+   "null_95": [
+    1,
+    8
+   ],
+   "p_upper": 1.0,
+   "p_lower": 0.0107
+  },
+  "tests_R100km": {
+   "k": 5,
+   "expected": 12.18,
+   "ratio": 0.411,
+   "null_95": [
+    6,
+    19
+   ],
+   "p_upper": 0.9955,
+   "p_lower": 0.0152
+  },
+  "cities_R30km": {
+   "k": 0,
+   "expected": 0.41,
+   "ratio": 0.0,
+   "null_95": [
+    0,
+    2
+   ],
+   "p_upper": 1.0,
+   "p_lower": 0.6668
+  },
+  "cities_R50km": {
+   "k": 0,
+   "expected": 0.41,
+   "ratio": 0.0,
+   "null_95": [
+    0,
+    2
+   ],
+   "p_upper": 1.0,
+   "p_lower": 0.6668
+  },
+  "cities_R100km": {
+   "k": 41,
+   "expected": 16.57,
+   "ratio": 2.474,
+   "null_95": [
+    9,
+    25
+   ],
+   "p_upper": 0.0002,
    "p_lower": 1.0
   }
  }

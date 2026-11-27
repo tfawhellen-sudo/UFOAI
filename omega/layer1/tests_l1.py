@@ -358,75 +358,101 @@ def t3_descriptors(ru, hatch, nuforc):
 
 
 def t4_nuclear(ru, hatch):
+    """Time-aware nuclear proximity. A reactor counts from its construction-start year, a test
+    site from its first test, a weapons/nuclear-science city from 1946. For each report i of year
+    y_i the null probability p_i is the population-weighted share of Natural Earth places (same
+    country group) lying within R km of a site existing in y_i. Observed count k is compared with
+    the Poisson-binomial sum of p_i (Monte Carlo). Primary radius R = 30 km, as in GEIPAN Phase 2."""
     places = C.load_places()
     reactors = C.load_reactors()
     tests = C.load_tests()
-    weapons_ru = ["Саров", "Снежинск", "Озёрск", "Северск", "Железногорск", "Зеленогорск", "Новоуральск",
-                  "Лесной", "Трёхгорный", "Заречный", "Курчатов", "Обнинск", "Димитровград", "Дубна"]
     idx = C.ru_index()
     weapons = []
-    for nm in weapons_ru:
-        key = nm.lower().replace("ё", "е")
-        su = [p for p in idx.get(key, []) if p["iso2"] in C.SU_ISO2]
+    for nm in ["Саров", "Снежинск", "Озёрск", "Северск", "Железногорск", "Зеленогорск", "Новоуральск",
+               "Лесной", "Трёхгорный", "Заречный", "Курчатов", "Обнинск", "Димитровград", "Дубна"]:
+        su = [p for p in idx.get(nm.lower().replace("ё", "е"), []) if p["iso2"] in C.SU_ISO2]
         if su:
-            weapons.append(dict(name=nm, lat=su[0]["lat"], lon=su[0]["lon"], kind="weapons_or_nuclear_science_city"))
-    su_sites = [r for r in reactors if r["iso2"] in C.SU_ISO2 and r["start"] and r["start"] <= "1991"]
-    su_tests = [t for t in tests if (t["country"] or "").upper() in ("USSR", "SOVIET UNION", "RUSSIA")]
-    cn_sites = [r for r in reactors if r["iso2"] == "CN"]
-    cn_tests = [t for t in tests if (t["country"] or "").upper() in ("CHINA", "PRC")]
+            weapons.append(dict(name=nm, lat=su[0]["lat"], lon=su[0]["lon"], year=1946, kind="city"))
+    sites = {"SU": [], "CN": []}
+    for r in reactors:
+        if r["start"]:
+            g = "SU" if r["iso2"] in C.SU_ISO2 else ("CN" if r["iso2"] == "CN" else None)
+            if g:
+                sites[g].append(dict(name=r["name"], lat=r["lat"], lon=r["lon"], year=int(r["start"]), kind="reactor"))
+    first = {}
+    for t in tests:
+        cc = (t["country"] or "").upper()
+        g = "SU" if cc in ("USSR", "SOVIET UNION", "RUSSIA") else ("CN" if cc in ("CHINA", "PRC") else None)
+        if g and t["year"]:
+            key = (g, round(t["lat"], 1), round(t["lon"], 1))
+            first[key] = min(first.get(key, 9999), t["year"])
+    for (g, la, lo), y in first.items():
+        sites[g].append(dict(name="test", lat=la, lon=lo, year=y, kind="test"))
+    sites["SU"] += weapons
+    pools = {"SU": [p for p in places if p["iso2"] in C.SU_ISO2], "CN": [p for p in places if p["iso2"] == "CN"]}
+    rng = np.random.default_rng(20261127)
+    res = {"n_sites": {g: collections.Counter(x["kind"] for x in v) for g, v in sites.items()},
+           "weapons_cities_found_in_NE": [w["name"] for w in weapons]}
 
-    def thin(pts, km=20):
-        out = []
+    def pool_share(g, year, R, kinds):
+        pool = pools[g]
+        ss = [x for x in sites[g] if x["year"] <= year and x["kind"] in kinds]
+        if not ss:
+            return 0.0
+        w = tot = 0.0
+        for p in pool:
+            wt = max(p["pop1980"] or 0, p["pop"] or 0)
+            tot += wt
+            if any(abs(p["lat"] - x["lat"]) < 2 and C.hav_km(p["lat"], p["lon"], x["lat"], x["lon"]) <= R for x in ss):
+                w += wt
+        return w / tot
+    cache = {}
+    ru_pts = [r for r in ru if r["region"] in ("SU", "SU?") and r["lat"] is not None and r["year"] >= 1946]
+    groups = {
+        "RU_native_SU_city_precision": ("SU", [r for r in ru_pts if r["geo_how"].split(":")[0] in ("exact", "alias", "stem")]),
+        "RU_native_SU_city_precision_excl_Moscow": ("SU", [r for r in ru_pts if r["geo_how"].split(":")[0] in ("exact", "alias", "stem") and r["geo_name"] != "Москва"]),
+        "RU_native_SU_incl_region_capitals": ("SU", ru_pts),
+        "Hatch_SU": ("SU", [x for x in hatch if x["group"] == "SU" and x["lat"] is not None and x["year"] and x["year"] >= 1946
+                            and not re.search(r"ACCIDENT|DISASTER", x["hatch_desc"] or "")]),
+        "Hatch_CN": ("CN", [x for x in hatch if x["country"] == "China" and x["lat"] is not None and x["year"] and x["year"] >= 1946]),
+    }
+
+    def decluster(pts):
+        """one point per (0.5-degree cell, year, month): collapses single-city waves."""
+        seen, out = set(), []
         for p in pts:
-            if all(C.hav_km(p["lat"], p["lon"], q["lat"], q["lon"]) > km for q in out):
+            key = (round(p["lat"] * 2), round(p["lon"] * 2), p["year"], p.get("month"))
+            if key not in seen:
+                seen.add(key)
                 out.append(p)
         return out
-    site_sets = {
-        "SU_reactors_pre1992": thin(su_sites), "SU_test_sites_and_PNEs": thin(su_tests),
-        "SU_weapons_science_cities(NE coords)": weapons, "CN_reactors": thin(cn_sites), "CN_tests": thin(cn_tests),
-    }
-    site_sets["SU_all_nuclear"] = thin(site_sets["SU_reactors_pre1992"] + site_sets["SU_test_sites_and_PNEs"] + weapons)
-    site_sets["CN_all_nuclear"] = thin(site_sets["CN_reactors"] + site_sets["CN_tests"])
-
-    def min_d(lat, lon, sites):
-        return min(C.hav_km(lat, lon, s["lat"], s["lon"]) for s in sites) if sites else 1e9
-
-    rng = np.random.default_rng(20261127)
-
-    def null_draw(pool, n, R, sites, reps=2000):
-        w = np.array([max(p["pop1980"] or 0, p["pop"] or 0) for p in pool], dtype=float)
-        w = w / w.sum()
-        dists = np.array([min_d(p["lat"], p["lon"], sites) for p in pool])
-        within = (dists <= R).astype(float)
-        draws = rng.choice(len(pool), size=(reps, n), p=w)
-        return within[draws].mean(axis=1)
-
-    pool_su = [p for p in places if p["iso2"] in C.SU_ISO2]
-    pool_cn = [p for p in places if p["iso2"] in ("CN",)]
-    res = {"site_counts": {k: len(v) for k, v in site_sets.items()},
-           "weapons_cities_found_in_NE": [w["name"] for w in weapons]}
-    ru_pts = [r for r in ru if r["region"] in ("SU", "SU?") and r["lat"] is not None]
-    groups = {
-        "RU_native_SU_city_precision": [r for r in ru_pts if r["geo_how"].split(":")[0] in ("exact", "alias", "stem")],
-        "RU_native_SU_incl_region_capitals": ru_pts,
-        "Hatch_SU": [x for x in hatch if x["group"] == "SU" and x["lat"] is not None],
-        "Hatch_CN": [x for x in hatch if x["group"] == "CN" and x["lat"] is not None and x["country"] == "China"],
-    }
-    for gname, pts in groups.items():
-        sites_list = ["SU_all_nuclear", "SU_reactors_pre1992", "SU_test_sites_and_PNEs", "SU_weapons_science_cities(NE coords)"] if "SU" in gname else ["CN_all_nuclear", "CN_reactors", "CN_tests"]
-        pool = pool_su if "SU" in gname else pool_cn
+    groups["Hatch_SU_declustered"] = ("SU", decluster(groups["Hatch_SU"][1]))
+    groups["RU_native_SU_city_precision_declustered"] = ("SU", decluster(groups["RU_native_SU_city_precision"][1]))
+    kindsets = {"all": {"reactor", "test", "city"}, "reactors": {"reactor"}, "tests": {"test"}, "cities": {"city"}}
+    for gname, (g, pts) in groups.items():
         gres = {"n": len(pts)}
-        for sname in sites_list:
-            sites = site_sets[sname]
+        for kname, kinds in kindsets.items():
+            if g == "CN" and kname == "cities":
+                continue
             for R in (30, 50, 100):
-                k = sum(1 for p in pts if min_d(p["lat"], p["lon"], sites) <= R)
-                obs = k / len(pts)
-                null = null_draw(pool, len(pts), R, sites)
-                gres["%s_R%dkm" % (sname, R)] = dict(k=k, obs=round(obs, 4), null_mean=round(float(null.mean()), 4),
-                                                    null_95=[round(float(np.percentile(null, 2.5)), 4), round(float(np.percentile(null, 97.5)), 4)],
-                                                    ratio=round(obs / float(null.mean()), 3) if null.mean() > 0 else None,
-                                                    p_upper=round((1 + int((null >= obs).sum())) / (1 + len(null)), 4),
-                                                    p_lower=round((1 + int((null <= obs).sum())) / (1 + len(null)), 4))
+                ps, k = [], 0
+                for p in pts:
+                    y = int(p["year"])
+                    key = (g, y, R, kname)
+                    if key not in cache:
+                        cache[key] = pool_share(g, y, R, kinds)
+                    ps.append(cache[key])
+                    ss = [x for x in sites[g] if x["year"] <= y and x["kind"] in kinds]
+                    if any(C.hav_km(p["lat"], p["lon"], x["lat"], x["lon"]) <= R for x in ss):
+                        k += 1
+                ps = np.array(ps)
+                sims = (rng.random((4000, len(ps))) < ps).sum(axis=1)
+                e = float(ps.sum())
+                gres["%s_R%dkm" % (kname, R)] = dict(
+                    k=k, expected=round(e, 2), ratio=round(k / e, 3) if e > 0 else None,
+                    null_95=[int(np.percentile(sims, 2.5)), int(np.percentile(sims, 97.5))],
+                    p_upper=round((1 + int((sims >= k).sum())) / 4001, 4),
+                    p_lower=round((1 + int((sims <= k).sum())) / 4001, 4))
         res[gname] = gres
     return res
 
