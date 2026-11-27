@@ -1,0 +1,21 @@
+{
+ "_rule": "D4: the quote is checked against the text and the codebook; if unresolved, score 0. Burned or dried vegetation counts as item 5 (vegetation damage).",
+ "WG52QV": {"5": 1, "_why": "burned grass circle is vegetation damage"},
+ "YRS6JD": {"7": 0, "_why": "cancer-cure remark is a hope, not an injury, and belongs to the previous case"},
+ "GCKCNY": {"9": 0, "_why": "the text gives the Mg result but does not call it anomalous within the window"},
+ "FSPLH9": {"1": 0, "_why": "'leaving physical evidence' doesn't state a ground mark"},
+ "MP9M63": {"5": 1, "_why": "'Bald spot / field'"},
+ "DGNAGH": {"7": 0, "_why": "the stomach pains come before the event and are not attributed to it"},
+ "HRK57Z": {"2": 1, "_why": "'sheets of fire' in homes"},
+ "FU6Y7W": {"2": 1, "_why": "'sheets of fire' in homes"},
+ "K3GR9E": {"1": 0, "_why": "the quote is a caption fragment and no mark is described"},
+ "5PWFE2": {"8": 0, "_why": "no analysis stated"},
+ "YUYDAB": {"5": 1, "_why": "'Dried area 13.5x12.0 feet found'"},
+ "JJDHBL": {"6": 0, "_why": "the sentence about the kitten is cut off and no effect is stated"},
+ "V464HF": {"5": 1, "_why": "'All vegetation inside the circle is burned'"},
+ "DHPMQP": {"2": 0, "_why": "'something burning' describes the glowing object, not a burn"},
+ "KU3GM6": {"2": 0, "_why": "same as DHPMQP"},
+ "VMVAJX": {"5": 1, "_why": "'burned corn stubble'"},
+ "CUS3Z2": {"5": 1, "_why": "'bare spot ... of burned grass'"},
+ "9F3SKH": {"7": 0, "_why": "same as YRS6JD"}
+}

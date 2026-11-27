@@ -1,0 +1,1947 @@
+{
+ "seed": 4340,
+ "calibration_events": [
+  "OMEGA-000494",
+  "OMEGA-000230",
+  "OMEGA-004867",
+  "OMEGA-000271",
+  "OMEGA-000013",
+  "OMEGA-001933",
+  "OMEGA-000846",
+  "OMEGA-000929",
+  "OMEGA-001703",
+  "OMEGA-020145",
+  "OMEGA-004699",
+  "OMEGA-000917",
+  "OMEGA-002589",
+  "OMEGA-021736",
+  "OMEGA-000227",
+  "OMEGA-001607",
+  "OMEGA-001611",
+  "OMEGA-000003",
+  "OMEGA-021960",
+  "OMEGA-003285"
+ ],
+ "key": {
+  "6UCVAQ": {
+   "event_id": "OMEGA-000003",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1985_06_djvu.txt",
+   "lag": 54,
+   "raw_len": 655
+  },
+  "834KWR": {
+   "event_id": "OMEGA-000003",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1985_06_djvu.txt",
+   "lag": 54,
+   "raw_len": 400
+  },
+  "24TGG6": {
+   "event_id": "OMEGA-000003",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 54,
+   "raw_len": 400
+  },
+  "6WSR3Y": {
+   "event_id": "OMEGA-000013",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1998_02_djvu.txt",
+   "lag": 484,
+   "raw_len": 662
+  },
+  "4SY9UN": {
+   "event_id": "OMEGA-000013",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1998_02_djvu.txt",
+   "lag": 484,
+   "raw_len": 400
+  },
+  "C4XZ6A": {
+   "event_id": "OMEGA-000013",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 484,
+   "raw_len": 400
+  },
+  "C5A48Z": {
+   "event_id": "OMEGA-000017",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "APRO__APRO_Bulletin_-_1979_09_00_-_Vol_28_No_3_djvu.txt",
+   "lag": 48,
+   "raw_len": 648
+  },
+  "FWFMLC": {
+   "event_id": "OMEGA-000017",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "APRO__APRO_Bulletin_-_1979_09_00_-_Vol_28_No_3_djvu.txt",
+   "lag": 48,
+   "raw_len": 400
+  },
+  "74T6AP": {
+   "event_id": "OMEGA-000017",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 48,
+   "raw_len": 400
+  },
+  "EPD4NC": {
+   "event_id": "OMEGA-000045",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1963_03_00_-_March_djvu.txt",
+   "lag": 18,
+   "raw_len": 650
+  },
+  "VAAB3A": {
+   "event_id": "OMEGA-000045",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1963_03_00_-_March_djvu.txt",
+   "lag": 18,
+   "raw_len": 400
+  },
+  "HZ3NMJ": {
+   "event_id": "OMEGA-000045",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 18,
+   "raw_len": 400
+  },
+  "9NPHUQ": {
+   "event_id": "OMEGA-000046",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1970_04_djvu.txt",
+   "lag": 28,
+   "raw_len": 647
+  },
+  "83PMH7": {
+   "event_id": "OMEGA-000046",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1970_04_djvu.txt",
+   "lag": 28,
+   "raw_len": 400
+  },
+  "J324AN": {
+   "event_id": "OMEGA-000046",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 28,
+   "raw_len": 400
+  },
+  "77WFFW": {
+   "event_id": "OMEGA-000062",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "IUR__Volume_3__number_1__January_1978_djvu.txt",
+   "lag": 280,
+   "raw_len": 649
+  },
+  "ABJQPP": {
+   "event_id": "OMEGA-000062",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "IUR__Volume_3__number_1__January_1978_djvu.txt",
+   "lag": 280,
+   "raw_len": 400
+  },
+  "EKSQ4D": {
+   "event_id": "OMEGA-000062",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 280,
+   "raw_len": 400
+  },
+  "24HTQF": {
+   "event_id": "OMEGA-000074",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1964_05_00_-_May_djvu.txt",
+   "lag": 1,
+   "raw_len": 647
+  },
+  "GTXKAY": {
+   "event_id": "OMEGA-000074",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1964_05_00_-_May_djvu.txt",
+   "lag": 1,
+   "raw_len": 400
+  },
+  "3HHD96": {
+   "event_id": "OMEGA-000074",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 1,
+   "raw_len": 400
+  },
+  "8HTYC8": {
+   "event_id": "OMEGA-000075",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1965_11_00_-_November-December_djvu.txt",
+   "lag": 3,
+   "raw_len": 855
+  },
+  "CD9QB5": {
+   "event_id": "OMEGA-000075",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1965_11_00_-_November-December_djvu.txt",
+   "lag": 3,
+   "raw_len": 400
+  },
+  "VQ24V5": {
+   "event_id": "OMEGA-000075",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 3,
+   "raw_len": 400
+  },
+  "R8P6MV": {
+   "event_id": "OMEGA-000138",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1967_05_00_-_May-June_djvu.txt",
+   "lag": 0,
+   "raw_len": 651
+  },
+  "A8JJ4Y": {
+   "event_id": "OMEGA-000138",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1967_05_00_-_May-June_djvu.txt",
+   "lag": 0,
+   "raw_len": 400
+  },
+  "A36X3H": {
+   "event_id": "OMEGA-000138",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 0,
+   "raw_len": 400
+  },
+  "VMVAJX": {
+   "event_id": "OMEGA-000227",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1957_09_-_September_djvu.txt",
+   "lag": 2,
+   "raw_len": 644
+  },
+  "KPQXDB": {
+   "event_id": "OMEGA-000227",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1957_09_-_September_djvu.txt",
+   "lag": 2,
+   "raw_len": 400
+  },
+  "2ZY7MJ": {
+   "event_id": "OMEGA-000227",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 2,
+   "raw_len": 400
+  },
+  "6AR9CR": {
+   "event_id": "OMEGA-000230",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1961_05_00_-_May_djvu.txt",
+   "lag": 1,
+   "raw_len": 651
+  },
+  "WJQUU9": {
+   "event_id": "OMEGA-000230",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1961_05_00_-_May_djvu.txt",
+   "lag": 1,
+   "raw_len": 400
+  },
+  "38DYHN": {
+   "event_id": "OMEGA-000230",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 1,
+   "raw_len": 400
+  },
+  "TPF3TZ": {
+   "event_id": "OMEGA-000232",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1989_07_djvu.txt",
+   "lag": 300,
+   "raw_len": 647
+  },
+  "RG94NE": {
+   "event_id": "OMEGA-000232",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1989_07_djvu.txt",
+   "lag": 300,
+   "raw_len": 400
+  },
+  "7HGVR8": {
+   "event_id": "OMEGA-000232",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 300,
+   "raw_len": 400
+  },
+  "9P76Q3": {
+   "event_id": "OMEGA-000236",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1965_07_00_-_July-August_djvu.txt",
+   "lag": 0,
+   "raw_len": 742
+  },
+  "KYB6JA": {
+   "event_id": "OMEGA-000236",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1965_07_00_-_July-August_djvu.txt",
+   "lag": 0,
+   "raw_len": 400
+  },
+  "NXHQAJ": {
+   "event_id": "OMEGA-000236",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 0,
+   "raw_len": 400
+  },
+  "AE7VUJ": {
+   "event_id": "OMEGA-000259",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1971_11_00_-_November-December_djvu.txt",
+   "lag": 0,
+   "raw_len": 647
+  },
+  "6ZRPV8": {
+   "event_id": "OMEGA-000259",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1971_11_00_-_November-December_djvu.txt",
+   "lag": 0,
+   "raw_len": 400
+  },
+  "FSPLH9": {
+   "event_id": "OMEGA-000259",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 0,
+   "raw_len": 400
+  },
+  "CE5UCJ": {
+   "event_id": "OMEGA-000265",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "IUR__Volume_3__number_4__April_1978_djvu.txt",
+   "lag": 29,
+   "raw_len": 653
+  },
+  "EWQHEB": {
+   "event_id": "OMEGA-000265",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "IUR__Volume_3__number_4__April_1978_djvu.txt",
+   "lag": 29,
+   "raw_len": 400
+  },
+  "AYLFMF": {
+   "event_id": "OMEGA-000265",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 29,
+   "raw_len": 400
+  },
+  "F85YRU": {
+   "event_id": "OMEGA-000270",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "IUR__Frontiers_of_Science_3_5__July_August_1981_djvu.txt",
+   "lag": 10,
+   "raw_len": 648
+  },
+  "HMTWRA": {
+   "event_id": "OMEGA-000270",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "IUR__Frontiers_of_Science_3_5__July_August_1981_djvu.txt",
+   "lag": 10,
+   "raw_len": 400
+  },
+  "PJNN5E": {
+   "event_id": "OMEGA-000270",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 10,
+   "raw_len": 400
+  },
+  "GPK238": {
+   "event_id": "OMEGA-000271",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1984_03_djvu.txt",
+   "lag": 38,
+   "raw_len": 657
+  },
+  "2KLYSJ": {
+   "event_id": "OMEGA-000271",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1984_03_djvu.txt",
+   "lag": 38,
+   "raw_len": 400
+  },
+  "DFPKT9": {
+   "event_id": "OMEGA-000271",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 38,
+   "raw_len": 400
+  },
+  "G4FMA4": {
+   "event_id": "OMEGA-000470",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1967_09_00_-_September-October_djvu.txt",
+   "lag": 1,
+   "raw_len": 647
+  },
+  "PVM25H": {
+   "event_id": "OMEGA-000470",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1967_09_00_-_September-October_djvu.txt",
+   "lag": 1,
+   "raw_len": 400
+  },
+  "ZPDXCY": {
+   "event_id": "OMEGA-000470",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 1,
+   "raw_len": 400
+  },
+  "9F3SKH": {
+   "event_id": "OMEGA-000484",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1994_01_djvu.txt",
+   "lag": 211,
+   "raw_len": 660
+  },
+  "YRS6JD": {
+   "event_id": "OMEGA-000484",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1994_01_djvu.txt",
+   "lag": 211,
+   "raw_len": 400
+  },
+  "RAP244": {
+   "event_id": "OMEGA-000484",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 211,
+   "raw_len": 400
+  },
+  "9P8Q5C": {
+   "event_id": "OMEGA-000486",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1977_01_00_-_Vol_25_No_7_djvu.txt",
+   "lag": 0,
+   "raw_len": 650
+  },
+  "5TS4BU": {
+   "event_id": "OMEGA-000486",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1977_01_00_-_Vol_25_No_7_djvu.txt",
+   "lag": 0,
+   "raw_len": 400
+  },
+  "D8CBEH": {
+   "event_id": "OMEGA-000486",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 0,
+   "raw_len": 400
+  },
+  "769XBQ": {
+   "event_id": "OMEGA-000494",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1981_07_00_-_Vol_29_No_7_djvu.txt",
+   "lag": 9,
+   "raw_len": 790
+  },
+  "7VAQUP": {
+   "event_id": "OMEGA-000494",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1981_07_00_-_Vol_29_No_7_djvu.txt",
+   "lag": 9,
+   "raw_len": 400
+  },
+  "NLZWZL": {
+   "event_id": "OMEGA-000494",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 9,
+   "raw_len": 400
+  },
+  "ZR2NLH": {
+   "event_id": "OMEGA-000822",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "IUR__IUR_Vol._28_No._4_Winter_2003-2004_djvu.txt",
+   "lag": 599,
+   "raw_len": 656
+  },
+  "ENE77V": {
+   "event_id": "OMEGA-000822",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "IUR__IUR_Vol._28_No._4_Winter_2003-2004_djvu.txt",
+   "lag": 599,
+   "raw_len": 400
+  },
+  "YZRGY8": {
+   "event_id": "OMEGA-000822",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 599,
+   "raw_len": 400
+  },
+  "L793KG": {
+   "event_id": "OMEGA-000846",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1954_11_15_-_Vol_3_No_3_djvu.txt",
+   "lag": 0,
+   "raw_len": 646
+  },
+  "PRJNP3": {
+   "event_id": "OMEGA-000846",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1954_11_15_-_Vol_3_No_3_djvu.txt",
+   "lag": 0,
+   "raw_len": 400
+  },
+  "AUJCX5": {
+   "event_id": "OMEGA-000846",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 0,
+   "raw_len": 400
+  },
+  "8NQF8H": {
+   "event_id": "OMEGA-000881",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1963_05_00_-_May_djvu.txt",
+   "lag": 8,
+   "raw_len": 1551
+  },
+  "AY3PTW": {
+   "event_id": "OMEGA-000881",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1963_05_00_-_May_djvu.txt",
+   "lag": 8,
+   "raw_len": 400
+  },
+  "7TQYNH": {
+   "event_id": "OMEGA-000881",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 8,
+   "raw_len": 400
+  },
+  "MD38Y9": {
+   "event_id": "OMEGA-000917",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "APRO__APRO_Bulletin_-_1969_09_00_-_September-October_djvu.txt",
+   "lag": 31,
+   "raw_len": 653
+  },
+  "EY7UKF": {
+   "event_id": "OMEGA-000917",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "APRO__APRO_Bulletin_-_1969_09_00_-_September-October_djvu.txt",
+   "lag": 31,
+   "raw_len": 400
+  },
+  "KAAK3M": {
+   "event_id": "OMEGA-000917",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 31,
+   "raw_len": 400
+  },
+  "F6S9BA": {
+   "event_id": "OMEGA-000929",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1992_08_djvu.txt",
+   "lag": 300,
+   "raw_len": 646
+  },
+  "4REC24": {
+   "event_id": "OMEGA-000929",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1992_08_djvu.txt",
+   "lag": 300,
+   "raw_len": 400
+  },
+  "GD54A2": {
+   "event_id": "OMEGA-000929",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 300,
+   "raw_len": 400
+  },
+  "SRG4SL": {
+   "event_id": "OMEGA-000968",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "MUFON__1976_03_djvu.txt",
+   "lag": 14,
+   "raw_len": 1856
+  },
+  "8QK4KY": {
+   "event_id": "OMEGA-000968",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "MUFON__1976_03_djvu.txt",
+   "lag": 14,
+   "raw_len": 400
+  },
+  "7WMHZF": {
+   "event_id": "OMEGA-000968",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 14,
+   "raw_len": 400
+  },
+  "WFSYXM": {
+   "event_id": "OMEGA-000970",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "MUFON__1976_02_djvu.txt",
+   "lag": 7,
+   "raw_len": 646
+  },
+  "WN2YSN": {
+   "event_id": "OMEGA-000970",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "MUFON__1976_02_djvu.txt",
+   "lag": 7,
+   "raw_len": 400
+  },
+  "Z8UKQF": {
+   "event_id": "OMEGA-000970",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 7,
+   "raw_len": 400
+  },
+  "5WQ99U": {
+   "event_id": "OMEGA-000989",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "MUFON__1980_11_djvu.txt",
+   "lag": 23,
+   "raw_len": 649
+  },
+  "5PCW94": {
+   "event_id": "OMEGA-000989",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "MUFON__1980_11_djvu.txt",
+   "lag": 23,
+   "raw_len": 400
+  },
+  "4GPLJX": {
+   "event_id": "OMEGA-000989",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 23,
+   "raw_len": 400
+  },
+  "HBU89D": {
+   "event_id": "OMEGA-001075",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "MUFON__1982_01_djvu.txt",
+   "lag": 17,
+   "raw_len": 651
+  },
+  "2EYY9S": {
+   "event_id": "OMEGA-001075",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "MUFON__1982_01_djvu.txt",
+   "lag": 17,
+   "raw_len": 400
+  },
+  "7K3CNR": {
+   "event_id": "OMEGA-001075",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 17,
+   "raw_len": 400
+  },
+  "GCKCNY": {
+   "event_id": "OMEGA-001477",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "APRO__APRO_Bulletin_-_1960_03_00_-_March_djvu.txt",
+   "lag": 30,
+   "raw_len": 647
+  },
+  "3GGMFZ": {
+   "event_id": "OMEGA-001477",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "APRO__APRO_Bulletin_-_1960_03_00_-_March_djvu.txt",
+   "lag": 30,
+   "raw_len": 400
+  },
+  "9KXTCW": {
+   "event_id": "OMEGA-001477",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 30,
+   "raw_len": 272
+  },
+  "SCKN6J": {
+   "event_id": "OMEGA-001513",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1962_11_01_-_November_djvu.txt",
+   "lag": 6,
+   "raw_len": 713
+  },
+  "N4UC9B": {
+   "event_id": "OMEGA-001513",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1962_11_01_-_November_djvu.txt",
+   "lag": 6,
+   "raw_len": 400
+  },
+  "2D7BQR": {
+   "event_id": "OMEGA-001513",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 6,
+   "raw_len": 400
+  },
+  "86SYUD": {
+   "event_id": "OMEGA-001520",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1964_03_00_-_March_djvu.txt",
+   "lag": 8,
+   "raw_len": 648
+  },
+  "QACBAK": {
+   "event_id": "OMEGA-001520",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1964_03_00_-_March_djvu.txt",
+   "lag": 8,
+   "raw_len": 400
+  },
+  "V464HF": {
+   "event_id": "OMEGA-001520",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 8,
+   "raw_len": 400
+  },
+  "5GYCUT": {
+   "event_id": "OMEGA-001524",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1964_01_00_-_January_djvu.txt",
+   "lag": 3,
+   "raw_len": 646
+  },
+  "MZRHB4": {
+   "event_id": "OMEGA-001524",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1964_01_00_-_January_djvu.txt",
+   "lag": 3,
+   "raw_len": 400
+  },
+  "SU3CTU": {
+   "event_id": "OMEGA-001524",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 3,
+   "raw_len": 400
+  },
+  "6DW4KW": {
+   "event_id": "OMEGA-001607",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "IUR__IUR_Vol._28_No._3_Fall_2003_djvu.txt",
+   "lag": 395,
+   "raw_len": 661
+  },
+  "B8WCA2": {
+   "event_id": "OMEGA-001607",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "IUR__IUR_Vol._28_No._3_Fall_2003_djvu.txt",
+   "lag": 395,
+   "raw_len": 400
+  },
+  "LHTFKG": {
+   "event_id": "OMEGA-001607",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 395,
+   "raw_len": 400
+  },
+  "DHPMQP": {
+   "event_id": "OMEGA-001611",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1992_06_djvu.txt",
+   "lag": 240,
+   "raw_len": 653
+  },
+  "KU3GM6": {
+   "event_id": "OMEGA-001611",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1992_06_djvu.txt",
+   "lag": 240,
+   "raw_len": 400
+  },
+  "8FJM5U": {
+   "event_id": "OMEGA-001611",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 240,
+   "raw_len": 400
+  },
+  "VBNFFC": {
+   "event_id": "OMEGA-001632",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1986_04_djvu.txt",
+   "lag": 140,
+   "raw_len": 1400
+  },
+  "N5T9ZP": {
+   "event_id": "OMEGA-001632",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1986_04_djvu.txt",
+   "lag": 140,
+   "raw_len": 400
+  },
+  "JJDHBL": {
+   "event_id": "OMEGA-001632",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 140,
+   "raw_len": 400
+  },
+  "8TZ7HQ": {
+   "event_id": "OMEGA-001636",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "MUFON__1975_12_djvu.txt",
+   "lag": 10,
+   "raw_len": 648
+  },
+  "8MUG8D": {
+   "event_id": "OMEGA-001636",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "MUFON__1975_12_djvu.txt",
+   "lag": 10,
+   "raw_len": 400
+  },
+  "X85S28": {
+   "event_id": "OMEGA-001636",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 10,
+   "raw_len": 400
+  },
+  "5XPE2K": {
+   "event_id": "OMEGA-001697",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1980_11_djvu.txt",
+   "lag": 26,
+   "raw_len": 656
+  },
+  "FWK8NR": {
+   "event_id": "OMEGA-001697",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1980_11_djvu.txt",
+   "lag": 26,
+   "raw_len": 400
+  },
+  "RK3ZU7": {
+   "event_id": "OMEGA-001697",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 26,
+   "raw_len": 400
+  },
+  "P2D4HS": {
+   "event_id": "OMEGA-001703",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "IUR__Volume_3__number_12__December_1978_djvu.txt",
+   "lag": 2,
+   "raw_len": 917
+  },
+  "KA26KK": {
+   "event_id": "OMEGA-001703",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "IUR__Volume_3__number_12__December_1978_djvu.txt",
+   "lag": 2,
+   "raw_len": 400
+  },
+  "8HXN93": {
+   "event_id": "OMEGA-001703",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 2,
+   "raw_len": 400
+  },
+  "DAC2RC": {
+   "event_id": "OMEGA-001739",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1999_09_djvu.txt",
+   "lag": 203,
+   "raw_len": 645
+  },
+  "FXQWGH": {
+   "event_id": "OMEGA-001739",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1999_09_djvu.txt",
+   "lag": 203,
+   "raw_len": 400
+  },
+  "8HYTEK": {
+   "event_id": "OMEGA-001739",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 203,
+   "raw_len": 400
+  },
+  "VW49Z8": {
+   "event_id": "OMEGA-001875",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__2000_01_djvu.txt",
+   "lag": 406,
+   "raw_len": 646
+  },
+  "JTPL67": {
+   "event_id": "OMEGA-001875",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__2000_01_djvu.txt",
+   "lag": 406,
+   "raw_len": 400
+  },
+  "ZYTFU5": {
+   "event_id": "OMEGA-001875",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 406,
+   "raw_len": 400
+  },
+  "9ZYDU9": {
+   "event_id": "OMEGA-001933",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "MUFON__1974_09_djvu.txt",
+   "lag": 4,
+   "raw_len": 647
+  },
+  "TBA92D": {
+   "event_id": "OMEGA-001933",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "MUFON__1974_09_djvu.txt",
+   "lag": 4,
+   "raw_len": 400
+  },
+  "KTQD87": {
+   "event_id": "OMEGA-001933",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 4,
+   "raw_len": 400
+  },
+  "AWSWUQ": {
+   "event_id": "OMEGA-001964",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "MUFON__1982_01_djvu.txt",
+   "lag": 7,
+   "raw_len": 694
+  },
+  "JSVEV9": {
+   "event_id": "OMEGA-001964",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "MUFON__1982_01_djvu.txt",
+   "lag": 7,
+   "raw_len": 400
+  },
+  "AE99LY": {
+   "event_id": "OMEGA-001964",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 7,
+   "raw_len": 281
+  },
+  "PJT6DE": {
+   "event_id": "OMEGA-002546",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1980_08_djvu.txt",
+   "lag": 145,
+   "raw_len": 646
+  },
+  "ST34UT": {
+   "event_id": "OMEGA-002546",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1980_08_djvu.txt",
+   "lag": 145,
+   "raw_len": 400
+  },
+  "TRAFJH": {
+   "event_id": "OMEGA-002546",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 145,
+   "raw_len": 400
+  },
+  "S2HNH4": {
+   "event_id": "OMEGA-002589",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "MUFON__1974_09_djvu.txt",
+   "lag": 10,
+   "raw_len": 649
+  },
+  "3PJBLN": {
+   "event_id": "OMEGA-002589",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "MUFON__1974_09_djvu.txt",
+   "lag": 10,
+   "raw_len": 400
+  },
+  "ZCN7QA": {
+   "event_id": "OMEGA-002589",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 10,
+   "raw_len": 400
+  },
+  "QFP8FL": {
+   "event_id": "OMEGA-002611",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "MUFON__1975_12_djvu.txt",
+   "lag": 7,
+   "raw_len": 647
+  },
+  "TL7QDH": {
+   "event_id": "OMEGA-002611",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "MUFON__1975_12_djvu.txt",
+   "lag": 7,
+   "raw_len": 400
+  },
+  "WG52QV": {
+   "event_id": "OMEGA-002611",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 7,
+   "raw_len": 342
+  },
+  "2ZKQC9": {
+   "event_id": "OMEGA-002767",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1989_12_djvu.txt",
+   "lag": 47,
+   "raw_len": 650
+  },
+  "PT7EET": {
+   "event_id": "OMEGA-002767",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1989_12_djvu.txt",
+   "lag": 47,
+   "raw_len": 400
+  },
+  "EFCKBD": {
+   "event_id": "OMEGA-002767",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 47,
+   "raw_len": 400
+  },
+  "254Y59": {
+   "event_id": "OMEGA-003285",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "MUFON__1974_03_djvu.txt",
+   "lag": 3,
+   "raw_len": 649
+  },
+  "2UZB8H": {
+   "event_id": "OMEGA-003285",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "MUFON__1974_03_djvu.txt",
+   "lag": 3,
+   "raw_len": 400
+  },
+  "87A99E": {
+   "event_id": "OMEGA-003285",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 3,
+   "raw_len": 274
+  },
+  "H4VB36": {
+   "event_id": "OMEGA-003376",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "APRO__APRO_Bulletin_-_1982_01_00_-_Vol_30_No_1_djvu.txt",
+   "lag": 55,
+   "raw_len": 649
+  },
+  "4JTSFJ": {
+   "event_id": "OMEGA-003376",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "APRO__APRO_Bulletin_-_1982_01_00_-_Vol_30_No_1_djvu.txt",
+   "lag": 55,
+   "raw_len": 400
+  },
+  "RUNAKQ": {
+   "event_id": "OMEGA-003376",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 55,
+   "raw_len": 400
+  },
+  "VWGF2P": {
+   "event_id": "OMEGA-003493",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "MUFON__1982_11_djvu.txt",
+   "lag": 5,
+   "raw_len": 1303
+  },
+  "YK3TZP": {
+   "event_id": "OMEGA-003493",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "MUFON__1982_11_djvu.txt",
+   "lag": 5,
+   "raw_len": 400
+  },
+  "SQBWYT": {
+   "event_id": "OMEGA-003493",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 5,
+   "raw_len": 183
+  },
+  "45NLHG": {
+   "event_id": "OMEGA-003507",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1986_05_djvu.txt",
+   "lag": 27,
+   "raw_len": 648
+  },
+  "SDTZDJ": {
+   "event_id": "OMEGA-003507",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1986_05_djvu.txt",
+   "lag": 27,
+   "raw_len": 400
+  },
+  "WKENK8": {
+   "event_id": "OMEGA-003507",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 27,
+   "raw_len": 247
+  },
+  "8G4V7Y": {
+   "event_id": "OMEGA-003919",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1989_05_djvu.txt",
+   "lag": 300,
+   "raw_len": 647
+  },
+  "YYUUZQ": {
+   "event_id": "OMEGA-003919",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1989_05_djvu.txt",
+   "lag": 300,
+   "raw_len": 400
+  },
+  "UKR3D3": {
+   "event_id": "OMEGA-003919",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 300,
+   "raw_len": 84
+  },
+  "VL9LBR": {
+   "event_id": "OMEGA-004495",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "APRO__APRO_Bulletin_-_1979_05_00_-_Vol_27_No_11_djvu.txt",
+   "lag": 234,
+   "raw_len": 645
+  },
+  "C86FJU": {
+   "event_id": "OMEGA-004495",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "APRO__APRO_Bulletin_-_1979_05_00_-_Vol_27_No_11_djvu.txt",
+   "lag": 234,
+   "raw_len": 400
+  },
+  "UUYSRP": {
+   "event_id": "OMEGA-004495",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 234,
+   "raw_len": 400
+  },
+  "QM7CSM": {
+   "event_id": "OMEGA-004699",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1980_10_djvu.txt",
+   "lag": 117,
+   "raw_len": 709
+  },
+  "L4H9BN": {
+   "event_id": "OMEGA-004699",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1980_10_djvu.txt",
+   "lag": 117,
+   "raw_len": 400
+  },
+  "RGCVMC": {
+   "event_id": "OMEGA-004699",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 117,
+   "raw_len": 400
+  },
+  "YUYDAB": {
+   "event_id": "OMEGA-004772",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "MUFON__1975_12_djvu.txt",
+   "lag": 1,
+   "raw_len": 647
+  },
+  "JVMQNR": {
+   "event_id": "OMEGA-004772",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "MUFON__1975_12_djvu.txt",
+   "lag": 1,
+   "raw_len": 400
+  },
+  "CUS3Z2": {
+   "event_id": "OMEGA-004772",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 1,
+   "raw_len": 400
+  },
+  "WRQEQT": {
+   "event_id": "OMEGA-004816",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "MUFON__1977_09_djvu.txt",
+   "lag": 7,
+   "raw_len": 880
+  },
+  "D3F7C9": {
+   "event_id": "OMEGA-004816",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "MUFON__1977_09_djvu.txt",
+   "lag": 7,
+   "raw_len": 400
+  },
+  "C3VLXM": {
+   "event_id": "OMEGA-004816",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 7,
+   "raw_len": 400
+  },
+  "FU6Y7W": {
+   "event_id": "OMEGA-004867",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1988_04_djvu.txt",
+   "lag": 120,
+   "raw_len": 651
+  },
+  "HRK57Z": {
+   "event_id": "OMEGA-004867",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1988_04_djvu.txt",
+   "lag": 120,
+   "raw_len": 400
+  },
+  "72LC3A": {
+   "event_id": "OMEGA-004867",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 120,
+   "raw_len": 400
+  },
+  "ZKL8E3": {
+   "event_id": "OMEGA-006798",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1996_10_djvu.txt",
+   "lag": 257,
+   "raw_len": 648
+  },
+  "FLD7Z2": {
+   "event_id": "OMEGA-006798",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1996_10_djvu.txt",
+   "lag": 257,
+   "raw_len": 400
+  },
+  "YCAZ48": {
+   "event_id": "OMEGA-006798",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 257,
+   "raw_len": 400
+  },
+  "V2A3DT": {
+   "event_id": "OMEGA-007289",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "MUFON__1989_11_djvu.txt",
+   "lag": 2,
+   "raw_len": 677
+  },
+  "ACWUDZ": {
+   "event_id": "OMEGA-007289",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "MUFON__1989_11_djvu.txt",
+   "lag": 2,
+   "raw_len": 400
+  },
+  "TY5DD3": {
+   "event_id": "OMEGA-007289",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 2,
+   "raw_len": 168
+  },
+  "8U6LFB": {
+   "event_id": "OMEGA-007418",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "MUFON__1993_01_djvu.txt",
+   "lag": 10,
+   "raw_len": 646
+  },
+  "9PVG77": {
+   "event_id": "OMEGA-007418",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "MUFON__1993_01_djvu.txt",
+   "lag": 10,
+   "raw_len": 400
+  },
+  "T99F6U": {
+   "event_id": "OMEGA-007418",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 10,
+   "raw_len": 82
+  },
+  "44QVLJ": {
+   "event_id": "OMEGA-016808",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1974_11_djvu.txt",
+   "lag": 232,
+   "raw_len": 648
+  },
+  "D8DU95": {
+   "event_id": "OMEGA-016808",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1974_11_djvu.txt",
+   "lag": 232,
+   "raw_len": 400
+  },
+  "KWTZQT": {
+   "event_id": "OMEGA-016808",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 232,
+   "raw_len": 100
+  },
+  "CFWEVW": {
+   "event_id": "OMEGA-018489",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "IUR__Frontiers_of_Science_3_4__May_June_1981_djvu.txt",
+   "lag": 187,
+   "raw_len": 646
+  },
+  "HLVYM3": {
+   "event_id": "OMEGA-018489",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "IUR__Frontiers_of_Science_3_4__May_June_1981_djvu.txt",
+   "lag": 187,
+   "raw_len": 400
+  },
+  "H8FLGQ": {
+   "event_id": "OMEGA-018489",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 187,
+   "raw_len": 92
+  },
+  "GE4BNR": {
+   "event_id": "OMEGA-018897",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1967_07_00_-_July-August_djvu.txt",
+   "lag": 0,
+   "raw_len": 646
+  },
+  "USPMLQ": {
+   "event_id": "OMEGA-018897",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1967_07_00_-_July-August_djvu.txt",
+   "lag": 0,
+   "raw_len": 400
+  },
+  "5PWFE2": {
+   "event_id": "OMEGA-018897",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 0,
+   "raw_len": 77
+  },
+  "WUQYKL": {
+   "event_id": "OMEGA-018946",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1967_09_00_-_September-October_djvu.txt",
+   "lag": 0,
+   "raw_len": 730
+  },
+  "7LE49S": {
+   "event_id": "OMEGA-018946",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1967_09_00_-_September-October_djvu.txt",
+   "lag": 0,
+   "raw_len": 400
+  },
+  "PBUJDX": {
+   "event_id": "OMEGA-018946",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 0,
+   "raw_len": 94
+  },
+  "VDHY6A": {
+   "event_id": "OMEGA-020132",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1990_03_djvu.txt",
+   "lag": 211,
+   "raw_len": 644
+  },
+  "53WP73": {
+   "event_id": "OMEGA-020132",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1990_03_djvu.txt",
+   "lag": 211,
+   "raw_len": 400
+  },
+  "MP9M63": {
+   "event_id": "OMEGA-020132",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 211,
+   "raw_len": 107
+  },
+  "7PJFXV": {
+   "event_id": "OMEGA-020145",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "APRO__APRO_Bulletin_-_1982_01_00_-_Vol_30_No_1_djvu.txt",
+   "lag": 112,
+   "raw_len": 656
+  },
+  "ZHQN2A": {
+   "event_id": "OMEGA-020145",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "APRO__APRO_Bulletin_-_1982_01_00_-_Vol_30_No_1_djvu.txt",
+   "lag": 112,
+   "raw_len": 400
+  },
+  "TZLFPZ": {
+   "event_id": "OMEGA-020145",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 112,
+   "raw_len": 66
+  },
+  "UUE6A2": {
+   "event_id": "OMEGA-020368",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1976_09_djvu.txt",
+   "lag": 38,
+   "raw_len": 649
+  },
+  "T3EVKS": {
+   "event_id": "OMEGA-020368",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1976_09_djvu.txt",
+   "lag": 38,
+   "raw_len": 400
+  },
+  "RUJ4G9": {
+   "event_id": "OMEGA-020368",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 38,
+   "raw_len": 103
+  },
+  "YNM2ZK": {
+   "event_id": "OMEGA-020645",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1979_01-02_djvu.txt",
+   "lag": 62,
+   "raw_len": 1291
+  },
+  "6DCH4H": {
+   "event_id": "OMEGA-020645",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1979_01-02_djvu.txt",
+   "lag": 62,
+   "raw_len": 400
+  },
+  "MUFC8W": {
+   "event_id": "OMEGA-020645",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 62,
+   "raw_len": 131
+  },
+  "VWNRJR": {
+   "event_id": "OMEGA-020721",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "MUFON__1975_02_djvu.txt",
+   "lag": 14,
+   "raw_len": 648
+  },
+  "PXW8MD": {
+   "event_id": "OMEGA-020721",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "MUFON__1975_02_djvu.txt",
+   "lag": 14,
+   "raw_len": 400
+  },
+  "M8XQPP": {
+   "event_id": "OMEGA-020721",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 14,
+   "raw_len": 89
+  },
+  "7MKP94": {
+   "event_id": "OMEGA-021736",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "MUFON__1977_09_djvu.txt",
+   "lag": 10,
+   "raw_len": 646
+  },
+  "F8DM8G": {
+   "event_id": "OMEGA-021736",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "MUFON__1977_09_djvu.txt",
+   "lag": 10,
+   "raw_len": 400
+  },
+  "BHKJNG": {
+   "event_id": "OMEGA-021736",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 10,
+   "raw_len": 86
+  },
+  "C87QCT": {
+   "event_id": "OMEGA-021887",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1990_07_djvu.txt",
+   "lag": 156,
+   "raw_len": 645
+  },
+  "RXESK8": {
+   "event_id": "OMEGA-021887",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1990_07_djvu.txt",
+   "lag": 156,
+   "raw_len": 400
+  },
+  "76G23E": {
+   "event_id": "OMEGA-021887",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 156,
+   "raw_len": 119
+  },
+  "UYM3FK": {
+   "event_id": "OMEGA-021960",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "MUFON__1978_07_djvu.txt",
+   "lag": 10,
+   "raw_len": 649
+  },
+  "XEEN7T": {
+   "event_id": "OMEGA-021960",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "MUFON__1978_07_djvu.txt",
+   "lag": 10,
+   "raw_len": 400
+  },
+  "92VPY2": {
+   "event_id": "OMEGA-021960",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 10,
+   "raw_len": 94
+  },
+  "HD24UL": {
+   "event_id": "OMEGA-022008",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1980_02_djvu.txt",
+   "lag": 27,
+   "raw_len": 649
+  },
+  "K3GR9E": {
+   "event_id": "OMEGA-022008",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1980_02_djvu.txt",
+   "lag": 27,
+   "raw_len": 400
+  },
+  "FGVPFZ": {
+   "event_id": "OMEGA-022008",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 27,
+   "raw_len": 142
+  },
+  "TSQ42M": {
+   "event_id": "OMEGA-022277",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "MUFON__1978_10_djvu.txt",
+   "lag": 0,
+   "raw_len": 1656
+  },
+  "VY5AU3": {
+   "event_id": "OMEGA-022277",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "MUFON__1978_10_djvu.txt",
+   "lag": 0,
+   "raw_len": 400
+  },
+  "GFY87T": {
+   "event_id": "OMEGA-022277",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 0,
+   "raw_len": 95
+  },
+  "TTLNJ7": {
+   "event_id": "OMEGA-022466",
+   "kind": "R",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1983_12_djvu.txt",
+   "lag": 56,
+   "raw_len": 647
+  },
+  "CA8U53": {
+   "event_id": "OMEGA-022466",
+   "kind": "R_SA1",
+   "cls": "LATE_ONLY",
+   "issue": "MUFON__1983_12_djvu.txt",
+   "lag": 56,
+   "raw_len": 400
+  },
+  "URRU2X": {
+   "event_id": "OMEGA-022466",
+   "kind": "C",
+   "cls": "LATE_ONLY",
+   "issue": null,
+   "lag": 56,
+   "raw_len": 101
+  },
+  "3N3LFY": {
+   "event_id": "OMEGA-022935",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1983_11_00_-_Vol_31_No_10_djvu.txt",
+   "lag": 12,
+   "raw_len": 648
+  },
+  "DGNAGH": {
+   "event_id": "OMEGA-022935",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1983_11_00_-_Vol_31_No_10_djvu.txt",
+   "lag": 12,
+   "raw_len": 400
+  },
+  "DNZASK": {
+   "event_id": "OMEGA-022935",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 12,
+   "raw_len": 124
+  },
+  "6BDXCU": {
+   "event_id": "OMEGA-022981",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1984_05_00_-_Vol_32_No_3_djvu.txt",
+   "lag": 9,
+   "raw_len": 649
+  },
+  "4PKQPA": {
+   "event_id": "OMEGA-022981",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "APRO__APRO_Bulletin_-_1984_05_00_-_Vol_32_No_3_djvu.txt",
+   "lag": 9,
+   "raw_len": 400
+  },
+  "DTX5W2": {
+   "event_id": "OMEGA-022981",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 9,
+   "raw_len": 89
+  },
+  "H6L5SM": {
+   "event_id": "OMEGA-023888",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "MUFON__1993_02_djvu.txt",
+   "lag": 20,
+   "raw_len": 651
+  },
+  "4B4NKJ": {
+   "event_id": "OMEGA-023888",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "MUFON__1993_02_djvu.txt",
+   "lag": 20,
+   "raw_len": 400
+  },
+  "96XZD5": {
+   "event_id": "OMEGA-023888",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 20,
+   "raw_len": 101
+  },
+  "EH73UV": {
+   "event_id": "OMEGA-024546",
+   "kind": "R",
+   "cls": "ROOTED",
+   "issue": "MUFON__1995_01_djvu.txt",
+   "lag": 8,
+   "raw_len": 646
+  },
+  "GESUVY": {
+   "event_id": "OMEGA-024546",
+   "kind": "R_SA1",
+   "cls": "ROOTED",
+   "issue": "MUFON__1995_01_djvu.txt",
+   "lag": 8,
+   "raw_len": 400
+  },
+  "CNLTXK": {
+   "event_id": "OMEGA-024546",
+   "kind": "C",
+   "cls": "ROOTED",
+   "issue": null,
+   "lag": 8,
+   "raw_len": 100
+  }
+ }
+}
