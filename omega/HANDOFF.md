@@ -15,6 +15,41 @@ seed-averaged values now, but if any figure disagrees, **§1.14 wins.**
 ---
 
 
+## SESSION 7 UPDATE, contact and power claims (thread 2yvtj4, 2026-11-27)
+
+Branch **`claude/project-thread-2yvtj4`**, built on session 6's tip `a33885b`. Default environment;
+scipy and networkx installed by hand with pip. Report: `omega/reports/contact_power_claims.md`
+(copy in project files at `omega/contact_power_claims.md`). Outputs and primary texts:
+`evidence_vault/12_CONTACT_POWER/` with `FETCH_MANIFEST.json` (SHA-1 per file). From the container
+only archive.org works (`/cors/<item>/<file>` and the advancedsearch API). govinfo, congress.gov,
+aaro.mil, cia.gov, fbi.gov and web.archive.org are blocked; the web-fetch tool can read govinfo
+transcripts, but not aaro.mil or man.fas.org.
+
+| task / claim | script | headline |
+|---|---|---|
+| 4.4 vocabulary lineage | `contact_terms.py` | first own-voice uses of the 2023 insider terms are all 2008–2010 AAWSAP/BAASS (D166–D169, D175, D128), then KONA BLUE 2011, then Grusch and the UAPDA 2023. 0 hits in the 223-doc CIA UFO collection |
+| C2/C3 own-voice claims | `contact_claims.py`, `contact_handcode.py` | 192 hits (about 185 passages), **0 own-voice** claims of contact or of NHI in power; 0 uncoded |
+| hearings 2023/2024/2025 | read verbatim in part | no sworn statement read says the government has contact or NHI hold power; programme claims are secondhand or unexplained in open session |
+| 4.2 STARGATE | `stargate_et.py` | 0 of 1,610 operational project records name an ET/UFO/Mars target; 21 of 22 such records are training (binomial tail 1.2e-20) |
+| 4.2 KONA BLUE | read | planned "Consciousness Center" (remote viewers and "communicators"); disapproved, $0, nothing transferred |
+| 4.2 contact signature | `contact_signature.py`, `contact_signature_annual.py` | 383 NUFORC places: 0 more regular than the national profile; 6 annual periods, all summer resorts and northern cities |
+| 4.3 power network | `power_network.py` | 32 orgs, 307 edges, 3 communities; no unexplained bridge (Blue Book highest betweenness); AAWSAP $8.827M + $9.436M, KONA BLUE $0 |
+| 4.4 codenames, embeddings | `terminology_mining.py` | 13 new cryptonyms, all CIA U-2/OXCART; alleged names 0 hits; "crash" means aircraft accidents in this corpus |
+| C6 Atomic Energy Act | read | Pantex 2015 record carries an AEA §148 UCNI marking and was released anyway; no RD/FRD/TFNI; no (b)(3) cites the AEA |
+
+**Corrections to the owner's "impossible" task list:** the "116 DIRECT" maintained-contact hits are
+FBI "Liaison" stamps and similar (123 of 129); KONA BLUE occurs 33 times in the 2024 AARO/DHS release;
+govinfo and congress.gov are blocked from the container.
+
+Still open: AARO *Historical Record Report Vol. I* unread (host refused). Hearing transcripts read
+only in part (see report §14). A Navy FOIA draft for the Wiggins ICC-1 recordings (15 Feb 2023, W-291)
+is proposed, not written. Two Mars coordinates from the 22 May 1984 session are unchecked. Re-run the
+lineage and hand-coding scripts on each new release. Do not commit the scratch law-review text
+`uapda2023.txt` (copyrighted article).
+
+---
+
+
 ## SESSION 6 UPDATE (2026-11-26) — read this first
 
 Branch **`claude/project-thread-41xagd`**, built on session 5's tip `2c859c0` with
